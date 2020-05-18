@@ -1,0 +1,77 @@
+I"�<p>Una opción al alcance de todos. Así siempre tendrás la oportunidad de disfrutar tu helado favorito en San Agustín.</p>
+
+<!-- excerpt -->
+
+<p>Solicita tu domicilio. También puedes hacer una reservación. Si la cumples puntual, recibe un descuento en tu compra:</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Domicilio</button> <button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Reservación</button></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Helado</em></td>
+      <td>Contiene una porción de helado. La cantidad dependerá del tamaño que compres: chiquito, mediano o el Grandote</td>
+    </tr>
+    <tr>
+      <td><em>Toppin</em></td>
+      <td>El chiquito y el mediano incluyen un solo toppin. El Grandote incluye 2</td>
+    </tr>
+    <tr>
+      <td><em>Salsa</em></td>
+      <td>La salsa también está incluida: leche condensada, chocolate, fresa, mora, maracuyá, entre otras</td>
+    </tr>
+    <tr>
+      <td><em>Adiciones</em></td>
+      <td>Puedes pedir más adiciones entre golosinas, frutas, etc. Cada una tiene un pequeño costo diferente</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img src="/img/vasito/vaso300a.jpg" alt="Vaso de Helado GurCoff" title="Vaso de helado GurCoff" /></p>
+
+<p><img src="/img/vasito/vaso300b.jpg" alt="Vaso de Helado GurCoff" title="Vaso de helado GurCoff" /></p>
+
+<p><img src="/img/vasito/vaso300c.jpg" alt="Vaso de Helado GurCoff" title="Vaso de helado GurCoff" /></p>
+
+<p><img src="/img/vasito/vaso300.jpg" alt="Vaso de Helado GurCoff" title="Vaso de helado GurCoff" /></p>
+
+<p>¿Quieres pedir uno? Recuerda que aplican <a href="">condiciones</a>.</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Domicilio</button> <button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Reservación</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-vaso-de-helado-gurcoff">¿Qué opinan en San Agustín del Vaso de Helado GurCoff?</h2>
+
+<h3 id="en-facebook">En Facebook:</h3>
+
+<blockquote>
+  <h3 id="will-burnell">Will Burnell</h3>
+</blockquote>
+
+<p>Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
+
+<h2 id="más-opiniones-en">Más opiniones en:</h2>
+
+<p><span class="icon-tripadvisor"></span> Visita <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">gurcoff-san-agustin</a></p>
+
+<p><span class="icon-map-marker"></span> Visita <a href="https://g.page/gurcoff/review?rc">GurCoff Mi Negocio</a></p>
+
+<h2 id="más-delicias-gurcoff-para-san-agustín-huila">Más delicias GurCoff para San Agustín Huila</h2>
+
+<div class="recomendaciones">
+  
+  <div>
+    <picture>
+      <source type="image/webp" srcset="/img/milkspecial/milkshake200p.webp" />
+      <img src="/img/milkspecial/milkshake200.png" alt="Milkshake especial GurCoff" />
+    </picture> 
+    <a href="/milkshakes/especial/">Milkshake especial GurCoff <p>$20000</p></a>
+  </div>
+  
+</div>
+:ET

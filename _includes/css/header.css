@@ -1,0 +1,53 @@
+/**** Header ****/
+
+header {
+  overflow: hidden;
+  position: relative;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  justify-content: center;
+  align-items: center;
+  background: rgb(177, 88, 232);
+  background: linear-gradient(180deg, rgba(177, 88, 232, 1) 45%, rgba(252, 250, 255, 1) 100%);
+  margin: 0;
+  padding: 0;
+  height: 50vh;
+}
+
+header h1 {
+  z-index: 22;
+  color: var(--blanco);
+  padding: 1em 0 0 1em;
+}
+
+header img {
+  max-width: 100%;
+}
+
+.logo {
+  position: absolute;
+  top: 0;
+  left: 0.5rem;
+  cursor: pointer;
+  font-family: var(--fuenteGraficas);
+  font-size: 2em;
+  color: var(--blanco);
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  max-width: 75px;
+}
+
+@media screen and (min-width: 768px) {
+  .logo {
+    left: 2em;
+    font-size: 3em;
+  }
+
+  header h1 {
+    font-size: 3em;
+    padding-left: 4em;
+  }
+}

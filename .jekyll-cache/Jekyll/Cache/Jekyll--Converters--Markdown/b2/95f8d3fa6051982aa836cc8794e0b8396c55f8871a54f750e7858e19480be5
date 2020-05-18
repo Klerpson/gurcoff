@@ -1,0 +1,83 @@
+I"�<p>Comer rico y saludable… esto es el waffle GurCoff. Se prepara con la mejor harina del mercado. Sabemos que no dejarás nada en este plato.</p>
+
+<!-- excerpt -->
+
+<p>Solicita tu domicilio. También puedes hacer una reservación. Si la cumples puntual, recibe un descuento en tu compra:</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Domicilio</button> <button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Reservación</button></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Frutas</em></td>
+      <td>Son cuatro tipos de frutas tropic0les diferentes. Tendrás una muy agradable combinación de texturas, sabores y contrastes</td>
+    </tr>
+    <tr>
+      <td><em>Helado</em></td>
+      <td>Contiene una porción del helado favorito de San Agustín Huila. Podrás escoger entre los sabores del día o combinarlos</td>
+    </tr>
+    <tr>
+      <td><em>Salsas</em></td>
+      <td>Utilizamos la leche condensad200 las frutas y el chocolate Hershey’s con el waffle</td>
+    </tr>
+    <tr>
+      <td><em>Waffle</em></td>
+      <td>Probamos 5 clases de harinas diferentes. Hicimos todo lo necesario por ofrecerte el mejor sabor de waffle</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img src="/img/waffle/waffle300a.jpg" alt="Waffle con Fruta GurCoff" title="Waffle con Fruta GurCoff" /></p>
+
+<p><img src="/img/waffle/waffle300b.jpg" alt="Waffle con Fruta GurCoff" title="Waffle con Fruta GurCoff" /></p>
+
+<p><img src="/img/waffle/waffle300.jpg" alt="Waffle con Fruta GurCoff" title="Waffle con Fruta GurCoff" /></p>
+
+<p>¿Quieres pedir uno? Recuerda que aplican <a href="">condiciones</a>.</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Domicilio</button> <button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Reservación</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-waffle-con-fruta-gurcoff">¿Qué opinan en San Agustín del Waffle con Fruta GurCoff?</h2>
+
+<h3 id="en-facebook">En Facebook:</h3>
+
+<blockquote>
+  <h3 id="will-burnell">Will Burnell</h3>
+</blockquote>
+
+<p>Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
+
+<h2 id="más-opiniones-en">Más opiniones en:</h2>
+
+<p><span class="icon-tripadvisor"></span> Visita <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">gurcoff-san-agustin</a></p>
+
+<p><span class="icon-map-marker"></span> Visita <a href="https://g.page/gurcoff/review?rc">GurCoff Mi Negocio</a></p>
+
+<h2 id="más-delicias-gurcoff-para-san-agustín-huila">Más delicias GurCoff para San Agustín Huila</h2>
+
+<div class="recomendaciones">
+  
+  <div>
+    <picture>
+      <source type="image/webp" srcset="/img/vasito/vasito350.webp" />
+      <img src="/img/vasito/vasito350.png" alt="Vaso de helado GurCoff" />
+    </picture> 
+    <a href="/vasos/vasitos/">Vaso de Helado GurCoff <p>$3000-6000</p></a>
+  </div>
+  
+  <div>
+    <picture>
+      <source type="image/webp" srcset="/img/oreo/oreo200.webp" />
+      <img src="/img/oreo/oreo200.jpg" alt="Copa con galleta óreo y doble porción de Helado GurCoff" />
+    </picture> 
+    <a href="/copas/oreo/">Copa Óreo GurCoff <p>$9000</p></a>
+  </div>
+  
+</div>
+:ET

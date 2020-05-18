@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<header class="producto-header">
+  {% include logo.html %}
+  <h1 class="wow slideInRight">
+    {{ page.title }}
+  </h1>
+  <picture class="producto-img">
+    <source media="(min-width: 576px)" type="image/webp" srcset="{{ site.baseurl}}/{{ page.webpng2 }}">
+    <source media="(min-width: 576px)" srcset="{{ site.baseurl}}/{{ page.png2 }}">
+    <source media="(min-width: 326px)" type="image/webp" srcset="{{ site.baseurl}}/{{ page.webpng1 }}">
+    <source media="(min-width: 326px)" srcset="{{ site.baseurl}}/{{ page.png1 }}">
+    <source media="(max-width: 325px)" type="image/webp" srcset="{{ site.baseurl}}/{{ page.webpng }}">
+    <img src="{{ site.baseurl}}/{{ page.png }}" alt="{{ page.alt }}">
+  </picture>
+  <p>${{ page.precio }}</p>
+</header>
+<main class="producto-main">
+  {{ content }}
+</main>
+

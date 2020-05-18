@@ -1,0 +1,55 @@
+main.contacto {
+  position: relative;
+}
+
+figure.img-contacto-1,
+figure.img-contacto-2 {
+  margin: 3em auto;
+}
+
+.instagram span,
+.instagram a {
+  color: var(--principal);
+}
+
+.instagram{
+  font-size: 1.2em;
+  font-family: var(--fuenteTitulos);
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.contacto q {
+  font-family: var(--fuenteTitulos);
+}
+
+.contactos a,
+.redes a {
+  color: var(--principal);
+}
+@media screen and (min-width: 768px) {
+
+  figure.img-contacto-1 {
+    position: relative;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+    float: right;
+  }
+
+  figure.img-contacto-2 {
+    position: relative;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+    float: left;
+  }
+
+  figure.img-contacto-1,
+  figure.img-contacto-2 {
+    margin: 3em;
+  }
+}

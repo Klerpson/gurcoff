@@ -1,0 +1,41 @@
+---
+layout: buscador
+title: La Carta de tu Heladería GurCoff
+description: Busca cuál helado te gustaría pedir en San Agustín Huila
+published: false
+---
+{% include header.html %}
+
+{% include redes.html %}
+<section id="search-container">
+  <h3>Encuentra lo que estás buscando:</h3>
+  <input type="text" id="search-input" placeholder="Busca aquí...">
+  <ul id="results-container"></ul>
+</section>
+
+<section>
+    {% for category in site.categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <h3 class="carta-h3" id="{{ category_name}}"> {{ category_name }}</h3>
+      <div class="carta">
+        {% for post in site.categories[category_name] %}
+        <article>
+          <picture class="foto">
+            <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
+            <img src="{{ site.baseurl }}/{{ post.src }}" class="wow flipInY" data-wow-delay="0.7s"
+              alt="{{ galeria.alt }}">
+          </picture>
+          <h4><span class="icon-{{ post.icon }}"></span> {{post.title}}</h4>
+          {{post.excerpt}}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="icon-chevron-circle-right"> Ver más</a>
+        </article>
+        {% endfor %}
+      </div>
+    {% endfor %}
+</section>
+
+<section class="carta-footer">
+  <h2> Heladería GurCoff </h2>
+  <p>Encuentra más información sobre nuestra casita en San Agustín, Huila. Visita nuestra sección de contacto:</p>
+  {% include boton.html path="/contacto" texto="Conoce a GurCoff" %}
+</section>

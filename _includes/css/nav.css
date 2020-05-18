@@ -1,0 +1,23 @@
+nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: var(--secundario);
+  z-index: 10;
+}
+
+nav ul {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0;
+}
+
+nav li a {color: var(--blanco);}
+
+nav li a>span {display: none;}
+
+@media screen and (min-width: 768px) {
+  nav li a>span {display: inline;}
+}

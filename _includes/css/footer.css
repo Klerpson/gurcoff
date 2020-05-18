@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: var(--secundario);
+  padding: 0.5em 2em;
+  margin-bottom: 3em;
+}
+
+.footer .julian{
+  color: var(--amarillo);
+  text-decoration: underline;
+  font-family: var(--fuenteGraficas);
+}
+
+.footer h4, .footer p {
+  color: #fff;
+}

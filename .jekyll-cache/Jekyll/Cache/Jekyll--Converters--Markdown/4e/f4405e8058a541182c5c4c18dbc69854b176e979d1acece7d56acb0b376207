@@ -1,0 +1,87 @@
+I"W<p>Este es el postre que necesitas para tener una conversación muy agradable, un ratico dulce, suave, con buena compañía.</p>
+
+<!-- excerpt -->
+
+<p>Solicita tu domicilio. También puedes hacer una reservación. Si la cumples puntual, recibe un descuento en tu compra:</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Domicilio</button> <button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Reservación</button></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Brownie</em></td>
+      <td>Producto traído desde el Valle del Cauca, especial para calentar. Contiene galletas, chocolate blanco, sobre un denso y suave brownie de chocolate</td>
+    </tr>
+    <tr>
+      <td><em>Helado</em></td>
+      <td>Contiene una porción del helado favorito de San Agustín Huila. Tu escoges el sabor de la temporada que desees agregar</td>
+    </tr>
+    <tr>
+      <td><em>Maní</em></td>
+      <td>Maní triturado saladito, que equilibra los sabores de tu postre</td>
+    </tr>
+    <tr>
+      <td><em>Cereza</em></td>
+      <td>Un toque dulce especial para tu brownie</td>
+    </tr>
+    <tr>
+      <td><em>Hershey</em>’s</td>
+      <td>Deliciosa salsa de chocolate que baña tu helado Gurcoff</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img src="/img/brownie/brownie300.jpg" alt="Brownie Caliente GurCoff" title="Brownie Caliente GurCoff" /></p>
+
+<p><img src="/img/brownie/brownie300a.jpg" alt="Brownie Caliente GurCoff" title="Brownie Caliente GurCoff" /></p>
+
+<p>¿Quieres pedir uno? Recuerda que aplican <a href="">condiciones</a>.</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Domicilio</button> <button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Reservación</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-brownie-caliente-gurcoff">¿Qué opinan en San Agustín del Brownie Caliente GurCoff?</h2>
+
+<h3 id="en-tripadvisor">En TripAdvisor:</h3>
+
+<p>Gerard P escribió una opinión el 19 de octubre de 2019</p>
+
+<blockquote>
+  <h3 id="amo-los-helados-que-hacen">Amo los helados que hacen!!!</h3>
+</blockquote>
+
+<p>Descubri esta heladeria, y quede echizado para siempre con esos deliciosos Brownies con helado de yougurt que preparan!!! Delicioso todo lo que tienen en la carta, y ademas la ubicacion en via hacia el parque arqueologico es excelente!!!!</p>
+
+<h2 id="más-opiniones-en">Más opiniones en:</h2>
+
+<p><span class="icon-tripadvisor"></span> Visita <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">gurcoff-san-agustin</a></p>
+
+<p><span class="icon-map-marker"></span> Visita <a href="https://g.page/gurcoff/review?rc">GurCoff Mi Negocio</a></p>
+
+<h2 id="más-delicias-gurcoff-para-san-agustín-huila">Más delicias GurCoff para San Agustín Huila</h2>
+
+<div class="recomendaciones">
+  
+  <div>
+    <picture>
+      <source type="image/webp" srcset="/img/cafegurcoff/affogato200.webp" />
+      <img src="/img/cafegurcoff/affogato200.png" alt="Café con Helado GurCoff" />
+    </picture> 
+    <a href="/caf%C3%A9s/affogato-gurcoff/">Café con Helado Affogato GurCoff <p>$5000</p></a>
+  </div>
+  
+  <div>
+    <picture>
+      <source type="image/webp" srcset="/img/brownie/brownie200.webp" />
+      <img src="/img/brownie/brownie200.png" alt="Brownie Caliente GurCoff" />
+    </picture> 
+    <a href="/postres/brownie/">Brownie Caliente GurCoff <p>$6900</p></a>
+  </div>
+  
+</div>
+:ET

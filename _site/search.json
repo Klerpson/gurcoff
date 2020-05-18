@@ -1,0 +1,84 @@
+[
+  
+    {
+
+      "title"    : "Tu negocio puede sobrevivir",
+      "url"      : "/tu-negocio-puede-sobrevivir/",
+      "category" : "",
+      "tags"     : "negocio, san_agustin, crisis, magazine, blog"
+
+    } ,
+  
+    {
+
+      "title"    : "Café con Helado Affogato GurCoff",
+      "url"      : "/caf%C3%A9s/affogato-gurcoff/",
+      "category" : "Cafés",
+      "tags"     : "Café, Caliente"
+
+    } ,
+  
+    {
+
+      "title"    : "Vaso de Helado GurCoff",
+      "url"      : "/vasos/vasitos/",
+      "category" : "Vasos",
+      "tags"     : "Vasos, Dulce, Fruta"
+
+    } ,
+  
+    {
+
+      "title"    : "Waffle con Fruta GurCoff",
+      "url"      : "/postres/waffle/",
+      "category" : "Postres",
+      "tags"     : "Postres, Fruta"
+
+    } ,
+  
+    {
+
+      "title"    : "Brownie Caliente GurCoff",
+      "url"      : "/postres/brownie/",
+      "category" : "Postres",
+      "tags"     : "Postres, Caliente, Chocolate"
+
+    } ,
+  
+    {
+
+      "title"    : "Milkshake especial GurCoff",
+      "url"      : "/milkshakes/especial/",
+      "category" : "Milkshakes",
+      "tags"     : "Malteadas, Milkshakes"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa Óreo GurCoff",
+      "url"      : "/copas/oreo/",
+      "category" : "Copas",
+      "tags"     : "Copas, Dulce, Chocolate"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa Ácida GurCoff",
+      "url"      : "/copas/acida/",
+      "category" : "Copas",
+      "tags"     : "Copas, Fruta, Acida"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa Achocolatada GurCoff",
+      "url"      : "/copas/achocolatada/",
+      "category" : "Copas",
+      "tags"     : "Copas, Chocolate"
+
+    } 
+  
+]

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+  <meta itemprop="description"
+    content="{% if page.description %}{{ page.description }}{% else %}{{ site.name }}{% endif %}" />
+  <meta name="keywords"
+    content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.name }} - {{ page.title }}{% endif %}" />
+  <meta name="language" content="es-CO" />
+  <meta name="country" content="COL" />
+  <meta name="theme-color" content="#007440" />
+  <meta name="generator" content="Jekyll 3.8.0" />
+  <meta name="author" content="https://klerpson.github.io/julianfran/" />
+  <meta name="copyright" content="Julian Franco" />
+  <meta name="owner" content="Julian Andres Franco Bedoya" />
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/img/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/img/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}/img/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl }}/img/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}/img/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl }}/img/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/img/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}/img/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/img/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl }}/img/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl }}/img/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl }}/js/manifest.json">
+  <meta name="msapplication-TileColor" content="#007440">
+  <meta name="msapplication-TileImage" content="{{ site.baseurl }}/img/favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#007440">
+  <!-- Fin Favicon -->
+  
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/fonts/styles.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/animate.css">
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Gotu&family=Montserrat:wght@400;800&display=swap" rel="stylesheet">
+
+  <script src="{{ site.baseurl }}/js/wow.min.js"></script>
+  <script>
+    new WOW().init();
+  </script>
+
+  <!-- Facebook Pixel Code -->
+
+  <!-- End Facebook Pixel Code -->
+</head>

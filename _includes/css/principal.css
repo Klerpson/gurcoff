@@ -1,0 +1,82 @@
+.categorias {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+  grid-gap: 1em;
+  align-items: center;
+  justify-content: center;
+}
+
+.categorias div{
+  background-color: #f6eeff;
+  padding: 1em 1.2em;
+  text-align: center;
+  border-radius: 0.7em;
+  box-shadow: -15px -15px 15px rgba(255, 255, 255, 0),
+  15px 15px 15px rgba(0, 0, 0, 0),
+  inset 4px 4px 5px rgba(255, 255, 255, 0.8),
+  inset -4px -4px 5px rgba(0, 0, 0, 0.05),
+  0 50px 40px rgba(0, 0, 0, 0.05);
+}
+
+.categorias div:nth-child(1) a{
+  color: var(--principal);
+}
+
+.categorias div:nth-child(2) a{
+  color: var(--accion);
+}
+
+.categorias div:nth-child(3) a{
+  color: var(--complemento);
+}
+
+.categorias div:nth-child(4) a{
+  color: var(--amarillo);
+}
+
+.categorias div:nth-child(5) a{
+  color: var(--secundario);
+}
+
+.categorias a {
+  font-weight: 800;
+}
+
+.galeria {
+  display: grid;
+  grid-gap: 1em;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.galeria article {
+  position: relative;
+  margin: 2em 0;
+  
+}
+
+.galeria h3 span {
+  color: var(--secundario);
+}
+
+.foto img {
+  max-width: 100%;
+  box-shadow: -15px -15px 15px rgba(255, 255, 255, 0),
+  15px 15px 15px rgba(0, 0, 0, 0),
+  inset 4px 4px 5px rgba(255, 255, 255, 0.8),
+  inset -4px -4px 5px rgba(0, 0, 0, 0.05),
+  0 50px 40px rgba(0, 0, 0, 0.05);
+}
+
+@media screen and (min-width: 592px) {}
+
+@media screen and (min-width: 768px) {
+  .galeria {
+    grid-gap: 2em;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .galeria {
+    grid-gap: 3em;
+  }
+}

@@ -1,0 +1,33 @@
+---
+---
+{% include css/variables.css %}
+
+{% include css/fontastic.css %}
+
+{% include css/universales.css %}
+
+{% include css/compartidos.css %}
+
+{% include css/nav.css %}
+
+{% include css/header.css %}
+
+{% include css/principal.css %}
+
+{% include css/separador.css %}
+
+{% include css/boton.css %}
+
+{% include css/publicidad.css %}
+
+{% include css/footer.css %}
+
+{% include css/contacto.css %}
+
+{% include css/articulo.css %}
+
+{% include css/categorias.css %}
+
+{% include css/share.css %}
+
+{% include css/slider.css %}

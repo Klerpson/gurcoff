@@ -1,0 +1,29 @@
+---
+layout: default
+title: Heladería GurCoff de San Agustín Huila
+description: Heladería de San Agustín Huila especializada en recetas para helado suave.
+hero: img/hero/oreo200.png
+herow: img/hero/oreo200.webp
+---
+{% include header.html %}
+
+<section>
+  <h2>¿Qué postre de San Agustín te gustaría probar hoy?</h2>
+  <div class="categorias">
+    {% for category in site.categories %}
+    <div class="wow lightSpeedIn" data-wow-delay="0.7s">
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <a href="{{ site.baseurl }}/carta/#{{ category_name }}">{{ category_name }}</a>
+    </div>
+    {% endfor %} 
+  </div>
+</section>
+
+{% include principal.html %}
+
+<hr class="separador">
+{% include blog.html limite="3" %}
+
+
+
+{% include footer.html %}

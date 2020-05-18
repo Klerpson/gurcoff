@@ -1,0 +1,9 @@
+- class: f
+  href: facebook
+  iclass: icon-facebook
+  span: facebook
+
+- class: i
+  href: instagram
+  iclass: icon-instagram
+  span: Instagram

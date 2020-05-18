@@ -1,0 +1,51 @@
+ .publicidad {
+   position: relative;
+   display: grid;
+   grid-template-columns: 1fr 2fr;
+   align-items: center;
+   background-color: var(--verde);
+   margin: 2em 0;
+   padding: 1em;
+   border-radius: 0;
+ }
+
+ .publicidad button {
+   margin: 0;
+   grid-column: span 2;
+ }
+
+ .publicidad picture img {
+   max-height: 150px;
+   grid-row: span 2;
+ }
+
+ .publicidad p {
+   color: var(--blanco);
+   font-size: 2em;
+   font-family: var(--fuenteGraficas);
+ }
+
+ @media only screen and (min-width: 576px) {
+
+   .publicidad {
+     float: right;
+     max-width: 35vw;
+     border-radius: 7px 0 0 7px;
+     margin-left: 2em;
+   }
+
+ }
+
+ @media screen and (min-width: 1200px) {
+   .publicidad {
+     max-width: 25vw;
+   }
+ }
+
+ @media screen and (min-width: 1400px) {
+  .publicidad {
+    max-width: 20vw;
+  }
+}
+
+ 

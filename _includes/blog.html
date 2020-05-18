@@ -1,0 +1,23 @@
+<section>
+  <h2>Lo nuevo de San Agustín:</h2>
+  <div class="nuevo">
+      {% for post in site.posts %}
+      {% if post.nuevo == 'si' %}
+      <h3>{{post.title}}</h3>
+        <article>
+          <picture class="foto">
+            <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
+            <img src="{{ site.baseurl }}/{{ post.src }}" class="wow flipInY" data-wow-delay="0.5s" alt="{{ post.alt }}">
+          </picture>
+          <h3>
+            {{ post.name }}
+          </h3>
+
+          <p>{{ post.excerpt }}</p>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="icon-chevron-circle-right"> Ver más</a>
+        </article>
+      {% endif %}
+      {% endfor %}
+  </div>
+  {% include boton.html path="magazine/" texto="Visita el blog" %}
+</section>
