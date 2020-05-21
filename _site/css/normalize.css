@@ -9,7 +9,7 @@
  */
 
 html {
-  line-height: 1.25; /* 1 */
+  line-height: 1.5; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
@@ -354,4 +354,8 @@ template {
 
 [hidden] {
   display: none;
+}
+
+p {
+  margin-bottom: 2.5em;
 }

@@ -30,6 +30,7 @@ figure.img-contacto-2 {
 .redes a {
   color: var(--principal);
 }
+
 @media screen and (min-width: 768px) {
 
   figure.img-contacto-1 {

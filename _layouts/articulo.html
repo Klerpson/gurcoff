@@ -2,19 +2,13 @@
 layout: default
 ---
 {% include header.html %}
-<section>
-  <picture class="foto">
-    <source media="(min-width: 450px)" type="image/webp" srcset="{{ site.baseurl }}/{{ page.webp1 }}">
-    <source media="(min-width: 450px)" srcset="{{ site.baseurl }}/{{ page.src1 }}">
-    <source type="image/webp" srcset="{{ site.baseurl }}/{{ page.webp }}">
-    <img src="{{ site.baseurl }}/{{ page.src }}" class="wow flipInY" data-wow-delay="0.7s" alt="{{ page.alt }}">
-  </picture>
 
 </section>
 
 <main class="articulo">
   {{ content }}
 </main>
+
 {% include publicidad.html %}
 
 {% include share.html %}

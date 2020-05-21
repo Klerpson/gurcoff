@@ -1,1 +1,10 @@
 /***** Artículos *******/
+@media screen and (min-width: 768px) {
+.articulo img {
+      position: relative;
+      overflow: hidden;
+      width: 300px;
+      float: right;
+      margin-left: 2em;
+    }
+}

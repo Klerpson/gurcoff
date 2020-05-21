@@ -452,7 +452,7 @@ button {
 
   section,
   main {
-    margin: 7em 12em;
+    margin: 9em 12em;
   }
 }
 
@@ -460,7 +460,7 @@ button {
 
   section,
   main {
-    margin: 9em 18em;
+    margin: 9em 24em;
   }
 }
 
@@ -945,6 +945,7 @@ figure.img-contacto-2 {
 .redes a {
   color: var(--principal);
 }
+
 @media screen and (min-width: 768px) {
 
   figure.img-contacto-1 {
@@ -970,7 +971,15 @@ figure.img-contacto-2 {
 }
 
 /***** Artículos *******/
-
+@media screen and (min-width: 768px) {
+.articulo img {
+      position: relative;
+      overflow: hidden;
+      width: 300px;
+      float: right;
+      margin-left: 2em;
+    }
+}
 
 .carta {
   display: grid;
