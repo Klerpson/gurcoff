@@ -60,11 +60,11 @@
 
 .foto img {
   max-width: 100%;
-  box-shadow: -15px -15px 15px rgba(255, 255, 255, 0),
+  /* box-shadow: -15px -15px 15px rgba(255, 255, 255, 0),
   15px 15px 15px rgba(0, 0, 0, 0),
   inset 4px 4px 5px rgba(255, 255, 255, 0.8),
   inset -4px -4px 5px rgba(0, 0, 0, 0.05),
-  0 50px 40px rgba(0, 0, 0, 0.05);
+  0 50px 40px rgba(0, 0, 0, 0.05); */
 }
 
 @media screen and (min-width: 592px) {}

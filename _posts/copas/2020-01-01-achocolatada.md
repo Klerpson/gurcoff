@@ -7,8 +7,8 @@ tags: [Copas, Chocolate]
 category: Copas
 precio: 9000
 principal: si
-src: img/achocolatada/achocolatada210.jpg
-webp: img/achocolatada/achocolatada210.webp
+src: img/achocolatada/choco.jpg
+webp: img/achocolatada/choco.webp
 png: img/achocolatada/choco200.png
 webpng: img/achocolatada/choco200.webp
 png1: img/achocolatada/choco350.png

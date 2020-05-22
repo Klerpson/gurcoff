@@ -4,19 +4,10 @@
   border-radius: 15px;
 }
 
-.foto img,
-.categorias div {
-  box-shadow: 2px 3px 12px rgba(0, 0, 0, 0.2);
-}
-
 header h1,
 .logo {
   text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.3);
 }
 
 @media only screen and (min-width: 992px) {
-
-  .foto img {
-    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.3);
-  }
 }

@@ -5,8 +5,8 @@ description: Algunos métodos que te pueden ayudar a salvar tu negocio ante la c
 keywords: covid-19, crisis, negocios en crisis, salvar negocio
 tags: [negocio, san_agustin, crisis, magazine, blog]
 nuevo: si
-src: img/magazine/2020-05-09/art-2020-05-09.jpg
-webp: img/magazine/2020-05-09/art-2020-05-09.webp
+src: img/magazine/2020-05-09/san-agustin.jpg
+webp: img/magazine/2020-05-09/san-agustin.webp
 alt: Calle 5 de San Agustín solitaria
 publicidad1: img/publicidad/colagenoNol.png
 publicidad1webp: img/publicidad/colagenoNol.webp
@@ -55,7 +55,7 @@ Sin embargo, comprendí que yo ya tenía un gran proyecto en mano: mi heladería
 
 Y aquí te comparto otra perla importante: **a veces los cambios no son tan grandes, pero funcionan muy bien**.
 
-Por ejemplo, me enfoqué en dar más atención a las redes sociales del negocio. Aprendí a hacer contenido de calidad. Si revisas nuestras primeras publicaciones, notarás la diferencia (puedes visitarlas en [instagram]({{site.instagram}}) y en [facebook]({{site.facebook}})).
+Por ejemplo, me enfoqué en dar más atención a las redes sociales del negocio. Aprendí a hacer contenido de calidad. Si revisas nuestras primeras publicaciones, notarás la diferencia (**aquí están los botones a la derecha de tu pantalla**).
 
 ## La clave de los malos tiempos
 
@@ -83,7 +83,7 @@ Si aprovechas bien tu capital que tienes en tus poseciones, ayudarás a tu negoc
 
 En conclusión, **haciendo muchas cosas diferente a como estabas acostumbrado**, podrás ver cambios:
 
-  1. Capacítate más.
+  1. Capacítate más. Te prometí páginas para capacitarte, ¿recuerdas? Aquí están: [Google Activate](https://learndigital.withgoogle.com/activate), [Facebook Blueprint](https://www.facebook.com/business/learn), y el patrón de los tutoriales, [YouTube](https://www.youtube.com/results?search_query=tutoriales+de+marketing+digital).
 
   2. Haz cambios en tu forma de trabajar.
 
@@ -93,4 +93,6 @@ En conclusión, **haciendo muchas cosas diferente a como estabas acostumbrado**,
 
 Al final, **gracias a tus esfuerzos, diferentes a lo que ya hacías antes**, tu negocio podrá pasar el mal momento. Y después de hacer tus cambios, hasta puede que logres empezar un negocio diferente, o que encuentras otra manera de sostener tu familia. *Eso también es lograr la meta*. Esto también es un cambio.
 
-Recuerda dejar tus comentarios en nuestros perfiles de redes sociales. Saludos desde tu heladería GurCoff, la heladería que lleva alegría a las familias en las tarde San Agustín.
+Recuerda dejar tus comentarios en nuestros perfiles de redes sociales (**recuerda los botones a la derecha de tu pantalla**). También puedes compartir este artículo en los botones que encuentras abajo.
+
+Saludos desde tu heladería GurCoff, la heladería que lleva alegría a las familias en las tarde San Agustín.
