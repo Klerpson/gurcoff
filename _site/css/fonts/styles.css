@@ -44,17 +44,8 @@
 .icon-phone:before {
   content: "\62";
 }
-.icon-instagram:before {
-  content: "\63";
-}
 .icon-youtube:before {
   content: "\64";
-}
-.icon-check:before {
-  content: "\69";
-}
-.icon-star:before {
-  content: "\73";
 }
 .icon-home:before {
   content: "\6c";
@@ -80,14 +71,8 @@
 .icon-gift:before {
   content: "\52";
 }
-.icon-heart:before {
-  content: "\53";
-}
 .icon-language:before {
   content: "\56";
-}
-.icon-map:before {
-  content: "\57";
 }
 .icon-qr:before {
   content: "\34";
@@ -124,24 +109,6 @@
 }
 .icon-bus:before {
   content: "\79";
-}
-.icon-card:before {
-  content: "\71";
-}
-.icon-diners:before {
-  content: "\41";
-}
-.icon-mastercard:before {
-  content: "\43";
-}
-.icon-paypal:before {
-  content: "\44";
-}
-.icon-visa:before {
-  content: "\2c";
-}
-.icon-chevron-circle-right:before {
-  content: "\7a";
 }
 .icon-chevron-circle-up:before {
   content: "\2d";
@@ -182,9 +149,6 @@
 .icon-map-signs:before {
   content: "\3d";
 }
-.icon-music:before {
-  content: "\3f";
-}
 .icon-paw:before {
   content: "\40";
 }
@@ -224,36 +188,54 @@
 .icon-wrench:before {
   content: "\28";
 }
-.icon-cher:before {
-  content: "\2b";
-}
-.icon-cocktail:before {
-  content: "\6e";
-}
-.icon-paleta:before {
-  content: "\5b";
-}
-.icon-perro:before {
-  content: "\5d";
-}
-.icon-cubiertos:before {
-  content: "\5e";
-}
-.icon-iphone:before {
-  content: "\5f";
-}
 .icon-tumblr:before {
   content: "\60";
 }
-.icon-pastilla:before {
-  content: "\7b";
-}
-.icon-maquina-cocer:before {
-  content: "\7c";
-}
-.icon-lapicero:before {
-  content: "\7d";
-}
 .icon-search:before {
   content: "\66";
+}
+.icon-asterisk:before {
+  content: "\67";
+}
+.icon-bell:before {
+  content: "\68";
+}
+.icon-bullhorn:before {
+  content: "\6a";
+}
+.icon-chevron-circle-right:before {
+  content: "\6d";
+}
+.icon-copyright:before {
+  content: "\6f";
+}
+.icon-heart-1:before {
+  content: "\71";
+}
+.icon-instagram-1:before {
+  content: "\77";
+}
+.icon-hand-o-right:before {
+  content: "\7a";
+}
+.icon-hand-o-down:before {
+  content: "\41";
+}
+.icon-map:before {
+  content: "\42";
+}
+.icon-thumbs-o-up:before {
+  content: "\43";
+}
+.icon-angellist:before {
+  content: "\44";
+}
+.icon-check-square:before {
+  content: "\47";
+}
+.icon-receipt-shopping-streamline:before {
+  content: "\63";
+}
+.icon-home-1:before {
+  content: "\69";
 }

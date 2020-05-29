@@ -81,6 +81,8 @@ En la medida de lo posible, **no te endeudes**. Mira en tu casa:
 
 Si aprovechas bien tu capital que tienes en tus poseciones, ayudarás a tu negocio a salir a flote. Así más adelante podrás estrenar nuevamente.
 
+## Todos en San Agustín podemos sobrevivir la crisis
+
 En conclusión, **haciendo muchas cosas diferente a como estabas acostumbrado**, podrás ver cambios:
 
   1. Capacítate más. Te prometí páginas para capacitarte, ¿recuerdas? Aquí están: [Google Activate](https://learndigital.withgoogle.com/activate), [Facebook Blueprint](https://www.facebook.com/business/learn), y el patrón de los tutoriales, [YouTube](https://www.youtube.com/results?search_query=tutoriales+de+marketing+digital).

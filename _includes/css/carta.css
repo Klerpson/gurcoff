@@ -1,0 +1,49 @@
+.carta {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.carta h3 {
+  font-size: 2em;
+  margin: 2em 0 ;
+  color: var(--principal);
+}
+
+.categoria {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(1fr, auto));
+  grid-gap: 1em;
+}
+
+.categoria article {
+  display: grid;
+  padding: 1em;
+  grid-gap: 1em;
+  align-items: center;
+  grid-template-columns: 150px 1fr;
+  grid-template-rows: auto auto auto;
+  grid-template-areas: 
+  "a b"
+  "a c"
+  "a d";
+}
+
+.categoria article picture {
+  grid-area: a;
+}
+
+.categoria article h4 {
+  grid-area: b;
+  margin: 0;
+}
+
+.categoria article p {
+  grid-area: c;
+  margin: 0;
+  font-size: 0.8em;
+}
+
+.categoria article a {
+  grid-area: d;
+  justify-self: right;
+}

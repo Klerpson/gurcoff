@@ -4,7 +4,11 @@ main.contacto {
 
 figure.img-contacto-1,
 figure.img-contacto-2 {
-  margin: 3em auto;
+  margin: 2em auto;
+}
+
+.contacto figcaption {
+  font-size: 0.8em;
 }
 
 .instagram span,
@@ -26,9 +30,15 @@ figure.img-contacto-2 {
   font-family: var(--fuenteTitulos);
 }
 
-.contactos a,
-.redes a {
-  color: var(--principal);
+.contacto-footer h3 {color: var(--principal);}
+
+.contacto-footer li {
+  line-height: 1.7em;
+}
+
+.contacto-footer a {
+  color: var(--secundario);
+
 }
 
 @media screen and (min-width: 768px) {

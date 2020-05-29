@@ -11,10 +11,10 @@
   
     {
 
-      "title"    : "Café con Helado Affogato GurCoff",
-      "url"      : "/caf%C3%A9s/affogato-gurcoff/",
-      "category" : "Cafés",
-      "tags"     : "Café, Caliente"
+      "title"    : "Café Orgánico con Helado GurCoff",
+      "url"      : "/cafes/affogato-gurcoff/",
+      "category" : "Cafes",
+      "tags"     : "Cafe, Caliente"
 
     } ,
   
@@ -47,7 +47,7 @@
   
     {
 
-      "title"    : "Milkshake especial GurCoff",
+      "title"    : "Milkshake Especial GurCoff",
       "url"      : "/milkshakes/especial/",
       "category" : "Milkshakes",
       "tags"     : "Malteadas, Milkshakes"

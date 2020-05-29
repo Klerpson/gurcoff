@@ -1,0 +1,89 @@
+I"�<p>Comer rico y saludable… esto es el waffle GurCoff. Se prepara con la mejor harina del mercado. Sabemos que no dejarás nada en este plato.</p>
+
+<!-- excerpt -->
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<!-- Swiper -->
+<section class="swiper">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/waffle/waffle1.webp" />
+          <img src="/img/waffle/waffle1.jpg" alt="Waffle y Fruta con Helado GurCoff de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/waffle/waffle2.webp" />
+          <img src="/img/waffle/waffle2.jpg" alt="Waffle y Fruta con Helado GurCoff de San Agustín Huila" />
+        </picture>
+      </div><div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/waffle/waffle3.webp" />
+          <img src="/img/waffle/waffle3.jpg" alt="Waffle y Fruta con Helado GurCoff de San Agustín Huila" />
+        </picture>
+      </div><div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/waffle/waffle4.webp" />
+          <img src="/img/waffle/waffle4.jpg" alt="Waffle y Fruta con Helado GurCoff de San Agustín Huila" />
+        </picture>
+      </div>
+    </div>
+  </div>
+</section>
+
+<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Frutas</em></td>
+      <td>Son cuatro tipos de frutas tropic0les diferentes. Tendrás una muy agradable combinación de texturas, sabores y contrastes</td>
+    </tr>
+    <tr>
+      <td><em>Helado</em></td>
+      <td>Contiene una porción del helado favorito de San Agustín Huila. Podrás escoger entre los sabores del día o combinarlos</td>
+    </tr>
+    <tr>
+      <td><em>Salsas</em></td>
+      <td>Utilizamos la leche condensad200 las frutas y el chocolate Hershey’s con el waffle</td>
+    </tr>
+    <tr>
+      <td><em>Waffle</em></td>
+      <td>Probamos 5 clases de harinas diferentes. Hicimos todo lo necesario por ofrecerte el mejor sabor de waffle</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Su valor es de <strong>$10500</strong>. ¿Quieres pedir uno? Recuerda que aplican <a href="#condiciones">condiciones</a>.</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-waffle-con-fruta-gurcoff">Qué opinan en San Agustín del Waffle con Fruta GurCoff</h2>
+
+<blockquote>
+  <p><strong>En Facebook <a href="https://facebook.com/gurcoff/">@GurCoff</a> - Will Burnell:</strong> Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
+</blockquote>
+
+<h3 id="deja-tu-opinión-también-en-tripadvisor-o-google-business">Deja tu opinión también en <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">TripAdvisor</a> o <a href="https://g.page/gurcoff/review?rc">Google Business</a></h3>
+
+<h3 id="condiciones">Condiciones</h3>
+
+<div id="condiciones">
+
+  <ul>
+  <li class="icon-check"> Tu domicilio será gratis después de $7000.</li>
+
+  <li class="icon-check"> El domicilio gratis aplica a la zona urbana de San Agustín.</li>
+
+  <li class="icon-check"> Las zonas rurales solo se atenderán según la disponibilidad de tiempo. En ocasiones hay mucho trabajo en la zona urbana y no alcanzamos a salir a la zona rural.</li>
+  </ul>
+
+</div>
+:ET

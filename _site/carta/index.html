@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
   <title>La Carta de tu Heladería GurCoff</title>
@@ -38,17 +38,21 @@
   <meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#c13ff5">
   <!-- Fin Favicon -->
-  
+
   <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/swiper.min.css">
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/fonts/styles.css">
   <link rel="stylesheet" href="/css/animate.css">
-  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Gotu&family=Montserrat:wght@400;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/fonts/styles.css">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Gotu&family=Montserrat:wght@400;800&display=swap"
+    rel="stylesheet">
 
   <script src="/js/wow.min.js"></script>
   <script>
     new WOW().init();
   </script>
+  
 
   <!-- Facebook Pixel Code -->
 
@@ -60,8 +64,8 @@
   <nav class="wow fadeInUp data-wow-delay='1s'">
   <ul>
     <li><a href="/" class="icon-home"><span> Inicio</span></a></li>
-    <li><a href="https://wa.me/c/573115245225" class="icon-search"><span> Carta</span></a></li>
-    <li><a href="/contacto" class="icon-smile"><span> GurCoff</span></a></li>
+    <li><a href="/carta" class="icon-receipt-shopping-streamline"><span> Carta</span></a></li>
+    <li><a href="/contacto" class="icon-angellist"><span> GurCoff</span></a></li>
     <li><a href="/magazine" class="icon-coffee wow lightSpeedOut" data-wow-delay='0.7s' data-wow-iteration="5"><span> ¡Lo último!</span></a></li>
     <li><a href="#" class="icon-chevron-circle-up"><span> Arriba</span></a></li>
   </ul>
@@ -79,15 +83,15 @@
   <ul class="sticky">
       <li class="wow fadeInRight">
           <img src="/img/face.png" width="32" height="32">
-          <p><a href="https://www.facebook.com/programacionnet" target="_blank" >Síguenos en<br>Facebook</a></p>
+          <p><a href="https://facebook.com/gurcoff/" target="_blank" >Síguenos en<br>Facebook</a></p>
       </li>
       <li class="wow fadeInRight">
           <img src="/img/whatsapp.png" width="32" height="32">
-          <p><a href="https://plus.google.com/programacionnet" target="_blank">Escríbenos por<br>WhatsApp</a></p>
+          <p><a href="https://wa.me/573115245225" target="_blank">Escríbenos por<br>WhatsApp</a></p>
       </li>
       <li class="wow fadeInRight">
           <img src="/img/instagram.png" width="32" height="32">
-          <p><a href="http://www.youtube.com/programacionnet" target="_blank">Síguenos en<br>Instagram</a></p>
+          <p><a href="https://instagram.com/gurcoff/" target="_blank">Síguenos en<br>Instagram</a></p>
       </li>
   </ul>
 </div>
@@ -97,17 +101,16 @@
   <ul id="results-container"></ul>
 </section>
 
-<section>
+<main class="carta">
     
       
-      <h3 class="carta-h3" id="Copas"> Copas</h3>
-      <div class="carta">
+      <h3 id="Copas"> Copas</h3>
+      <div class="categoria">
         
-        <article>
+        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
           <picture class="foto">
-            <source type="image/webp" srcset="/">
-            <img src="/" class="wow flipInY" data-wow-delay="0.7s"
-              alt="">
+            <source type="image/webp" srcset="/img/oreo/oreo1.webp">
+            <img src="/img/oreo/oreo1.jpg" alt="">
           </picture>
           <h4><span class="icon-"></span> Copa Óreo GurCoff</h4>
           <p>La galleta óreo combina muy bien con los helados. Y con nuestro helado, lo hace mucho mejor.</p>
@@ -116,24 +119,22 @@
           <a href="/copas/oreo/" class="icon-chevron-circle-right"> Ver más</a>
         </article>
         
-        <article>
+        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
           <picture class="foto">
-            <source type="image/webp" srcset="/img/acida/acida2.webp">
-            <img src="/img/acida/acida200.jpg" class="wow flipInY" data-wow-delay="0.7s"
-              alt="">
+            <source type="image/webp" srcset="/img/acida/acida4.webp">
+            <img src="/img/acida/acida4.jpg" alt="">
           </picture>
           <h4><span class="icon-"></span> Copa Ácida GurCoff</h4>
-          <p>Esta es la combinación que más gusta a nuestros clientes: <strong>el sabor del helado suave con el ácido de la fruta tropical</strong>.</p>
+          <p>Esta es una combinación fascinante: <strong>el sabor del helado suave con el ácido de la fruta tropical</strong>.</p>
 
 
           <a href="/copas/acida/" class="icon-chevron-circle-right"> Ver más</a>
         </article>
         
-        <article>
+        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
           <picture class="foto">
-            <source type="image/webp" srcset="/img/achocolatada/choco.webp">
-            <img src="/img/achocolatada/choco.jpg" class="wow flipInY" data-wow-delay="0.7s"
-              alt="">
+            <source type="image/webp" srcset="/img/achocolatada/choco4.webp">
+            <img src="/img/achocolatada/choco4.jpg" alt="">
           </picture>
           <h4><span class="icon-"></span> Copa Achocolatada GurCoff</h4>
           <p>Los que amamos el chocolate, encontramos un tesoro delicioso en esta copa.</p>
@@ -145,17 +146,16 @@
       </div>
     
       
-      <h3 class="carta-h3" id="Milkshakes"> Milkshakes</h3>
-      <div class="carta">
+      <h3 id="Milkshakes"> Milkshakes</h3>
+      <div class="categoria">
         
-        <article>
+        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
           <picture class="foto">
-            <source type="image/webp" srcset="/img/milkspecial/milkshake200.webp">
-            <img src="/img/milkspecial/milkshake200.jpg" class="wow flipInY" data-wow-delay="0.7s"
-              alt="">
+            <source type="image/webp" srcset="/img/milkspecial/milkshake1.webp">
+            <img src="/img/milkspecial/milkshake1.jpg" alt="">
           </picture>
-          <h4><span class="icon-"></span> Milkshake especial GurCoff</h4>
-          <p>Es una montaña deliciosa: equilibrio de sabores dulces y salados, texturas crocantes y suaves, con temperaturas frías y calienticas. <strong>Es realmente un milkshake especial</strong>.</p>
+          <h4><span class="icon-"></span> Milkshake Especial GurCoff</h4>
+          <p>Una montaña de sabores dulces y salados, texturas crocantes y suaves, temperaturas frías y calienticas. <strong>Es realmente el Especial</strong>.</p>
 
 
           <a href="/milkshakes/especial/" class="icon-chevron-circle-right"> Ver más</a>
@@ -164,27 +164,25 @@
       </div>
     
       
-      <h3 class="carta-h3" id="Postres"> Postres</h3>
-      <div class="carta">
+      <h3 id="Postres"> Postres</h3>
+      <div class="categoria">
         
-        <article>
+        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
           <picture class="foto">
-            <source type="image/webp" srcset="/">
-            <img src="/img/waffle/waffle210.jpg" class="wow flipInY" data-wow-delay="0.7s"
-              alt="">
+            <source type="image/webp" srcset="/img/waffle/waffle4.webp">
+            <img src="/img/waffle/waffle4.jpg" alt="">
           </picture>
           <h4><span class="icon-"></span> Waffle con Fruta GurCoff</h4>
-          <p>Comer rico y saludable… esto es el waffle GurCoff. Se prepara con la mejor harina del mercado. Sabemos que no dejarás nada en este plato.</p>
+          <p>Comer rico y saludable… esto es el <strong>Waffle con Fruta GurCoff</strong>. Se prepara con la mejor harina del mercado.</p>
 
 
           <a href="/postres/waffle/" class="icon-chevron-circle-right"> Ver más</a>
         </article>
         
-        <article>
+        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
           <picture class="foto">
-            <source type="image/webp" srcset="/img/brownie/brownie210.webp">
-            <img src="/img/brownie/brownie210.jpg" class="wow flipInY" data-wow-delay="0.7s"
-              alt="">
+            <source type="image/webp" srcset="/img/brownie/brownie5.webp">
+            <img src="/img/brownie/brownie5.png" alt="">
           </picture>
           <h4><span class="icon-"></span> Brownie Caliente GurCoff</h4>
           <p>Este es el postre que necesitas para tener una conversación muy agradable, un ratico dulce, suave, con buena compañía.</p>
@@ -196,17 +194,16 @@
       </div>
     
       
-      <h3 class="carta-h3" id="Vasos"> Vasos</h3>
-      <div class="carta">
+      <h3 id="Vasos"> Vasos</h3>
+      <div class="categoria">
         
-        <article>
+        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
           <picture class="foto">
-            <source type="image/webp" srcset="/">
-            <img src="/" class="wow flipInY" data-wow-delay="0.7s"
-              alt="">
+            <source type="image/webp" srcset="/img/vasito/vasito1.webp">
+            <img src="/img/vasito/vasito1.png" alt="">
           </picture>
           <h4><span class="icon-"></span> Vaso de Helado GurCoff</h4>
-          <p>Una opción al alcance de todos. Así siempre tendrás la oportunidad de disfrutar tu helado favorito en San Agustín.</p>
+          <p>Una opción al alcance de todos. Así todos podemos disfrutar el helado favorito de San Agustín Huila.</p>
 
 
           <a href="/vasos/vasitos/" class="icon-chevron-circle-right"> Ver más</a>
@@ -215,25 +212,24 @@
       </div>
     
       
-      <h3 class="carta-h3" id="Cafés"> Cafés</h3>
-      <div class="carta">
+      <h3 id="Cafes"> Cafes</h3>
+      <div class="categoria">
         
-        <article>
+        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
           <picture class="foto">
-            <source type="image/webp" srcset="/img/cafegurcoff/cafegurcoff210.webp">
-            <img src="/img/cafegurcoff/cafegurcoff210.png" class="wow flipInY" data-wow-delay="0.7s"
-              alt="">
+            <source type="image/webp" srcset="/img/cafegurcoff/cafe.webp">
+            <img src="/img/cafegurcoff/cafe.png" alt="">
           </picture>
-          <h4><span class="icon-"></span> Café con Helado Affogato GurCoff</h4>
-          <p>¿Te gusta la suavidad del capuchino? <strong>Este es mucho mejor</strong>. Y cuando tenemos el sabor de chocolate suizo en la heladería, podrás probar el mejor affogato mocachino. ¡Es espectacular!</p>
+          <h4><span class="icon-"></span> Café Orgánico con Helado GurCoff</h4>
+          <p>¿Te gusta el capuchino? <strong>Este es mucho mejor</strong>. Y con helado de Chocolate Suizo, ¡es espectacular!</p>
 
 
-          <a href="/caf%C3%A9s/affogato-gurcoff/" class="icon-chevron-circle-right"> Ver más</a>
+          <a href="/cafes/affogato-gurcoff/" class="icon-chevron-circle-right"> Ver más</a>
         </article>
         
       </div>
     
-</section>
+</main>
 
 <section class="carta-footer">
   <h2> Heladería GurCoff </h2>

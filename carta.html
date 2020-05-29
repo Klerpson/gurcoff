@@ -12,17 +12,16 @@ description: Busca cuál helado te gustaría pedir en San Agustín Huila
   <ul id="results-container"></ul>
 </section>
 
-<section>
+<main class="carta">
     {% for category in site.categories %}
       {% capture category_name %}{{ category | first }}{% endcapture %}
-      <h3 class="carta-h3" id="{{ category_name}}"> {{ category_name }}</h3>
-      <div class="carta">
+      <h3 id="{{ category_name}}"> {{ category_name }}</h3>
+      <div class="categoria">
         {% for post in site.categories[category_name] %}
-        <article>
+        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
           <picture class="foto">
             <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
-            <img src="{{ site.baseurl }}/{{ post.src }}" class="wow flipInY" data-wow-delay="0.7s"
-              alt="{{ galeria.alt }}">
+            <img src="{{ site.baseurl }}/{{ post.src }}" alt="{{ galeria.alt }}">
           </picture>
           <h4><span class="icon-{{ post.icon }}"></span> {{post.title}}</h4>
           {{post.excerpt}}
@@ -31,7 +30,7 @@ description: Busca cuál helado te gustaría pedir en San Agustín Huila
         {% endfor %}
       </div>
     {% endfor %}
-</section>
+</main>
 
 <section class="carta-footer">
   <h2> Heladería GurCoff </h2>

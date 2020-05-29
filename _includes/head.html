@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
@@ -38,17 +38,21 @@
   <meta name="msapplication-TileImage" content="{{ site.baseurl }}/img/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#c13ff5">
   <!-- Fin Favicon -->
-  
+
   <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/swiper.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/fonts/styles.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/animate.css">
-  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Gotu&family=Montserrat:wght@400;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/fonts/styles.css">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Gotu&family=Montserrat:wght@400;800&display=swap"
+    rel="stylesheet">
 
   <script src="{{ site.baseurl }}/js/wow.min.js"></script>
   <script>
     new WOW().init();
   </script>
+  
 
   <!-- Facebook Pixel Code -->
 

@@ -1,17 +1,16 @@
 /**** Header ****/
 
 header {
-  overflow: hidden;
   position: relative;
   display: grid;
   grid-template-columns: 2fr 1fr;
   justify-content: center;
   align-items: center;
   background: rgb(177, 88, 232);
-  background: linear-gradient(180deg, rgba(177, 88, 232, 1) 45%, rgba(252, 250, 255, 1) 100%);
   margin: 0;
   padding: 0;
   height: 50vh;
+  overflow-y: hidden;
 }
 
 header h1 {
@@ -20,8 +19,11 @@ header h1 {
   padding: 1em 0 0 1em;
 }
 
-header img {
-  max-width: 100%;
+header picture img {
+  position: absolute;
+  top: 0;
+  left: 40%;
+  z-index: 20;
 }
 
 .logo {
@@ -48,6 +50,33 @@ header img {
 
   header h1 {
     font-size: 3em;
-    padding-left: 4em;
+  }
+
+}
+
+@media only screen and (min-width: 576px) {
+
+  header {
+    padding: 0 6em;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+
+  header{
+    padding: 0 12em;
+  }
+
+
+  header picture img {
+    left: 60%;
+   }
+
+}
+
+@media only screen and (min-width: 1400px) {
+
+  header {
+    padding: 0 24em;
   }
 }

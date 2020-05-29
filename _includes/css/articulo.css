@@ -1,6 +1,36 @@
 /***** Artículos *******/
+.magazine article {
+  margin: 3em 0;
+  display: grid;
+  grid-template-columns: minmax(200px, 1fr);
+  grid-gap: 0.5em;
+  padding: 1em;
+  align-items: center;
+}
+
+.magazine article h3,
+.magazine article p,
+.magazine article a {
+  margin: 0;
+}
+
 .articulo a {
   color: var(--secundario);
+}
+
+.articulo p {
+  position: relative;
+}
+
+.articulo li {
+  margin-bottom: 1em;
+}
+
+.articulo table {
+  margin-bottom: 3em;
+}
+.articulo table td {
+  padding: 0.5em;
 }
 
 @media screen and (min-width: 768px) {

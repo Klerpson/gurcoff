@@ -6,9 +6,9 @@
     <img src="{{ site.baseurl }}/{{ galeria.src }}" class="wow flipInY"  data-wow-delay="0.7s" alt="{{ galeria.alt }}">
   </picture>
     <h3>
-      {{ galeria.title }} <span>${{ galeria.precio }}</span>
+      {{ galeria.title }} - <span>${{ galeria.precio }}</span>
     </h3>
-    <a href="https://api.whatsapp.com/send?phone=573115245225&text=%F0%9F%98%84%20Hola!%20Me%20encant%C3%B3%20este%20producto%20que%20ofreces%20en%20la%20pagina%20web:%20{{galeria.title}}%20%F0%9F%98%8B%F0%9F%A4%A9.%20%C2%BFTienen%20domicilios?" class="icon-chevron-circle-right"> Pídelo a domicilio</a>
+    <a href="{{galeria.url}}" class="icon-chevron-circle-right"> Mirar más</a>
 </article>
 {% endif %}
 {% endfor %}

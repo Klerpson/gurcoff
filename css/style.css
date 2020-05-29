@@ -2,8 +2,6 @@
 ---
 {% include css/variables.css %}
 
-{% include css/fontastic.css %}
-
 {% include css/universales.css %}
 
 {% include css/compartidos.css %}
@@ -22,11 +20,13 @@
 
 {% include css/footer.css %}
 
+{% include css/carta.css %}
+
 {% include css/contacto.css %}
 
 {% include css/articulo.css %}
 
-{% include css/categorias.css %}
+{% include css/swiper.css %}
 
 {% include css/share.css %}
 

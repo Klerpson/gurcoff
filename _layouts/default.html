@@ -11,8 +11,6 @@
 
   {% include redes.html %}
 
-  {% include chatbot.html %}
- 
 
 </body>
 
@@ -34,6 +32,29 @@
   for (var i = 0; i < bubblyButtons.length; i++) {
     bubblyButtons[i].addEventListener('click', animateButton, false);
   }
+</script>
+
+<!-- Initialize Swiper -->
+<script src="{{ site.baseurl }}/js/swiper.min.js"></script>
+<script>
+  var swiper = new Swiper('.swiper-container', {
+    effect: 'coverflow',
+    grabCursor: true,
+    centeredSlides: true,
+    slidesPerView: 'auto',
+    coverflowEffect: {
+      rotate: 20,
+      stretch: 0,
+      depth: 200,
+      modifier: 1,
+      slideShadows : true,
+    },
+    loop: true,
+    autoplay: {
+      delay: 500,
+      disableOnInteraction: false,
+    },
+  });
 </script>
 
 
