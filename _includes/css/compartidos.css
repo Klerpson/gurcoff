@@ -9,15 +9,17 @@ header h1,
   text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.3);
 }
 
-.categorias div,
-.categoria article,
-.magazine article {
-  border-radius: 0.7em;
-  box-shadow: -15px -15px 15px rgba(255, 255, 255, 0),
-    15px 15px 15px rgba(0, 0, 0, 0),
-    inset 4px 4px 5px rgba(255, 255, 255, 0.8),
-    inset -4px -4px 5px rgba(0, 0, 0, 0.05),
-    0 50px 40px rgba(0, 0, 0, 0.05);
+.foto img {
+  box-shadow: 0 7px 21px rgba(0, 0, 0, 0.3);
 }
 
-@media only screen and (min-width: 992px) {}
+.bubbly-button,
+.categorias div,
+.categoria article {
+  border-radius: 0.7em;
+  box-shadow: -15px -15px 15px rgba(255, 255, 255, 0),
+  15px 15px 15px rgba(0, 0, 0, 0),
+  inset 4px 4px 5px rgba(255, 255, 255, 0.8),
+  inset -4px -4px 5px rgba(0, 0, 0, 0.05),
+  0 50px 40px rgba(0, 0, 0, 0.05);
+}

@@ -18,3 +18,7 @@
   background-color: #fff;
   -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #0006);
 }
+
+.swiper-slide img {
+  max-width: 100%;
+}

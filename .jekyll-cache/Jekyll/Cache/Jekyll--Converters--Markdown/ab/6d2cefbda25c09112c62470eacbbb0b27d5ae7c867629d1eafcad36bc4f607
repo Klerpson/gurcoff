@@ -1,4 +1,4 @@
-I"�<p>Te comparto lo que hemos hecho para <strong>ayudar a nuestro negocio a sobrevivir</strong> la crisis económica.</p>
+I"<p>Te comparto lo que hemos hecho para <strong>ayudar a nuestro negocio a sobrevivir</strong> la crisis económica.</p>
 
 <!-- excerpt -->
 
@@ -73,6 +73,19 @@
     <p>¿Cuántos televisores hay en tu casa?</p>
   </li>
 </ul>
+
+<section class="publicidad">
+  <figure>
+  <picture>
+    <source type="image/webp" srcset="/img/publicidad/colageno.webp" />
+    <img src="/img/publicidad/colageno.png" alt="" />
+  </picture>
+</figure>
+<figcaption>
+  <h3>Natural One Life</h3>
+  <a href="" class="icon-chevron-circle-right"> Contactar</a>
+</figcaption>
+</section>
 
 <p>¿Entiendes el punto? <em>Son tiempos difíciles. Así mismo deben vivirse.</em> No que te arruines, no digo eso. Pero si tienes tu capital en casa, en tus cosas, tus pertenencias, ¿por qué endeudarte para dejar tu negocio a un banco o algo parecido?</p>
 

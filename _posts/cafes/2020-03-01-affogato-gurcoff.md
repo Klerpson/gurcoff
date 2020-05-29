@@ -5,7 +5,7 @@ description: Café orgánico expreso con Helado de Vainilla en su interior.
 keywords: café con helado, café y helado, postre de café, affogato
 principal: si
 tags: [Cafe, Caliente]
-category: Cafes
+category: Cafés
 precio: 5000
 src: img/cafegurcoff/cafe.png
 webp: img/cafegurcoff/cafe.webp

@@ -8,9 +8,10 @@ nuevo: si
 src: img/magazine/2020-05-09/san-agustin.jpg
 webp: img/magazine/2020-05-09/san-agustin.webp
 alt: Calle 5 de San Agustín solitaria
-publicidad1: img/publicidad/colagenoNol.png
-publicidad1webp: img/publicidad/colagenoNol.webp
-alt: Milkshake de GurCoff San Agustín Huila
+p1: img/publicidad/colageno.png
+p1w: img/publicidad/colageno.webp
+purl1: https://wa.me/573218301698?text=%F0%9F%98%84%20Hola!%20%F0%9F%98%8D%20V%C3%AD%20en%20gurcoff%20web%20este%20producto:%20Colageno.%20Me%20encantar%C3%ADa%20pedirlo%20%F0%9F%98%8B
+altp: Colágeno de Natural One Life
 excerpt_separator: <!-- excerpt -->
 ---
 Te comparto lo que hemos hecho para **ayudar a nuestro negocio a sobrevivir** la crisis económica.
@@ -76,6 +77,8 @@ En la medida de lo posible, **no te endeudes**. Mira en tu casa:
 - ¿Tiene tu familia dos, tres o más vehículos, sean carros o motos?
 
 - ¿Cuántos televisores hay en tu casa?
+
+{% include publicidad1.html %}
 
 ¿Entiendes el punto? *Son tiempos difíciles. Así mismo deben vivirse.* No que te arruines, no digo eso. Pero si tienes tu capital en casa, en tus cosas, tus pertenencias, ¿por qué endeudarte para dejar tu negocio a un banco o algo parecido?
 

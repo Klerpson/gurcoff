@@ -1,3 +1,23 @@
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 0.5em 2em;
+  margin-bottom: 3em;
+  background-color: var(--secundario);
+}
+
+.footer .julian {
+  color: var(--amarillo);
+  text-decoration: underline;
+  font-family: var(--fuenteGraficas);
+}
+
+.footer h4, .footer p {
+  color: #fff;
+}
+
+
 main.contacto {
   position: relative;
 }
@@ -34,11 +54,6 @@ figure.img-contacto-2 {
 
 .contacto-footer li {
   line-height: 1.7em;
-}
-
-.contacto-footer a {
-  color: var(--secundario);
-
 }
 
 @media screen and (min-width: 768px) {

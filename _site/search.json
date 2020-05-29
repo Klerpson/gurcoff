@@ -12,8 +12,8 @@
     {
 
       "title"    : "Café Orgánico con Helado GurCoff",
-      "url"      : "/cafes/affogato-gurcoff/",
-      "category" : "Cafes",
+      "url"      : "/caf%C3%A9s/affogato-gurcoff/",
+      "category" : "Cafés",
       "tags"     : "Cafe, Caliente"
 
     } ,
@@ -58,6 +58,15 @@
 
       "title"    : "Copa Óreo GurCoff",
       "url"      : "/copas/oreo/",
+      "category" : "Copas",
+      "tags"     : "Copas, Dulce, Chocolate"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa Óreo GurCoff",
+      "url"      : "/copas/frutal/",
       "category" : "Copas",
       "tags"     : "Copas, Dulce, Chocolate"
 
