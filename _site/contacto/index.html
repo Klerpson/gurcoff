@@ -61,7 +61,7 @@
 
 <body>
 
-  
+
   <nav class="wow fadeInUp data-wow-delay='1s'">
   <ul>
     <li><a href="/" class="icon-home"><span> Inicio</span></a></li>
@@ -71,7 +71,7 @@
     <li><a href="#" class="icon-chevron-circle-up"><span> Arriba</span></a></li>
   </ul>
 </nav>
-  
+
   <header>
   <a href="/" class="logo wow slideInRight" data-wow-delay="0.7s"><img src="/img/logo.png" alt=""> #cuidate</a>
   <h1 class="wow fadeInLeftBig">Tu Punto de Encuentro Favorito en San Agustín</h1>
@@ -91,7 +91,7 @@
     sitio que, cuando terminas tu jornada laboral o estudiantil, es <strong>el lugar donde quieres ir y desestresarte,
       relajarte.</strong> </p>
   <figure class="img-contacto-1">
-    <a href="https://instagram.com/gurcoff/">
+    <a href="https://instagram.com/gurcoff">
       <picture>
         <source media="(max-width: 591px)" type="image/webp" srcset="/img/nosotros/gurcoffe.webp">
         <img src="/img/nosotros/gurcoff.jpg" alt="Heladería GurCoff en San Agustín Huila">
@@ -112,7 +112,7 @@
         @GurCoff <span class="icon-instagram"></span></a></p>
   </div>
   <figure class="img-contacto-2">
-    <a href="https://instagram.com/gurcoff/">
+    <a href="https://instagram.com/gurcoff">
       <picture>
         <source type="image/webp" srcset="/img/nosotros/gurcoff300.webp">
         <img src="/img/nosotros/gurcoff300.png" alt="Heladería GurCoff en San Agustín Huila">
@@ -153,8 +153,8 @@
   <div class="redes">
     <h3>Síguenos como @GurCoff:</h3>
     <ul>
-      <li class="icon-facebook"><a href="https://facebook.com/gurcoff/"> Facebook</a></li>
-      <li class="icon-instagram-1"><a href="https://instagram.com/gurcoff/"> Instagram</a></li>
+      <li class="icon-facebook"><a href="https://facebook.com/gurcoff"> Facebook</a></li>
+      <li class="icon-instagram-1"><a href="https://instagram.com/gurcoff"> Instagram</a></li>
       <li class="icon-tripadvisor"><a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905"> Tripadvisor</a></li>
       <li class="icon-youtube"><a href=""> YouTube</a></li>
       <li class="icon-google"><a href="https://g.page/gurcoff/review?rc"> Mi Negocio (GurCoff San Agustín)</a></li>
@@ -180,7 +180,7 @@
   <ul class="sticky">
       <li class="wow fadeInRight">
           <img src="/img/face.png" width="32" height="32">
-          <p><a href="https://facebook.com/gurcoff/" target="_blank" >Síguenos en<br>Facebook</a></p>
+          <p><a href="https://facebook.com/gurcoff" target="_blank" >Síguenos en<br>Facebook</a></p>
       </li>
       <li class="wow fadeInRight">
           <img src="/img/whatsapp.png" width="32" height="32">
@@ -188,11 +188,36 @@
       </li>
       <li class="wow fadeInRight">
           <img src="/img/instagram.png" width="32" height="32">
-          <p><a href="https://instagram.com/gurcoff/" target="_blank">Síguenos en<br>Instagram</a></p>
+          <p><a href="https://instagram.com/gurcoff" target="_blank">Síguenos en<br>Instagram</a></p>
       </li>
   </ul>
 </div>
 
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function () {
+      FB.init({
+        xfbml: true,
+        version: 'v7.0'
+      });
+    };
+
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = 'https://connect.facebook.net/es_ES/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <!-- Your Chat Plugin code -->
+  <div class="fb-customerchat" attribution=setup_tool page_id="107799337289270" theme_color="#7646ff"
+    logged_in_greeting="😊 Bienvenid@ a GurCoff. Mira nuestra carta aquí: 👉 https://wa.me/c/573115245225"
+    logged_out_greeting="😊 Bienvenid@ a GurCoff. Mira nuestra carta aquí: 👉 https://wa.me/c/573115245225">
+  </div>
 
 </body>
 
@@ -229,7 +254,7 @@
       stretch: 0,
       depth: 200,
       modifier: 1,
-      slideShadows : true,
+      slideShadows: true,
     },
     loop: true,
     autoplay: {

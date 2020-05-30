@@ -65,15 +65,6 @@
   
     {
 
-      "title"    : "Copa Óreo GurCoff",
-      "url"      : "/copas/frutal/",
-      "category" : "Copas",
-      "tags"     : "Copas, Dulce, Chocolate"
-
-    } ,
-  
-    {
-
       "title"    : "Copa Ácida GurCoff",
       "url"      : "/copas/acida/",
       "category" : "Copas",
