@@ -10,7 +10,7 @@ webp: img/magazine/2020-05-09/san-agustin.webp
 alt: Calle 5 de San Agustín solitaria
 p1: img/publicidad/colageno.png
 p1w: img/publicidad/colageno.webp
-purl1: https://wa.me/573218301698?text=%F0%9F%98%84%20Hola!%20%F0%9F%98%8D%20V%C3%AD%20en%20gurcoff%20web%20este%20producto:%20Colageno.%20Me%20encantar%C3%ADa%20pedirlo%20%F0%9F%98%8B
+p1url: https://wa.me/573218301698?text=%F0%9F%98%84%20Hola!%20%F0%9F%98%8D%20V%C3%AD%20en%20gurcoff%20web%20este%20producto:%20Colageno.%20Me%20encantar%C3%ADa%20pedirlo%20%F0%9F%98%8B
 altp: Colágeno de Natural One Life
 excerpt_separator: <!-- excerpt -->
 ---
