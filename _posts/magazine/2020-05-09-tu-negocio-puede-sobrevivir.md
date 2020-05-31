@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Tu negocio en San Agustín también puede sobrevivir
+title: Tu negocio en San Agustín puede sobrevivir
 description: Algunos métodos que te pueden ayudar a salvar tu negocio ante la crisis económica.
 keywords: covid-19, crisis, negocios en crisis, salvar negocio
 tags: [negocio, san_agustin, crisis, magazine, blog]
@@ -10,7 +10,7 @@ webp: img/magazine/2020-05-09/san-agustin.webp
 alt: Calle 5 de San Agustín solitaria
 p1: img/publicidad/colageno.png
 p1w: img/publicidad/colageno.webp
-p1url: https://wa.me/573218301698?text=%F0%9F%98%84%20Hola!%20%F0%9F%98%8D%20V%C3%AD%20en%20gurcoff%20web%20este%20producto:%20Colageno.%20Me%20encantar%C3%ADa%20pedirlo%20%F0%9F%98%8B
+p1url: https://wa.me/573218301698?text=%20Hola!%20Vi%20en%20gurcoff%20web%20este%20producto:%20Colageno.%20Quiero%20pedirlo%20
 altp: Colágeno de Natural One Life
 excerpt_separator: <!-- excerpt -->
 ---
@@ -51,6 +51,8 @@ El conferenciante explicaba que cuando uno quiere hacer cambios en su vida, y si
 ## "¡Hagamos cambios!"
 
 Después de pasarme un mes estudiando, intenté aplicar lo aprendido para ayudar a mi comunidad. Pero no fue posible. Muchos factores no favorecieron otro proyecto más.
+
+{% include publicidad1.html %}
 
 Sin embargo, comprendí que yo ya tenía un gran proyecto en mano: mi heladería en San Agustín. Así que enfoqué todos mis esfuerzos en sacarla a flote con todo lo que había aprendido hasta ese momento (**al final te diré qué páginas me han servido para aprender más todavía**).
 

@@ -14,9 +14,7 @@
   margin: 0;
 }
 
-.articulo p {
-  position: relative;
-}
+.articulo {position: relative;}
 
 .articulo li {
   margin-bottom: 1em;
