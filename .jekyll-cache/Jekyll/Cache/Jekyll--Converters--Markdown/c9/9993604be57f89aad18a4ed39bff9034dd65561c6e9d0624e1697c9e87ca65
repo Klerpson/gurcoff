@@ -1,0 +1,122 @@
+I"<p>Una ensalada de <strong>frutas especiales más ingredientes bien combinados</strong>, y tu Helado Suave favorito.</p>
+
+<!-- excerpt -->
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<section class="swiper">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/ensalada/ensalada1.webp" />
+          <img src="/img/ensalada/ensalada1.png" alt="Ensalada de Frutas GurCoff de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/ensalada/ensalada2.webp" />
+          <img src="/img/ensalada/ensalada2.png" alt="Ensalada de Frutas GurCoff de San Agustín Huila" />
+        </picture>
+      </div><div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/ensalada/ensalada3.webp" />
+          <img src="/img/ensalada/ensalada3.jpg" alt="Ensalada de Frutas GurCoff de San Agustín Huila" />
+        </picture>
+      </div><div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/ensalada/ensalada4.webp" />
+          <img src="/img/ensalada/ensalada4.png" alt="Ensalada de Frutas GurCoff de San Agustín Huila" />
+        </picture>
+      </div>
+    </div>
+  </div>
+</section>
+
+<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Helado</em></td>
+      <td>Contiene una sola porción del helado suave con receta del día. Puedes escoger uno o combinarlos</td>
+    </tr>
+    <tr>
+      <td><em>M&amp;M’s</em></td>
+      <td>Chocolates pequeños de colores</td>
+    </tr>
+    <tr>
+      <td><em>Fresas</em></td>
+      <td>Fruta cosechada localmente, fresca y deliciosas</td>
+    </tr>
+    <tr>
+      <td><em>Brownie seco</em></td>
+      <td>Agrega una agradable textura al milkshake. Al caer en la malteada, le da un toque adicional delicioso</td>
+    </tr>
+    <tr>
+      <td><em>Maní</em></td>
+      <td>Un espectacular toque saladito</td>
+    </tr>
+    <tr>
+      <td><em>Chocolate</em></td>
+      <td>Chocolate derretido que baña todo lo anterior</td>
+    </tr>
+    <tr>
+      <td><em>Waffle</em></td>
+      <td>Deliciosa base que sostiene todo el relleno ya mencionado. Cubre la jarra milkshake</td>
+    </tr>
+    <tr>
+      <td><em>Chococrispi</em></td>
+      <td>Una cubierta crocante en la jarra</td>
+    </tr>
+    <tr>
+      <td><em>Palitos rellenos</em></td>
+      <td>Palitos rellenos de chocolate</td>
+    </tr>
+    <tr>
+      <td><em>Chocomelos</em></td>
+      <td>Mashmellow bañado en chocolate</td>
+    </tr>
+    <tr>
+      <td><em>Milkshake</em></td>
+      <td>Malteada achocolatada con la receta de GurCoff</td>
+    </tr>
+    <tr>
+      <td><em>Chocolatina Jet</em></td>
+      <td>Se deja calentar sobre una porción de waffle en la base</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Su valor es de <strong>$9000</strong>. ¿Quieres pedir uno? Recuerda que aplican <a href="#condiciones">condiciones</a>.</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-ensalada-de-frutas-gurcoff">Qué opinan en San Agustín del Ensalada de Frutas GurCoff</h2>
+
+<blockquote>
+  <p><strong>En Facebook <a href="https://facebook.com/gurcoff">@GurCoff</a> - Will Burnell:</strong> Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
+</blockquote>
+
+<h3 id="deja-tu-opinión-también-en-tripadvisor-o-google-business">Deja tu opinión también en <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">TripAdvisor</a> o <a href="https://g.page/gurcoff/review?rc">Google Business</a></h3>
+
+<h3 id="condiciones">Condiciones</h3>
+
+<div id="condiciones">
+
+  <ul>
+  <li class="icon-leaf"> Tu domicilio será gratis después de $7000.</li>
+
+  <li class="icon-leaf"> Si tu compra es menor a $7000, el costo del domicilio será de $1000.</li>
+
+  <li class="icon-leaf"> El domicilio gratis aplica solamente en la zona urbana de San Agustín. Las veredas cercanas cancelarán $2000 por domicilio.</li>
+
+  <li class="icon-leaf"> Las zonas rurales solo se atenderán según la disponibilidad de tiempo. En ocasiones hay mucho trabajo en la zona urbana y no alcanzamos a salir a la zona rural.</li>
+  </ul>
+
+</div>
+:ET

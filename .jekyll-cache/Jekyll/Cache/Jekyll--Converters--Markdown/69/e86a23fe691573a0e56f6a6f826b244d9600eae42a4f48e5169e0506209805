@@ -1,0 +1,94 @@
+I"<p>La combinación perfecta de dulce y helado. <strong>Un sueño del a niñes cumplido a la perfección</strong>.
+<!-- excerpt --></p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<!-- Swiper -->
+<section class="swiper">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/golosa/golosa.webp" />
+          <img src="/img/golosa/golosa.jpg" alt="Copa con gomitas dulces y ácidas de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/golosa/golosa.webp" />
+          <img src="/img/golosa/golosa.jpg" alt="Copa con gomitas dulces y ácidas de San Agustín Huila" />
+        </picture>
+      </div><div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/golosa/golosa.webp" />
+          <img src="/img/golosa/golosa.jpg" alt="Copa con gomitas dulces y ácidas de San Agustín Huila" />
+        </picture>
+      </div><div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/golosa/golosa0.webp" />
+          <img src="/img/golosa/golosa0.jpg" alt="Copa con gomitas dulces y ácidas de San Agustín Huila" />
+        </picture>
+      </div>
+    </div>
+  </div>
+</section>
+
+<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Helado</em></td>
+      <td>Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos</td>
+    </tr>
+    <tr>
+      <td><em>Brownie seco</em></td>
+      <td>Agrega una agradable textura al final de la copa. Este se humedece a medida que el helado derrite. Es delicioso</td>
+    </tr>
+    <tr>
+      <td><em>Chococripis</em></td>
+      <td>Arroz inflado con chocolate crocante</td>
+    </tr>
+    <tr>
+      <td><em>Chocomelos</em></td>
+      <td>Mashmellow bañado en chocolate</td>
+    </tr>
+    <tr>
+      <td><em>Perlas achocolatadas</em></td>
+      <td>Más crocante de chocolate fino</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Su valor es de <strong>$9000</strong>. ¿Quieres pedir uno? Recuerda que aplican <a href="#condiciones">condiciones</a>.</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-copa-de-doble-helado-golosa">Qué opinan en San Agustín del Copa de Doble Helado Golosa</h2>
+
+<blockquote>
+  <p><strong>En Facebook <a href="https://facebook.com/gurcoff">@GurCoff</a> - Will Burnell:</strong> Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
+</blockquote>
+
+<h3 id="deja-tu-opinión-también-en-tripadvisor-o-google-business">Deja tu opinión también en <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">TripAdvisor</a> o <a href="https://g.page/gurcoff/review?rc">Google Business</a></h3>
+
+<h3 id="condiciones">Condiciones</h3>
+
+<div id="condiciones">
+
+  <ul>
+  <li class="icon-leaf"> Tu domicilio será gratis después de $7000.</li>
+
+  <li class="icon-leaf"> Si tu compra es menor a $7000, el costo del domicilio será de $1000.</li>
+
+  <li class="icon-leaf"> El domicilio gratis aplica solamente en la zona urbana de San Agustín. Las veredas cercanas cancelarán $2000 por domicilio.</li>
+
+  <li class="icon-leaf"> Las zonas rurales solo se atenderán según la disponibilidad de tiempo. En ocasiones hay mucho trabajo en la zona urbana y no alcanzamos a salir a la zona rural.</li>
+  </ul>
+
+</div>
+:ET

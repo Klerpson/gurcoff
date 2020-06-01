@@ -47,6 +47,15 @@
   
     {
 
+      "title"    : "Milkshake GurCoff",
+      "url"      : "/milkshakes/sencillo/",
+      "category" : "Milkshakes",
+      "tags"     : "Malteadas, Milkshakes, Brownie"
+
+    } ,
+  
+    {
+
       "title"    : "Milkshake Especial GurCoff",
       "url"      : "/milkshakes/especial/",
       "category" : "Milkshakes",
@@ -56,7 +65,16 @@
   
     {
 
-      "title"    : "Copa Óreo GurCoff",
+      "title"    : "Ensalada de Frutas GurCoff",
+      "url"      : "/ensalada/ensalada-de-frutas/",
+      "category" : "Ensalada",
+      "tags"     : "Ensalada, Frutas, Queso"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa de Doble Helado Óreo",
       "url"      : "/copas/oreo/",
       "category" : "Copas",
       "tags"     : "Copas, Dulce, Chocolate"
@@ -65,7 +83,34 @@
   
     {
 
-      "title"    : "Copa Ácida GurCoff",
+      "title"    : "Copa de Doble Helado Golosa",
+      "url"      : "/copas/golosa/",
+      "category" : "Copas",
+      "tags"     : "Copas, Dulce, Gomas, Gomitas, Ositos, Gusanos"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa de Doble Helado Frutal",
+      "url"      : "/copas/frutal/",
+      "category" : "Copas",
+      "tags"     : "Copas, Frutas, Fresas, Mango"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa de Doble Helado Baileys",
+      "url"      : "/copas/baileys/",
+      "category" : "Copas",
+      "tags"     : "Copas, Chocolate, Baileys, Fresas"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa de Doble Helado Ácida",
       "url"      : "/copas/acida/",
       "category" : "Copas",
       "tags"     : "Copas, Fruta, Acida"
@@ -74,7 +119,7 @@
   
     {
 
-      "title"    : "Copa Achocolatada GurCoff",
+      "title"    : "Copa de Doble Helado Achocolatada",
       "url"      : "/copas/achocolatada/",
       "category" : "Copas",
       "tags"     : "Copas, Chocolate"

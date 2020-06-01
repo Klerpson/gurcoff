@@ -1,0 +1,114 @@
+I"s<p>Una ensalada de <strong>frutas especiales más ingredientes bien combinados</strong>, y tu Helado Suave favorito.</p>
+
+<!-- excerpt -->
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<section class="swiper">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/ensalada/ensalada1.webp" />
+          <img src="/img/ensalada/ensalada1.png" alt="Ensalada de Frutas GurCoff de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/ensalada/ensalada2.webp" />
+          <img src="/img/ensalada/ensalada2.png" alt="Ensalada de Frutas GurCoff de San Agustín Huila" />
+        </picture>
+      </div><div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/ensalada/ensalada3.webp" />
+          <img src="/img/ensalada/ensalada3.jpg" alt="Ensalada de Frutas GurCoff de San Agustín Huila" />
+        </picture>
+      </div><div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/ensalada/ensalada4.webp" />
+          <img src="/img/ensalada/ensalada4.png" alt="Ensalada de Frutas GurCoff de San Agustín Huila" />
+        </picture>
+      </div>
+    </div>
+  </div>
+</section>
+
+<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Helado</em></td>
+      <td>Contiene una sola porción del helado suave con receta del día. Puedes escoger uno o combinarlos</td>
+    </tr>
+    <tr>
+      <td><em>Queso</em></td>
+      <td>Queso de temporada, doble crema o mozarella</td>
+    </tr>
+    <tr>
+      <td><em>Fresas</em></td>
+      <td>Fruta cosechada localmente, fresca y deliciosas</td>
+    </tr>
+    <tr>
+      <td><em>Banano</em></td>
+      <td>Banano dulce y fresco</td>
+    </tr>
+    <tr>
+      <td><em>Kiwi</em></td>
+      <td>Fruta tropical de lujo</td>
+    </tr>
+    <tr>
+      <td><em>Uvas</em></td>
+      <td>Uvas dulces y sin semillas</td>
+    </tr>
+    <tr>
+      <td><em>Mango</em></td>
+      <td>Mango Tommy dulce y fresco</td>
+    </tr>
+    <tr>
+      <td><em>Coco</em></td>
+      <td>Coco dulce desidratado</td>
+    </tr>
+    <tr>
+      <td><em>Secretico</em></td>
+      <td>Receta secreta de la casa, preparada para enamorarte de nuestra ensalada</td>
+    </tr>
+    <tr>
+      <td><em>Salsa</em></td>
+      <td>Baño de leche condensada</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Su valor es de <strong>$9000</strong>. ¿Quieres pedir uno? Recuerda que aplican <a href="#condiciones">condiciones</a>.</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-ensalada-de-frutas-gurcoff">Qué opinan en San Agustín del Ensalada de Frutas GurCoff</h2>
+
+<blockquote>
+  <p><strong>En Facebook <a href="https://facebook.com/gurcoff">@GurCoff</a> - Will Burnell:</strong> Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
+</blockquote>
+
+<h3 id="deja-tu-opinión-también-en-tripadvisor-o-google-business">Deja tu opinión también en <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">TripAdvisor</a> o <a href="https://g.page/gurcoff/review?rc">Google Business</a></h3>
+
+<h3 id="condiciones">Condiciones</h3>
+
+<div id="condiciones">
+
+  <ul>
+  <li class="icon-leaf"> Tu domicilio será gratis después de $7000.</li>
+
+  <li class="icon-leaf"> Si tu compra es menor a $7000, el costo del domicilio será de $1000.</li>
+
+  <li class="icon-leaf"> El domicilio gratis aplica solamente en la zona urbana de San Agustín. Las veredas cercanas cancelarán $2000 por domicilio.</li>
+
+  <li class="icon-leaf"> Las zonas rurales solo se atenderán según la disponibilidad de tiempo. En ocasiones hay mucho trabajo en la zona urbana y no alcanzamos a salir a la zona rural.</li>
+  </ul>
+
+</div>
+:ET

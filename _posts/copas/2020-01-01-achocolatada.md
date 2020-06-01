@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Copa Achocolatada GurCoff
+title: Copa de Doble Helado Achocolatada
 description: Copa con chocolates y doble Porción de Helado Suave con adiciones de fruta o golocinas
 keywords: copa de Helado, helados, doble helado, chocolates
 tags: [Copas, Chocolate]
@@ -14,7 +14,7 @@ webp: img/achocolatada/choco4.webp
 alt: Copa con chocolates y doble porción de Helado GurCoff
 excerpt_separator: <!-- excerpt -->
 ---
-Los que amamos el chocolate, encontramos un tesoro delicioso en esta copa.
+Los que **amamos el chocolate**, encontramos un tesoro delicioso en esta copa.
 
 <!-- excerpt -->
 
@@ -25,13 +25,14 @@ Los que amamos el chocolate, encontramos un tesoro delicioso en esta copa.
 
 | Producto | Descripción |
 | ----------- | ------ |
-| *Helado* | Contiene doble porción del helado suave que se prepara en el día. Podrás escober sus sabores o combinarlos |
+| *Helado* | Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos |
 | *Brownie seco* | Agrega una agradable textura al final de la copa. Este se humedece a medida que el helado derrite. Es delicioso |
 | *Chococripis* | Arroz inflado con chocolate crocante |
 | *Chocomelos* | Mashmellow bañado en chocolate |
 | *Perlas achocolatadas* | Más crocante de chocolate fino |
+| *Salsa* | Baño de chocolate |
 
-Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Recuerda que aplican [condiciones]({{site.baseurl}}#condiciones).
+Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
 
 {% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
 
