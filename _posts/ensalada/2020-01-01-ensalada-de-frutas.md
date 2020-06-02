@@ -7,8 +7,8 @@ tags: [Ensalada, Frutas, Queso]
 category: Ensalada
 precio: 9000
 principal: si
-src: img/ensalada/ensalada1.jpg
-webp: img/ensalada/ensalada1.webp
+src: img/ensalada/ensalada4.jpg
+webp: img/ensalada/ensalada4.webp
 hero: img/ensalada/ensalada.png
 herow: img/ensalada/ensalada.webp
 alt: Ensalda de Frutas GurCoff
@@ -20,7 +20,7 @@ Una ensalada de **frutas especiales más ingredientes bien combinados**, y tu He
 
 {% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
 
-{% include swiper.html foto1="ensalada/ensalada1.png" webp1="ensalada/ensalada1.webp" alt1="Ensalada de Frutas GurCoff de San Agustín Huila" foto2="ensalada/ensalada2.png" webp2="ensalada/ensalada2.webp" alt2="Ensalada de Frutas GurCoff de San Agustín Huila" foto3="ensalada/ensalada3.jpg" webp3="ensalada/ensalada3.webp" alt3="Ensalada de Frutas GurCoff de San Agustín Huila" foto4="ensalada/ensalada4.png" webp4="ensalada/ensalada4.webp" alt4="Ensalada de Frutas GurCoff de San Agustín Huila" %}
+{% include swiper.html foto1="ensalada/ensalada1.jpg" webp1="ensalada/ensalada1.webp" alt1="Ensalada de Frutas GurCoff de San Agustín Huila" foto2="ensalada/ensalada2.jpg" webp2="ensalada/ensalada2.webp" alt2="Ensalada de Frutas GurCoff de San Agustín Huila" foto3="ensalada/ensalada3.jpg" webp3="ensalada/ensalada3.webp" alt3="Ensalada de Frutas GurCoff de San Agustín Huila" foto4="ensalada/ensalada4.jpg" webp4="ensalada/ensalada4.webp" alt4="Ensalada de Frutas GurCoff de San Agustín Huila" %}
 
 | Producto | Descripción |
 | ----------- | ------ |

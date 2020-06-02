@@ -11,6 +11,24 @@
   
     {
 
+      "title"    : "Vaso de Helado GurCoff",
+      "url"      : "/vasos/vasitos/",
+      "category" : "Vasos",
+      "tags"     : "Vasos, Dulce, Fruta"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa de Doble Helado Baileys",
+      "url"      : "/copas/baileys/",
+      "category" : "Copas",
+      "tags"     : "Copas, Chocolate, Baileys, Fresas"
+
+    } ,
+  
+    {
+
       "title"    : "Café Orgánico con Helado GurCoff",
       "url"      : "/caf%C3%A9s/affogato-gurcoff/",
       "category" : "Cafés",
@@ -20,10 +38,55 @@
   
     {
 
-      "title"    : "Vaso de Helado GurCoff",
-      "url"      : "/vasos/vasitos/",
-      "category" : "Vasos",
-      "tags"     : "Vasos, Dulce, Fruta"
+      "title"    : "Copa de Doble Helado Frutos Rojos",
+      "url"      : "/copas/frutos-rojos/",
+      "category" : "Copas",
+      "tags"     : "Copas, Frutas, Frutos rojos, Fresas, Cerezas, Moras"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa de Doble Helado Frutos Secos",
+      "url"      : "/copas/frutos-secos/",
+      "category" : "Copas",
+      "tags"     : "Copas, Frutos Secos, Mani, Granola, Brownie"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa de Doble Helado Achocolatada",
+      "url"      : "/copas/achocolatada/",
+      "category" : "Copas",
+      "tags"     : "Copas, Chocolate"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa de Doble Helado Ácida",
+      "url"      : "/copas/acida/",
+      "category" : "Copas",
+      "tags"     : "Copas, Fruta, Maracuya, Maracuyá, Acida"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa de Doble Helado Fresh",
+      "url"      : "/copas/fresh/",
+      "category" : "Copas",
+      "tags"     : "Copas, Mashmellows, Frutas, Maracuyá, Maracuya, Fresas"
+
+    } ,
+  
+    {
+
+      "title"    : "Milkshake Especial GurCoff",
+      "url"      : "/milkshakes/especial/",
+      "category" : "Milkshakes",
+      "tags"     : "Malteadas, Milkshakes"
 
     } ,
   
@@ -51,15 +114,6 @@
       "url"      : "/milkshakes/sencillo/",
       "category" : "Milkshakes",
       "tags"     : "Malteadas, Milkshakes, Brownie"
-
-    } ,
-  
-    {
-
-      "title"    : "Milkshake Especial GurCoff",
-      "url"      : "/milkshakes/especial/",
-      "category" : "Milkshakes",
-      "tags"     : "Malteadas, Milkshakes"
 
     } ,
   
@@ -96,33 +150,6 @@
       "url"      : "/copas/frutal/",
       "category" : "Copas",
       "tags"     : "Copas, Frutas, Fresas, Mango"
-
-    } ,
-  
-    {
-
-      "title"    : "Copa de Doble Helado Baileys",
-      "url"      : "/copas/baileys/",
-      "category" : "Copas",
-      "tags"     : "Copas, Chocolate, Baileys, Fresas"
-
-    } ,
-  
-    {
-
-      "title"    : "Copa de Doble Helado Ácida",
-      "url"      : "/copas/acida/",
-      "category" : "Copas",
-      "tags"     : "Copas, Fruta, Acida"
-
-    } ,
-  
-    {
-
-      "title"    : "Copa de Doble Helado Achocolatada",
-      "url"      : "/copas/achocolatada/",
-      "category" : "Copas",
-      "tags"     : "Copas, Chocolate"
 
     } 
   
