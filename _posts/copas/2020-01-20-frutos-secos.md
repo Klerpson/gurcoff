@@ -24,12 +24,12 @@ Los que **amamos el chocolate**, encontramos un tesoro delicioso en esta copa.
 
 | Producto | Descripción |
 | ----------- | ------ |
-| *Helado* | Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos |
-| *Brownie seco* | Agrega una agradable textura al final de la copa. Este se humedece a medida que el helado derrite. Es delicioso |
-| *Maní* | Un delicioso toque saladito a la copa |
-| *Granola* | Combinación de frutos secos |
-| *Banano* | Delicioso toque dulce natural en la copa |
-| *Salsa* | Baño de Arequipe |
+| *🍦 Helado* | Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos |
+| *🥮 Brownie seco* | Agrega una agradable textura al final de la copa. Este se humedece a medida que el helado derrite. Es delicioso |
+| *🥜 Maní* | Un delicioso toque saladito a la copa |
+| *🥠 Granola* | Combinación de frutos secos |
+| *🍌 Banano* | Delicioso toque dulce natural en la copa |
+| *🍯 Salsa* | Baño de Arequipe |
 
 Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
 

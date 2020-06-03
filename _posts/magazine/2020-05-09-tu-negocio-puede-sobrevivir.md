@@ -22,7 +22,7 @@ Te comparto lo que hemos hecho para **ayudar a nuestro negocio a sobrevivir** la
 
 Abril de 2017. Desde esta fecha llevaba intentando más de 9 proyectos web diferentes. Todo a raíz del desastre en la ciudad de Mocoa que mi esposa y yo enfrentamos en la fecha ya mencionada.
 
-![Desastre en Mocoa 2017]({{ site.baseurl }}/img/magazine/2020-05-09/mocoa.jpg)
+![Desastre en Mocoa 2017]({{ site.baseurl }}/img/magazine/2020-05-09/mocoa.jpg "Avalancha en Mocoa de Abril de 2017")
 
 Cuando nuestra situación económica estaba en su momento más difícil, mi Dios Jehová y mi familia fueron mi auxilio.
 
@@ -34,7 +34,7 @@ Sí. Ninguno nos esperamos este receso económico. Y menos nosotros. Llevábamos
 
 Por fin las cosas salían mucho mejor. Y al pueblito de San Agustín, que ya sentimos como nuestro pueblito querido, le encantaba nuestra heladería. **Así que, ¿ahora qué haríamos?**
 
-![San Agustín sin turistas]({{ site.baseurl }}/img/magazine/2020-05-09/san-agustin.jpg)
+![San Agustín sin turistas]({{ site.baseurl }}/img/magazine/2020-05-09/san-agustin.jpg "Calle de San Agustín Huila")
 
 ## "Si quieres un cambio, cambia lo que haces"
 

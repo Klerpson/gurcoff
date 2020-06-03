@@ -24,12 +24,12 @@ La **dulce y elegante tentación de los frutos rojos** y nuestro helado suave.
 
 | Producto | Descripción |
 | ----------- | ------ |
-| *Helado* | Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos |
-| *Moras* | Frutas dulces con toque ácido |
-| *Cerezas* | Toque dulce sin palito |
-| *Arándanos* | Fruto rojo seco |
-| *Fresas* | Fruta fresca de la región |
-| *Salsa* | Baño de salsa de fresa |
+| *🍦 Helado* | Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos |
+| *🍇 Moras* | Frutas dulces con toque ácido |
+| *🍒 Cerezas* | Toque dulce sin palito |
+| *🔴 Arándanos* | Fruto rojo seco |
+| *🍓 Fresas* | Fruta fresca de la región |
+| *🍓 Salsa* | Baño de salsa de fresa |
 
 Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
 

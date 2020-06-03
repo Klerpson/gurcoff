@@ -24,16 +24,16 @@ Una ensalada de **frutas especiales más ingredientes bien combinados**, y tu He
 
 | Producto | Descripción |
 | ----------- | ------ |
-| *Helado* | Contiene una sola porción del helado suave con receta del día. Puedes escoger uno o combinarlos |
-| *Queso* | Queso de temporada, doble crema o mozarella |
-| *Fresas* | Fruta cosechada localmente, fresca y deliciosas |
-| *Banano* | Banano dulce y fresco |
-| *Kiwi* | Fruta tropical de lujo |
-| *Uvas* | Uvas dulces y sin semillas |
-| *Mango* | Mango Tommy dulce y fresco |
-| *Coco* | Coco dulce desidratado |
-| *Secretico* | Receta secreta de la casa, preparada para enamorarte de nuestra ensalada |
-| *Salsa* | Baño de leche condensada |
+| *🍦 Helado* | Contiene una sola porción del helado suave con receta del día. Puedes escoger uno o combinarlos |
+| *🧀 Queso* | Queso de temporada, doble crema o mozarella |
+| *🍓 Fresas* | Fruta cosechada localmente, fresca y deliciosas |
+| *🍌 Banano* | Banano dulce y fresco |
+| *🥝 Kiwi* | Fruta tropical de lujo |
+| *🍇 Uvas* | Uvas dulces y sin semillas |
+| *🥭 Mango* | Mango Tommy dulce y fresco |
+| *🥥 Coco* | Coco dulce desidratado |
+| *😋 Secretico* | Receta secreta de la casa, preparada para enamorarte de nuestra ensalada |
+| *🍶 Salsa* | Baño de leche condensada |
 
 Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
 

@@ -25,12 +25,12 @@ Los que **amamos el chocolate**, encontramos un tesoro delicioso en esta copa.
 
 | Producto | Descripción |
 | ----------- | ------ |
-| *Helado* | Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos |
-| *Brownie seco* | Agrega una agradable textura al final de la copa. Este se humedece a medida que el helado derrite. Es delicioso |
-| *Chococripis* | Arroz inflado con chocolate crocante |
-| *Chocomelos* | Mashmellow bañado en chocolate |
-| *Perlas achocolatadas* | Más crocante de chocolate fino |
-| *Salsa* | Baño de chocolate |
+| *🍦 Helado* | Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos |
+| *🥮 Brownie seco* | Agrega una agradable textura al final de la copa. Este se humedece a medida que el helado derrite. Es delicioso |
+| *🍫 Chococripis* | Arroz inflado con chocolate crocante |
+| *🍫 Chocomelos* | Mashmellow bañado en chocolate |
+| *🍫Perlas achocolatadas* | Más crocante de chocolate fino |
+| *🍫 Salsa* | Baño de chocolate |
 
 Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
 

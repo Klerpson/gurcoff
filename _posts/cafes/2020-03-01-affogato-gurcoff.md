@@ -25,8 +25,8 @@ excerpt_separator: <!-- excerpt -->
 
 | Producto | Descripción |
 | ----------- | ------ |
-| *Café orgánico* | Utilizamos café caturro cultivado en la vereda Cauchos de San Agustín Huila. Se muele antes de servirlo, para asegurar el mejor sabor |
-| *Helado* | Contiene una porción del helado favorito de San Agustín Huila. Se utiliza los sabores de vainilla y chocolate suizo |
+| *☕ Café orgánico* | Utilizamos café caturro cultivado en la vereda Cauchos de San Agustín Huila. Se muele antes de servirlo, para asegurar el mejor sabor |
+| *🍦 Helado* | Contiene una porción del helado favorito de San Agustín Huila. Se utiliza los sabores de vainilla y chocolate suizo |
 
 {% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
 
