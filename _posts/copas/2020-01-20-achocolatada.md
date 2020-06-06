@@ -9,7 +9,7 @@ precio: 9000
 principal: si
 hero: img/achocolatada/choco2.png
 herow: img/achocolatada/choco2.webp
-src: img/achocolatada/choco4.jpg
+src: img/achocolatada/choco4.jp2
 webp: img/achocolatada/choco4.webp
 alt: Copa con chocolates y doble porción de Helado GurCoff
 excerpt_separator: <!-- excerpt -->
@@ -21,7 +21,7 @@ Los que **amamos el chocolate**, encontramos un tesoro delicioso en esta copa.
 {% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
 
 <!-- Swiper -->
-{% include swiper.html foto1="achocolatada/choco1.jpg" webp1="achocolatada/choco1.webp" alt1="Copa Achocolatada de San Agustín Huila" foto2="achocolatada/choco4.jpg" webp2="achocolatada/choco4.webp" alt2="Copa Achocolatada de San Agustín Huila" foto3="achocolatada/choco5.jpg" webp3="achocolatada/choco5.webp" alt3="Copa Achocolatada de San Agustín Huila" foto4="achocolatada/choco10.jpg" webp4="achocolatada/choco10.webp" alt4="Copa Achocolatada de San Agustín Huila" %}
+{% include swiper.html foto1="achocolatada/choco1.jp2" webp1="achocolatada/choco1.webp" alt1="Copa Achocolatada de San Agustín Huila" foto2="achocolatada/choco4.jp2" webp2="achocolatada/choco4.webp" alt2="Copa Achocolatada de San Agustín Huila" foto3="achocolatada/choco5.jp2" webp3="achocolatada/choco5.webp" alt3="Copa Achocolatada de San Agustín Huila" foto4="achocolatada/choco10.jp2" webp4="achocolatada/choco10.webp" alt4="Copa Achocolatada de San Agustín Huila" %}
 
 | Producto | Descripción |
 | ----------- | ------ |

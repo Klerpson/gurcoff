@@ -1,0 +1,97 @@
+I"`<p>Este es el postre que necesitas para tener una conversación muy agradable, un ratico dulce, suave, con buena compañía.</p>
+
+<!-- excerpt -->
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<!-- Swiper -->
+<section class="swiper">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/brownie/brownie1.webp" />
+          <img src="/img/brownie/brownie1.jpg" alt="Brownie Especial para Calentar de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/brownie/brownie3.webp" />
+          <img src="/img/brownie/brownie3.jpg" alt="Brownie Especial para Calentar de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/brownie/brownie4.webp" />
+          <img src="/img/brownie/brownie4.jpg" alt="Brownie Especial para Calentar de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/brownie/brownie5.webp" />
+          <img src="/img/brownie/brownie5.jpg" alt="Brownie Especial para Calentar de San Agustín Huila" />
+        </picture>
+      </div>
+    </div>
+  </div>
+</section>
+
+<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>🥧 Brownie</em></td>
+      <td>Producto traído desde el Valle del Cauca, especial para calentar. Contiene galletas, chocolate blanco, sobre un denso y suave brownie de chocolate</td>
+    </tr>
+    <tr>
+      <td><em>🍦 Helado</em></td>
+      <td>Contiene una porción del helado favorito de San Agustín Huila. Tu escoges el sabor de la temporada que desees agregar</td>
+    </tr>
+    <tr>
+      <td><em>🥜 Maní</em></td>
+      <td>Maní triturado saladito, que equilibra los sabores de tu postre</td>
+    </tr>
+    <tr>
+      <td><em>🍒 Cereza</em></td>
+      <td>Un toque dulce especial para tu brownie</td>
+    </tr>
+    <tr>
+      <td><em>🍫 Hershey</em>’s</td>
+      <td>Deliciosa salsa de chocolate que baña tu helado Gurcoff</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Su valor es de <strong>$6900</strong>. ¿Quieres pedir uno? Escríbenos:</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-brownie-caliente-gurcoff">Qué opinan en San Agustín del Brownie Caliente GurCoff</h2>
+
+<blockquote>
+  <p><strong>En <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">TripAdvisor</a> - Gerard P opinó el 19 de octubre de 2019:</strong> <em>Amo los helados que hacen!!!</em> Descubri esta heladeria, y quede echizado para siempre con esos deliciosos Brownies con helado de yougurt que preparan!!! Delicioso todo lo que tienen en la carta, y ademas la ubicacion en via hacia el parque arqueologico es excelente!!!!</p>
+</blockquote>
+
+<h3 id="deja-tu-opinión-también-en-tripadvisor-o-google-business">Deja tu opinión también en <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">TripAdvisor</a> o <a href="https://g.page/gurcoff/review?rc">Google Business</a></h3>
+
+<h3 id="condiciones">Condiciones</h3>
+
+<div id="condiciones">
+
+  <ul>
+  <li class="icon-leaf"> Tu domicilio será gratis después de $7000.</li>
+
+  <li class="icon-leaf"> Si tu compra es menor a $7000, el costo del domicilio será de $1000.</li>
+
+  <li class="icon-leaf"> El domicilio gratis aplica solamente en la zona urbana de San Agustín. Las veredas cercanas cancelarán $2000 por domicilio.</li>
+
+  <li class="icon-leaf"> Las zonas rurales solo se atenderán según la disponibilidad de tiempo. En ocasiones hay mucho trabajo en la zona urbana y no alcanzamos a salir a la zona rural.</li>
+  </ul>
+
+</div>
+:ET
