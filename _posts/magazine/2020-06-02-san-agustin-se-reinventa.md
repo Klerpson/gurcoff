@@ -12,7 +12,8 @@ p1: img/publicidad/colageno.png
 p1w: img/publicidad/colageno.webp
 p1url: https://wa.me/573218301698?text=%20Hola!%20Vi%20en%20gurcoff%20web%20este%20producto:%20Colageno.%20Quiero%20pedirlo%20
 altp: Colágeno de Natural One Life
-autor: Julian Franco
+autor: Julian Andres Franco Bedoya
+copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 ---
 Son muchos los negocios que tuvieron que cerrar por la crisis económica de San Agustín Huila. Pero **no necesariamente tienen que terminar**. ¿Por qué?
@@ -60,3 +61,5 @@ Pensé en un ejemplo muy puntual. Alguna vez visité el [Lodge Akawanka](https:/
 Nuevamente, estas son solo ideas al aire. El punto es que podemos seguir avanzando, evolucionando. **El secreto es pensar en qué modelo de negocios puedes cambiar**, no quedarte solo en lo tradicional. Esto te ayudará ahora y te generá nuevas maneras de *seguir consiguiendo lo que tú y tu familia necesitan*. Al final, esto es lo que realmente importa. Por esto, si tu nuevo modelo de negocio, o el tradicional, ya te dan esto, entonces ya lo conseguiste.
 
 Recordemos que el primer objetivo de nuestros negocios ahora es sobrevivir. Si las cosas mejoran pronto, podremos seguir haciendo planes para lograr más objetivos.
+
+¿A quién te gustaría compartir este artículo? Hazlo con los botones al final del artículo.

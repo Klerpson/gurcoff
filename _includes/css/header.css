@@ -63,14 +63,14 @@ header picture img {
 
 @media only screen and (min-width: 992px) {
 
-  header{
+  header {
     padding: 0 12em;
   }
 
 
   header picture img {
     left: 60%;
-   }
+  }
 
 }
 

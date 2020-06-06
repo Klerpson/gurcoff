@@ -3,7 +3,7 @@
   padding: 0.7em;
   -webkit-appearance: none;
   -moz-appearance: none;
-       appearance: none;
+  appearance: none;
   background-color: #f6eeff;
   color: var(--principal);
   border-radius: 10px;
@@ -53,13 +53,13 @@
 .bubbly-button.animate:before {
   display: block;
   -webkit-animation: topBubbles ease-in-out 0.75s forwards;
-          animation: topBubbles ease-in-out 0.75s forwards;
+  animation: topBubbles ease-in-out 0.75s forwards;
 }
 
 .bubbly-button.animate:after {
   display: block;
   -webkit-animation: bottomBubbles ease-in-out 0.75s forwards;
-          animation: bottomBubbles ease-in-out 0.75s forwards;
+  animation: bottomBubbles ease-in-out 0.75s forwards;
 }
 
 @-webkit-keyframes topBubbles {

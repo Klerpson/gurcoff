@@ -5,7 +5,7 @@
 
 .carta h3 {
   font-size: 2em;
-  margin: 2em 0 ;
+  margin: 2em 0;
   color: var(--principal);
 }
 
@@ -22,10 +22,10 @@
   align-items: center;
   grid-template-columns: 150px 1fr;
   grid-template-rows: auto auto auto;
-  grid-template-areas: 
-  "a b"
-  "a c"
-  "a d";
+  grid-template-areas:
+    "a b"
+    "a c"
+    "a d";
 }
 
 .categoria article picture {

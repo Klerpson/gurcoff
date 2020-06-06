@@ -16,7 +16,7 @@
   --grisFuentes: rgb(36, 36, 36);
 
   /* hexadecimal */
-  --blanco: rgb(252, 250, 255);;
+  --blanco: rgb(252, 250, 255);
   --blancoRGBA: rgba(255, 250, 255, 0.8);
 
   /*** FUENTES ***/
@@ -24,7 +24,6 @@
   --fuenteTexto: 'Montserrat', sans-serif;
   --fuenteGraficas: 'Abril Fatface', cursive;
 }
-
 
 /*** Formatos Universales ***/
 html {
@@ -58,7 +57,7 @@ span {
 }
 
 section,
-main{
+main {
   margin: 5em 2.5em;
 }
 
@@ -79,56 +78,59 @@ button {
   margin: 2em 0;
 }
 
-.sticky-container{
-  padding:0px;
-  margin:0px;
-  position:fixed;
-  right:-129px;
-  top:270px;
-  width:210px;
+.sticky-container {
+  padding: 0px;
+  margin: 0px;
+  position: fixed;
+  right: -129px;
+  top: 270px;
+  width: 210px;
   z-index: 1100;
 }
-.sticky li{
-  list-style-type:none;
-  background-color:#fff;
-  color:#efefef;
-  height:43px;
-  padding:0;
-  margin:0 0 1px 0;
-  -webkit-transition:all 0.25s ease-in-out;
-  -moz-transition:all 0.25s ease-in-out;
-  -o-transition:all 0.25s ease-in-out;
-  transition:all 0.25s ease-in-out;
-  cursor:pointer;
+
+.sticky li {
+  list-style-type: none;
+  background-color: #fff;
+  color: #efefef;
+  height: 43px;
+  padding: 0;
+  margin: 0 0 1px 0;
+  transition: all 0.25s ease-in-out;
+  cursor: pointer;
   border-radius: 0.5em;
   opacity: 0.8;
 }
-.sticky li:hover{
-  margin-left:-115px;
+
+.sticky li:hover {
+  margin-left: -115px;
 }
-.sticky li img{
-  float:left;
-  margin:5px 4px;
-  margin-right:5px;
+
+.sticky li img {
+  float: left;
+  margin: 5px 4px;
+  margin-right: 5px;
 }
-.sticky li p{
-  padding-top:5px;
-  margin:0px;
-  line-height:16px;
-  font-size:11px;
+
+.sticky li p {
+  padding-top: 5px;
+  margin: 0px;
+  line-height: 16px;
+  font-size: 11px;
 }
-.sticky li p a{
-  text-decoration:none;
-  color:#2C3539;
+
+.sticky li p a {
+  text-decoration: none;
+  color: #2C3539;
 }
-.sticky li p a:hover{
-  text-decoration:underline;
+
+.sticky li p a:hover {
+  text-decoration: underline;
 }
 
 @media only screen and (min-width: 576px) {
 
   section,
-  main{
+  main {
     margin: 5em 6em;
   }
 }
@@ -173,10 +175,10 @@ header h1,
 .categoria article {
   border-radius: 0.7em;
   box-shadow: -15px -15px 15px rgba(255, 255, 255, 0),
-  15px 15px 15px rgba(0, 0, 0, 0),
-  inset 4px 4px 5px rgba(255, 255, 255, 0.8),
-  inset -4px -4px 5px rgba(0, 0, 0, 0.05),
-  0 50px 40px rgba(0, 0, 0, 0.05);
+    15px 15px 15px rgba(0, 0, 0, 0),
+    inset 4px 4px 5px rgba(255, 255, 255, 0.8),
+    inset -4px -4px 5px rgba(0, 0, 0, 0.05),
+    0 50px 40px rgba(0, 0, 0, 0.05);
 }
 
 nav {
@@ -195,14 +197,22 @@ nav ul {
   padding: 0;
 }
 
-nav li a {color: var(--blanco);}
+nav li a {
+  color: var(--blanco);
+}
 
-nav li a>span {display: none;}
+nav li a>span {
+  display: none;
+}
 
 @media screen and (min-width: 768px) {
-  nav li a>span {display: inline;}
+  nav li a>span {
+    display: inline;
+  }
 
-  nav {line-height: 1em;}
+  nav {
+    line-height: 1em;
+  }
 }
 
 /**** Header ****/
@@ -270,14 +280,14 @@ header picture img {
 
 @media only screen and (min-width: 992px) {
 
-  header{
+  header {
     padding: 0 12em;
   }
 
 
   header picture img {
     left: 60%;
-   }
+  }
 
 }
 
@@ -296,29 +306,29 @@ header picture img {
   justify-content: center;
 }
 
-.categorias div{
+.categorias div {
   background-color: #f6eeff;
   padding: 1em 1.2em;
   text-align: center;
 }
 
-.categorias div:nth-child(1) a{
+.categorias div:nth-child(1) a {
   color: var(--principal);
 }
 
-.categorias div:nth-child(2) a{
+.categorias div:nth-child(2) a {
   color: var(--accion);
 }
 
-.categorias div:nth-child(3) a{
+.categorias div:nth-child(3) a {
   color: var(--complemento);
 }
 
-.categorias div:nth-child(4) a{
+.categorias div:nth-child(4) a {
   color: var(--amarillo);
 }
 
-.categorias div:nth-child(5) a{
+.categorias div:nth-child(5) a {
   color: var(--secundario);
 }
 
@@ -331,7 +341,7 @@ header picture img {
 .galeria article {
   position: relative;
   margin: 2em 0;
-  
+
 }
 
 .galeria h3 span {
@@ -343,6 +353,7 @@ header picture img {
 }
 
 @media screen and (min-width: 592px) {
+
   .categorias,
   .galeria {
     grid-template-columns: repeat(auto-fit, minmax(150px, auto));
@@ -364,37 +375,38 @@ header picture img {
 }
 
 hr .separador {
-    line-height: 1em;
-    position: relative;
-    outline: 0;
-    border: 0;
-    color: black;
-    text-align: center;
-    height: 1.5em;
-    opacity: .5;
+  line-height: 1em;
+  position: relative;
+  outline: 0;
+  border: 0;
+  color: black;
+  text-align: center;
+  height: 1.5em;
+  opacity: .5;
 
-    &:before {
-      content: '';
-      background: linear-gradient(to right, transparent, #818078, transparent);
-      position: absolute;
-      left: 0;
-      top: 50%;
-      width: 100%;
-      height: 1px;
-    }
-    &:after {
-      content: attr(data-content);
-      position: relative;
-      display: inline-block;
-      color: black;
-  
-      padding: 0 .5em;
-      line-height: 1.5em;
-      // this is really the only tricky part, you need to specify the background color of the container element...
-      color: #818078;
-      background-color: #fcfcfa;
-    }
+  &:before {
+    content: '';
+    background: linear-gradient(to right, transparent, #818078, transparent);
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    height: 1px;
   }
+
+  &:after {
+    content: attr(data-content);
+    position: relative;
+    display: inline-block;
+    color: black;
+
+    padding: 0 .5em;
+    line-height: 1.5em;
+    color: #818078;
+    background-color: #fcfcfa;
+  }
+}
+
 hr.separador {
   line-height: 1em;
   position: relative;
@@ -405,9 +417,9 @@ hr.separador {
   height: 1.5em;
   opacity: .5;
 }
+
 hr.separador:before {
   content: '';
-  background: -webkit-gradient(linear, left top, right top, from(transparent), color-stop(#818078), to(transparent));
   background: linear-gradient(to right, transparent, #818078, transparent);
   position: absolute;
   left: 0;
@@ -415,6 +427,7 @@ hr.separador:before {
   width: 100%;
   height: 1px;
 }
+
 hr.separador:after {
   content: attr(data-content);
   position: relative;
@@ -426,13 +439,12 @@ hr.separador:after {
   background-color: #fcfcfa;
 }
 
-
 .bubbly-button {
   display: inline-block;
   padding: 0.7em;
   -webkit-appearance: none;
   -moz-appearance: none;
-       appearance: none;
+  appearance: none;
   background-color: #f6eeff;
   color: var(--principal);
   border-radius: 10px;
@@ -482,13 +494,13 @@ hr.separador:after {
 .bubbly-button.animate:before {
   display: block;
   -webkit-animation: topBubbles ease-in-out 0.75s forwards;
-          animation: topBubbles ease-in-out 0.75s forwards;
+  animation: topBubbles ease-in-out 0.75s forwards;
 }
 
 .bubbly-button.animate:after {
   display: block;
   -webkit-animation: bottomBubbles ease-in-out 0.75s forwards;
-          animation: bottomBubbles ease-in-out 0.75s forwards;
+  animation: bottomBubbles ease-in-out 0.75s forwards;
 }
 
 @-webkit-keyframes topBubbles {
@@ -550,7 +562,6 @@ hr.separador:after {
     background-size: 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%;
   }
 }
-
 
  .publicidad {
    position: relative;
@@ -621,7 +632,7 @@ hr.separador:after {
 
 .carta h3 {
   font-size: 2em;
-  margin: 2em 0 ;
+  margin: 2em 0;
   color: var(--principal);
 }
 
@@ -638,10 +649,10 @@ hr.separador:after {
   align-items: center;
   grid-template-columns: 150px 1fr;
   grid-template-rows: auto auto auto;
-  grid-template-areas: 
-  "a b"
-  "a c"
-  "a d";
+  grid-template-areas:
+    "a b"
+    "a c"
+    "a d";
 }
 
 .categoria article picture {
@@ -679,7 +690,8 @@ hr.separador:after {
   font-family: var(--fuenteGraficas);
 }
 
-.footer h4, .footer p {
+.footer h4,
+.footer p {
   color: #fff;
 }
 
@@ -702,7 +714,7 @@ figure.img-contacto-2 {
   color: var(--principal);
 }
 
-.instagram{
+.instagram {
   font-size: 1.2em;
   font-family: var(--fuenteTitulos);
   text-align: center;
@@ -716,7 +728,9 @@ figure.img-contacto-2 {
   font-family: var(--fuenteTitulos);
 }
 
-.contacto-footer h3 {color: var(--principal);}
+.contacto-footer h3 {
+  color: var(--principal);
+}
 
 .contacto-footer li {
   line-height: 1.7em;
@@ -762,7 +776,9 @@ figure.img-contacto-2 {
   margin: 0;
 }
 
-.articulo {position: relative;}
+.articulo {
+  position: relative;
+}
 
 .articulo li {
   margin-bottom: 1em;
@@ -771,18 +787,19 @@ figure.img-contacto-2 {
 .articulo table {
   margin-bottom: 3em;
 }
+
 .articulo table td {
   padding: 0.5em;
 }
 
 @media screen and (min-width: 768px) {
-.articulo img {
-      position: relative;
-      overflow: hidden;
-      width: 300px;
-      float: right;
-      margin-left: 2em;
-    }
+  .articulo img {
+    position: relative;
+    overflow: hidden;
+    width: 300px;
+    float: right;
+    margin-left: 2em;
+  }
 }
 
 .swiper {
@@ -812,7 +829,6 @@ figure.img-contacto-2 {
 
 .share-box a {
   display: inline-block;
-  -webkit-box-shadow: 0 0 1px #777;
   box-shadow: 0 0 1px #777;
   padding: 5px 12px;
   margin-right: 5px;
@@ -822,8 +838,6 @@ figure.img-contacto-2 {
 
 .share-box a:hover {
   text-decoration: none;
-  -webkit-transition: background-color 200ms linear;
-  -ms-transition: background-color 200ms linear;
   transition: background-color 200ms linear;
 }
 

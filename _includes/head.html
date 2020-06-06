@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
-  <meta itemprop="description"
+  <meta name="description"
     content="{% if page.description %}{{ page.description }}{% else %}{{ site.name }}{% endif %}" />
   <meta name="keywords"
     content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.name }} - {{ page.title }}{% endif %}" />
@@ -15,8 +15,8 @@
   <meta name="country" content="COL" />
   <meta name="theme-color" content="#c13ff5" />
   <meta name="generator" content="Jekyll 3.8.0" />
-  <meta name="author" content="https://klerpson.github.io/julianfran/" />
-  <meta name="copyright" content="Julian Franco" />
+  <meta name="author" content="{% if page.autor %}{{ page.autor }}{% else %}{{site.name}}{% endif %}" />
+  <meta name="copyright" content="{% if page.copyright %}{{ page.copyright }}{% else %}{{site.name}}{% endif %}" />
   <meta name="owner" content="Julian Andres Franco Bedoya" />
 
   <!-- Favicon -->

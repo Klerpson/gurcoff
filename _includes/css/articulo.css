@@ -14,7 +14,9 @@
   margin: 0;
 }
 
-.articulo {position: relative;}
+.articulo {
+  position: relative;
+}
 
 .articulo li {
   margin-bottom: 1em;
@@ -23,16 +25,17 @@
 .articulo table {
   margin-bottom: 3em;
 }
+
 .articulo table td {
   padding: 0.5em;
 }
 
 @media screen and (min-width: 768px) {
-.articulo img {
-      position: relative;
-      overflow: hidden;
-      width: 300px;
-      float: right;
-      margin-left: 2em;
-    }
+  .articulo img {
+    position: relative;
+    overflow: hidden;
+    width: 300px;
+    float: right;
+    margin-left: 2em;
+  }
 }

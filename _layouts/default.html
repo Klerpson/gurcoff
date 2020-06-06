@@ -3,14 +3,9 @@
 {% include head.html %}
 
 <body>
-
-
   {% include nav.html %}
-
   {{ content }}
-
   {% include redes.html %}
-
   <!-- Load Facebook SDK for JavaScript -->
   <div id="fb-root"></div>
   <script>
@@ -20,7 +15,6 @@
         version: 'v7.0'
       });
     };
-
     (function (d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
@@ -30,22 +24,17 @@
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
   </script>
-
   <!-- Your Chat Plugin code -->
   <div class="fb-customerchat" attribution=setup_tool page_id="107799337289270" theme_color="#7646ff"
-    logged_in_greeting="😊 Bienvenid@ a GurCoff. Mira nuestra carta aquí: 👉 https://wa.me/c/573115245225"
-    logged_out_greeting="😊 Bienvenid@ a GurCoff. Mira nuestra carta aquí: 👉 https://wa.me/c/573115245225">
+    logged_in_greeting="😊 Bienvenid@ a GurCoff. Mira nuestra carta aquí: 👉 https://gurcoff.com/carta/"
+    logged_out_greeting="😊 Bienvenid@ a GurCoff. Mira nuestra carta aquí: 👉 https://gurcoff.com/carta/">
   </div>
-
 </body>
-
 <script>
   var animateButton = function (e) {
-
     e.preventDefault;
     //reset animation
     e.target.classList.remove('animate');
-
     e.target.classList.add('animate');
     setTimeout(function () {
       e.target.classList.remove('animate');
@@ -58,7 +47,6 @@
     bubblyButtons[i].addEventListener('click', animateButton, false);
   }
 </script>
-
 <!-- Initialize Swiper -->
 <script src="{{ site.baseurl }}/js/swiper.min.js"></script>
 <script>
@@ -81,6 +69,5 @@
     },
   });
 </script>
-
 
 </html>

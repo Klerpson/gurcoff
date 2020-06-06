@@ -14,12 +14,20 @@ nav ul {
   padding: 0;
 }
 
-nav li a {color: var(--blanco);}
+nav li a {
+  color: var(--blanco);
+}
 
-nav li a>span {display: none;}
+nav li a>span {
+  display: none;
+}
 
 @media screen and (min-width: 768px) {
-  nav li a>span {display: inline;}
+  nav li a>span {
+    display: inline;
+  }
 
-  nav {line-height: 1em;}
+  nav {
+    line-height: 1em;
+  }
 }

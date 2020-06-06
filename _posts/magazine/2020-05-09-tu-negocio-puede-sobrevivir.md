@@ -12,6 +12,8 @@ p1: img/publicidad/colageno.png
 p1w: img/publicidad/colageno.webp
 p1url: https://wa.me/573218301698?text=%20Hola!%20Vi%20en%20gurcoff%20web%20este%20producto:%20Colageno.%20Quiero%20pedirlo%20
 altp: Colágeno de Natural One Life
+autor: Julian Andres Franco Bedoya
+copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 ---
 Te comparto lo que hemos hecho para **ayudar a nuestro negocio a sobrevivir** la crisis económica.

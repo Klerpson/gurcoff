@@ -13,7 +13,8 @@
   font-family: var(--fuenteGraficas);
 }
 
-.footer h4, .footer p {
+.footer h4,
+.footer p {
   color: #fff;
 }
 
@@ -36,7 +37,7 @@ figure.img-contacto-2 {
   color: var(--principal);
 }
 
-.instagram{
+.instagram {
   font-size: 1.2em;
   font-family: var(--fuenteTitulos);
   text-align: center;
@@ -50,7 +51,9 @@ figure.img-contacto-2 {
   font-family: var(--fuenteTitulos);
 }
 
-.contacto-footer h3 {color: var(--principal);}
+.contacto-footer h3 {
+  color: var(--principal);
+}
 
 .contacto-footer li {
   line-height: 1.7em;
