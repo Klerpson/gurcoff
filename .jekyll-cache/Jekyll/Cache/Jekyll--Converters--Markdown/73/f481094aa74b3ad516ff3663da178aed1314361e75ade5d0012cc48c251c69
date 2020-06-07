@@ -11,7 +11,7 @@
       <div class="swiper-slide">
         <picture class="producto-img">
           <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/acida/acida1.webp" />
-          <img src="/img/acida/acida1.png" alt="Copa Ácida GurCorff de San Agustín Huila" />
+          <img src="/img/acida/acida1.jpg" alt="Copa Ácida GurCorff de San Agustín Huila" />
         </picture>
       </div>
       <div class="swiper-slide">
