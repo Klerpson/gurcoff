@@ -74,6 +74,15 @@
   
     {
 
+      "title"    : "Milkshake Morenita",
+      "url"      : "/milkshakes/morenita/",
+      "category" : "Milkshakes",
+      "tags"     : "Malteada, Chocolate, Morenita, milkshake"
+
+    } ,
+  
+    {
+
       "title"    : "Copa de Doble Helado Ácida",
       "url"      : "/copas/acida/",
       "category" : "Copas",
@@ -120,7 +129,7 @@
     {
 
       "title"    : "Milkshake GurCoff",
-      "url"      : "/milkshakes/sencillo/",
+      "url"      : "/milkshakes/gurcoff/",
       "category" : "Milkshakes",
       "tags"     : "Malteadas, Milkshakes, Brownie"
 

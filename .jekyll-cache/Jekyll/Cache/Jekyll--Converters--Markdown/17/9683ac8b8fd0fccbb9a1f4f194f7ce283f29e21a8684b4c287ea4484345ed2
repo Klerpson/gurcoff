@@ -1,4 +1,4 @@
-I"C<p>Una opción al alcance de todos. Así todos podemos disfrutar el helado favorito de San Agustín Huila.</p>
+I"<p>Los que <strong>amamos el chocolate</strong>, encontramos un tesoro delicioso en esta copa.</p>
 
 <!-- excerpt -->
 
@@ -10,26 +10,26 @@
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <picture class="producto-img">
-          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/vasito/vasito1.webp" />
-          <img src="/img/vasito/vasito1.png" alt="Brownie Especial para Calentar de San Agustín Huila" />
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/morenita/morenita1.webp" />
+          <img src="/img/morenita/morenita1.jpg" alt="Copa Achocolatada de San Agustín Huila" />
         </picture>
       </div>
       <div class="swiper-slide">
         <picture class="producto-img">
-          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/vasito/vasito2.webp" />
-          <img src="/img/vasito/vasito2.png" alt="Brownie Especial para Calentar de San Agustín Huila" />
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/morenita/morenita4.webp" />
+          <img src="/img/morenita/morenita4.jpg" alt="Copa Achocolatada de San Agustín Huila" />
         </picture>
       </div>
       <div class="swiper-slide">
         <picture class="producto-img">
-          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/vasito/vasito3.webp" />
-          <img src="/img/vasito/vasito3.jpg" alt="Brownie Especial para Calentar de San Agustín Huila" />
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/morenita/morenita5.webp" />
+          <img src="/img/morenita/morenita5.jpg" alt="Copa Achocolatada de San Agustín Huila" />
         </picture>
       </div>
       <div class="swiper-slide">
         <picture class="producto-img">
-          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/vasito/vasito4.webp" />
-          <img src="/img/vasito/vasito4.jpg" alt="Brownie Especial para Calentar de San Agustín Huila" />
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/morenita/morenita10.webp" />
+          <img src="/img/morenita/morenita10.jpg" alt="Copa Achocolatada de San Agustín Huila" />
         </picture>
       </div>
     </div>
@@ -46,28 +46,36 @@
   <tbody>
     <tr>
       <td><em>🍦 Helado</em></td>
-      <td>Contiene una porción de helado. <strong>La cantidad dependerá del tamaño que compres</strong>: chiquito, mediano o El Grandote</td>
+      <td>Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos</td>
     </tr>
     <tr>
-      <td><em>🍬🍭🍓 Toppin</em></td>
-      <td>El chiquito incluye un solo topin gratis. El mediano y El Grandote incluyen 2</td>
+      <td><em>🥮 Brownie seco</em></td>
+      <td>Agrega una agradable textura al final de la copa. Este se humedece a medida que el helado derrite. Es delicioso</td>
     </tr>
     <tr>
-      <td><em>🍶 Salsa</em></td>
-      <td>Escoge 1 gratis: leche condensada, chocolate, fresa, mora, maracuyá, kiwi o arequipe</td>
+      <td><em>🍫 Chococripis</em></td>
+      <td>Arroz inflado con chocolate crocante</td>
     </tr>
     <tr>
-      <td><em>🍒🥝🧀 Adicionales</em></td>
-      <td>Puedes pedir más adiciones. Golosinas por $800 más. Frutas por $1000 más. Especiales por $1500 más. En nuestro <a href="https://wa.me/573115245225">WhatsApp</a> puedes pedir la lista completa</td>
+      <td><em>🍫 Chocomelos</em></td>
+      <td>Mashmellow bañado en chocolate</td>
+    </tr>
+    <tr>
+      <td><em>🍫Perlas achocolatadas</em></td>
+      <td>Más crocante de chocolate fino</td>
+    </tr>
+    <tr>
+      <td><em>🍫 Salsa</em></td>
+      <td>Baño de chocolate</td>
     </tr>
   </tbody>
 </table>
 
-<p>Su valor es de <strong>$3000, 5000 y 6000</strong>. ¿Quieres pedir uno? Escríbenos:</p>
+<p>Su valor es de <strong>$9500</strong>. ¿Quieres pedir uno? Escríbenos:</p>
 
 <p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
 
-<h2 id="qué-opinan-en-san-agustín-del-vaso-de-helado-gurcoff">Qué opinan en San Agustín del Vaso de Helado GurCoff</h2>
+<h2 id="qué-opinan-en-san-agustín-del-milkshake-morenita">Qué opinan en San Agustín del Milkshake Morenita</h2>
 
 <blockquote>
   <p><strong>En Facebook <a href="https://facebook.com/gurcoff">@GurCoff</a> - Will Burnell:</strong> Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
