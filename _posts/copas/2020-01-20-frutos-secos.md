@@ -3,7 +3,7 @@ layout: articulo
 title: Copa de Doble Helado Frutos Secos
 description: Copa con frutos secos y Helado Suave GurCoff
 keywords: copa de Helado, frutos secos, mani san agustin, arequipe san agustin, cereales san agustin
-tags: [Copas, Frutos Secos, Mani, Granola, Brownie]
+tags: [Copas, Frutos Secos, Brownie]
 category: Copas
 precio: 9500
 hero: img/frutossecos/frutossecos.png

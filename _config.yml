@@ -17,3 +17,13 @@ maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.658512949201!2d
 permalink: /:categories/:title/
 
 markdown: kramdown
+
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []

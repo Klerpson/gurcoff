@@ -3,7 +3,7 @@ layout: articulo
 title: Tu negocio en San Agustín puede sobrevivir
 description: Algunos métodos que te pueden ayudar a salvar tu negocio ante la crisis económica.
 keywords: covid-19, crisis, negocios en crisis, salvar negocio
-tags: [negocio, san_agustin, crisis, magazine, blog]
+tags: [magazine, Negocios, San Agustín, Crisis]
 nuevo: si
 src: img/magazine/2020-05-09/san-agustin.jpg
 webp: img/magazine/2020-05-09/san-agustin.webp

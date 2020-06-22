@@ -3,7 +3,7 @@ layout: articulo
 title: Copa de Doble Helado Achocolatada
 description: Copa con chocolates y doble Porción de Helado Suave con adiciones de fruta o golocinas
 keywords: copa de Helado, helados, doble helado, chocolates
-tags: [Copas, Chocolate]
+tags: [Copas, Chocolate, Dulce]
 category: Copas
 precio: 9000
 principal: si

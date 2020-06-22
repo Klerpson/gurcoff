@@ -3,7 +3,7 @@ layout: articulo
 title: Copa de Doble Helado Frutos Rojos
 description: Copa con frutos rojos frescos y en conserva. La mejor de San Agustín.
 keywords: copa de Helado, frutos rojos, helado suave con fruta, cerezas san agustin, moras san agustin, fresas san agustin, helados san agustín huila, helados san agustin huila
-tags: [Copas, Frutas, Frutos rojos, Fresas, Cerezas, Moras]
+tags: [Copas, Frutas, Fresas, Cerezas]
 category: Copas
 precio: 9500
 src: img/frutosrojos/frutosrojos1.png

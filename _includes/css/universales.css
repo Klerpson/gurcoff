@@ -100,6 +100,27 @@ button {
   text-decoration: underline;
 }
 
+.rect {
+  border-top: 3px solid #333;
+  border-bottom: 3px solid #333;
+  padding-top: 15px;
+}
+
+.rel {
+  width: 150px;
+  display: inline-block;
+  padding: 0 20px;
+  opacity: 0.8;
+}
+
+.rel img {
+  max-width: 100%;
+}
+
+.rel hover {
+   opacity: 1;    
+}
+
 @media only screen and (min-width: 576px) {
 
   section,
