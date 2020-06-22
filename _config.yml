@@ -18,6 +18,9 @@ permalink: /:categories/:title/
 
 markdown: kramdown
 
+plugins:
+  - jekyll-sitemap
+
 compress_html:
     clippings: []
     comments: []
