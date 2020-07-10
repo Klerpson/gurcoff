@@ -2,22 +2,22 @@
 
   /*** COLORES ***/
   /* rgb */
-  --principal: #c13ff5;
-  --secundario: #5aa9e6;
-  --complemento: #7fc8f8;
-  --accion: #ff6392;
-  --amarillo: #ffe45e;
-  --verde: #39eb5f;
+  --principal: #D88AF7;
+  --secundario: #C13FF5;
+  --complemento: #FA359B;
+  --accion: #9932C2;
+  --amarillo: #ffea81;
+  --verde: #82ecff;
 
   --gris1: rgba(191, 191, 191, 1);
   --gris2: rgba(140, 140, 140, 1);
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
-  --grisFuentes: rgb(36, 36, 36);
+  --grisFuentes: rgb(37, 37, 37);
 
   /* hexadecimal */
-  --blanco: rgb(252, 250, 255);
-  --blancoRGBA: rgba(255, 250, 255, 0.8);
+  --blanco: rgb(255, 255, 255);
+  --blancoRGBA: rgba(255, 255, 255, 0.8);
 
   /*** FUENTES ***/
   --fuenteTitulos: 'Gotu', sans-serif;
@@ -39,7 +39,7 @@ body {
 a {
   text-decoration: none;
   font-family: var(--fuenteTexto);
-  color: var(--accion);
+  color: var(--secundario);
 }
 
 li {
@@ -78,6 +78,8 @@ button {
   margin: 2em 0;
 }
 
+q {font-family: var(--fuenteGraficas);}
+
 .sticky-container {
   padding: 0px;
   margin: 0px;
@@ -98,7 +100,6 @@ button {
   transition: all 0.25s ease-in-out;
   cursor: pointer;
   border-radius: 0.5em;
-  opacity: 0.8;
 }
 
 .sticky li:hover {
@@ -206,7 +207,7 @@ nav {
   position: fixed;
   bottom: 0;
   left: 0;
-  background-color: var(--secundario);
+  background-color: var(--accion);
   z-index: 10;
 }
 
@@ -244,11 +245,11 @@ header {
   grid-template-columns: 2fr 1fr;
   justify-content: center;
   align-items: center;
-  background: rgb(177, 88, 232);
+  background: var(--principal);
   margin: 0;
   padding: 0;
   height: 50vh;
-  overflow-y: hidden;
+  overflow: hidden;
 }
 
 header h1 {
@@ -321,40 +322,21 @@ header picture img {
 
 .categorias {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(120px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(100px, auto));
   grid-gap: 0.5em;
   align-items: center;
   justify-content: center;
 }
 
 .categorias div {
-  background-color: #f6eeff;
-  padding: 1em 1.2em;
+  background-color: #faf6ff;
+  padding: 0.7em 1em;
   text-align: center;
+  font-size: 1rem;
 }
 
-.categorias div:nth-child(1) a {
-  color: var(--principal);
-}
-
-.categorias div:nth-child(2) a {
-  color: var(--verde);
-}
-
-.categorias div:nth-child(3) a {
-  color: var(--secundario);
-}
-
-.categorias div:nth-child(4) a {
+.categorias div a {
   color: var(--accion);
-}
-
-.categorias div:nth-child(5) a {
-  color: var(--complemento);
-}
-
-.categorias div:nth-child(6) a {
-  color: var(--amarillo);
 }
 
 .galeria {
@@ -381,7 +363,7 @@ header picture img {
 
   .categorias,
   .galeria {
-    grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(120px, auto));
     grid-gap: 1em;
   }
 
@@ -470,8 +452,8 @@ hr.separador:after {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background-color: #f6eeff;
-  color: var(--principal);
+  background-color: #fcf9ff;
+  color: var(--secundario);
   border-radius: 10px;
   border: none;
   cursor: pointer;
@@ -499,21 +481,21 @@ hr.separador:after {
 .bubbly-button:before {
   display: none;
   top: -75%;
-  background-image: radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, transparent 20%, #7fc8f8 20%, transparent 30%), radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, transparent 10%, #7fc8f8 15%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%);
+  background-image: radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, transparent 20%, #C13FF5 20%, transparent 30%), radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, transparent 10%, #C13FF5 15%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%);
   background-size: 10% 10%, 20% 20%, 15% 15%, 20% 20%, 18% 18%, 10% 10%, 15% 15%, 10% 10%, 18% 18%;
 }
 
 .bubbly-button:after {
   display: none;
   bottom: -75%;
-  background-image: radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, transparent 10%, #7fc8f8 15%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%), radial-gradient(circle, #7fc8f8 20%, transparent 20%);
+  background-image: radial-gradient(circle, #c13ff5 20%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, transparent 10%, #C13FF5 15%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%), radial-gradient(circle, #C13FF5 20%, transparent 20%);
   background-size: 15% 15%, 20% 20%, 18% 18%, 20% 20%, 15% 15%, 10% 10%, 20% 20%;
 }
 
 .bubbly-button:active {
   transform: scale(0.9);
-  background-color: rgb(90, 169, 230);
-  box-shadow: 0 2px 25px rgba(90, 169, 230, 0.2);
+  background-color: var(--secundario);
+  box-shadow: 0 2px 25px rgba(193, 66, 245, 0.2);
 }
 
 .bubbly-button.animate:before {

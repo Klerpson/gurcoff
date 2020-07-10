@@ -12,7 +12,7 @@ body {
 a {
   text-decoration: none;
   font-family: var(--fuenteTexto);
-  color: var(--accion);
+  color: var(--secundario);
 }
 
 li {
@@ -51,6 +51,8 @@ button {
   margin: 2em 0;
 }
 
+q {font-family: var(--fuenteGraficas);}
+
 .sticky-container {
   padding: 0px;
   margin: 0px;
@@ -71,7 +73,6 @@ button {
   transition: all 0.25s ease-in-out;
   cursor: pointer;
   border-radius: 0.5em;
-  opacity: 0.8;
 }
 
 .sticky li:hover {

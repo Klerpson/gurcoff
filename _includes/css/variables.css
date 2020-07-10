@@ -2,22 +2,22 @@
 
   /*** COLORES ***/
   /* rgb */
-  --principal: #c13ff5;
-  --secundario: #5aa9e6;
-  --complemento: #7fc8f8;
-  --accion: #ff6392;
-  --amarillo: #ffe45e;
-  --verde: #39eb5f;
+  --principal: #D88AF7;
+  --secundario: #C13FF5;
+  --complemento: #FA359B;
+  --accion: #9932C2;
+  --amarillo: #ffea81;
+  --verde: #82ecff;
 
   --gris1: rgba(191, 191, 191, 1);
   --gris2: rgba(140, 140, 140, 1);
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
-  --grisFuentes: rgb(36, 36, 36);
+  --grisFuentes: rgb(37, 37, 37);
 
   /* hexadecimal */
-  --blanco: rgb(252, 250, 255);
-  --blancoRGBA: rgba(255, 250, 255, 0.8);
+  --blanco: rgb(255, 255, 255);
+  --blancoRGBA: rgba(255, 255, 255, 0.8);
 
   /*** FUENTES ***/
   --fuenteTitulos: 'Gotu', sans-serif;

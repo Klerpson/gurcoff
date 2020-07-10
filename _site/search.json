@@ -38,7 +38,7 @@
   
     {
 
-      "title"    : "Café Orgánico con Helado GurCoff",
+      "title"    : "Affogato GurCoff",
       "url"      : "/caf%C3%A9s/affogato-gurcoff/",
       "category" : "Cafés",
       "tags"     : "Cafe, Postre"
@@ -75,8 +75,8 @@
     {
 
       "title"    : "Milkshake Morenita",
-      "url"      : "/milkshakes/morenita/",
-      "category" : "Milkshakes",
+      "url"      : "/malteadas/morenita/",
+      "category" : "Malteadas",
       "tags"     : "Malteada, Chocolate, Milkshake"
 
     } ,
@@ -102,8 +102,8 @@
     {
 
       "title"    : "Milkshake Especial GurCoff",
-      "url"      : "/milkshakes/especial/",
-      "category" : "Milkshakes",
+      "url"      : "/malteadas/especial/",
+      "category" : "Malteadas",
       "tags"     : "Malteadas, Milkshake, Waffle"
 
     } ,
@@ -129,8 +129,8 @@
     {
 
       "title"    : "Milkshake GurCoff",
-      "url"      : "/milkshakes/gurcoff/",
-      "category" : "Milkshakes",
+      "url"      : "/malteadas/gurcoff/",
+      "category" : "Malteadas",
       "tags"     : "Malteadas, Milkshake, Brownie"
 
     } ,

@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Café Orgánico con Helado GurCoff
+title: Affogato GurCoff
 description: Café orgánico expreso con Helado de Vainilla en su interior.
 keywords: café con helado, café y helado, postre de café, affogato
 principal: si
