@@ -1,5 +1,4 @@
 /*** Formatos Compartidos ***/
-.foto img,
 .publicidad {
   border-radius: 15px;
 }
@@ -7,10 +6,6 @@
 header h1,
 .logo {
   text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.3);
-}
-
-.foto img {
-  box-shadow: 0 7px 21px rgba(0, 0, 0, 0.3);
 }
 
 .bubbly-button,

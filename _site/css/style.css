@@ -7,7 +7,7 @@
   --complemento: #FA359B;
   --accion: #9932C2;
   --amarillo: #ffea81;
-  --verde: #82ecff;
+  --azul: #82ecff;
 
   --gris1: rgba(191, 191, 191, 1);
   --gris2: rgba(140, 140, 140, 1);
@@ -178,7 +178,6 @@ q {font-family: var(--fuenteGraficas);}
 }
 
 /*** Formatos Compartidos ***/
-.foto img,
 .publicidad {
   border-radius: 15px;
 }
@@ -186,10 +185,6 @@ q {font-family: var(--fuenteGraficas);}
 header h1,
 .logo {
   text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.3);
-}
-
-.foto img {
-  box-shadow: 0 7px 21px rgba(0, 0, 0, 0.3);
 }
 
 .bubbly-button,
@@ -341,22 +336,40 @@ header picture img {
 
 .galeria {
   display: grid;
-  grid-gap: 1em;
+  grid-gap: 3em 2em;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  align-items: flex-start;
 }
 
 .galeria article {
   position: relative;
-  margin: 2em 0;
-
+  margin: 0;
+  padding: 1em 0.7em;
+  background-color: var(--azul);
+  border-radius: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.9em;
 }
 
-.galeria h3 span {
-  color: var(--secundario);
+.galeria article a {
+  color: var(--complemento);
+  margin: 0;
+  font-size: 2.5em;
+  position: absolute;
+  bottom: -2rem;
+  right: 0;
+}
+
+.galeria h4 {
+  margin: 0;
 }
 
 .foto img {
   max-width: 100%;
+  margin: 0;
 }
 
 @media screen and (min-width: 592px) {

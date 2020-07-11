@@ -39,7 +39,7 @@
     {
 
       "title"    : "Affogato GurCoff",
-      "url"      : "/caf%C3%A9s/affogato-gurcoff/",
+      "url"      : "/caf%C3%A9s/affogato/",
       "category" : "Cafés",
       "tags"     : "Cafe, Postre"
 
@@ -65,7 +65,7 @@
   
     {
 
-      "title"    : "Copa de Doble Helado Achocolatada",
+      "title"    : "Achocolatada",
       "url"      : "/copas/achocolatada/",
       "category" : "Copas",
       "tags"     : "Copas, Chocolate, Dulce"
@@ -83,8 +83,8 @@
   
     {
 
-      "title"    : "Copa de Doble Helado Ácida",
-      "url"      : "/copas/acida/",
+      "title"    : "Copa Maracuyá",
+      "url"      : "/copas/maracuya/",
       "category" : "Copas",
       "tags"     : "Copas, Frutas, Maracuyá"
 
@@ -101,7 +101,7 @@
   
     {
 
-      "title"    : "Milkshake Especial GurCoff",
+      "title"    : "Especial GurCoff",
       "url"      : "/malteadas/especial/",
       "category" : "Malteadas",
       "tags"     : "Malteadas, Milkshake, Waffle"
@@ -119,7 +119,7 @@
   
     {
 
-      "title"    : "Brownie Caliente GurCoff",
+      "title"    : "Brownie Caliente",
       "url"      : "/postres/brownie/",
       "category" : "Postres",
       "tags"     : "Postres, Brownie, Chocolate"
@@ -137,8 +137,8 @@
   
     {
 
-      "title"    : "Ensalada de Frutas GurCoff",
-      "url"      : "/ensalada/ensalada-de-frutas/",
+      "title"    : "Ensalada GurCoff",
+      "url"      : "/ensalada/ensalada-gurcoff/",
       "category" : "Ensalada",
       "tags"     : "Ensalada, Frutas, Postre"
 
@@ -146,7 +146,7 @@
   
     {
 
-      "title"    : "Copa de Doble Helado Óreo",
+      "title"    : "Copa Óreo",
       "url"      : "/copas/oreo/",
       "category" : "Copas",
       "tags"     : "Copas, Dulce, Chocolate"

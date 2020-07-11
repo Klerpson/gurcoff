@@ -19,22 +19,40 @@
 
 .galeria {
   display: grid;
-  grid-gap: 1em;
+  grid-gap: 3em 2em;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  align-items: flex-start;
 }
 
 .galeria article {
   position: relative;
-  margin: 2em 0;
-
+  margin: 0;
+  padding: 1em 0.7em;
+  background-color: var(--azul);
+  border-radius: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.9em;
 }
 
-.galeria h3 span {
-  color: var(--secundario);
+.galeria article a {
+  color: var(--complemento);
+  margin: 0;
+  font-size: 2.5em;
+  position: absolute;
+  bottom: -2rem;
+  right: 0;
+}
+
+.galeria h4 {
+  margin: 0;
 }
 
 .foto img {
   max-width: 100%;
+  margin: 0;
 }
 
 @media screen and (min-width: 592px) {

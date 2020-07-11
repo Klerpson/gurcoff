@@ -5,8 +5,8 @@
     <source type="image/webp" srcset="{{ site.baseurl }}/{{ galeria.webp }}">
     <img src="{{ site.baseurl }}/{{ galeria.src }}" class="wow flipInY" alt="{{ galeria.alt }}">
   </picture>
-    <h3>{{ galeria.title }} - ${{ galeria.precio }}</h3>
-    <a href="{{galeria.url}}" class="icon-chevron-circle-right"> Más información</a>
+    <h4>{{ galeria.title }} - ${{ galeria.precio }}</h4>
+    <a href="{{galeria.url}}" class="icon-chevron-circle-right"></a>
 </article>
 {% endif %}
 {% endfor %}

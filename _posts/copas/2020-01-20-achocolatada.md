@@ -1,16 +1,16 @@
 ---
 layout: articulo
-title: Copa de Doble Helado Achocolatada
+title: Achocolatada
 description: Copa con chocolates y doble Porción de Helado Suave con adiciones de fruta o golocinas
 keywords: copa de Helado, helados, doble helado, chocolates
 tags: [Copas, Chocolate, Dulce]
 category: Copas
 precio: 9000
 principal: si
+src: img/achocolatada/achocolatada1.jpg
+webp: img/achocolatada/achocolatada1.webp
 hero: img/achocolatada/choco2.png
 herow: img/achocolatada/choco2.webp
-src: img/achocolatada/choco4.jpg
-webp: img/achocolatada/choco4.webp
 alt: Copa con chocolates y doble porción de Helado GurCoff
 excerpt_separator: <!-- excerpt -->
 ---
