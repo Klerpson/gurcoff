@@ -344,7 +344,7 @@ header picture img {
 .galeria article {
   position: relative;
   margin: 0;
-  padding: 1em 0.7em;
+  padding: 0.5em;
   background-color: var(--azul);
   border-radius: 12px;
   display: flex;

@@ -1,35 +1,34 @@
-I"^<p>Esta es una combinación fascinante: <strong>el sabor del helado suave con el ácido de la fruta tropical</strong>.</p>
+I"W<p>Una montaña de sabores dulces y salados, texturas crocantes y suaves, temperaturas frías y calienticas. <strong>Es realmente el Especial</strong>.</p>
 
 <!-- excerpt -->
 
 <p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
 
-<!-- Swiper -->
 <section class="swiper">
   <div class="swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <picture class="producto-img">
-          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/acida/acida1.webp" />
-          <img src="/img/acida/acida1.jpg" alt="Copa Ácida GurCorff de San Agustín Huila" />
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/milkshake/milkshake1.webp" />
+          <img src="/img/milkshake/milkshake1.jpg" alt="Milkshake GurCoff de San Agustín Huila" />
         </picture>
       </div>
       <div class="swiper-slide">
         <picture class="producto-img">
-          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/acida/acida2.webp" />
-          <img src="/img/acida/acida2.jpg" alt="Copa Ácida GurCorff de San Agustín Huila" />
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/milkshake/milkshake2.webp" />
+          <img src="/img/milkshake/milkshake2.jpg" alt="Milkshake GurCoff de San Agustín Huila" />
         </picture>
       </div>
       <div class="swiper-slide">
         <picture class="producto-img">
-          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/acida/acida3.webp" />
-          <img src="/img/acida/acida3.jpg" alt="Copa Ácida GurCorff de San Agustín Huila" />
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/milkshake/milkshake3.webp" />
+          <img src="/img/milkshake/milkshake3.jpg" alt="Milkshake GurCoff de San Agustín Huila" />
         </picture>
       </div>
       <div class="swiper-slide">
         <picture class="producto-img">
-          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/acida/acida4.webp" />
-          <img src="/img/acida/acida4.jpg" alt="Copa Ácida GurCorff de San Agustín Huila" />
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/milkshake/milkshake4.webp" />
+          <img src="/img/milkshake/milkshake4.jpg" alt="Milkshake GurCoff de San Agustín Huila" />
         </picture>
       </div>
     </div>
@@ -45,37 +44,49 @@
   </thead>
   <tbody>
     <tr>
-      <td><em>🍦 Helado</em></td>
-      <td>Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos</td>
+      <td><em>🥤 Milkshake</em></td>
+      <td>Malteada con la receta de GurCoff</td>
     </tr>
     <tr>
-      <td><em>🍋 Maracuyá</em></td>
-      <td>Fruta tropical ácida de nuestra región. También utilizamos la gulupa, fruta autóctona de San Agustín</td>
+      <td><em>🍫 Chocolate</em></td>
+      <td>Chocolate derretido que baña el exterior del vaso</td>
     </tr>
     <tr>
-      <td><em>🥭 Mango</em></td>
-      <td>Puedes escoger la fruta madura o biche</td>
+      <td><em>🍪 Galleta Minichips</em></td>
+      <td>Galleta con trocitos de chocolate que bordea el vaso</td>
     </tr>
     <tr>
-      <td><em>🍪 Micro Mini Chips</em></td>
-      <td>La clásica galleta minichips en presentación pequeñita, ideal para dar crocante a la combinación</td>
+      <td><em>🥮 Brownie Especial</em></td>
+      <td>Agrega una agradable textura al milkshake. Es un brownie preparado en el Valle del Cauca</td>
     </tr>
     <tr>
-      <td><em>🥖 Palitos rellenos</em></td>
-      <td>Palitos rellenos de chocolate</td>
+      <td><em>🍓🍫 Fresas Achocolatadas</em></td>
+      <td>Fruta cosechada localmente, fresca y deliciosas, con cubierta de chocolate</td>
     </tr>
     <tr>
-      <td><em>🍶 Salsa</em></td>
-      <td>Baño de leche condensada</td>
+      <td><em>🌈 Cinta Arco Iris</em></td>
+      <td>Cinta de goma ácida y dulce</td>
+    </tr>
+    <tr>
+      <td><em>🧁 Chantilly</em></td>
+      <td>Crema chantilly</td>
+    </tr>
+    <tr>
+      <td><em>🍭 Bastón</em></td>
+      <td>Bastón de dulce y menta</td>
+    </tr>
+    <tr>
+      <td><em>🍒 Cerezas</em></td>
+      <td>Cereza sin palito</td>
     </tr>
   </tbody>
 </table>
 
-<p>Su valor es de <strong>$9500</strong>. ¿Quieres pedir uno? Escríbenos:</p>
+<p>Su valor es de <strong>$14000</strong>. ¿Quieres pedir uno? Escríbenos:</p>
 
 <p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
 
-<h2 id="qué-opinan-en-san-agustín-del-copa-de-doble-helado-ácida">Qué opinan en San Agustín del Copa de Doble Helado Ácida</h2>
+<h2 id="qué-opinan-en-san-agustín-del-milkshake">Qué opinan en San Agustín del Milkshake</h2>
 
 <blockquote>
   <p><strong>En Facebook <a href="https://facebook.com/gurcoff">@GurCoff</a> - Will Burnell:</strong> Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
