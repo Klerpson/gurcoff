@@ -8,31 +8,31 @@ herow: img/carta/carta.webp
 {% include header.html %}
 
 {% include redes.html %}
+
+<main class="carta">
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <h3 id="{{ category_name}}"> {{ category_name }}</h3>
+  <div class="categoria">
+    {% for post in site.categories[category_name] %}
+    <article class="wow fadeInRightBig">
+      <picture class="foto">
+        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
+        <img src="{{ site.baseurl }}/{{ post.src }}" class="wow flipInY" alt="{{ post.alt }}">
+      </picture>
+      <h4>{{ post.title }} - ${{ post.precio }}</h4>
+      <a href="{{post.url}}" class="icon-chevron-circle-right"></a>
+    </article>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</main>
+
 <section id="search-container">
   <h3>Encuentra lo que estás buscando:</h3>
   <input type="text" id="search-input" placeholder="Busca aquí...">
   <ul id="results-container"></ul>
 </section>
-
-<main class="carta">
-    {% for category in site.categories %}
-      {% capture category_name %}{{ category | first }}{% endcapture %}
-      <h3 id="{{ category_name}}"> {{ category_name }}</h3>
-      <div class="categoria">
-        {% for post in site.categories[category_name] %}
-        <article class="wow fadeInRightBig" data-wow-delay="0.3s">
-          <picture class="foto">
-            <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
-            <img src="{{ site.baseurl }}/{{ post.src }}" alt="{{ galeria.alt }}">
-          </picture>
-          <h4><span class="icon-{{ post.icon }}"></span> {{post.title}}</h4>
-          {{post.excerpt}}
-          <a href="{{ site.baseurl }}{{ post.url }}" class="icon-chevron-circle-right"> Ver más</a>
-        </article>
-        {% endfor %}
-      </div>
-    {% endfor %}
-</main>
 
 <section class="carta-footer">
   <h2> Heladería GurCoff </h2>

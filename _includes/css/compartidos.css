@@ -9,12 +9,78 @@ header h1,
 }
 
 .bubbly-button,
-.categorias div,
-.categoria article {
+.categorias div{
   border-radius: 0.7em;
   box-shadow: -15px -15px 15px rgba(255, 255, 255, 0),
     15px 15px 15px rgba(0, 0, 0, 0),
     inset 4px 4px 5px rgba(255, 255, 255, 0.8),
     inset -4px -4px 5px rgba(0, 0, 0, 0.05),
     0 50px 40px rgba(0, 0, 0, 0.05);
+}
+
+.galeria,
+.categoria {
+  display: grid;
+  grid-gap: 1.5em 2em;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  align-items: flex-start;
+}
+
+.galeria article,
+.categoria article {
+  position: relative;
+  margin: 0;
+  padding: 0.7em;
+  background-color: var(--azul);
+  border-radius: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.galeria article a,
+.categoria article a {
+  color: var(--complemento);
+  margin: 0;
+  font-size: 2.5em;
+  position: absolute;
+  bottom: -2rem;
+  right: -1rem;
+}
+
+.galeria h4,
+.categoria article h4 {
+  margin: 0;
+}
+
+.foto img,
+.categoria article {
+  margin: 0;
+  max-width: 100%;
+}
+
+@media screen and (min-width: 592px) {
+
+  .categoria,
+  .galeria {
+    grid-template-columns: repeat(auto-fill, minmax(120px, auto));
+    grid-gap: 1em;
+  }
+
+}
+
+@media screen and (min-width: 768px) {
+  .galeria,
+  .categoria {
+    grid-gap: 2em;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .galeria,
+  .categoria {
+    grid-gap: 3em;
+  }
 }
