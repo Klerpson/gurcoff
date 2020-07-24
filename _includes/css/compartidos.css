@@ -22,7 +22,7 @@ header h1,
 .categoria {
   display: grid;
   grid-gap: 1.5em 2em;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   align-items: flex-start;
 }
 
@@ -38,6 +38,7 @@ header h1,
   justify-content: center;
   text-align: center;
   font-size: 0.9em;
+  overflow: visible;
 }
 
 .galeria article a,
@@ -58,14 +59,12 @@ header h1,
 .foto img,
 .categoria article {
   margin: 0;
-  max-width: 100%;
 }
 
 @media screen and (min-width: 592px) {
 
   .categoria,
   .galeria {
-    grid-template-columns: repeat(auto-fill, minmax(120px, auto));
     grid-gap: 1em;
   }
 

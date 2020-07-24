@@ -1,0 +1,97 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>🍦 Helado</em></td>
+      <td>Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos</td>
+    </tr>
+    <tr>
+      <td><em>🍪 Galleta óreo</em></td>
+      <td>Galleta triturada y una completa sobre tu helado</td>
+    </tr>
+    <tr>
+      <td><em>🍬 M&amp;M’s</em></td>
+      <td>Chocolates pequeños de colores</td>
+    </tr>
+    <tr>
+      <td><em>🌰 Chips de chocolate</em></td>
+      <td>Mini chocolates</td>
+    </tr>
+    <tr>
+      <td><em>🍓 Fresas</em></td>
+      <td>Fruta fresca de la región</td>
+    </tr>
+    <tr>
+      <td><em>🍫 Salsa</em></td>
+      <td>Baño de chocolate</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Su valor es de <strong>$9000</strong>. ¿Quieres pedir uno? Escríbenos:</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<!-- Swiper -->
+<section class="swiper">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/oreo/oreo1.webp" />
+          <img src="/img/oreo/oreo1.jpg" alt="Copa de Galleta Óreo de GurCoff San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/oreo/oreo2.webp" />
+          <img src="/img/oreo/oreo2.jpg" alt="Copa de Galleta Óreo de GurCoff San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/oreo/oreo3.webp" />
+          <img src="/img/oreo/oreo3.jpg" alt="Copa de Galleta Óreo de GurCoff San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/oreo/oreo4.webp" />
+          <img src="/img/oreo/oreo4.jpg" alt="Copa de Galleta Óreo de GurCoff San Agustín Huila" />
+        </picture>
+      </div>
+    </div>
+  </div>
+</section>
+
+<blockquote>
+  <p>La <strong>galleta óreo</strong> combina muy bien con los helados. Y con nuestro helado, lo hace mucho mejor.</p>
+</blockquote>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-copa-óreo">Qué opinan en San Agustín del Copa Óreo</h2>
+
+<p><strong>En Facebook <a href="https://facebook.com/gurcoff">@GurCoff</a> - Will Burnell:</strong> Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
+
+<h3 id="deja-tu-opinión-también-en-tripadvisor-o-google-business">Deja tu opinión también en <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">TripAdvisor</a> o <a href="https://g.page/gurcoff/review?rc">Google Business</a></h3>
+
+<div id="condiciones">
+
+  <h3>Condiciones para domicilios</h3>
+
+  <ul>
+  <li class="icon-leaf"> El costo del domicilio en la zona urbana es de $1000.</li>
+
+  <li class="icon-leaf"> Las veredas cercanas cancelarán $2000 por domicilio.</li>
+
+  <li class="icon-leaf"> Las zonas rurales solo se atenderán según la disponibilidad de tiempo. En ocasiones hay mucho trabajo en la zona urbana y no alcanzamos a salir a la zona rural.</li>
+  </ul>
+
+</div>
+:ET

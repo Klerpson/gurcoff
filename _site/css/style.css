@@ -201,7 +201,7 @@ header h1,
 .categoria {
   display: grid;
   grid-gap: 1.5em 2em;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   align-items: flex-start;
 }
 
@@ -217,6 +217,7 @@ header h1,
   justify-content: center;
   text-align: center;
   font-size: 0.9em;
+  overflow: visible;
 }
 
 .galeria article a,
@@ -237,14 +238,12 @@ header h1,
 .foto img,
 .categoria article {
   margin: 0;
-  max-width: 100%;
 }
 
 @media screen and (min-width: 592px) {
 
   .categoria,
   .galeria {
-    grid-template-columns: repeat(auto-fill, minmax(120px, auto));
     grid-gap: 1em;
   }
 
@@ -778,6 +777,16 @@ figure.img-contacto-2 {
   padding: 0.5em;
 }
 
+.articulo blockquote p {
+  font-size: 2em;
+  text-align: center;
+}
+
+.rect h5 {
+  font-size: 1.2em;
+  text-align: center;
+}
+
 @media screen and (min-width: 768px) {
   .articulo img {
     position: relative;
@@ -797,8 +806,8 @@ figure.img-contacto-2 {
 
 .swiper-container {
   width: 100%;
-  padding-top: 50px;
-  padding-bottom: 200px;
+  padding-top: 20px;
+  padding-bottom: 150px;
 }
 
 .swiper-slide {
@@ -807,10 +816,6 @@ figure.img-contacto-2 {
   width: 150px;
   background-color: #fff;
   -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #0006);
-}
-
-.swiper-slide img {
-  max-width: 100%;
 }
 
 .share-box a {

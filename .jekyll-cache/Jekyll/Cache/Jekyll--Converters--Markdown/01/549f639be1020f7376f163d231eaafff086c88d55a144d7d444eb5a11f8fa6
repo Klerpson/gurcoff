@@ -1,0 +1,97 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>🍦 Helado</em></td>
+      <td>Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos</td>
+    </tr>
+    <tr>
+      <td><em>🍋 Maracuyá</em></td>
+      <td>Fruta tropical ácida de nuestra región. También utilizamos la gulupa, fruta autóctona de San Agustín</td>
+    </tr>
+    <tr>
+      <td><em>🥭 Mango</em></td>
+      <td>Puedes escoger la fruta madura o biche</td>
+    </tr>
+    <tr>
+      <td><em>🍪 Micro Mini Chips</em></td>
+      <td>La clásica galleta minichips en presentación pequeñita, ideal para dar crocante a la combinación</td>
+    </tr>
+    <tr>
+      <td><em>🥖 Palitos rellenos</em></td>
+      <td>Palitos rellenos de chocolate</td>
+    </tr>
+    <tr>
+      <td><em>🍶 Salsa</em></td>
+      <td>Baño de leche condensada</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Su valor es de <strong>$9500</strong>. ¿Quieres pedir uno? Escríbenos:</p>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<!-- Swiper -->
+<section class="swiper">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/acida/acida1.webp" />
+          <img src="/img/acida/acida1.jpg" alt="Copa Ácida GurCorff de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/acida/acida2.webp" />
+          <img src="/img/acida/acida2.jpg" alt="Copa Ácida GurCorff de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/acida/acida3.webp" />
+          <img src="/img/acida/acida3.jpg" alt="Copa Ácida GurCorff de San Agustín Huila" />
+        </picture>
+      </div>
+      <div class="swiper-slide">
+        <picture class="producto-img">
+          <source media="(max-width: 325px)" type="image/webp" srcset="/img/achocolatada/acida/acida4.webp" />
+          <img src="/img/acida/acida4.jpg" alt="Copa Ácida GurCorff de San Agustín Huila" />
+        </picture>
+      </div>
+    </div>
+  </div>
+</section>
+
+<blockquote>
+  <p>Esta es una combinación fascinante: <strong>el sabor del helado suave con el ácido de la fruta tropical</strong>.</p>
+</blockquote>
+
+<p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
+
+<h2 id="qué-opinan-en-san-agustín-del-copa-maracuyá">Qué opinan en San Agustín del Copa Maracuyá</h2>
+
+<p><strong>En Facebook <a href="https://facebook.com/gurcoff">@GurCoff</a> - Will Burnell:</strong> Very excellent icecream and frozen yoghurt. I have tried the Vanilla and the plain and always with Maracuya syrup. Riquisima!</p>
+
+<h3 id="deja-tu-opinión-también-en-tripadvisor-o-google-business">Deja tu opinión también en <a href="https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905">TripAdvisor</a> o <a href="https://g.page/gurcoff/review?rc">Google Business</a></h3>
+
+<div id="condiciones">
+
+  <h3>Condiciones para domicilios</h3>
+
+  <ul>
+  <li class="icon-leaf"> El costo del domicilio en la zona urbana es de $1000.</li>
+
+  <li class="icon-leaf"> Las veredas cercanas cancelarán $2000 por domicilio.</li>
+
+  <li class="icon-leaf"> Las zonas rurales solo se atenderán según la disponibilidad de tiempo. En ocasiones hay mucho trabajo en la zona urbana y no alcanzamos a salir a la zona rural.</li>
+  </ul>
+
+</div>
+:ET

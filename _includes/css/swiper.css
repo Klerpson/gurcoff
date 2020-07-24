@@ -7,8 +7,8 @@
 
 .swiper-container {
   width: 100%;
-  padding-top: 50px;
-  padding-bottom: 200px;
+  padding-top: 20px;
+  padding-bottom: 150px;
 }
 
 .swiper-slide {
@@ -17,8 +17,4 @@
   width: 150px;
   background-color: #fff;
   -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #0006);
-}
-
-.swiper-slide img {
-  max-width: 100%;
 }

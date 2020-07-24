@@ -29,7 +29,7 @@
   
     {
 
-      "title"    : "Copa de Doble Helado Baileys",
+      "title"    : "Copa Baileys",
       "url"      : "/copas/baileys/",
       "category" : "Copas",
       "tags"     : "Copas, Chocolate, Baileys, Fresas"
@@ -47,7 +47,7 @@
   
     {
 
-      "title"    : "Copa de Doble Helado Frutos Rojos",
+      "title"    : "Copa Frutos Rojos",
       "url"      : "/copas/frutos-rojos/",
       "category" : "Copas",
       "tags"     : "Copas, Frutas, Fresas, Cerezas"
@@ -56,7 +56,7 @@
   
     {
 
-      "title"    : "Copa de Doble Helado Frutos Secos",
+      "title"    : "Copa Frutos Secos",
       "url"      : "/copas/frutos-secos/",
       "category" : "Copas",
       "tags"     : "Copas, Frutos Secos, Brownie"
@@ -74,7 +74,7 @@
   
     {
 
-      "title"    : "Milkshake Morenita",
+      "title"    : "Malteada Morenita",
       "url"      : "/malteadas/morenita/",
       "category" : "Malteadas",
       "tags"     : "Malteada, Chocolate, Milkshake"
@@ -101,7 +101,7 @@
   
     {
 
-      "title"    : "Especial GurCoff",
+      "title"    : "Malteada Súper Especial",
       "url"      : "/malteadas/especial/",
       "category" : "Malteadas",
       "tags"     : "Malteadas, Milkshake, Waffle"
@@ -110,7 +110,7 @@
   
     {
 
-      "title"    : "Waffle con Fruta GurCoff",
+      "title"    : "Waffle GurCoff",
       "url"      : "/postres/waffle/",
       "category" : "Postres",
       "tags"     : "Postres, Fruta, Waffle"
@@ -128,7 +128,7 @@
   
     {
 
-      "title"    : "Milkshake",
+      "title"    : "Malteada GurCoff",
       "url"      : "/malteadas/gurcoff/",
       "category" : "Malteadas",
       "tags"     : "Malteadas, Milkshake, Brownie"
