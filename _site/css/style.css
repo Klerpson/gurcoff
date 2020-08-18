@@ -2,11 +2,11 @@
 
   /*** COLORES ***/
   /* rgb */
-  --principal: #D88AF7;
-  --secundario: #C13FF5;
-  --complemento: #FA359B;
-  --accion: #9932C2;
-  --amarillo: #ffea81;
+  --principal: #AD7AF5;
+  --secundario: #a261fc;
+  --complemento: #F58DD2;
+  --accion: #8229ff;
+  --amarillo: #FBFA67;
   --azul: #82ecff;
 
   --gris1: rgba(191, 191, 191, 1);
@@ -202,7 +202,7 @@ header h1,
 .categoria {
   display: grid;
   grid-gap: 1.5em 2em;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
   align-items: flex-start;
 }
 
@@ -268,7 +268,7 @@ nav {
   position: fixed;
   bottom: 0;
   left: 0;
-  background-color: var(--accion);
+  background-color: var(--amarillo);
   z-index: 10;
 }
 
@@ -278,10 +278,6 @@ nav ul {
   justify-content: space-around;
   list-style: none;
   padding: 0;
-}
-
-nav li a {
-  color: var(--blanco);
 }
 
 nav li a>span {
@@ -383,7 +379,7 @@ header picture img {
 
 .categorias {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
   grid-gap: 0.5em;
   align-items: center;
   justify-content: center;

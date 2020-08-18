@@ -18,11 +18,11 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/copas/baileys/</loc>
+        <loc>http://localhost:4000/preparaciones/affogato/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/caf%C3%A9s/affogato/</loc>
+        <loc>http://localhost:4000/copas/baileys/</loc>
     </url>
     
     <url>
@@ -54,19 +54,19 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/postres/waffle/</loc>
+        <loc>http://localhost:4000/preparaciones/waffle/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/postres/brownie/</loc>
+        <loc>http://localhost:4000/preparaciones/ensalada-gurcoff/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/preparaciones/brownie/</loc>
     </url>
     
     <url>
         <loc>http://localhost:4000/malteadas/gurcoff/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/ensalada/ensalada-gurcoff/</loc>
     </url>
     
     <url>

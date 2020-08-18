@@ -11,7 +11,7 @@ herow: img/hero/especial.webp
   <h2>¿Qué delicioso helado suave te gustaría probar hoy?</h2>
   <div class="categorias">
     {% for category in site.categories %}
-    <div class="wow lightSpeedIn" data-wow-delay="0.7s">
+    <div class="wow lightSpeedIn">
       {% capture category_name %}{{ category | first }}{% endcapture %}
       <a href="{{ site.baseurl }}/carta/#{{ category_name }}">{{ category_name }}</a>
     </div>
