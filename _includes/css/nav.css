@@ -2,7 +2,7 @@ nav {
   position: fixed;
   bottom: 0;
   left: 0;
-  background-color: var(--accion);
+  background-color: var(--principal);
   z-index: 10;
 }
 
@@ -14,9 +14,7 @@ nav ul {
   padding: 0;
 }
 
-nav li a {
-  color: var(--blanco);
-}
+nav li a {color: var(--blanco);}
 
 nav li a>span {
   display: none;

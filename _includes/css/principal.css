@@ -1,6 +1,6 @@
 .categorias {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(150px, auto));
   grid-gap: 0.5em;
   align-items: center;
   justify-content: center;

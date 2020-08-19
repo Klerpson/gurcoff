@@ -66,7 +66,7 @@ q {font-family: var(--fuenteGraficas);}
 
 .sticky li {
   list-style-type: none;
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.5);
   color: #efefef;
   height: 43px;
   padding: 0;

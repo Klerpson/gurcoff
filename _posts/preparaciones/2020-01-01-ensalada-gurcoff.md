@@ -4,7 +4,7 @@ title: Ensalada GurCoff
 description: Ensalda de frutas con queso y porción de Helado Suave GurCoff. La preferida de San Agustín Huila
 keywords: ensalada de frutas, ensalada de frutas san agustin, ensalada de frutas san agustin huila, frutas san agustin, frutas san agustin huila
 tags: [Ensalada, Frutas, Postre]
-category: Ensalada
+category: Preparaciones
 precio: 9000
 principal: si
 src: img/ensalada/ensalada1.png

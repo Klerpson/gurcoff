@@ -38,19 +38,19 @@
   
     {
 
-      "title"    : "Copa Baileys",
-      "url"      : "/copas/baileys/",
-      "category" : "Copas",
-      "tags"     : "Copas, Chocolate, Baileys, Fresas"
+      "title"    : "Affogato GurCoff",
+      "url"      : "/preparaciones/affogato/",
+      "category" : "Preparaciones",
+      "tags"     : "Cafe, Postre"
 
     } ,
   
     {
 
-      "title"    : "Affogato GurCoff",
-      "url"      : "/caf%C3%A9s/affogato/",
-      "category" : "Cafés",
-      "tags"     : "Cafe, Postre"
+      "title"    : "Copa Baileys",
+      "url"      : "/copas/baileys/",
+      "category" : "Copas",
+      "tags"     : "Copas, Chocolate, Baileys, Fresas"
 
     } ,
   
@@ -120,17 +120,26 @@
     {
 
       "title"    : "Waffle GurCoff",
-      "url"      : "/postres/waffle/",
-      "category" : "Postres",
+      "url"      : "/preparaciones/waffle/",
+      "category" : "Preparaciones",
       "tags"     : "Postres, Fruta, Waffle"
 
     } ,
   
     {
 
+      "title"    : "Ensalada GurCoff",
+      "url"      : "/preparaciones/ensalada-gurcoff/",
+      "category" : "Preparaciones",
+      "tags"     : "Ensalada, Frutas, Postre"
+
+    } ,
+  
+    {
+
       "title"    : "Brownie Caliente",
-      "url"      : "/postres/brownie/",
-      "category" : "Postres",
+      "url"      : "/preparaciones/brownie/",
+      "category" : "Preparaciones",
       "tags"     : "Postres, Brownie, Chocolate"
 
     } ,
@@ -141,15 +150,6 @@
       "url"      : "/malteadas/gurcoff/",
       "category" : "Malteadas",
       "tags"     : "Malteadas, Milkshake, Brownie"
-
-    } ,
-  
-    {
-
-      "title"    : "Ensalada GurCoff",
-      "url"      : "/ensalada/ensalada-gurcoff/",
-      "category" : "Ensalada",
-      "tags"     : "Ensalada, Frutas, Postre"
 
     } ,
   
