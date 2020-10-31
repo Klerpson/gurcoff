@@ -19,7 +19,7 @@
 
 <p><button class="bubbly-button wow wobble" onclick="document.location = 'https://wa.me/573115245225'">Pide tu domicilio</button></p>
 
-<p>Su valor es de <strong>$5000</strong>. ¿Quieres pedir uno? Recuerda que aplican <a href="#condiciones">condiciones</a>.</p>
+<p>Su valor es de <strong>$6000</strong>. ¿Quieres pedir uno? Recuerda que aplican <a href="#condiciones">condiciones</a>.</p>
 
 <!-- Swiper -->
 <section class="swiper">

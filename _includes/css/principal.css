@@ -7,12 +7,12 @@
 }
 
 .categorias div {
-  background-color: #faf6ff;
+  background-color: var(--secundario);
   padding: 0.7em 1em;
   text-align: center;
   font-size: 1rem;
 }
 
 .categorias div a {
-  color: var(--accion);
+  color: var(--blanco);
 }

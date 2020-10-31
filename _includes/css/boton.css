@@ -4,8 +4,8 @@
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background-color: #fcf9ff;
-  color: var(--secundario);
+  background-color: var(--secundario);
+  color: var(--blanco);
   border-radius: 10px;
   border: none;
   cursor: pointer;

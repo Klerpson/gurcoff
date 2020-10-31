@@ -191,9 +191,9 @@ header h1,
 .bubbly-button,
 .categorias div{
   border-radius: 0.7em;
-  box-shadow: -15px -15px 15px rgba(255, 255, 255, 0),
+  box-shadow: -15px -15px 15px rgba(173, 122, 245, 0),
     15px 15px 15px rgba(0, 0, 0, 0),
-    inset 4px 4px 5px rgba(255, 255, 255, 0.8),
+    inset 4px 4px 5px rgba(173, 122, 245, 0.8),
     inset -4px -4px 5px rgba(0, 0, 0, 0.05),
     0 50px 40px rgba(0, 0, 0, 0.05);
 }
@@ -388,14 +388,14 @@ header picture img {
 }
 
 .categorias div {
-  background-color: #faf6ff;
+  background-color: var(--secundario);
   padding: 0.7em 1em;
   text-align: center;
   font-size: 1rem;
 }
 
 .categorias div a {
-  color: var(--accion);
+  color: var(--blanco);
 }
 
 hr .separador {
@@ -469,8 +469,8 @@ hr.separador:after {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background-color: #fcf9ff;
-  color: var(--secundario);
+  background-color: var(--secundario);
+  color: var(--blanco);
   border-radius: 10px;
   border: none;
   cursor: pointer;
