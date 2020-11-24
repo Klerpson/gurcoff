@@ -8,10 +8,10 @@ nuevo: si
 src: img/magazine/2020-06-02/cerrado.jpg
 webp: img/magazine/2020-06-02/cerrado.webp
 alt: Calle 5 de San Agustín solitaria
-p1: img/publicidad/colageno.png
-p1w: img/publicidad/colageno.webp
-p1url: https://wa.me/573218301698?text=%20Hola!%20Vi%20en%20gurcoff%20web%20este%20producto:%20Colageno.%20Quiero%20pedirlo%20
-altp: Colágeno de Natural One Life
+p1: img/publicidad/camaras.jpg
+p1w: img/publicidad/camaras.webp
+p1url: https://mys.com.co
+altp: Cámaras de seguridad MyS
 autor: Julian Andres Franco Bedoya
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
@@ -22,15 +22,15 @@ Son muchos los negocios que tuvieron que cerrar por la crisis económica de San 
 
 ## Una dedicación a mis vecinos de San Agustín Huila
 
-Cuando llegamos al pueblo y comenzamos a trabajar, nuestros vecinos casi que nos dieron un abrazo de bienvenida. Y sí, varios de ellos sí los hicieron literalmente.
+Cuando llegamos al pueblo y comenzamos a trabajar, nuestros vecinos casi que nos dieron un abrazo de bienvenida. Y sí, varios de ellos sí lo hicieron literalmente.
 
 {% include publicidad1.html %}
 
-Muchas tardes en la heladería, sentados mirando el atardecer, conversaban sobre sus historias de vida en el pueblo. Contaban cómo comenzaron en San Agustín, y me compartían sugerencias y consejos que nos han servido mucho. Así que **verlos cerrar hoy sus restaurantes, almacenes, talleres, entro otros... no es fácil.**
+Muchas tardes en la heladería, sentados mirando el atardecer, conversaban sobre sus historias de vida en el pueblo. Contaban cómo comenzaron en San Agustín, y me compartían sugerencias y consejos que nos han servido mucho. Así que **verlos cerrar hoy sus restaurantes, almacenes, talleres, entre otros... no es fácil.**
 
 Por favor, reciban mi saludo y palabras de ánimo. Quiero dejar esta idea en todos mis vecinos: **no están cerrando. Están comenzando la transformación a un modelo más exitoso**.
 
-## En San Agustín Huila Todos cerramos. Pero aquí seguimos
+## En San Agustín Huila todos cerramos. Pero aquí seguimos
 
 ![menu.jpg]({{site.baseurl}}/img/magazine/2020-06-02/gurcoffcerrado.jpg "Heladería GurCoff San Agustín Huila cerrada")
 
@@ -44,11 +44,7 @@ Bueno, en realidad es una idea para cualquier restaurante de cualquier lugar. Cu
 
 ![menu.jpg]({{site.baseurl}}/img/magazine/2020-06-02/menu.jpg "Psd de Maqueta creado por freepik - www.freepik.es")
 
-En su caso existe una enorme ventaja: ustedes no van a comenzar. **Ustedes ya tienen una reputación en el mercado**. Por eso, solamente hablamos de transformar, de reinventar la forma de trabajar. Como decía Jurgen Clarik en un video de emprendimientos post-covid:
-
->"La forma tradicional de hacer negocios ya no servira... Ahora los locales se irán quedando en el pasado"
-
-Estoy muy conectado con esta anterior idea. Para algunos de nosotros eso será un proceso gradual. Pero es un objetivo excelente.
+En su caso existe una enorme ventaja: ustedes no van a comenzar. **Ustedes ya tienen una reputación en el mercado**. Por eso, solamente hablamos de transformar, de reinventar la forma de trabajar. 
 
 ## ¿Y los hoteles que dependía del turismo?
 
@@ -62,7 +58,7 @@ Pensé en un ejemplo muy puntual. Alguna vez visité el [Lodge Akawanka](https:/
 
 ## Nuestra creatividad es el límite
 
-Nuevamente, estas son solo ideas al aire. El punto es que podemos seguir avanzando, evolucionando. **El secreto es pensar en qué modelo de negocios puedes cambiar**, no quedarte solo en lo tradicional. Esto te ayudará ahora y te generá nuevas maneras de *seguir consiguiendo lo que tú y tu familia necesitan*. Al final, esto es lo que realmente importa. Por esto, si tu nuevo modelo de negocio, o el tradicional, ya te dan esto, entonces ya lo conseguiste.
+Nuevamente, estas son solo ideas al aire. El punto es que podemos seguir avanzando, evolucionando. **El secreto es pensar en qué modelo de negocios puedes cambiar**, no quedarnos solo en lo tradicional. Esto te ayudará ahora y tendremos nuevas maneras de *seguir consiguiendo lo que nosotros y nuestras familias necesitamos*. Al final, esto es lo que realmente importa. Por esto, si tu nuevo modelo de negocio, o el tradicional, ya te dan esto, entonces ya lo conseguiste.
 
 Recordemos que el primer objetivo de nuestros negocios ahora es sobrevivir. Si las cosas mejoran pronto, podremos seguir haciendo planes para lograr más objetivos.
 

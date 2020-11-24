@@ -10,7 +10,7 @@ herow: img/magazine/magazine.webp
   <h2>Lo último de San Agustín Huila</h2>
   <p>En esta sección podrás estar al día con los consejos, novedades y buenas noticias de San Agustín. Además, de lo último en tu heladería favorita.</p>
   <hr class="separador">
-  {% for post in site.tags.magazine limit='7' %}
+  {% for post in site.tags.magazine limit = '7' %}
   <article>
     <picture class="foto">
       <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">

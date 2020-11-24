@@ -1,10 +1,12 @@
 <header>
   {% include logo.html %}
-  <h1 class="wow fadeInLeftBig">{{page.title}}</h1>
+  
   <picture>
     {% if page.hero %}
     <source type="image/webp" srcset="{{ site.baseurl }}/{{ page.herow }}">
-    <img src="{{ site.baseurl }}/{{ page.hero }}" class="wow slideInDown" alt="{{ page.alt }}">
-    {% endif %}
-  </picture>
+      <img src="{{ site.baseurl }}/{{ page.hero }}" class="wow slideInDown" alt="{{ page.alt }}">
+      {% endif %}
+    </picture>
+    <h1 class="wow fadeInLeftBig">{{page.title}}</h1>
+  
 </header>

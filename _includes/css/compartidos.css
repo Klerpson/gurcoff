@@ -31,10 +31,10 @@ header h1,
   position: relative;
   margin: 0;
   padding: 0.7em;
-  background-color: var(--azul);
+  background-color: var(--amarillo);
   border-radius: 12px;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   justify-content: center;
   text-align: center;
   font-size: 0.9em;
