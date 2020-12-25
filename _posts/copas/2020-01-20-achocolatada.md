@@ -19,7 +19,8 @@ alt: Copa con chocolates y doble porción de Helado GurCoff
 | *🥮 Brownie seco* | Agrega una agradable textura al final de la copa. Este se humedece a medida que el helado derrite. Es delicioso |
 | *🍫 Chococripis* | Arroz inflado con chocolate crocante |
 | *🍫 Chocomelos* | Mashmellow bañado en chocolate |
-| *🍫Perlas achocolatadas* | Más crocante de chocolate fino |
+| *🍫 Perlas achocolatadas* | Más crocante de chocolate fino |
+| *🍫 Milo* | Cubierta de milo en la punta de la copa |
 | *🍫 Salsa* | Baño de chocolate |
 
 Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:

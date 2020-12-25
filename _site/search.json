@@ -74,15 +74,6 @@
   
     {
 
-      "title"    : "Malteada Morenita",
-      "url"      : "/malteadas/morenita/",
-      "category" : "Malteadas",
-      "tags"     : "Malteada, Chocolate, Milkshake"
-
-    } ,
-  
-    {
-
       "title"    : "Copa Maracuyá",
       "url"      : "/copas/maracuya/",
       "category" : "Copas",
@@ -92,8 +83,8 @@
   
     {
 
-      "title"    : "Copa de Doble Helado Fresh",
-      "url"      : "/copas/fresh/",
+      "title"    : "Copa de Doble Helado Fresca",
+      "url"      : "/copas/fresca/",
       "category" : "Copas",
       "tags"     : "Copas, Frutas, Maracuyá, Fresas"
 
@@ -119,6 +110,15 @@
   
     {
 
+      "title"    : "Hamburguesa de Helado",
+      "url"      : "/preparaciones/hamburguesa-de-helado/",
+      "category" : "Preparaciones",
+      "tags"     : "Hamburguesa, Brownie, Chocolate"
+
+    } ,
+  
+    {
+
       "title"    : "Ensalada GurCoff",
       "url"      : "/preparaciones/ensalada-gurcoff/",
       "category" : "Preparaciones",
@@ -137,8 +137,8 @@
   
     {
 
-      "title"    : "Malteada GurCoff",
-      "url"      : "/malteadas/gurcoff/",
+      "title"    : "Malteada Chocogigante",
+      "url"      : "/malteadas/chocogigante/",
       "category" : "Malteadas",
       "tags"     : "Malteadas, Milkshake, Brownie"
 

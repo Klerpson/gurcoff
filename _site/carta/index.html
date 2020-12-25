@@ -227,8 +227,8 @@
         <source type="image/webp" srcset="/img/fresh/fresh1.webp">
         <img src="/img/fresh/fresh1.png" class="wow flipInY" alt="Copa con frutas tropicales y mashmellos">
       </picture>
-      <h4>Copa de Doble Helado Fresh - $9500</h4>
-      <a href="/copas/fresh/" class="icon-chevron-circle-right"></a>
+      <h4>Copa de Doble Helado Fresca - $9500</h4>
+      <a href="/copas/fresca/" class="icon-chevron-circle-right"></a>
     </article>
     
     <article class="wow fadeInRightBig">
@@ -266,15 +266,6 @@
     
     <article class="wow fadeInRightBig">
       <picture class="foto">
-        <source type="image/webp" srcset="/img/morenita/morenita1.webp">
-        <img src="/img/morenita/morenita1.png" class="wow flipInY" alt="Malteada Morenita de GurCoff en San Agustín Huila">
-      </picture>
-      <h4>Malteada Morenita - $9500</h4>
-      <a href="/malteadas/morenita/" class="icon-chevron-circle-right"></a>
-    </article>
-    
-    <article class="wow fadeInRightBig">
-      <picture class="foto">
         <source type="image/webp" srcset="/img/milkspecial/especial1.webp">
         <img src="/img/milkspecial/especial1.png" class="wow flipInY" alt="Malteada Especial GurCoff">
       </picture>
@@ -285,10 +276,10 @@
     <article class="wow fadeInRightBig">
       <picture class="foto">
         <source type="image/webp" srcset="/img/milkshake/milkshake1.webp">
-        <img src="/img/milkshake/milkshake1.png" class="wow flipInY" alt="Milkshake GurCoff">
+        <img src="/img/milkshake/milkshake1.png" class="wow flipInY" alt="Milkshake Chocogigante">
       </picture>
-      <h4>Malteada GurCoff - $15500</h4>
-      <a href="/malteadas/gurcoff/" class="icon-chevron-circle-right"></a>
+      <h4>Malteada Chocogigante - $15500</h4>
+      <a href="/malteadas/chocogigante/" class="icon-chevron-circle-right"></a>
     </article>
     
   </div>
@@ -313,6 +304,15 @@
       </picture>
       <h4>Waffle GurCoff - $10500</h4>
       <a href="/preparaciones/waffle/" class="icon-chevron-circle-right"></a>
+    </article>
+    
+    <article class="wow fadeInRightBig">
+      <picture class="foto">
+        <source type="image/webp" srcset="/img/hamburguesa/hamburguesa150.webp">
+        <img src="/img/hamburguesa/hamburguesa150.png" class="wow flipInY" alt="Brownie Caliente GurCoff">
+      </picture>
+      <h4>Hamburguesa de Helado - $12000</h4>
+      <a href="/preparaciones/hamburguesa-de-helado/" class="icon-chevron-circle-right"></a>
     </article>
     
     <article class="wow fadeInRightBig">
@@ -363,6 +363,32 @@
   <p>Encuentra más información sobre nuestra casita en San Agustín, Huila. Visita nuestra sección de contacto:</p>
   <button class="bubbly-button wow wobble" onclick="document.location = '/contacto'">Conoce a GurCoff</button>
 </section>
+
+<script>
+  var animateButton = function (e) {
+    e.preventDefault;
+    //reset animation
+    e.target.classList.remove('animate');
+    e.target.classList.add('animate');
+    setTimeout(function () {
+      e.target.classList.remove('animate');
+    }, 700);
+  };
+  var bubblyButtons = document.getElementsByClassName("bubbly-button");
+  for (var i = 0; i < bubblyButtons.length; i++) {
+    bubblyButtons[i].addEventListener('click', animateButton, false);
+  }
+</script>
+<!-- Script pointing to search-script.js -->
+<script src="/js/search-script.js" type="text/javascript"></script>
+<!-- Configuration -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json'
+  })
+</script>
 </body>
 <script>
   var animateButton = function (e) {
