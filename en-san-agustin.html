@@ -1,0 +1,29 @@
+---
+layout: default
+title: En San Agustín tienes mucho por hacer
+description: Entérate de los lugares, las novedades y las experiencias que vivimos en San Agustín Huila. Todo desde las vivencias de tu heladería favorita.
+hero: img/magazine/magazine.png
+herow: img/magazine/magazine.webp
+---
+{% include header.html %}
+<section class="magazine">
+  <h2>Lo último de San Agustín Huila y GurCoff</h2>
+  <p>{{ page.description }}</p>
+  <hr class="separador">
+  {% for post in site.tags.magazine %}
+  <article>
+    <picture class="foto">
+      <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.webp }}">
+        <img src="{{ site.baseurl }}/{{ page.src }}" class="wow flipInY"  data-wow-delay="0.3s" alt="{{ post.alt }}">
+      </picture>
+      <h3>
+        {{ post.title }}
+      </h3>
+      {{ post.excerpt }}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="icon-chevron-circle-right"> Leer más</a>
+    </article>
+    <hr class="separador">
+  {% endfor %}
+</section>
+
+{% include footer.html %}

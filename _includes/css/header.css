@@ -6,17 +6,21 @@ header {
   flex-wrap: wrap;
   align-items: center;
   margin: 0;
-  padding: 1em;
+  /* padding: 1em; */
   color: var(--accion);
+  background-color: var(--secundario);
 }
 
 .logo {
   position: relative;
+  background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
+  padding: 0.5em 1em;
   cursor: pointer;
   font-family: var(--fuenteTitulos);
   font-size: 1.5em;
-  color: var(--accion);
+  color: var(--blanco);
+  font-weight: 700;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -27,17 +31,19 @@ header {
 }
 
 header h1 {
-  max-width: 45%;
-  text-shadow: var(--blanco);
+  color: var(--blanco);
+  margin: 2em;
+  font-weight: 700;
+  text-align: center;
 }
 
-header picture {
+header img.hero {
   max-width: 55%;
 }
 
-header picture img {
-  max-width: 100%;
-}
+/* header picture img { */
+  /* max-width: 100%; */
+/* } */
 
 @media screen and (min-width: 768px) {
   .logo {

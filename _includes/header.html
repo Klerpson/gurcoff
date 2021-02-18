@@ -1,12 +1,13 @@
 <header>
+  <div><img src="{{site.baseurl}}/img/logo/logo.png" alt="Logo de GurCoff Heladería de San Agustín Huila">
   {% include logo.html %}
-  
-  <picture>
+</div>
+  <!-- <picture> -->
     {% if page.hero %}
-    <source type="image/webp" srcset="{{ site.baseurl }}/{{ page.herow }}">
-      <img src="{{ site.baseurl }}/{{ page.hero }}" class="wow slideInDown" alt="{{ page.alt }}">
+    <!-- <source type="image/webp" srcset="{{ site.baseurl }}/{{ page.hero }}"> -->
+      <!-- <img src="{{ site.baseurl }}/{{ page.hero }}" class="hero wow slideInDown" alt="{{ page.alt }}"> -->
       {% endif %}
-    </picture>
+    <!-- </picture> -->
     <h1 class="wow fadeInLeftBig">{{page.title}}</h1>
-  
+
 </header>
