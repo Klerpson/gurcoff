@@ -1,24 +1,18 @@
 ---
 layout: default
-title: La heladería de San Agustín Huila
+title: ¡Ven a San Agustín Huila y pruébalos!
 description: Descanso y placer en San Agustín Huila por su espacio y sus recetas para helado suave.
-hero: img/hero/milkshake-gurcoff-san-agustin.svg
-<!-- herow: img/hero/especial.webp -->
+boton: true
 ---
 {% include header.html %}
-
-<section>
-  <h2>¿Con cuál de estos antojos te gustaría pasar esta tarde en San Agustín?</h2>
+{% include principal.html %}
+<section class="ultima">
+  <h2>¿Estás en San Agustín? Mira lo que tenemos para ti</h2>
   <div class="categorias">
     {% for category in site.categories %}
-    <div class="wow lightSpeedIn">
       {% capture category_name %}{{ category | first }}{% endcapture %}
-      <a href="{{ site.baseurl }}/carta/#{{ category_name }}">{{ category_name }}</a>
-    </div>
-    {% endfor %} 
+      <a class="botones wow bounceInUp" href="{{ site.baseurl }}/carta/#{{ category_name }}">{{ category_name }}</a>
+    {% endfor %}
   </div>
 </section>
-
-{% include principal.html %}
-
 {% include footer.html %}

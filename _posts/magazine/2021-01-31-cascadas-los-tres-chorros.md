@@ -155,3 +155,24 @@ tour san agustín tierradentro
 viajes a san agustín
 
 
+esquina parque san martin guia 60 persona a caballo
+camioneta cada uno paga
+por aparte a la agencia
+el guia cobraria 50 solamente el guia
+90 dia completo con contrato bicicleta demostrar que sabe manejar bici
+hora 10000 medio dia 50
+3 chorros sreguro snack fotos con dron 630 am 80000 persona y termina al medio día
+rapido en dos horas despacio de tres a cuatro
+hidratacion y go pro
+60 caballo con guia, solo guia 50. Falta carro y motorratón
+caballos hora 30000 con seguro incluido
+a los 3 chorros 80000 todo el día
+de 8 am hasta las 5 o 6. Todo es con guía. ya con más recorrido tienen el jeep
+el más conocido es el estrecho salto bordones y salto mortiño 50000 persona
+caballos entrenados con excelentes monturas
+llega a un caserío llamado pradera
+entrar por la Villa
+subir un camino que se llama la perdis
+donde queda la moto caminan solo 7 minutos
+cuando va por el camino principal guiado por los letreros toca caminar más
+pasar por la finca cobra 3000 por persona

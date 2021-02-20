@@ -2,12 +2,11 @@
 
   /*** COLORES ***/
   /* rgb */
-  --principal: #AD7AF5;
-  --secundario: #a261fc;
-  --complemento: #F58DD2;
-  --accion: #8229ff;
-  --amarillo: #f1f517;
-  --verde: #82ecff;
+  --principal: #a261fc;
+  --secundario: #f0a6ca;
+  --accion: #FFE74C;
+  --complemento1: #E0FBFC;
+  --complemento2: #6BF178;
 
   --gris1: rgba(191, 191, 191, 1);
   --gris2: rgba(140, 140, 140, 1);
@@ -16,11 +15,11 @@
   --grisFuentes: rgb(37, 37, 37);
 
   /* hexadecimal */
-  --blanco: rgb(255, 255, 255);
+  --blanco: rgb(248, 248, 255);
   --blancoRGBA: rgba(255, 255, 255, 0.8);
 
   /*** FUENTES ***/
-  --fuenteTitulos: 'Gotu', sans-serif;
-  --fuenteTexto: 'Montserrat', sans-serif;
-  --fuenteGraficas: 'Abril Fatface', cursive;
+  --fuenteTitulos: 'Dancing Script', cursive;
+  --fuenteTexto: 'Lato', sans-serif;
+  --fuenteGraficas: 'Lato', sans-serif;
 }

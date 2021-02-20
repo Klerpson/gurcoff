@@ -18,11 +18,19 @@
     </url>
     
     <url>
-        <loc>https://gurcoff.com//preparaciones/affogato/</loc>
+        <loc>https://gurcoff.com//preparaciones/affogato-san-agustin/</loc>
     </url>
     
     <url>
         <loc>https://gurcoff.com//copas/baileys/</loc>
+    </url>
+    
+    <url>
+        <loc>https://gurcoff.com//copas/achocolatada/</loc>
+    </url>
+    
+    <url>
+        <loc>https://gurcoff.com//malteadas/especial/</loc>
     </url>
     
     <url>
@@ -34,19 +42,11 @@
     </url>
     
     <url>
-        <loc>https://gurcoff.com//copas/achocolatada/</loc>
-    </url>
-    
-    <url>
         <loc>https://gurcoff.com//copas/maracuya/</loc>
     </url>
     
     <url>
         <loc>https://gurcoff.com//copas/fresca/</loc>
-    </url>
-    
-    <url>
-        <loc>https://gurcoff.com//malteadas/especial/</loc>
     </url>
     
     <url>
@@ -86,6 +86,14 @@
     
     
     <url>
+        <loc>https://gurcoff.com//blog/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
         <loc>https://gurcoff.com//carta/</loc>
     </url>
     
@@ -103,14 +111,6 @@
     
     <url>
         <loc>https://gurcoff.com//contacto/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>https://gurcoff.com//en-san-agustin/</loc>
     </url>
     
     

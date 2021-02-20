@@ -27,9 +27,6 @@ Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
 
 >La **dulce y elegante tentación de los frutos rojos** y nuestro helado suave.
 
-<!-- Swiper -->
-{% include swiper.html foto1="frutosrojos/frutosrojos1.png" webp1="frutosrojos/frutosrojos1.webp" alt1="Copa de helado frutos rojos de San Agustín Huila" foto2="frutosrojos/frutosrojos2.png" webp2="frutosrojos/frutosrojos2.webp" alt2="Copa de helado frutos rojos de San Agustín Huila" foto3="frutosrojos/frutosrojos3.png" webp3="frutosrojos/frutosrojos3.webp" alt3="Copa de helado frutos rojos de San Agustín Huila" foto4="frutosrojos/frutosrojos4.png" webp4="frutosrojos/frutosrojos4.webp" alt4="Copa de helado frutos rojos de San Agustín Huila" %}
-
 {% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
 
 ## Qué opinan en San Agustín del {{ page.title }}

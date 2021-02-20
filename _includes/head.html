@@ -18,45 +18,35 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}"
     href="{{ "/feed.xml" | relative_url }}">
   <meta name="author" content="{% if page.autor %}{{ page.autor }}{% else %}{{site.name}}{% endif %}" />
-  <meta name="copyright" content="{{ page.copyright }}{% else %}{{site.name}}{% endif %}" />
+  <meta name="copyright" content="{% if page.copyright %}{{ page.copyright }}{% else %}{{site.name}}{% endif %}" />
   <meta name="owner" content="Julian Andres Franco Bedoya" />
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/all.min.css">
-  <link rel="stylesheet" href="css/animate.css">
-  <link href="https://fonts.googleapis.com/css?family=Baloo|Nunito:400,600i,700,800,900" rel="stylesheet">
   <!-- Favicon -->
-  <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-  <link rel="manifest" href="/favicon/manifest.json">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
-  <meta name="theme-color" content="#ffffff">
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/img/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/img/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}/img/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl }}/img/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}/img/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl }}/img/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/img/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}/img/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/img/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl }}/img/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl }}/img/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl }}/js/manifest.json">
+  <meta name="msapplication-TileColor" content="#a261fc">
+  <meta name="msapplication-TileImage" content="{{ site.baseurl }}/img/favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#a261fc">
   <!-- Fin Favicon -->
 
   <!-- Google -->
   <meta name="google-site-verification" content="0nQFs57C9WTi2LNUqnTasHQGwfcwTSdv3duaID3kZsU" />
 
   <!-- liks -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/swiper.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/animate.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/fonts/styles.css">
-  <link
-    href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Gotu&family=Montserrat:wght@400;800&display=swap"
-    rel="stylesheet">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/fonts/styles.css" rel="stylesheet">
 
   <!-- Animaciones -->
   <script src="{{ site.baseurl }}/js/wow.min.js"></script>

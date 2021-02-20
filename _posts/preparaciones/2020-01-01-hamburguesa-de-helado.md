@@ -3,9 +3,8 @@ layout: articulo
 title: Hamburguesa de Helado
 description: Hamburguesa de helado hecha con pan artesanal, brownie Caliente, galletas óreo y chocolate tipo nutella.
 keywords: hamburguesa san agustin, hamburguesa helado, hamburguesa gurcoff
-principal: si
 category: Preparaciones
-tags: [Hamburguesa, Brownie, Chocolate]
+tags: [brownie, chocolate]
 precio: 12000
 src: img/hamburguesa/hamburguesa150.png
 webp: img/hamburguesa/hamburguesa150.webp

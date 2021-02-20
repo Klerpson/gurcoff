@@ -38,10 +38,10 @@
   
     {
 
-      "title"    : "Affogato GurCoff",
-      "url"      : "/preparaciones/affogato/",
+      "title"    : "Affogato San Agustín",
+      "url"      : "/preparaciones/affogato-san-agustin/",
       "category" : "Preparaciones",
-      "tags"     : "Cafe, Postre"
+      "tags"     : "cafe, affogato"
 
     } ,
   
@@ -51,6 +51,24 @@
       "url"      : "/copas/baileys/",
       "category" : "Copas",
       "tags"     : "Copas, Chocolate, Baileys, Fresas"
+
+    } ,
+  
+    {
+
+      "title"    : "Copa Achocolatada",
+      "url"      : "/copas/achocolatada/",
+      "category" : "Copas",
+      "tags"     : "copa, chocolate"
+
+    } ,
+  
+    {
+
+      "title"    : "Malteada Súper Especial",
+      "url"      : "/malteadas/especial/",
+      "category" : "Malteadas",
+      "tags"     : "malteadas, waffle"
 
     } ,
   
@@ -74,15 +92,6 @@
   
     {
 
-      "title"    : "Achocolatada",
-      "url"      : "/copas/achocolatada/",
-      "category" : "Copas",
-      "tags"     : "Copas, Chocolate, Dulce"
-
-    } ,
-  
-    {
-
       "title"    : "Copa Maracuyá",
       "url"      : "/copas/maracuya/",
       "category" : "Copas",
@@ -101,15 +110,6 @@
   
     {
 
-      "title"    : "Malteada Súper Especial",
-      "url"      : "/malteadas/especial/",
-      "category" : "Malteadas",
-      "tags"     : "Malteadas, Milkshake, Waffle"
-
-    } ,
-  
-    {
-
       "title"    : "Waffle GurCoff",
       "url"      : "/preparaciones/waffle/",
       "category" : "Preparaciones",
@@ -122,16 +122,16 @@
       "title"    : "Hamburguesa de Helado",
       "url"      : "/preparaciones/hamburguesa-de-helado/",
       "category" : "Preparaciones",
-      "tags"     : "Hamburguesa, Brownie, Chocolate"
+      "tags"     : "brownie, chocolate"
 
     } ,
   
     {
 
-      "title"    : "Ensalada GurCoff",
+      "title"    : "Ensalada de Frutas GurCoff",
       "url"      : "/preparaciones/ensalada-gurcoff/",
       "category" : "Preparaciones",
-      "tags"     : "Ensalada, Frutas, Postre"
+      "tags"     : "ensalada, frutas, postre"
 
     } ,
   
@@ -140,7 +140,7 @@
       "title"    : "Brownie Suavecito",
       "url"      : "/preparaciones/brownie/",
       "category" : "Preparaciones",
-      "tags"     : "Postres, Brownie, Chocolate"
+      "tags"     : "brownie, chocolate"
 
     } ,
   

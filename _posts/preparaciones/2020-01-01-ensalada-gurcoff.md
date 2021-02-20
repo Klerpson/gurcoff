@@ -1,16 +1,13 @@
 ---
 layout: articulo
-title: Ensalada GurCoff
-description: Ensalda de frutas con queso y porción de Helado Suave GurCoff. La preferida de San Agustín Huila
-keywords: ensalada de frutas, ensalada de frutas san agustin, ensalada de frutas san agustin huila, frutas san agustin, frutas san agustin huila
-tags: [Ensalada, Frutas, Postre]
+title: Ensalada de Frutas GurCoff
+description: Ensalda de frutas con queso y porción de Helado Suave GurCoff. La favorita de San Agustín Huila
+keywords: ensalada de frutas, ensalada de frutas san agustin, ensalada de frutas san agustin huila, frutas san agustin, ensalada san agustin huila
+tags: [ensalada, frutas, postre]
 category: Preparaciones
 precio: 9000
 principal: si
-src: img/ensalada/ensalada1.png
-webp: img/ensalada/ensalada1.webp
-hero: img/ensalada/ensalada.png
-herow: img/ensalada/ensalada.webp
+img: img/ensalada/ensalada-frutas-san-agustin.svg
 alt: Ensalda de Frutas GurCoff
 excerpt_separator: <!-- excerpt -->
 ---
@@ -19,8 +16,6 @@ Una ensalada de **frutas especiales más ingredientes bien combinados**, y tu He
 <!-- excerpt -->
 
 {% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
-
-{% include swiper.html foto1="ensalada/ensalada1.jpg" webp1="ensalada/ensalada1.webp" alt1="Ensalada de Frutas GurCoff de San Agustín Huila" foto2="ensalada/ensalada2.jpg" webp2="ensalada/ensalada2.webp" alt2="Ensalada de Frutas GurCoff de San Agustín Huila" foto3="ensalada/ensalada3.jpg" webp3="ensalada/ensalada3.webp" alt3="Ensalada de Frutas GurCoff de San Agustín Huila" foto4="ensalada/ensalada4.jpg" webp4="ensalada/ensalada4.webp" alt4="Ensalada de Frutas GurCoff de San Agustín Huila" %}
 
 | Producto | Descripción |
 | ----------- | ------ |

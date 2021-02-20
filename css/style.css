@@ -4,15 +4,11 @@
 
 {% include css/universales.css %}
 
-{% include css/compartidos.css %}
-
 {% include css/nav.css %}
 
 {% include css/header.css %}
 
-{% include css/principal.css %}
-
-{% include css/separador.css %}
+{% include css/categorias.css %}
 
 {% include css/boton.css %}
 
@@ -23,8 +19,6 @@
 {% include css/contacto.css %}
 
 {% include css/articulo.css %}
-
-{% include css/swiper.css %}
 
 {% include css/share.css %}
 

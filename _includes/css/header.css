@@ -1,80 +1,105 @@
-/**** Header ****/
-
 header {
   position: relative;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  margin: 0;
-  /* padding: 1em; */
-  color: var(--accion);
-  background-color: var(--secundario);
-}
-
-.logo {
-  position: relative;
-  background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
-  padding: 0.5em 1em;
-  cursor: pointer;
-  font-family: var(--fuenteTitulos);
-  font-size: 1.5em;
-  color: var(--blanco);
-  font-weight: 700;
+  height: 100vh;
+  background: linear-gradient(rgba(224, 251, 252, 0.4),
+      rgba(136, 128, 70, 0.2),
+      rgba(250, 250, 250, 0.4)),
+    url(/img/hero/milkshake-san-agustin-huila.svg);
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: flex-end;
   align-items: center;
-}
-
-.logo img {
-  max-width: 75px;
+  text-align: center;
+  z-index: 3;
 }
 
 header h1 {
+  margin-bottom: 2rem;
   color: var(--blanco);
-  margin: 2em;
-  font-weight: 700;
-  text-align: center;
+  text-shadow:
+    0 6px 1px rgba(0, 0, 0, .1),
+    0 0 5px rgba(0, 0, 0, .1),
+    0 1px 3px rgba(0, 0, 0, .3),
+    0 3px 5px rgba(0, 0, 0, .2),
+    0 5px 10px rgba(0, 0, 0, .25);
+  font-size: 2em;
+  font-family: var(--fuenteTexto);
+  line-height: 1;
+  letter-spacing: 1px;
 }
 
-header img.hero {
-  max-width: 55%;
+header .logo {
+  display: block;
+  position: fixed;
+  top: 1rem;
+  left: calc(100% - 90%);
+  transition: 0.5s ease-in;
 }
 
-/* header picture img { */
-  /* max-width: 100%; */
-/* } */
+header .logo svg {
+  width: 80vw;
+  max-height: 40vh;
+  transition: 0.5s ease-in;
+}
 
-@media screen and (min-width: 768px) {
-  .logo {
-    font-size: 3em;
+header.scrolled .logo {
+  left: 2rem;
+}
+
+header.scrolled .logo svg {
+  width: 20vw;
+}
+
+@media screen and (min-width: 767px) {
+  header .logo {
+    left: calc(100% - 80%);
+  }
+
+  header .logo svg {
+    width: 60vw;
+    max-height: 50vh;
   }
 
   header h1 {
+    font-size: 2.5em;
+    max-width: 60vw;
+  }
+
+  header .botones {
+    font-size: 2em;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  header {
+    background-size: contain;
+    background-position: right;
+  }
+
+  header .logo {
+    left: calc(100% - 75%);
+  }
+
+  header .logo svg {
+    width: 50vw;
+    max-height: 40vh;
+  }
+
+  header.scrolled .logo svg {
+    width: 10vw;
+  }
+
+  header .botones {
     font-size: 3em;
+    text-shadow: 0 0 5px var(--complemento1);
   }
 
-}
-
-@media only screen and (min-width: 576px) {
-
-  header {
-    padding: 0 6em;
-  }
-}
-
-@media only screen and (min-width: 992px) {
-
-  header {
-    padding: 0 10em;
-    text-align: center;
-  }
-
-}
-
-@media only screen and (min-width: 1400px) {
-
-  header {
-    padding: 0 20em;
+  header .botones::before{
+    text-shadow: none;
   }
 }
