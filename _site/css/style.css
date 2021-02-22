@@ -12,7 +12,7 @@
   --gris2: rgba(140, 140, 140, 1);
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
-  --grisFuentes: rgb(37, 37, 37);
+  --grisFuentes: rgb(37, 35, 37);
 
   /* hexadecimal */
   --blanco: rgb(248, 248, 255);
@@ -22,6 +22,11 @@
   --fuenteTitulos: 'Dancing Script', cursive;
   --fuenteTexto: 'Lato', sans-serif;
   --fuenteGraficas: 'Lato', sans-serif;
+
+  --sizeH1: 2.223em;
+  --sizeH2: 1.875em;
+  --sizeH3: 1.5em;
+  --sizeTextos: 18px;
 }
 
 /*** Formatos Universales ***/
@@ -40,6 +45,7 @@ body {
   margin: 0;
   background-color: var(--blanco);
   font-family: var(--fuenteTexto);
+  font-size: var(--sizeTextos);
   color: var(--grisFuentes);
 }
 
@@ -63,7 +69,7 @@ li {
 b,
 strong {
   font-weight: bolder;
-  color: var(--complemento2);
+  color: var(--principal);
 }
 
 span {
@@ -73,7 +79,6 @@ span {
 }
 
 h1,
-h2,
 h3,
 h4,
 blockquote {
@@ -81,11 +86,10 @@ blockquote {
 }
 
 h2 {
-  text-align: center;
+  line-height: 1;
   font-size: 1.875em;
-  font-family: var(--fuenteGraficas);
-  color: var(--secundario);
-  text-transform: capitalize;
+  text-align: center;
+  font-family: var(--fuenteTexto);
 }
 
 button {
@@ -288,14 +292,13 @@ header {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(rgba(224, 251, 252, 0.4),
-      rgba(136, 128, 70, 0.2),
+  background: linear-gradient(rgba(107, 241, 120, 0.3),
+      rgba(224, 251, 252, 0.3),
       rgba(250, 250, 250, 0.4)),
     url(/img/hero/milkshake-san-agustin-huila.svg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: contain;
-  background-attachment: fixed;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -305,18 +308,17 @@ header {
 }
 
 header h1 {
-  margin-bottom: 2rem;
-  color: var(--blanco);
-  text-shadow:
-    0 6px 1px rgba(0, 0, 0, .1),
-    0 0 5px rgba(0, 0, 0, .1),
-    0 1px 3px rgba(0, 0, 0, .3),
-    0 3px 5px rgba(0, 0, 0, .2),
-    0 5px 10px rgba(0, 0, 0, .25);
-  font-size: 2em;
   font-family: var(--fuenteTexto);
-  line-height: 1;
+  font-size: var(--sizeH1);
+  text-transform: capitalize;
   letter-spacing: 1px;
+  line-height: 1;
+  text-shadow:
+    0 6px 1px rgba(250, 250, 250, .1),
+    0 0 5px rgba(250, 250, 250, .1),
+    0 1px 3px rgba(250, 250, 250, .3),
+    0 3px 5px rgba(250, 250, 250, .4),
+    0 5px 10px rgba(250, 250, 250, .5);
 }
 
 header .logo {
@@ -352,7 +354,6 @@ header.scrolled .logo svg {
   }
 
   header h1 {
-    font-size: 2.5em;
     max-width: 60vw;
   }
 
@@ -381,7 +382,7 @@ header.scrolled .logo svg {
   }
 
   header .botones {
-    font-size: 3em;
+    font-size: 2em;
     text-shadow: 0 0 5px var(--complemento1);
   }
 
@@ -398,43 +399,43 @@ header.scrolled .logo svg {
 }
 
 .galeria {
-  padding: 0;
-  display: grid;
-  justify-content: center;
+  padding: 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   align-items: center;
   overflow: hidden;
+  border-radius: 0 150px 0 50px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  color: var(--principal);
 }
 
 .galeria:nth-child(2n+0) {
   color: var(--secundario);
 }
 
-.galeria:nth-child(2n+1) {
-  color: var(--principal);
-}
-
 .galeria img {
   width: 100%;
+  padding: 0.5rem;
   max-height: 50vh;
 }
 
 .galeria h4 {
-  font-size: 3rem;
+  font-size: var(--fuenteH3);
   line-height: 1.1;
 }
 
 .galeria p {
-  font-size: 1.5rem;
-  text-align: right;
+  font-size: var(--fuenteTexto);
 }
 
 .invitacion {
-  background-color: #a261fc;
+  background-color: var(--secundario);
 }
 
 .invitacion h2,
 .invitacion p {
-  color: var(--blanco);
+  color: var(--grisFuentes);
   margin: 0 0 1em 0;
 }
 
@@ -456,7 +457,6 @@ header.scrolled .logo svg {
 .categorias a {
   text-align: center;
   position: relative;
-  font-size: 1.5rem;
 }
 
 .categorias .botones {
@@ -489,9 +489,6 @@ header.scrolled .logo svg {
     margin: 1em 0;
   }
 
-  .categorias a {
-    font-size: 1.7rem;
-  }
 }
 
 @media screen and (min-width: 992px){
@@ -503,11 +500,11 @@ header.scrolled .logo svg {
 .botones{
   position: relative;
   display: block;
-  margin: 2em 0;
+  margin: 1em 0;
   max-width: 60vw;
   font-family: var(--fuenteTitulos);
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 1.2em;
   line-height: 1.2;
   color: var(--principal);
   text-decoration: underline;
@@ -525,10 +522,10 @@ header.scrolled .logo svg {
 .botones::before {
   content: 'Clic';
   position: absolute;
-  top: calc(100% - 120%);
+  top: calc(100% - 150%);
   left: calc(100% - 110%);
   color: rgba(255, 231, 76, 0.5);
-  font-size: 5rem;
+  font-size: 3rem;
   letter-spacing: 5px;
   z-index: -1;
 }
@@ -612,26 +609,28 @@ header.scrolled .logo svg {
   color: var(--principal);
 }
 
-.footer {
+footer {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
   padding: 0.5em 2em;
-  margin-bottom: 3em;
-  background-color: var(--secundario);
+  background-color: var(--complemento1);
 }
 
-.footer .julian {
-  color: var(--amarillo);
+footer a,
+footer p {
+  font-family: var(--fuenteTexto) ;
+  font-size: 80%;
+}
+
+footer .julian {
   text-decoration: underline;
-  font-family: var(--fuenteGraficas);
+  text-decoration-color: var(--secundario);
+  text-decoration-thickness: 0.2rem;
+  font-family: var(--fuenteTitulos);
 }
-
-.footer h4,
-.footer p {
-  color: #fff;
-}
-
 
 main.contacto {
   position: relative;

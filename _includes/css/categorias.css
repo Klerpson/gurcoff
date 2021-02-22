@@ -6,43 +6,43 @@
 }
 
 .galeria {
-  padding: 0;
-  display: grid;
-  justify-content: center;
+  padding: 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   align-items: center;
   overflow: hidden;
+  border-radius: 0 150px 0 50px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  color: var(--principal);
 }
 
 .galeria:nth-child(2n+0) {
   color: var(--secundario);
 }
 
-.galeria:nth-child(2n+1) {
-  color: var(--principal);
-}
-
 .galeria img {
   width: 100%;
+  padding: 0.5rem;
   max-height: 50vh;
 }
 
 .galeria h4 {
-  font-size: 3rem;
+  font-size: var(--fuenteH3);
   line-height: 1.1;
 }
 
 .galeria p {
-  font-size: 1.5rem;
-  text-align: right;
+  font-size: var(--fuenteTexto);
 }
 
 .invitacion {
-  background-color: #a261fc;
+  background-color: var(--secundario);
 }
 
 .invitacion h2,
 .invitacion p {
-  color: var(--blanco);
+  color: var(--grisFuentes);
   margin: 0 0 1em 0;
 }
 
@@ -64,7 +64,6 @@
 .categorias a {
   text-align: center;
   position: relative;
-  font-size: 1.5rem;
 }
 
 .categorias .botones {
@@ -97,9 +96,6 @@
     margin: 1em 0;
   }
 
-  .categorias a {
-    font-size: 1.7rem;
-  }
 }
 
 @media screen and (min-width: 992px){

@@ -1,23 +1,25 @@
-.footer {
+footer {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
   padding: 0.5em 2em;
-  margin-bottom: 3em;
-  background-color: var(--secundario);
+  background-color: var(--complemento1);
 }
 
-.footer .julian {
-  color: var(--amarillo);
+footer a,
+footer p {
+  font-family: var(--fuenteTexto) ;
+  font-size: 80%;
+}
+
+footer .julian {
   text-decoration: underline;
-  font-family: var(--fuenteGraficas);
+  text-decoration-color: var(--secundario);
+  text-decoration-thickness: 0.2rem;
+  font-family: var(--fuenteTitulos);
 }
-
-.footer h4,
-.footer p {
-  color: #fff;
-}
-
 
 main.contacto {
   position: relative;

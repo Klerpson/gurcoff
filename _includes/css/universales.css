@@ -14,6 +14,7 @@ body {
   margin: 0;
   background-color: var(--blanco);
   font-family: var(--fuenteTexto);
+  font-size: var(--sizeTextos);
   color: var(--grisFuentes);
 }
 
@@ -37,7 +38,7 @@ li {
 b,
 strong {
   font-weight: bolder;
-  color: var(--complemento2);
+  color: var(--principal);
 }
 
 span {
@@ -47,7 +48,6 @@ span {
 }
 
 h1,
-h2,
 h3,
 h4,
 blockquote {
@@ -55,11 +55,10 @@ blockquote {
 }
 
 h2 {
-  text-align: center;
+  line-height: 1;
   font-size: 1.875em;
-  font-family: var(--fuenteGraficas);
-  color: var(--secundario);
-  text-transform: capitalize;
+  text-align: center;
+  font-family: var(--fuenteTexto);
 }
 
 button {

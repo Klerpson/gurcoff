@@ -1,11 +1,11 @@
 .botones{
   position: relative;
   display: block;
-  margin: 2em 0;
+  margin: 1em 0;
   max-width: 60vw;
   font-family: var(--fuenteTitulos);
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 1.2em;
   line-height: 1.2;
   color: var(--principal);
   text-decoration: underline;
@@ -23,10 +23,10 @@
 .botones::before {
   content: 'Clic';
   position: absolute;
-  top: calc(100% - 120%);
+  top: calc(100% - 150%);
   left: calc(100% - 110%);
   color: rgba(255, 231, 76, 0.5);
-  font-size: 5rem;
+  font-size: 3rem;
   letter-spacing: 5px;
   z-index: -1;
 }

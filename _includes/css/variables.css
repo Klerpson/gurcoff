@@ -12,7 +12,7 @@
   --gris2: rgba(140, 140, 140, 1);
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
-  --grisFuentes: rgb(37, 37, 37);
+  --grisFuentes: rgb(37, 35, 37);
 
   /* hexadecimal */
   --blanco: rgb(248, 248, 255);
@@ -22,4 +22,9 @@
   --fuenteTitulos: 'Dancing Script', cursive;
   --fuenteTexto: 'Lato', sans-serif;
   --fuenteGraficas: 'Lato', sans-serif;
+
+  --sizeH1: 2.223em;
+  --sizeH2: 1.875em;
+  --sizeH3: 1.5em;
+  --sizeTextos: 18px;
 }
