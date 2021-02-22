@@ -3,11 +3,13 @@
 
   {% for galeria in site.posts %}
   {% if galeria.principal == 'si' %}
-  <a href="{{ site.baseurl }}{{ galeria.url }}" class="galeria">
+  <figure>
     <img src="{{ site.baseurl }}{{ galeria.img }}" alt="{{ galeria.alt }}">
-      <h4 class="wow slideInRight">{{ galeria.title }}</h4>
+    <figcaption>
+      <h3 class="wow slideInRight">{{ galeria.title }}</h3>
       <p>{{galeria.precio}}</p>
-  </a>
+    </figcaption>
+  </figure>
   {% endif %}
   {% endfor %}
 

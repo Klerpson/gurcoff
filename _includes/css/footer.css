@@ -14,7 +14,12 @@ footer p {
   font-size: 80%;
 }
 
+footer a{
+  color: var(--secundario);
+}
+
 footer .julian {
+  font-size: 1.2em;
   text-decoration: underline;
   text-decoration-color: var(--secundario);
   text-decoration-thickness: 0.2rem;
@@ -23,11 +28,6 @@ footer .julian {
 
 main.contacto {
   position: relative;
-}
-
-figure.img-contacto-1,
-figure.img-contacto-2 {
-  margin: 2em auto;
 }
 
 .contacto figcaption {
@@ -63,24 +63,4 @@ figure.img-contacto-2 {
 
 @media screen and (min-width: 768px) {
 
-  figure.img-contacto-1 {
-    position: relative;
-    overflow: hidden;
-    width: 300px;
-    height: 300px;
-    float: right;
-  }
-
-  figure.img-contacto-2 {
-    position: relative;
-    overflow: hidden;
-    width: 300px;
-    height: 300px;
-    float: left;
-  }
-
-  figure.img-contacto-1,
-  figure.img-contacto-2 {
-    margin: 3em;
-  }
 }
