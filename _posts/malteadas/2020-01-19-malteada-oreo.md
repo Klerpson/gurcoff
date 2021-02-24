@@ -6,13 +6,20 @@ keywords: malteada San Agustín, malteadas San Agustín, malteadas en San Agust�
 tags: [Malteada, Óreo, Milkshake]
 category: Malteadas
 precio: 8900
-hero: img/malteada-oreo/malteada-oreo.png
+principal: false
 herow: img/malteada-oreo/malteada-oreo.webp
 src: img/malteada-oreo/malteada-oreo.png
 webp: img/malteada-oreo/malteada-oreo.webp
 alt: Malteada óreo de GurCoff en San Agustín Huila
-published: no
+excerpt_separator: <!-- excerpt -->
 ---
+>Es una combinación muy buena entre **las galletas óreo y nuestra receta original de vainilla**
+<!-- excerpt -->
+
+{% include boton.html path="https://wa.me/573115245225" texto="Pedir mi malteada óreo" %}
+
+## {{page.title}} de San Agustín Huila
+
 | Producto | Descripción |
 | ----------- | ------ |
 | *🥤 Malteada* | Malteada Achocolatada con galletas óreo junto con la receta de Vainilla de GurCoff |
@@ -24,10 +31,6 @@ published: no
 Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
 
 {% include boton.html path="https://wa.me/573115245225" texto="Escribir por WhatsApp" %}
-
->Es una combinación muy buena entre **las galletas óreo y nuestra receta original de vainilla**
-
-{% include boton.html path="https://wa.me/573115245225" texto="Pedir mi malteada óreo" %}
 
 ## Qué opinan en San Agustín del {{ page.title }}
 

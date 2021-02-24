@@ -6,16 +6,17 @@ keywords: ensalada de frutas, ensalada de frutas san agustin, ensalada de frutas
 tags: [ensalada, frutas, postre]
 category: Preparaciones
 precio: 9000
-principal: si
+principal: true
 img: img/ensalada/ensalada-frutas-san-agustin.svg
 alt: Ensalda de Frutas GurCoff
 excerpt_separator: <!-- excerpt -->
 ---
-Una ensalada de **frutas especiales más ingredientes bien combinados**, y tu Helado Suave favorito.
-
+>Una ensalada de **frutas especiales más ingredientes bien combinados**, y tu Helado Suave favorito.
 <!-- excerpt -->
 
 {% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
+
+## {{page.title}} de San Agustín Huila
 
 | Producto | Descripción |
 | ----------- | ------ |

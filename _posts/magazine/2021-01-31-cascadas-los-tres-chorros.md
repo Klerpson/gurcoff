@@ -5,7 +5,7 @@ description: Conoce todo sobre la hermosa cascada natural de los tres chorros, u
 keywords: san agustin huila, los tres chorros magdalena, rios cerca a san agustín, cascadas san agustín huila, sitios turísticos de san agustín, cascada san agustín, san agustin
 tags: [magazine, San Agustín, Turismo, Cascadas, Rios]
 nuevo: si
-src: img/magazine/2020-06-02/cerrado.jpg
+img: img/magazine/2020-06-02/cerrado.jpg
 webp: img/magazine/2020-06-02/cerrado.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Andres Franco Bedoya

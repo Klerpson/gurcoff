@@ -1,0 +1,35 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>🍦 Helado</em></td>
+      <td>Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos</td>
+    </tr>
+    <tr>
+      <td><em>🍋 Maracuyá</em></td>
+      <td>Fruta tropical ácida de nuestra región. También utilizamos la gulupa, fruta autóctona de San Agustín</td>
+    </tr>
+    <tr>
+      <td><em>🥭 Mango</em></td>
+      <td>Puedes escoger la fruta madura o biche</td>
+    </tr>
+    <tr>
+      <td><em>🍪 Micro Mini Chips</em></td>
+      <td>La clásica galleta minichips en presentación pequeñita, ideal para dar crocante a la combinación</td>
+    </tr>
+    <tr>
+      <td><em>🥖 Palitos rellenos</em></td>
+      <td>Palitos rellenos de chocolate</td>
+    </tr>
+    <tr>
+      <td><em>🍶 Salsa</em></td>
+      <td>Baño de leche condensada</td>
+    </tr>
+  </tbody>
+</table>
+:ET

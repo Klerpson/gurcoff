@@ -74,6 +74,21 @@
   transform: scaleX(1);
 }
 
+.nav-redes{
+  display: flex;
+  justify-content: center;
+}
+
+.nav-redes a{
+  display: block;
+  width: 35px;
+  height: 30px;
+}
+
+.nav-redes a:nth-child(2){
+  margin: 0 1rem;
+}
+
 .hamburguer-menu {
   width: 35px;
   height: 30px;

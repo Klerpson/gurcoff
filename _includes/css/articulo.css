@@ -29,10 +29,18 @@
 .articulo table td {
   padding: 0.5em;
 }
+.articulo blockquote{
+  position: relative;
+}
 
-.articulo blockquote p {
-  font-size: 2em;
-  text-align: center;
+.articulo blockquote::before {
+content: '"';
+position: absolute;
+left: -0.35em;
+top: -0.35em;
+font-size: 7em;
+font-family: var(--fuenteTitulos);
+color: var(--accion);
 }
 
 .rect h5 {

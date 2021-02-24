@@ -59,7 +59,7 @@ footer {
 a {
   text-decoration: none;
   font-family: var(--fuenteTexto);
-  color: var(--accion);
+  color: var(--principal);
 }
 
 li {
@@ -68,7 +68,7 @@ li {
 
 b,
 strong {
-  font-weight: bolder;
+  font-weight: 700;
   color: var(--principal);
 }
 
@@ -80,14 +80,12 @@ span {
 
 h1,
 h3,
-h4,
-blockquote {
+h4{
   font-family: var(--fuenteTitulos);
 }
 
 h2 {
   line-height: 1;
-  font-size: 1.875em;
   text-align: center;
   font-family: var(--fuenteTexto);
 }
@@ -96,64 +94,12 @@ button {
   margin: 2em 0;
 }
 
-q {
-  font-family: var(--fuenteGraficas);
-}
-
 img {
   border-style: none;
 }
 
 [hidden] {
   display: none;
-}
-
-.sticky-container {
-  padding: 0px;
-  margin: 0px;
-  position: fixed;
-  right: -129px;
-  top: 270px;
-  width: 210px;
-  z-index: 2;
-}
-
-.sticky li {
-  list-style-type: none;
-  background-color: rgba(255, 255, 255, 0.5);
-  color: #efefef;
-  height: 43px;
-  padding: 0;
-  margin: 0 0 1px 0;
-  transition: all 0.25s ease-in-out;
-  cursor: pointer;
-  border-radius: 0.5em;
-}
-
-.sticky li:hover {
-  margin-left: -115px;
-}
-
-.sticky li img {
-  float: left;
-  margin: 5px 4px;
-  margin-right: 5px;
-}
-
-.sticky li p {
-  padding-top: 5px;
-  margin: 0px;
-  line-height: 16px;
-  font-size: 11px;
-}
-
-.sticky li p a {
-  text-decoration: none;
-  color: #2C3539;
-}
-
-.sticky li p a:hover {
-  text-decoration: underline;
 }
 
 .rect {
@@ -177,18 +123,18 @@ img {
   opacity: 1;
 }
 
-@media only screen and (min-width: 992px) {
-
-  body {
-    font-size: 1.2em;
-  }
-
+@media only screen and (min-width: 600px) {
   section,
   header,
   main,
   footer {
-    padding: 2em 5em;
+    padding: 4em 5em;
   }
+}
+
+@media only screen and (min-width: 992px) {
+
+
 }
 
 @media only screen and (min-width: 1400px) {}
@@ -267,6 +213,21 @@ img {
 .nav-link:hover::before,
 .nav-link:hover::after{
   transform: scaleX(1);
+}
+
+.nav-redes{
+  display: flex;
+  justify-content: center;
+}
+
+.nav-redes a{
+  display: block;
+  width: 35px;
+  height: 30px;
+}
+
+.nav-redes a:nth-child(2){
+  margin: 0 1rem;
 }
 
 .hamburguer-menu {
@@ -399,48 +360,87 @@ header.scrolled .logo svg {
 
 .principal h2 {
   margin: 2rem auto;
+  text-transform: uppercase;
 }
 
-.principal figure {
-  margin: 1.5rem 0.5rem;
+.principal article {
+  margin: 3rem 0.5rem;
   width: 100%;
-  padding: 1.5rem 0;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
   overflow: hidden;
-  border-radius: 0 150px 0 75px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-figure:nth-child(2n+0) {
+.principal article img {
+  width: 70vw;
+  max-height: 50vh;
+  padding: 1.5rem;
+  border-radius: 0 150px 0 75px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  background: var(--complemento1);
+}
+
+.principal article:nth-child(3) img {
+  background: var(--complemento2);
+}
+
+.principal article:nth-child(4) img {
+  background: var(--accion);
+}
+
+.principal article:nth-child(5) img {
   background: var(--secundario);
 }
 
-figure img{
-  width: 100%;
-  padding: 0.5rem;
-  max-height: 40vh;
+.principal article:nth-child(6) img {
+  background: var(--principal);
 }
 
-figure h4 {
-  font-size: var(--fuenteH3);
-  line-height: 1.1;
-}
-
-figure p {
-  font-size: var(--fuenteTexto);
+.principal article h3 {
+  font-size: var(--sizeH3);
+  margin: 0.5rem 0;
 }
 
 .invitacion {
-  background-color: var(--secundario);
+  background-color: var(--principal);
+  text-align: center;
 }
 
 .invitacion h2,
 .invitacion p {
-  color: var(--grisFuentes);
+  color: var(--blanco);
   margin: 0 0 1em 0;
+}
+
+.invitacion h2 {
+  font-size: var(--sizeH2);
+}
+
+.invitacion strong {
+  color: var(--complemento2);
+}
+
+.blog-intro {
+  display: grid;
+  grid-gap: 3rem;
+}
+
+.blog-intro h2 {
+  font-size: var(--sizeH2);
+}
+
+.blog-intro article a {
+  font-size: var(--sizeH3);
+  margin: 0;
+  padding: 1rem 0;
+}
+
+.blog-intro article p {
+  font-size: var(--sizeTextos);
+  margin: 0;
+  padding: 1rem 0;
 }
 
 .ultima {
@@ -465,6 +465,7 @@ figure p {
 
 .categorias .botones {
   margin: 1.2rem 1rem 0;
+  font-size: var(--sizeTextos);
 }
 
 .categorias .botones::before {
@@ -472,33 +473,116 @@ figure p {
 }
 
 @media screen and (min-width: 600px) {
-  figure img {
+  .principal article img {
     max-height: 40vh;
+    width: 50vw;
+  }
+
+  .principal .botones {
+    padding: 1rem 0;
+    margin: 0 auto;
   }
 }
 
 @media screen and (min-width: 767px) {
 
   .principal {
-    grid-template-columns: repeat(auto-fill, minmax(auto, 40vw));
+    padding: 4rem 0;
+    grid-gap: 4rem 0;
   }
 
-  .principal h2{
-    grid-column: span 2;
+  .principal h2 {
     width: 60vw;
     margin: 2em auto;
   }
 
-  .principal .botones{
-    margin: 1em 0;
+  .principal article {
+    margin: 0;
+    padding: 1rem 0;
+    display: grid;
+    grid-template-areas: "img h3"
+      "img p";
+    justify-content: center;
+    align-items: center;
   }
+
+  .principal article:nth-child(3),
+  .principal article:nth-child(5),
+  .principal article:nth-child(7) {
+    grid-template-areas: "h3 img"
+      "p img";
+  }
+
+  .principal article img {
+    padding: 4rem 3rem;
+    grid-area: img;
+  }
+
+  .principal article:nth-child(3) img,
+  .principal article:nth-child(5) img,
+  .principal article:nth-child(7) img {
+    border-radius: 150px 0 75px 0;
+  }
+
+  .principal article h3,
+  .principal article blockquote p {
+    margin: 0;
+    padding: 0 3rem;
+  }
+
+  .principal article h3 {
+    line-height: 1.2;
+    grid-area: h3;
+    font-size: calc(100% * 4);
+  }
+
+  .principal article blockquote {
+    grid-area: p;
+    align-self: flex-start;
+  }
+
 
 }
 
-@media screen and (min-width: 992px){
-  figure img {
-    max-height: 50vh;
+@media screen and (min-width: 992px) {
+
+  .principal article h3,
+  .principal article p {
+    margin: 0;
+    padding: 0 5rem;
   }
+
+  .invitacion,
+  .blog-intro {
+    padding: 4rem 8rem;
+  }
+
+  .blog-intro {
+    grid-template-columns: repeat(auto-fit, minmax(auto, 35vw));
+    grid-gap: 2rem;
+  }
+
+  .blog-intro h2 {
+    grid-column: span 2;
+  }
+
+  .blog-intro article {
+    width: 300px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .principal article img {
+    max-height: 75vh;
+    width: 50vw;
+  }
+
+  .principal article h3,
+  .principal article p {
+    padding: 0 7rem;
+  }
+
+  .principal article p {}
 }
 
 .botones{
@@ -508,7 +592,7 @@ figure p {
   max-width: 60vw;
   font-family: var(--fuenteTitulos);
   font-weight: 700;
-  font-size: 1.2em;
+  font-size: var(--sizeH3);
   line-height: 1.2;
   color: var(--principal);
   text-decoration: underline;
@@ -603,81 +687,33 @@ figure p {
    }
  }
 
-.carta {
-  display: grid;
-}
-
-.carta h3 {
-  font-size: 2em;
-  margin: 1.5em 0;
-  color: var(--principal);
-}
-
 footer {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   text-align: center;
-  padding: 0.5em 2em;
   background-color: var(--complemento1);
 }
 
 footer a,
 footer p {
+  display: inline-block;
   font-family: var(--fuenteTexto) ;
-  font-size: 80%;
+  font-size: var(--sizeTextos);
 }
 
 footer a{
   color: var(--secundario);
+  margin: 0.5rem auto;
 }
 
 footer .julian {
-  font-size: 1.2em;
+  font-size: var(--sizeH3);
   text-decoration: underline;
   text-decoration-color: var(--secundario);
   text-decoration-thickness: 0.2rem;
   font-family: var(--fuenteTitulos);
-}
-
-main.contacto {
-  position: relative;
-}
-
-.contacto figcaption {
-  font-size: 0.8em;
-}
-
-.instagram span,
-.instagram a {
-  color: var(--principal);
-}
-
-.instagram {
-  font-size: 1.2em;
-  font-family: var(--fuenteTitulos);
-  text-align: center;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-}
-
-.contacto q {
-  font-family: var(--fuenteTitulos);
-}
-
-.contacto-footer h3 {
-  color: var(--principal);
-}
-
-.contacto-footer li {
-  line-height: 1.7em;
-}
-
-@media screen and (min-width: 768px) {
-
 }
 
 /***** Artículos *******/
@@ -711,10 +747,18 @@ main.contacto {
 .articulo table td {
   padding: 0.5em;
 }
+.articulo blockquote{
+  position: relative;
+}
 
-.articulo blockquote p {
-  font-size: 2em;
-  text-align: center;
+.articulo blockquote::before {
+content: '"';
+position: absolute;
+left: -0.35em;
+top: -0.35em;
+font-size: 7em;
+font-family: var(--fuenteTitulos);
+color: var(--accion);
 }
 
 .rect h5 {

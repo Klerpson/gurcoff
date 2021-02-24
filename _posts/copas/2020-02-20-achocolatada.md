@@ -6,11 +6,19 @@ keywords: Helados San Agustin, helado suave
 tags: [copa, chocolate]
 category: Copas
 precio: 9000
-principal: si
+principal: true
 img: img/achocolatada/copa-achocolatada-san-agustin.svg
 alt: Copa con chocolates y doble porción de Helado GurCoff
-boton: true
+excerpt_separator: <!-- excerpt -->
 ---
+>Los que **amamos el chocolate**, encontramos un tesoro delicioso en esta copa.
+
+<!-- excerpt -->
+
+{% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
+
+## {{page.title}} de San Agustín Huila
+
 | Producto | Descripción |
 | ----------- | ------ |
 | *🍦 Helado* | Contiene doble porción del helado suave con receta que se prepara en el día. Podrás escoger sus sabores o combinarlos |
@@ -22,10 +30,6 @@ boton: true
 | *🍫 Salsa* | Baño de chocolate |
 
 Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
-
-{% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
-
->Los que **amamos el chocolate**, encontramos un tesoro delicioso en esta copa.
 
 {% include boton.html path="https://wa.me/573115245225" texto="Pide tu domicilio" %}
 

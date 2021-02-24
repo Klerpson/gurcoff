@@ -1,9 +1,0 @@
-.carta {
-  display: grid;
-}
-
-.carta h3 {
-  font-size: 2em;
-  margin: 1.5em 0;
-  color: var(--principal);
-}

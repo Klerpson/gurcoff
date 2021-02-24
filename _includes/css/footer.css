@@ -1,66 +1,28 @@
 footer {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   text-align: center;
-  padding: 0.5em 2em;
   background-color: var(--complemento1);
 }
 
 footer a,
 footer p {
+  display: inline-block;
   font-family: var(--fuenteTexto) ;
-  font-size: 80%;
+  font-size: var(--sizeTextos);
 }
 
 footer a{
   color: var(--secundario);
+  margin: 0.5rem auto;
 }
 
 footer .julian {
-  font-size: 1.2em;
+  font-size: var(--sizeH3);
   text-decoration: underline;
   text-decoration-color: var(--secundario);
   text-decoration-thickness: 0.2rem;
   font-family: var(--fuenteTitulos);
-}
-
-main.contacto {
-  position: relative;
-}
-
-.contacto figcaption {
-  font-size: 0.8em;
-}
-
-.instagram span,
-.instagram a {
-  color: var(--principal);
-}
-
-.instagram {
-  font-size: 1.2em;
-  font-family: var(--fuenteTitulos);
-  text-align: center;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-}
-
-.contacto q {
-  font-family: var(--fuenteTitulos);
-}
-
-.contacto-footer h3 {
-  color: var(--principal);
-}
-
-.contacto-footer li {
-  line-height: 1.7em;
-}
-
-@media screen and (min-width: 768px) {
-
 }

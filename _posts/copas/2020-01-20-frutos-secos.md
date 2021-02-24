@@ -6,20 +6,19 @@ keywords: helado san agustin, frutos secos, mani san agustin, arequipe san agust
 tags: [Copas, Frutos Secos, Brownie]
 category: Copas
 precio: 9500
-hero: img/frutossecos/secos.png
+principal: false
 herow: img/frutossecos/secos.webp
 src: img/frutossecos/frutossecos.png
 webp: img/frutossecos/frutossecos.webp
 alt: Copa de doble porción de Helado GurCoff con frutos secos
 ---
-## {{page.title}} de San Agustín Huila
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@gurcoff/video/6839757307216170245" data-video-id="6839757307216170245" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@gurcoff" href="https://www.tiktok.com/@gurcoff">@gurcoff</a> <p><a title="frutossecos" target="_blank" href="https://www.tiktok.com/tag/frutossecos">##frutossecos</a> <a title="helados" target="_blank" href="https://www.tiktok.com/tag/helados">##helados</a> <a title="postres" target="_blank" href="https://www.tiktok.com/tag/postres">##postres</a> <a title="sanagustinhuila" target="_blank" href="https://www.tiktok.com/tag/sanagustinhuila">##sanagustinhuila</a></p> <a target="_blank" title="♬ sonido original - Heladería GurCoff" href="https://www.tiktok.com/music/sonido-original-6839757321472690949">♬ sonido original - Heladería GurCoff</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
+>Una opción para quienes nos gusta **el dulce en su punto**. Los frutos secos agregan un toque muy especial al helado suave.
 
 {% include boton.html path="https://wa.me/573115245225" texto="Preguntar por WhatsApp" %}
 
->Una opción para quienes nos gusta **el dulce en su punto**. Los frutos secos agregan un toque muy especial al helado suave.
+## {{page.title}} de San Agustín Huila
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@gurcoff/video/6839757307216170245" data-video-id="6839757307216170245" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@gurcoff" href="https://www.tiktok.com/@gurcoff">@gurcoff</a> <p><a title="frutossecos" target="_blank" href="https://www.tiktok.com/tag/frutossecos">##frutossecos</a> <a title="helados" target="_blank" href="https://www.tiktok.com/tag/helados">##helados</a> <a title="postres" target="_blank" href="https://www.tiktok.com/tag/postres">##postres</a> <a title="sanagustinhuila" target="_blank" href="https://www.tiktok.com/tag/sanagustinhuila">##sanagustinhuila</a></p> <a target="_blank" title="♬ sonido original - Heladería GurCoff" href="https://www.tiktok.com/music/sonido-original-6839757321472690949">♬ sonido original - Heladería GurCoff</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 | Producto | Descripción |
 | ----------- | ------ |
@@ -29,6 +28,8 @@ Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
 | *🥠 Granola* | Combinación de frutos secos |
 | *🍌 Banano* | Delicioso toque dulce natural en la copa |
 | *🍯 Salsa* | Baño de Arequipe |
+
+Su valor es de **${{page.precio}}**. ¿Quieres pedir uno? Escríbenos:
 
 {% include boton.html path="https://wa.me/573115245225" texto="Quiero pedir una" %}
 

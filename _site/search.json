@@ -92,6 +92,15 @@
   
     {
 
+      "title"    : "Malteada Óreo",
+      "url"      : "/malteadas/malteada-oreo/",
+      "category" : "Malteadas",
+      "tags"     : "Malteada, Óreo, Milkshake"
+
+    } ,
+  
+    {
+
       "title"    : "Copa Maracuyá",
       "url"      : "/copas/maracuya/",
       "category" : "Copas",

@@ -2,14 +2,12 @@
   <h2>Los más pedidos de San Agustín</h2>
 
   {% for galeria in site.posts %}
-  {% if galeria.principal == 'si' %}
-  <figure>
+  {% if galeria.principal %}
+  <article>
     <img src="{{ site.baseurl }}{{ galeria.img }}" alt="{{ galeria.alt }}">
-    <figcaption>
-      <h3 class="wow slideInRight">{{ galeria.title }}</h3>
-      <p>{{galeria.precio}}</p>
-    </figcaption>
-  </figure>
+    <h3>{{ galeria.title }}</h3>
+    {{galeria.excerpt}}
+  </article>
   {% endif %}
   {% endfor %}
 
@@ -23,4 +21,19 @@
     alegrar la tarde de tus seres amados.</p>
   <p>Ven y enamórate del <strong>mejor helado suave de San Agustín</strong>, el centro del turismo
     arqueológico del Huila.</p>
+</section>
+
+<section class="blog-intro">
+  <h2>Visita el magazine de San Agustín Huila</h2>
+  <article>
+    {% assign nuevo = site.posts[0] %}
+    <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
+    {{nuevo.excerpt}}
+    <img src="{{site.baseurl}}/{{nuevo.img}}" alt="">
+  </article>
+  <article>
+    {% assign nuevo = site.posts[1] %}
+    <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
+    <img src="{{site.baseurl}}/{{nuevo.img}}" alt="">
+  </article>
 </section>

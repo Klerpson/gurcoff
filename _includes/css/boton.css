@@ -5,7 +5,7 @@
   max-width: 60vw;
   font-family: var(--fuenteTitulos);
   font-weight: 700;
-  font-size: 1.2em;
+  font-size: var(--sizeH3);
   line-height: 1.2;
   color: var(--principal);
   text-decoration: underline;
