@@ -4,18 +4,18 @@ title: San Agustín se reinventa
 description: Una dedicación a los comerciantes de San Agustín que estamos viviendos los cambios de la crisis
 keywords: covid-19, crisis, comercio san agustin, medidas san agustin
 tags: [magazine, San Agustín, Negocios, noticias]
-nuevo: si
-src: img/magazine/2020-06-02/cerrado.jpg
-webp: img/magazine/2020-06-02/cerrado.webp
+img: img/magazine/2020-06-02/cerrado.webp
 alt: Calle 5 de San Agustín solitaria
-p1: img/publicidad/camaras.jpg
-p1w: img/publicidad/camaras.webp
-p1url: https://mys.com.co
 altp: Cámaras de seguridad MyS
 autor: Julian Andres Franco Bedoya
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
+p1: img/publicidad/camaras.jpg
+p1w: img/publicidad/camaras.webp
+p1url: https://mys.com.co
 ---
+![Letrero de cerrado][img1]
+
 Son muchos los negocios que tuvieron que cerrar por la crisis económica de San Agustín Huila. Pero **no necesariamente tienen que terminar**. ¿Por qué?
 
 <!-- excerpt -->
@@ -32,9 +32,10 @@ Por favor, reciban mi saludo y palabras de ánimo. Quiero dejar esta idea en tod
 
 ## En San Agustín Huila todos cerramos. Pero aquí seguimos
 
-![menu.jpg]({{site.baseurl}}/img/magazine/2020-06-02/gurcoffcerrado.jpg "Heladería GurCoff San Agustín Huila cerrada")
+![Heladería GurCoff cerrada por la cuarentena][img2]
+*Nuestra heladería cerrada por la cuarentena*
 
-Nuestra heladería GurCoff también tuvo que cerrar. Sin embargo, *el cambio al modelo de chat y domicilios nos ha servido mucho en nuestro trabajo*.
+Nuestra heladería GurCoff también tuvo que cerrar. Sin embargo, el cambio al modelo de chat y domicilios nos ha servido mucho en nuestro trabajo.
 
 Así mismo, nuestros vecinos pueden dar pasos para seguir adelante con sus proyectos, esos a los que tanto tiempo y esfuerzo han invertido hasta hoy. Te animo a que sigas invirtiendo más esfuerzos y tiempo. **Y te voy a compartir algunas ideas** que espero te puedan ayudar mucho.
 
@@ -42,9 +43,9 @@ Así mismo, nuestros vecinos pueden dar pasos para seguir adelante con sus proye
 
 Bueno, en realidad es una idea para cualquier restaurante de cualquier lugar. Cuando tú busca en YouTube **"Cocinas Fantasma" o "Dark Kitchens"**, encontrarás una manera genial de seguir trabajando con tu restaurante. [En este video](https://www.youtube.com/watch?v=h4dtzt3ojRQ) incluso te explican cómo comenzarlas, qué hacer primero, y hasta el plan de trabajo para comenzar una.
 
-![menu.jpg]({{site.baseurl}}/img/magazine/2020-06-02/menu.jpg "Psd de Maqueta creado por freepik - www.freepik.es")
+![Carta de un restaurante][img3]
 
-En su caso existe una enorme ventaja: ustedes no van a comenzar. **Ustedes ya tienen una reputación en el mercado**. Por eso, solamente hablamos de transformar, de reinventar la forma de trabajar. 
+En su caso existe una enorme ventaja: ustedes no van a comenzar. **Ustedes ya tienen una reputación en el mercado**. Por eso, solamente hablamos de transformar, de reinventar la forma de trabajar.
 
 ## ¿Y los hoteles que dependía del turismo?
 
@@ -58,8 +59,14 @@ Pensé en un ejemplo muy puntual. Alguna vez visité el [Lodge Akawanka](https:/
 
 ## Nuestra creatividad es el límite
 
-Nuevamente, estas son solo ideas al aire. El punto es que podemos seguir avanzando, evolucionando. **El secreto es pensar en qué modelo de negocios puedes cambiar**, no quedarnos solo en lo tradicional. Esto te ayudará ahora y tendremos nuevas maneras de *seguir consiguiendo lo que nosotros y nuestras familias necesitamos*. Al final, esto es lo que realmente importa. Por esto, si tu nuevo modelo de negocio, o el tradicional, ya te dan esto, entonces ya lo conseguiste.
+Nuevamente, estas son solo ideas al aire. El punto es que podemos seguir avanzando, evolucionando. **El secreto es pensar en qué modelo de negocios puedes cambiar**, no quedarnos solo en lo tradicional. Esto te ayudará ahora y tendremos nuevas maneras de seguir consiguiendo lo que nosotros y nuestras familias necesitamos. Al final, esto es lo que realmente importa. Por esto, si tu nuevo modelo de negocio, o el tradicional, ya te dan esto, entonces ya lo conseguiste.
 
 Recordemos que el primer objetivo de nuestros negocios ahora es sobrevivir. Si las cosas mejoran pronto, podremos seguir haciendo planes para lograr más objetivos.
 
 ¿A quién te gustaría compartir este artículo? Hazlo con los botones al final del artículo.
+
+[img1]: {{ site.baseurl }}/{{page.img}} "Calles de San Agustín en la cuarentena"
+
+[img2]: {{site.baseurl}}/img/magazine/2020-06-02/gurcoffcerrado.jpg "Heladería GurCoff San Agustín Huila cerrada"
+
+[img3]: {{site.baseurl}}/img/magazine/2020-06-02/menu.jpg "Psd de Maqueta creado por freepik - www.freepik.es"

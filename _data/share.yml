@@ -1,7 +1,7 @@
 - class: f
   href: https://www.facebook.com/sharer/sharer.php?u=https%3A//gurcoff.com/copas/frutos-rojos/
   iclass: icon-facebook
-  span: facebook
+  span: Facebook
 
 - class: i
   href: whatsapp://send?text=Holaaaa.%20Mira%20esta%20pagina%20web.%20Me%20gusto%20mucho%20{{page.url}}

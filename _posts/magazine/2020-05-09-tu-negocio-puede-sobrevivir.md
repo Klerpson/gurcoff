@@ -4,27 +4,25 @@ title: Tu negocio en San Agustín puede sobrevivir
 description: Algunos métodos que te pueden ayudar a salvar tu negocio ante la crisis económica.
 keywords: covid-19, crisis, negocios en crisis, salvar negocio
 tags: [magazine, Negocios, San Agustín, Crisis]
-nuevo: si
-src: img/magazine/2020-05-09/san-agustin.jpg
-webp: img/magazine/2020-05-09/san-agustin.webp
+img: img/magazine/2020-05-09/heladeria-gurcoff-san-agustin-huila-mini.webp
 alt: Calle 5 de San Agustín solitaria
-p1: img/publicidad/colageno.png
-p1w: img/publicidad/colageno.webp
-p1url: https://wa.me/573218301698?text=%20Hola!%20Vi%20en%20gurcoff%20web%20este%20producto:%20Colageno.%20Quiero%20pedirlo%20
-altp: Colágeno de Natural One Life
 autor: Julian Andres Franco Bedoya
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
+p1: img/publicidad/camaras.jpg
+p1w: img/publicidad/camaras.webp
+p1url: https://mys.com.co
 ---
-Te comparto lo que hemos hecho para **ayudar a nuestro negocio a sobrevivir** la crisis económica.
+![Calle de San Agustín Huila]({{ site.baseurl }}/{{page.img}} "Calles de San Agustín en la cuarentena")
 
+Te comparto lo que hemos hecho para **ayudar a nuestro negocio a sobrevivir** la crisis económica.
 <!-- excerpt -->
 
 ## 3 años intentando
 
 Abril de 2017. Desde esta fecha llevaba intentando más de 9 proyectos web diferentes. Todo a raíz del desastre en la ciudad de Mocoa que mi esposa y yo enfrentamos en la fecha ya mencionada.
 
-![Desastre en Mocoa 2017]({{ site.baseurl }}/img/magazine/2020-05-09/mocoa.jpg "Avalancha en Mocoa de Abril de 2017")
+![Desastre en Mocoa 2017]({{ site.baseurl }}/img/magazine/2020-05-09/mocoa.webp "Avalancha en Mocoa de Abril de 2017")
 
 Cuando nuestra situación económica estaba en su momento más difícil, mi Dios Jehová y mi familia fueron mi auxilio.
 
@@ -35,8 +33,6 @@ Mi hermano consiguió las recetas de nuestros helados y las compartió con la fa
 Sí. Ninguno nos esperamos este receso económico. Y menos nosotros. Llevábamos 7 meses de duro trabajo para que nuestra comunidad se enamore de nuestros productos y servicio.
 
 Por fin las cosas salían mucho mejor. Y al pueblito de San Agustín, que ya sentimos como nuestro pueblito querido, le encantaba nuestra heladería. **Así que, ¿ahora qué haríamos?**
-
-![San Agustín sin turistas]({{ site.baseurl }}/img/magazine/2020-05-09/san-agustin.jpg "Calle de San Agustín Huila")
 
 ## "Si quieres un cambio, cambia lo que haces"
 
@@ -77,7 +73,7 @@ Nota este último punto. Puede que ahora estés necesitando más capital para se
 En la medida de lo posible, **no te endeudes**. Mira en tu casa:
 
 - ¿Tienes una sala o comedor hermosos que te costó mucho conseguir?
-  
+
 - ¿Tiene tu familia dos, tres o más vehículos, sean carros o motos?
 
 - ¿Cuántos televisores hay en tu casa?

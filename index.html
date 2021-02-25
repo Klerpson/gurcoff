@@ -6,13 +6,4 @@ boton: true
 ---
 {% include header.html %}
 {% include principal.html %}
-<section class="ultima">
-  <h2>¿Estás en San Agustín? ¡Ven a probar!</h2>
-  <div class="categorias">
-    {% for category in site.categories %}
-      {% capture category_name %}{{ category | first }}{% endcapture %}
-      <a class="botones wow bounceInUp" href="{{ site.baseurl }}/carta/#{{ category_name }}">{{ category_name }}</a>
-    {% endfor %}
-  </div>
-</section>
-{% include footer.html %}
+

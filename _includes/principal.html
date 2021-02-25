@@ -27,13 +27,18 @@
   <h2>Visita el magazine de San Agustín Huila</h2>
   <article>
     {% assign nuevo = site.posts[0] %}
-    <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
     {{nuevo.excerpt}}
-    <img src="{{site.baseurl}}/{{nuevo.img}}" alt="">
+    <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
   </article>
+  <hr class="fade">
   <article>
     {% assign nuevo = site.posts[1] %}
+    {{nuevo.excerpt}}
     <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
-    <img src="{{site.baseurl}}/{{nuevo.img}}" alt="">
+  </article>
+  <article>
+    {% assign nuevo = site.posts[2] %}
+    {{nuevo.excerpt}}
+    <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
   </article>
 </section>

@@ -1,59 +1,84 @@
-/***** Artículos *******/
-.magazine article {
-  margin: 3em 0;
-  display: grid;
-  grid-template-columns: minmax(200px, 1fr);
-  grid-gap: 0.5em;
-  padding: 1em;
-  align-items: center;
-}
-
-.magazine article h3,
-.magazine article p,
-.magazine article a {
-  margin: 0;
+.header-articulo h1 {
+  padding: 10rem 0 0 0;
 }
 
 .articulo {
-  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
-.articulo li {
-  margin-bottom: 1em;
+.articulo h2 {
+  line-height: 1.2;
 }
 
-.articulo table {
-  margin-bottom: 3em;
+.articulo p {
+  margin: 1.5rem 0;
 }
 
-.articulo table td {
-  padding: 0.5em;
+.articulo p img {
+  display: block;
+  margin: 0 auto;
 }
-.articulo blockquote{
-  position: relative;
+
+.articulo em {
+  display: inherit;
+  text-align: center;
 }
 
 .articulo blockquote::before {
-content: '"';
-position: absolute;
-left: -0.35em;
-top: -0.35em;
-font-size: 7em;
-font-family: var(--fuenteTitulos);
-color: var(--accion);
+  content: '"';
+  position: absolute;
+  left: -0.35em;
+  top: -0.35em;
+  font-size: 7em;
+  font-family: var(--fuenteTitulos);
+  color: var(--accion);
 }
 
-.rect h5 {
-  font-size: 1.2em;
-  text-align: center;
+.sugerencias {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.sugerencias h3 {
+  margin: 0 0 1rem 0;
+  font-size: var(--sizeH3);
+}
+
+.relacionados {
+  margin: 1rem 0;
+}
+
+.relacionados img {
+  max-width: 100%;
+}
+
+.sugerencias h4 {
+  font-family: var(--fuenteTexto);
+}
+
+@media screen and (min-width: 600px) {
+  .header-articulo h1 {
+    padding: 15rem 0 0 0;
+    margin: 0;
+  }
 }
 
 @media screen and (min-width: 768px) {
   .articulo img {
     position: relative;
     overflow: hidden;
-    width: 300px;
     float: right;
     margin-left: 2em;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .header-articulo h1 {
+    padding: 18rem 0 0 0;
   }
 }

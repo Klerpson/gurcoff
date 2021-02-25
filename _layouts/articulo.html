@@ -1,16 +1,20 @@
 ---
 layout: default
 ---
-{% include header.html %}
-</section>
+<header class="header-articulo" style="background: none; height: auto;">
+  {% include logo.html %}
+  <h1>{{page.title}}</h1>
+</header>
 <main class="articulo">
   {{ content }}
 </main>
+<hr class="fade">
 {% include share.html %}
+<hr class="fade">
 
-<section class="rect">
+<section class="sugerencias">
 
-  <h3>Mira más en estas recomendaciones:</h3>
+  <h3>Más sobre San Agustín Huila</h3>
 
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
@@ -36,14 +40,14 @@ layout: default
   {% if sameTagCount >= minCommonTags %}
 
   <a href="{{ site.baseurl }}{{ post.url }}">
-    <div class="rel">
+    <div class="relacionados">
       <picture>
-        {% if post.hero %}
-        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.herow }}">
-        <img src="{{ site.baseurl }}/{{ post.hero }}" class="wow slideInDown" alt="{{ post.alt }}">
+        {% if post.img %}
+        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.img }}">
+        <img src="{{ site.baseurl }}/{{ post.img }}" class="wow slideInDown" alt="{{ post.alt }}">
         {% endif %}
       </picture>
-      <h5 class="icon-hand-o-right"> {{ post.title }}</h5>
+      <h4 class="icon-hand-o-right"> {{ post.title }}</h4>
     </div>
   </a>
 
@@ -54,36 +58,10 @@ layout: default
   {% endif %}
   {% endfor %}
 
-  <h4>¡Gracias por tu visita a nuestro sitio web!</h4>
 </section>
-
+<hr class="fade">
 <section>
   {% include comentarios.html %}
 </section>
 
-<!-- Initialize Swiper -->
-<script src="{{ site.baseurl }}/js/swiper.min.js"></script>
-<script>
-  var swiper = new Swiper('.swiper-container', {
-    effect: 'coverflow',
-    grabCursor: true,
-    centeredSlides: true,
-    slidesPerView: 'auto',
-    coverflowEffect: {
-      rotate: 20,
-      stretch: 0,
-      depth: 200,
-      modifier: 1,
-      slideShadows: true,
-    },
-    loop: true,
-    autoplay: {
-      delay: 500,
-      disableOnInteraction: false,
-    },
-  });
-</script>
-
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v7.0"
-  nonce="PPHQs9rM"></script>

@@ -2,6 +2,7 @@
   display: grid;
   justify-content: center;
   align-items: center;
+  width: 100vw;
 }
 
 .principal h2 {
@@ -10,7 +11,7 @@
 }
 
 .principal article {
-  margin: 3rem 0.5rem;
+  margin: 3rem 0;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -20,9 +21,9 @@
 }
 
 .principal article img {
-  width: 70vw;
+  width: 75vw;
   max-height: 50vh;
-  padding: 1.5rem;
+  padding: 2rem;
   border-radius: 0 150px 0 75px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   background: var(--complemento1);
@@ -49,6 +50,15 @@
   margin: 0.5rem 0;
 }
 
+.principal .botones {
+  margin: 0 auto;
+}
+
+.principal .botones::before {
+  font-size: 5rem;
+  top: 0;
+}
+
 .invitacion {
   background-color: var(--principal);
   text-align: center;
@@ -71,22 +81,33 @@
 .blog-intro {
   display: grid;
   grid-gap: 3rem;
+  margin: 2rem 0;
 }
 
 .blog-intro h2 {
   font-size: var(--sizeH2);
 }
 
-.blog-intro article a {
+.blog-intro .botones {
   font-size: var(--sizeH3);
   margin: 0;
-  padding: 1rem 0;
+  max-width: 100%;
 }
 
 .blog-intro article p {
   font-size: var(--sizeTextos);
   margin: 0;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
+}
+
+.blog-intro article img {
+  max-width: 100%;
+}
+
+.blog-intro .botones::before {
+  top: 0;
+  left: 0;
+  font-size: 5rem;
 }
 
 .ultima {
@@ -97,31 +118,9 @@
   justify-content: center;
 }
 
-.categorias {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-evenly;
-}
-
-.categorias a {
-  text-align: center;
-  position: relative;
-}
-
-.categorias .botones {
-  margin: 1.2rem 1rem 0;
-  font-size: var(--sizeTextos);
-}
-
-.categorias .botones::before {
-  display: none;
-}
-
 @media screen and (min-width: 600px) {
   .principal article img {
-    max-height: 40vh;
-    width: 50vw;
+    max-width: 50vw;
   }
 
   .principal .botones {
@@ -187,6 +186,22 @@
     align-self: flex-start;
   }
 
+  .blog-intro {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .blog-intro h2 {
+    width: 100%;
+  }
+
+  .blog-intro hr {
+    display: none;
+  }
+
+  .blog-intro article {
+    width: 300px;
+  }
 
 }
 
@@ -203,24 +218,11 @@
     padding: 4rem 8rem;
   }
 
-  .blog-intro {
-    grid-template-columns: repeat(auto-fit, minmax(auto, 35vw));
-    grid-gap: 2rem;
-  }
-
-  .blog-intro h2 {
-    grid-column: span 2;
-  }
-
-  .blog-intro article {
-    width: 300px;
-  }
 }
 
 @media screen and (min-width: 1200px) {
   .principal article img {
     max-height: 75vh;
-    width: 50vw;
   }
 
   .principal article h3,
@@ -228,5 +230,4 @@
     padding: 0 7rem;
   }
 
-  .principal article p {}
 }
