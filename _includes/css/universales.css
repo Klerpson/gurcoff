@@ -22,17 +22,13 @@ section,
 header,
 main,
 footer {
-  padding: 2rem 1rem;
+  padding: 4rem 2rem;
 }
 
 a {
   text-decoration: none;
   font-family: var(--fuenteTexto);
   color: var(--principal);
-}
-
-li {
-  list-style: none;
 }
 
 b,
@@ -65,13 +61,6 @@ button {
 
 img {
   border-style: none;
-}
-
-hr {
-  border: 0;
-  max-width: 100%;
-  background-position: 50%;
-  box-sizing: border-box;
 }
 
 .fade {

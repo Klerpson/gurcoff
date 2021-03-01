@@ -12,12 +12,12 @@
 
 .principal article {
   margin: 3rem 0;
-  width: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   overflow: hidden;
+  text-align: center;
 }
 
 .principal article img {
@@ -50,6 +50,10 @@
   margin: 0.5rem 0;
 }
 
+.principal blockquote {
+  width: 70%;
+}
+
 .principal .botones {
   margin: 0 auto;
 }
@@ -80,8 +84,7 @@
 
 .blog-intro {
   display: grid;
-  grid-gap: 3rem;
-  margin: 2rem 0;
+  grid-gap: 5rem;
 }
 
 .blog-intro h2 {
@@ -187,16 +190,13 @@
   }
 
   .blog-intro {
-    display: flex;
-    flex-wrap: wrap;
+    padding: 4em 2rem;
+    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
+    justify-content: center;
   }
 
   .blog-intro h2 {
-    width: 100%;
-  }
-
-  .blog-intro hr {
-    display: none;
+    grid-column: span 2;
   }
 
   .blog-intro article {
@@ -207,15 +207,26 @@
 
 @media screen and (min-width: 992px) {
 
+  .principal article {
+  }
+
   .principal article h3,
   .principal article p {
     margin: 0;
     padding: 0 5rem;
   }
 
-  .invitacion,
-  .blog-intro {
+  .invitacion {
     padding: 4rem 8rem;
+  }
+
+  .blog-intro {
+    padding: 4em 0;
+    grid-gap: 2rem;
+  }
+
+  .blog-intro h2 {
+    grid-column: span 3;
   }
 
 }
@@ -228,6 +239,15 @@
   .principal article h3,
   .principal article p {
     padding: 0 7rem;
+  }
+
+  .invitacion {
+    padding: 4rem 12rem;
+    margin: 0 auto;
+  }
+
+  .blog-intro {
+    padding: 7rem;
   }
 
 }
