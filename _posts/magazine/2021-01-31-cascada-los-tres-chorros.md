@@ -27,16 +27,18 @@ Su ubicación es privilegiada. Está en medio de un exuberante paisaje de bosque
 
 ## ¿Cómo llego a la cascada los Tres Chorros?
 
-![Cascada Tres Chorros Magdalena][img2]
-*Cascada los Tres Chorros de San Agustín*
-
 Puedes comenzar tu viaje desde el centro urbano del municipio de San Agustín. **Debes llegar hasta una vereda (zona rural del municipio) llamada La Pradera**. La vía es una carretera de 20 kilómetros aproximadamente.
 
 Puedes comenzar tu viaje desde San Agustín. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
 
+![Cascada Tres Chorros Magdalena][img2]*Cascada los Tres Chorros de San Agustín*
+
 En el municipio de San Agustín tienes **diferentes opciones de transporte**. Están las empresas de transporte intermunicipal, con las que pagas tu pasaje y te pueden acercar hasta el comienzo de los hermosos cenderos naturales que conducen hasta la cascada. Lo mismo pueden hacer los transportes en motocicleta o "motoratones", como se les conoce localmente. ¡Y hasta puedes llegar en chiva!
 
 Cuando ya llegas al comienzo de los sendero naturales, comienza una caminata. Sí, como acabas de descubrir, no hay acceso en vehículo hasta la cascada. Pero en parte, esa es una de las razones por la que la cascada Tres Chorros es tan hermosa.
+
+<!-- PUBLICIDAD -->
+{% include publicidad.html h3="Digitalizar es Fácil" img="img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" p="Has luchado por tu negocio por años. ¿Y ahora está a punto de cerrar? La digitalización es la respuesta. Nosotros te ayudamos a hacerlo fácil" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
 
 Ahora bien, puedes contratar la compañía de guías turísticos. O sencillamente preguntar a las personas del lugar cuáles son los sendero que llegan hasta allá.
 
@@ -75,6 +77,9 @@ Al llegar a Los Tres Chorros, entenderá el por qué de su nombre. Encontrarás 
 
 Sus aguas son frías. Pero si esto no es un problema para ti, **podrás bañar en sus aguas**. Y si quieres más emociones, es posible **practicar rappel sobre la cascada**, claro con personal especializado y con todos los equipos de seguridad necesarios.
 
+<!-- PUBLICIDAD -->
+{% include publicidad.html h3="Digitalizar es Fácil" img="img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" p="Has luchado por tu negocio por años. ¿Y ahora está a punto de cerrar? La digitalización es la respuesta. Nosotros te ayudamos a hacerlo fácil" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
+
 Tendrás el marco apropiado para la meditación. Y luego, en tu viaje de regreso, deja volar tu imaginación con la vista increíble de los páramos donde nace uno de los principales rios de Colombia.
 
 ## Después del tour a Los Tres Chorros, ¿que más puedo hacer?
@@ -85,7 +90,10 @@ Además, podrás hacer una **caminata por un sendero precolombino**, con fondos 
 
 Por otra parte, en Las Tapias los visitantes pueden disfrutar de otro ratico de **baño en sus aguas**. También se puede **practicar la pesca de la trucha**, pez típico de la zona.
 
-Y, por supuesto, cuando llegues al pueblo de San Agustín nuevamente, puedes pasar por nuestra heladería y disfrutar de un helado suave. Será un delicioso remate del paseo a los Tres Chorros. 
+Y, por supuesto, cuando llegues al pueblo de San Agustín nuevamente, puedes pasar por nuestra heladería y disfrutar de un helado suave. Será un delicioso remate del paseo a los Tres Chorros.
+
+![Cascada Tres Chorros Magdalena][img6]
+*Copa Frutos Rojos, naturalmente deliciosa como la cascada Tres Chorros*
 
 **[HAZ CLIC AQUÍ]({{site.baseurl}}/contacto)** para consultar los horarios y nuestros datos de contacto.
 
@@ -114,3 +122,4 @@ Los sonidos naturales del agua y el bosque te llevarán a un momento hermoso y m
 [img3]: {{ site.baseurl }}/img/magazine/2021-01-31/llegada-tres-chorros-huila.webp "Llegando a los tres chorros"
 [img4]: {{ site.baseurl }}/img/magazine/2021-01-31/cabalgata-cascada-tres-chorros-mini.webp "Cabalgata a la cascada Tres chorros"
 [img5]: {{ site.baseurl }}/img/magazine/2021-01-31/tour-tres-chorros-bicicleta.webp "Viaja en bicicleta a la cascada Tres chorros"
+[img6]: {{ site.baseurl }}/img/magazine/2021-01-31/frutos-rojos.webp "Copa de Helado Frutos Rojos de la heladería GurCoff de San Agustín Huila"

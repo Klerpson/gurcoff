@@ -24,7 +24,8 @@ Son muchos los negocios que tuvieron que cerrar por la crisis económica de San 
 
 Cuando llegamos al pueblo y comenzamos a trabajar, nuestros vecinos casi que nos dieron un abrazo de bienvenida. Y sí, varios de ellos sí lo hicieron literalmente.
 
-{% include publicidad1.html %}
+<!-- PUBLICIDAD -->
+{% include publicidad.html h3="Digitalizar es Fácil" img="img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" p="Te ayudamos para que no tengas que cerrar tu negocio o emprendimiento. La digitalización es la respuesta" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
 
 Muchas tardes en la heladería, sentados mirando el atardecer, conversaban sobre sus historias de vida en el pueblo. Contaban cómo comenzaron en San Agustín, y me compartían sugerencias y consejos que nos han servido mucho. Así que **verlos cerrar hoy sus restaurantes, almacenes, talleres, entre otros... no es fácil.**
 
@@ -53,7 +54,8 @@ En su caso existe una enorme ventaja: ustedes no van a comenzar. **Ustedes ya ti
 
 La idea era utilizar sus instalaciones para youtubers. Claro está, youtubers a los que sí les sirve sus instalaciones. Por ejemplo, personas que hacen yoga en línea. Instructores de gimnasio a campo abierto. Estos por mencionar algunos.
 
-{% include publicidad1.html %}
+<!-- PUBLICIDAD -->
+{% include publicidad.html h3="Digitalizar es Fácil" img="img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" p="Te ayudamos para que no tengas que cerrar tu negocio o emprendimiento. La digitalización es la respuesta" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
 
 Pensé en un ejemplo muy puntual. Alguna vez visité el [Lodge Akawanka](https://goo.gl/maps/ShpBmV69XQYJmZMT6). Tiene un arte muy, pero muy bonito en sus instalaciones. Así que a mis vecinos de Akawanka: que tal si preparan un pack de imágenes y videos, que se puedan vender como fondos de fotografías, diseños gráficos o hasta fondos para video conferencias. Hasta los pueden regalar, y al compartirse todos estos fondos tan bonitos, estarían haciendo publicidad al lugar GRATIS. En el momento que alguno quisiéramos utilizar las instalaciones para transmisiones o estudios fotográficos de productos, servicios, modelaje, entre otros; entonces ustedes pueden hacer acuerdos para alquilar el lugar.
 

@@ -1,45 +1,50 @@
 .header-articulo h1 {
-  padding: 10rem 0 0 0;
+  padding-top: calc(100Vh - 80vh);
+  color: var(--complemento2);
 }
 
 .articulo {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
   padding: 0 2rem;
 }
 
 .articulo h2 {
   line-height: 1.2;
   margin: 2rem 0;
+  color: var(--complemento2);
 }
 
 .articulo p {
-  margin: 1rem 0;
+  margin: 1.5rem 0;
+}
+
+.articulo p img {
+  border-radius: 7px;
+  box-shadow: var(--shadow);
 }
 
 .articulo em {
   display: inherit;
-  text-align: center;
+  line-height: 1.1;
 }
 
 .articulo a {
-  color: var(--complemento2);
+  color: var(--principal);
 }
 
 .articulo li {
   margin-left: 1rem;
 }
 
-.articulo blockquote::before {
-  content: '"';
-  position: absolute;
-  left: -0.35em;
-  top: -0.35em;
-  font-size: 7em;
-  font-family: var(--fuenteTitulos);
-  color: var(--accion);
+.articulo blockquote {
+  position: relative;
+  display: grid;
+  background: var(--secundario);
+  padding: 2rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  color: var(--blanco);
+  font-weight: 700;
+  font-size: var(--sizeH3);
 }
 
 .sugerencias {
@@ -66,27 +71,23 @@
 }
 
 @media screen and (min-width: 600px) {
-  .header-articulo h1 {
-    padding: 15rem 0 0 0;
-    margin: 0;
+  .articulo {
+    padding: 0 4rem;
   }
 }
 
 @media screen and (min-width: 768px) {
 
-.header-articulo h1 {
-  padding-top: 12rem;
-}
-
   .articulo {
     width: 80vw;
     margin: 0 auto;
   }
+
   .articulo img {
     position: relative;
     overflow: hidden;
     float: right;
-    margin-left: 2em;
+    margin-left: 2rem;
   }
 
   .sugerencias {
@@ -94,7 +95,7 @@
     grid-template-columns: repeat(auto-fill, minmax(300px, auto));
   }
 
-  .sugerencias h3{
+  .sugerencias h3 {
     grid-column: span 3;
     text-align: center;
     margin: 2rem 0;
@@ -105,8 +106,18 @@
   }
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 1200px) {
   .header-articulo h1 {
-    padding: 18rem 0 0 0;
+    padding-top: calc(100Vh - 60vh);
+  }
+
+  .articulo {
+    width: 60vw;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .articulo {
+    width: 50vw;
   }
 }

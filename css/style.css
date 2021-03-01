@@ -12,11 +12,11 @@
 
 {% include css/boton.css %}
 
-{% include css/publicidad.css %}
-
 {% include css/footer.css %}
 
 {% include css/articulo.css %}
+
+{% include css/publicidad.css %}
 
 {% include css/share.css %}
 

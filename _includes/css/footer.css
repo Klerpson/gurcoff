@@ -15,8 +15,9 @@ footer p {
 }
 
 footer a{
-  color: var(--secundario);
+  color: var(--principal);
   margin: 0.5rem auto;
+  font-weight: 700;
 }
 
 footer .julian {
