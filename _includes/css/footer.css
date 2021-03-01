@@ -19,11 +19,3 @@ footer a{
   margin: 0.5rem auto;
   font-weight: 700;
 }
-
-footer .julian {
-  font-size: var(--sizeH3);
-  text-decoration: underline;
-  text-decoration-color: var(--secundario);
-  text-decoration-thickness: 0.2rem;
-  font-family: var(--fuenteTitulos);
-}

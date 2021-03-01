@@ -1,4 +1,5 @@
  .publicidad {
+   width: 100%;
    background: var(--secundario);
    padding: 1rem;
    display: grid;

@@ -55,14 +55,16 @@ Te proponemos una idea espectacular: **hacer el viaje en bicicleta**. Puedes alq
 
 Por ejemplo, la agencia **Adventure-X-Colombia** te ofrece un recorrido a los Tres Chorros. Te incluyen el seguro, un buen snack, fotos con dron y Go-Pro. De pendiendo de tu capacidad en la bicicleta, así mismo puede durar esta excursión a los Tres Chorros. En el siguiente botón puedes preguntarles por sus planes de aventura:
 
-{% include boton.html path="http://bit.ly/tour-en-bicicleta" texto="Preguntar por el tour en bicicleta" %}
+<!-- PUBLICIDAD -->
+{% include publicidad.html h3="Tour en bicicleta con Adventure X Colombia" img="img/publicidad/logoadventure.svg" alt="Logo de Aventure X Colombia" p="Haz el recorrido de esta ruta en una bicicleta de montaña. Conoce con calma y espíritu aventurero la belleza de los paisajes, parajes y arqueología que envuelve a esta mágica región" href="http://bit.ly/tour-en-bicicleta" a="Escríbenos a nuestro WhatsApp" %}
 
-![Foto de Mano creado por ArthurHidden - www.freepik.es][img4]
-*Otra opción es llegar a caballo*
 
 **También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorros**, una experiencia hermosa que también te recomendamos, claro, si tu presupuesto te lo permite. Para más información sobre el tour a caballo, puedes contactar a esta agencia. Es muy conocida y con mucho tiempo de experiencia:
 
 {% include boton.html path="http://bit.ly/tour-a-caballo" texto="Preguntar por el tour a caballo" %}
+
+![Foto de Mano creado por ArthurHidden - www.freepik.es][img4]
+*Otra opción es llegar a caballo*
 
 ## ¿Qué te espera en tu excursión a Los Tres Chorros del Magdalena?
 
