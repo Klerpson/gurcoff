@@ -42,10 +42,10 @@ layout: default
       <picture>
         {% if post.img %}
         <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.img }}">
-        <img src="{{ site.baseurl }}/{{ post.img }}" class="wow slideInDown" alt="{{ post.alt }}">
+        <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}">
         {% endif %}
       </picture>
-      <h4 class="icon-hand-o-right"> {{ post.title }}</h4>
+      <h4> {{ post.title }}</h4>
     </div>
   </a>
 
@@ -62,3 +62,5 @@ layout: default
 </section>
 
 <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v7.0"
+  nonce="PPHQs9rM"></script>
