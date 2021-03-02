@@ -16,6 +16,6 @@ footer p {
 
 footer a{
   color: var(--principal);
-  margin: 0.5rem auto;
+  margin: 1rem 0.5rem;
   font-weight: 700;
 }

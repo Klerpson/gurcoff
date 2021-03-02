@@ -89,7 +89,7 @@ h2 {
 }
 
 button {
-  margin: 2em 0;
+  margin: 2rem 0;
 }
 
 img {
@@ -111,16 +111,18 @@ img {
   header,
   main,
   footer {
-    padding: 4em 5em;
+    padding: 2rem 5rem;
   }
 }
 
 @media only screen and (min-width: 992px) {
-
-
+  section,
+  header,
+  main,
+  footer {
+    padding: 2rem 8rem;
+  }
 }
-
-@media only screen and (min-width: 1400px) {}
 
 .nav {
   width: 300px;
@@ -136,6 +138,10 @@ img {
   border-radius: 20% 0 0 60%;
   transition: right 0.8s cubic-bezier(1, 0, 0, 1);
   z-index: 5;
+}
+
+nav li{
+  list-style: none;
 }
 
 .change{
@@ -646,7 +652,7 @@ footer p {
 
 footer a{
   color: var(--principal);
-  margin: 0.5rem auto;
+  margin: 1rem 0.5rem;
   font-weight: 700;
 }
 
@@ -787,6 +793,41 @@ footer a{
     width: 50vw;
   }
 }
+
+.magazine {
+  position: relative;
+  display: grid;
+  grid-gap: 3rem 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(auto, 300px));
+  justify-content: center;
+  margin: 0;
+}
+
+.magazine h2 {
+  font-size: var(--sizeH2);
+  color: var(--complemento2);
+}
+
+.magazine img{
+  max-width: 100%;
+  border-radius: 5px;
+  box-shadow: var(--shadow);
+}
+
+.magazine p {
+  margin: 1rem 0;
+}
+
+section.magazine > p{
+  margin: 0;
+}
+
+@media screen and (min-width: 600px){
+.magazine > p{
+  grid-column: span 3;
+}
+}
+
 
  .publicidad {
    width: 100%;
