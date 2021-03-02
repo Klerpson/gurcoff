@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Conoce la cascada Los Tres Chorros
+title: 🌄 Conoce la cascada Los Tres Chorros
 description: La hermosa cascada de los tres chorros en el Magdalena, un excelente plan para los turistas de San Agustín Huila
 keywords: san agustin huila, los tres chorros magdalena, rios cerca a san agustín, cascadas san agustín huila, sitios turísticos de san agustín, cascada san agustín, san agustin
 category: san-agustin-aventura
