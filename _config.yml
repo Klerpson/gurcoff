@@ -16,4 +16,14 @@ permalink: /:categories/:title/
 
 markdown: kramdown
 
-keep_files: [/img]
+keep_files: [images]
+
+compress_html:
+    clippings: []
+    comments: []
+    endings: []
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
+    startings: []
