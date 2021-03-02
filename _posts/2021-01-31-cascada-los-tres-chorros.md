@@ -31,7 +31,8 @@ Puedes comenzar tu viaje desde el centro urbano del municipio de San Agustín. *
 
 Puedes comenzar tu viaje desde San Agustín. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
 
-![Cascada Tres Chorros Magdalena][img2]*Cascada los Tres Chorros de San Agustín*
+![Cascada Tres Chorros Magdalena][img2]
+*Cascada los Tres Chorros de San Agustín*
 
 En el municipio de San Agustín tienes **diferentes opciones de transporte**. Están las empresas de transporte intermunicipal, con las que pagas tu pasaje y te pueden acercar hasta el comienzo de los hermosos cenderos naturales que conducen hasta la cascada. Lo mismo pueden hacer los transportes en motocicleta o "motoratones", como se les conoce localmente. ¡Y hasta puedes llegar en chiva!
 
