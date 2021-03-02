@@ -9,10 +9,9 @@
 
 .magazine h2 {
   font-size: var(--sizeH2);
-  color: var(--complemento2);
 }
 
-.magazine img{
+.magazine img {
   max-width: 100%;
   border-radius: 5px;
   box-shadow: var(--shadow);
@@ -22,12 +21,12 @@
   margin: 1rem 0;
 }
 
-section.magazine > p{
+section.magazine>p {
   margin: 0;
 }
 
-@media screen and (min-width: 600px){
-.magazine > p{
-  grid-column: span 3;
-}
+@media screen and (min-width: 600px) {
+  .magazine>p {
+    grid-column: span 3;
+  }
 }

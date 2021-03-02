@@ -3,7 +3,7 @@ layout: articulo
 title: 🌄 Conoce la cascada Los Tres Chorros
 description: La hermosa cascada de los tres chorros en el Magdalena, un excelente plan para los turistas de San Agustín Huila
 keywords: san agustin huila, los tres chorros magdalena, rios cerca a san agustín, cascadas san agustín huila, sitios turísticos de san agustín, cascada san agustín, san agustin
-category: san-agustin-aventura
+category: que-hacer-en-san-agustin
 tags: [magazine, San Agustín, turismo, cascadas, rios, magdalena]
 img: img/magazine/2021-01-31/tres-chorros-san-agustin.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
@@ -16,6 +16,9 @@ excerpt_separator: <!-- excerpt -->
 Un hermoso rincón de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Estamos hablando de las cascadas de Los Tres Chorros.
 
 <!-- excerpt -->
+
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 ## Hermoso sitio turístico de San Agustín
 
@@ -114,7 +117,7 @@ Para que puedas disfrutar al máximo esta experiencia turística, te tenemos las
 
 Por otra parte, al visitar esta cascada del Magdalena, seguramente desearás darte un baño. Por esto, te recomendamos ropa y zapatos cómodos para hacer la caminata turística; la ropa de tu vestuario para bañar; lleva tu gorra, sombrero o sombrilla para que no te quemes por el sol, si está soleado el día.
 
-## En conclusión:
+## Un delicioso paseo a la cascada de los Tres Chorros
 
 Si hablamos del tour a los tres chorros de San Agustín, estamos hablando de un verdadero viaje de descanso, armonía y encuentro con la naturaleza. Despejarás tu mente. Quitarás ese estrés, como seguramente estarás buscando en tu viaje.
 

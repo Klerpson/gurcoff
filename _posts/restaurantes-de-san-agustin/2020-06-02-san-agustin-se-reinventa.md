@@ -19,6 +19,8 @@ p1url: https://mys.com.co
 Son muchos los negocios que tuvieron que cerrar por la crisis económica de San Agustín Huila. Pero **no necesariamente tienen que terminar**. ¿Por qué?
 
 <!-- excerpt -->
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 ## Una dedicación a mis vecinos de San Agustín Huila
 

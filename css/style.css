@@ -16,6 +16,8 @@
 
 {% include css/articulo.css %}
 
+{% include css/toc.css %}
+
 {% include css/blog.css %}
 
 {% include css/publicidad.css %}

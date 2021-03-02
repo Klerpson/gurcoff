@@ -45,7 +45,7 @@ span {
 
 h1,
 h3,
-h4{
+h4 {
   font-family: var(--fuenteTitulos);
 }
 
@@ -74,6 +74,7 @@ img {
 }
 
 @media only screen and (min-width: 600px) {
+
   section,
   header,
   main,
@@ -83,6 +84,7 @@ img {
 }
 
 @media only screen and (min-width: 992px) {
+
   section,
   header,
   main,

@@ -18,6 +18,9 @@ p1url: https://mys.com.co
 Te comparto lo que hemos hecho para **ayudar a nuestro negocio a sobrevivir** la crisis económica.
 <!-- excerpt -->
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 ## 3 años intentando
 
 Abril de 2017. Desde esta fecha llevaba intentando más de 9 proyectos web diferentes. Todo a raíz del desastre en la ciudad de Mocoa que mi esposa y yo enfrentamos en la fecha ya mencionada.

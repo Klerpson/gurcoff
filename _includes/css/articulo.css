@@ -1,6 +1,5 @@
 .header-articulo h1 {
   padding-top: calc(100Vh - 80vh);
-  color: var(--complemento2);
 }
 
 .articulo {
@@ -10,7 +9,6 @@
 .articulo h2 {
   line-height: 1.2;
   margin: 2rem 0;
-  color: var(--complemento2);
 }
 
 .articulo p {
@@ -112,7 +110,8 @@
 }
 
 @media screen and (min-width: 992px) {
-  .sugerencias, 
+
+  .sugerencias,
   .comentarios {
     width: 50vw;
     margin: 0 auto;
