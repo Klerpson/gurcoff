@@ -126,7 +126,7 @@ Si hablamos del tour a los tres chorros de San Agustín, estamos hablando de un 
 
 Los sonidos naturales del agua y el bosque te llevarán a un momento hermoso y memorable. Y seguramente quedarán hermosos recuerdos fotográficos con los paisajes y diferentes escenarios de esta parte de San Agustín. ¡Seguro que te espera un viaje que desearás repetir!
 
-[img1]: {{ site.baseurl }}/{{page.img}} "Cascada de los Tres Chorros en San Agustín Huila" {:width="300px"}
+[img1]: {{ site.baseurl }}/{{page.img}} "Cascada de los Tres Chorros en San Agustín Huila"
 [img2]: {{ site.baseurl }}/img/magazine/2021-01-31/cascada-tres-chorros.webp "Cascada Tres Chorros Magdalena"
 [img3]: {{ site.baseurl }}/img/magazine/2021-01-31/llegada-tres-chorros-huila.webp "Llegando a los tres chorros"
 [img4]: {{ site.baseurl }}/img/magazine/2021-01-31/cabalgata-cascada-tres-chorros-mini.webp "Cabalgata a la cascada Tres chorros"
