@@ -2,7 +2,6 @@
 layout: articulo
 title: San Agustín se reinventa
 description: Una dedicación a los comerciantes de San Agustín que estamos viviendos los cambios de la crisis
-keywords: covid-19, crisis, comercio san agustin, medidas san agustin
 tags: [magazine, San Agustín, Negocios, noticias]
 img: img/magazine/2020-06-02/cerrado.webp
 alt: Calle 5 de San Agustín solitaria

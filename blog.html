@@ -7,6 +7,7 @@ img: img/magazine/magazine.webp
 {% include header.html %}
 <section class="magazine">
   <p>{{ page.description }}</p>
+  {% include buscador.html %}
   {% for post in site.posts %}
   <article>
     <h2>

@@ -16,7 +16,7 @@ permalink: /:categories/:title/
 
 markdown: kramdown
 
-keep_files: [images]
+keep_files: [/img]
 
 compress_html:
     clippings: []

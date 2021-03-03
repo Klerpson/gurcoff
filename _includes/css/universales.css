@@ -34,7 +34,6 @@ a {
 b,
 strong {
   font-weight: 700;
-  color: var(--principal);
 }
 
 span {
