@@ -1,12 +1,12 @@
-- img: img/galeria/affogato-san-agustin.svg
-  alt: Affogato, helado con café orgánico de San Agustín Huila
-  title: Affogato San Agustín
-  description: ¿Te gusta el capuchino? Este es mucho más suave y con el dulce sabor de la receta de vainilla GurCoff. Un concepto muy diferente para los que nos gusta el café. Mil gracias a nuestros amigos europeos que nos compartieron la idea.
-
 - img: img/galeria/copa-achocolatada-san-agustin.svg
   alt: Copa Achocolatada de la heladería GurCoff de San Agustín Huila
   title: Copa Achocolatada
   description: Para todos los que amamos el chocolate, este es un gran tesoro lleno de deliciosos chocolates suaves, crocantes y en salsa con la receta de helado que más te gusta en San Agustín.
+
+- img: img/galeria/affogato-san-agustin.svg
+  alt: Affogato, helado con café orgánico de San Agustín Huila
+  title: Affogato San Agustín
+  description: ¿Te gusta el capuchino? Este es mucho más suave y con el dulce sabor de la receta de vainilla GurCoff. Un concepto muy diferente para los que nos gusta el café. Mil gracias a nuestros amigos europeos que nos compartieron la idea.
 
 - img: img/galeria/milkshake-especial-san-agustin.svg
   alt: La primera malteada súper especial de San Agustín Huila

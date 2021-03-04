@@ -2,7 +2,6 @@
   display: grid;
   justify-content: center;
   align-items: center;
-  width: 100vw;
 }
 
 .principal h2 {
@@ -21,7 +20,7 @@
 }
 
 .principal article img {
-  width: 75vw;
+  max-width: 75vw;
   max-height: 50vh;
   padding: 2rem;
   border-radius: 0 150px 0 75px;
@@ -124,10 +123,7 @@
 }
 
 @media screen and (min-width: 600px) {
-  .principal article img {
-    max-width: 50vw;
-  }
-
+  
   .principal .botones {
     padding: 1rem 0;
     margin: 0 auto;
@@ -135,37 +131,38 @@
 }
 
 @media screen and (min-width: 767px) {
-
   .principal {
     padding: 4rem 0;
     grid-gap: 4rem 0;
   }
-
+  
   .principal h2 {
     width: 60vw;
     margin: 2em auto;
   }
-
+  
   .principal article {
     margin: 0;
     padding: 1rem 0;
     display: grid;
+    grid-gap: 0 1rem;
     grid-template-areas: "img h3"
-      "img p";
+    "img p";
     justify-content: center;
     align-items: center;
   }
-
+  
+  .principal article img {
+    max-width: 40vw;
+    padding: 2rem 6rem;
+    grid-area: img;
+  }
+  
   .principal article:nth-child(3),
   .principal article:nth-child(5),
   .principal article:nth-child(7) {
     grid-template-areas: "h3 img"
       "p img";
-  }
-
-  .principal article img {
-    padding: 4rem 3rem;
-    grid-area: img;
   }
 
   .principal article:nth-child(3) img,
@@ -177,7 +174,7 @@
   .principal article h3,
   .principal article blockquote p {
     margin: 0;
-    padding: 0 3rem;
+    padding: 0;
   }
 
   .principal article h3 {
