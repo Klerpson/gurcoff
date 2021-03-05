@@ -11,6 +11,10 @@
   font-size: var(--sizeH2);
 }
 
+.magazine article {
+  width: 300px;
+}
+
 .magazine img {
   max-width: 100%;
   border-radius: 5px;
@@ -28,5 +32,12 @@ section.magazine>p {
 @media screen and (min-width: 600px) {
   .magazine>p {
     grid-column: span 3;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .magazine {
+    width: 60vw;
+    margin: 0 auto;
   }
 }

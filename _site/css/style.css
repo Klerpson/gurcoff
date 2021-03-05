@@ -393,7 +393,7 @@ header.scrolled .logo svg {
   margin: 0.5rem 0;
 }
 
-.principal p{
+.principal p {
   align-self: flex-start;
 }
 
@@ -467,7 +467,7 @@ header.scrolled .logo svg {
 }
 
 @media screen and (min-width: 600px) {
-  
+
   .principal .botones {
     padding: 1rem 0;
     margin: 0 auto;
@@ -479,29 +479,29 @@ header.scrolled .logo svg {
     padding: 4rem 0;
     grid-gap: 4rem 0;
   }
-  
+
   .principal h2 {
     width: 60vw;
     margin: 2em auto;
   }
-  
+
   .principal article {
     margin: 0;
     padding: 1rem 0;
     display: grid;
     grid-gap: 0 1rem;
     grid-template-areas: "img h3"
-    "img p";
+      "img p";
     justify-content: center;
     align-items: center;
   }
-  
+
   .principal article img {
     max-width: 40vw;
     padding: 2rem 6rem;
     grid-area: img;
   }
-  
+
   .principal article:nth-child(3),
   .principal article:nth-child(5),
   .principal article:nth-child(7) {
@@ -561,8 +561,8 @@ header.scrolled .logo svg {
   }
 
   .blog-intro {
-    padding: 4em 0;
-    grid-gap: 2rem;
+    padding: 5rem 0;
+    grid-gap: 5rem;
   }
 
   .blog-intro h2 {
@@ -823,6 +823,10 @@ footer a {
   font-size: var(--sizeH2);
 }
 
+.magazine article {
+  width: 300px;
+}
+
 .magazine img {
   max-width: 100%;
   border-radius: 5px;
@@ -840,6 +844,13 @@ section.magazine>p {
 @media screen and (min-width: 600px) {
   .magazine>p {
     grid-column: span 3;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .magazine {
+    width: 60vw;
+    margin: 0 auto;
   }
 }
 
@@ -1008,5 +1019,66 @@ section.magazine>p {
     margin: 0 auto;
     justify-content: center;
     flex-wrap: wrap;
+  }
+}
+
+
+.contacto li {
+  list-style: none;
+}
+
+.contacto h3 {
+  margin: 1.5rem 0;
+  font-size: var(--sizeH3);
+  line-height: 1.1;
+  margin-bottom: 1.5rem;
+}
+
+.contacto ul {
+  line-height: calc(100% * 2);
+}
+
+.contacto ul li a {
+  text-decoration: underline;
+  text-decoration-color: var(--secundario);
+  text-decoration-thickness: 0.2rem;
+}
+
+.nosotros {
+  padding: 0 2rem;
+}
+
+.nosotros p,
+.nosotros q,
+.nosotros figure {
+  margin: 1.5rem 0;
+}
+
+.nosotros h2 {
+  margin: 2rem 0;
+}
+
+.nosotros figure {
+  text-align: center;
+}
+
+.nosotros figure img {
+  max-width: 100%;
+  border-radius: 5px;
+  box-shadow: var(--shadow);
+}
+
+.nosotros q {
+  font-size: var(--sizeH3);
+  font-family: var(--fuenteTitulos);
+  color: var(--complemento2);
+  line-height: 1.1;
+}
+
+@media screen and (min-width: 992px){
+  .contacto,
+  .nosotros {
+    width: 50vw;
+    margin: 0 auto
   }
 }
