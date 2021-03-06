@@ -63,7 +63,6 @@ Por ejemplo, la agencia **Adventure-X-Colombia de San Agustín** te ofrece un re
 <!-- PUBLICIDAD -->
 {% include publicidad.html h3="Tour en bicicleta con Adventure X Colombia" img="img/publicidad/logoadventure.svg" alt="Logo de Aventure X Colombia" p="Haz el recorrido de esta ruta en una bicicleta de montaña. Conoce con calma y espíritu aventurero la belleza de los paisajes, parajes y arqueología que envuelve a esta mágica región" href="http://bit.ly/tour-en-bicicleta" a="Pregúntales por WhatsApp" %}
 
-
 **También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorros**, una experiencia hermosa que también te recomendamos, claro, si tu presupuesto te lo permite. Para más información sobre el tour a caballo, puedes contactar a esta agencia. Es muy conocida y con mucho tiempo de experiencia en la localidad. Se llama **Disfruta San Agustín**:
 
 {% include boton.html path="http://bit.ly/tour-a-caballo" texto="Preguntar por el tour a caballo" %}

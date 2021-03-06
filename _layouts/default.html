@@ -2,35 +2,36 @@
 layout: compress
 ---
 {% include head.html %}
+
 <body>
   {% include nav.html %}
   {{ content }}
   {% include footer.html %}
+  <!-- scroll logo -->
+  <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous"></script>
+  <script>
+    $(window).scroll(function () {
+      var scroll = $(window).scrollTop();
+      if (scroll > 0) {
+        $("header").addClass('scrolled');
+      } else {
+        $("header").removeClass('scrolled');
+      }
+    })
+  </script>
+  <!-- nav -->
+  <script src="{{ site.baseurl }}/js/app.js"></script>
+  <!-- Script pointing to search-script.js -->
+  <script src="{{site.baseurl}}/js/search-script.js"></script>
+  <!-- Buscador -->
+  <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{site.baseurl}}/search.json'
+    })
+  </script>
 </body>
-<!-- scroll logo -->
-<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
-  crossorigin="anonymous"></script>
-<script>
-  $(window).scroll(function () {
-    var scroll = $(window).scrollTop();
-    if (scroll > 0) {
-      $("header").addClass('scrolled');
-    } else {
-      $("header").removeClass('scrolled');
-    }
-  })
-</script>
-<!-- nav -->
-<script src="{{ site.baseurl }}/js/app.js"></script>
-<!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
-<!-- Buscador -->
-<script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '{{site.baseurl}}/search.json'
-  })
-</script>
 
 </html>

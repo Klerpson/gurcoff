@@ -3,8 +3,8 @@
 
   {% for galeria in site.data.principal %}
   <article>
-    <img src="{{ site.baseurl }}{{ galeria.img }}" alt="{{ galeria.alt }}">
     <h3>{{ galeria.title }}</h3>
+    <img src="{{ site.baseurl }}{{ galeria.img }}" alt="{{ galeria.alt }}">
     <p>{{galeria.description}}</p>
   </article>
   {% endfor %}
@@ -25,17 +25,23 @@
   <h2>Visita el magazine de San Agustín Huila</h2>
   <article>
     {% assign nuevo = site.posts[0] %}
-    {{nuevo.excerpt}}
+    <h3>
     <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
+    </h3>
+    {{nuevo.excerpt}}
   </article>
   <article>
     {% assign nuevo = site.posts[1] %}
-    {{nuevo.excerpt}}
+    <h3>
     <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
+    </h3>
+    {{nuevo.excerpt}}
   </article>
   <article>
     {% assign nuevo = site.posts[2] %}
-    {{nuevo.excerpt}}
+    <h3>
     <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
+    </h3>
+    {{nuevo.excerpt}}
   </article>
 </section>

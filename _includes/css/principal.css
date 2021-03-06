@@ -201,6 +201,9 @@
   .blog-intro article {
     width: 300px;
   }
+  .blog-intro article  h3{
+    margin-bottom: 1.5rem;
+  }
 
 }
 
