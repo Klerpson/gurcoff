@@ -210,6 +210,7 @@
   .principal article p {
     margin: 0;
     padding: 0 5rem;
+    max-width: 50vw;
   }
 
   .invitacion {
