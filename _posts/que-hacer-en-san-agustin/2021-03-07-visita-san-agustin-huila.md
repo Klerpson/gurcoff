@@ -32,7 +32,7 @@ Su gastronomía es muy variada, trae una mezcla de muchas culturas. Podrás disf
 
 Su vegetación y fauna silvestre son parte de su belleza. Cuenta con enormes ríos, se dice que desde San Agustín de Huila nacen los 4 ríos más importantes de Colombia; El Magdalena, Cauca, Caquetá y Patía. Podremos encontrar el **Estrecho del Magdalena**, desde aquí nace el afluente más grande del país y el más importante porque abastece al 80% de la población.
 
-Disfrutarás de la belleza **Salto de los Bordones, siendo esta una de las cascadas más altas de Colombia, el Salto el Mortiño, la cascada Los Tres Chorros** y numerosos caudales formando una belleza natural cautivadora, disfruta la belleza natural en largos recorridos y capturar las mejores imágenes.
+Disfrutarás de la belleza **Salto de los Bordones, siendo esta una de las cascadas más altas de Colombia, el Salto el Mortiño, [la cascada Los Tres Chorros](https://gurcoff.com/que-hacer-en-san-agustin/cascada-los-tres-chorros-de-san-agustin/)** y numerosos caudales formando una belleza natural cautivadora, disfruta la belleza natural en largos recorridos y capturar las mejores imágenes.
 
 ![Practicando rafting en el río Magdalena][img3]
 *El rafting es una de las actividades turísticas del lugar*
