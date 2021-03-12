@@ -816,10 +816,11 @@ footer a {
 
 .magazine {
   position: relative;
-  display: grid;
-  grid-gap: 3rem 2rem;
-  grid-template-columns: repeat(auto-fill, minmax(auto, 300px));
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
   justify-content: center;
+  align-content: center;
   margin: 0;
 }
 
@@ -845,15 +846,9 @@ section.magazine>p {
   margin: 0;
 }
 
-@media screen and (min-width: 600px) {
-  .magazine>p {
-    grid-column: span 3;
-  }
-}
-
 @media screen and (min-width: 992px) {
   .magazine {
-    width: 60vw;
+    width: 80vw;
     margin: 0 auto;
   }
 }
@@ -890,12 +885,16 @@ section.magazine>p {
   color: var(--accion);
 }
 
-@media screen and (min-width: 767px) {
+@media screen and (min-width: 600px) {
+  #search-container {
+  grid-column: span 3;
+  }
+}
+  @media screen and (min-width: 767px) {
 
   #search-container {
-    width: 40vw;
+    width: 60vw;
     padding: 0;
-    grid-column: span 3;
   }
 }
 

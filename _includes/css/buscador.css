@@ -30,11 +30,15 @@
   color: var(--accion);
 }
 
-@media screen and (min-width: 767px) {
+@media screen and (min-width: 600px) {
+  #search-container {
+  grid-column: span 3;
+  }
+}
+  @media screen and (min-width: 767px) {
 
   #search-container {
-    width: 40vw;
+    width: 60vw;
     padding: 0;
-    grid-column: span 3;
   }
 }

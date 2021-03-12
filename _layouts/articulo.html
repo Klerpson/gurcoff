@@ -37,7 +37,7 @@ layout: default
 
   {% if sameTagCount >= minCommonTags %}
 
-  <a href="{{ site.baseurl }}{{ post.url }}">
+  <a href="{{ site.baseurl }}{{ post.url }}" >
     <div class="relacionados">
       <picture>
         {% if post.img %}
@@ -60,7 +60,7 @@ layout: default
 <section class="comentarios">
   {% include comentarios.html %}
 </section>
-
+{% include footer.html %}
 <div id="fb-root"></div>
 <!-- facebook comments -->
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v7.0"
