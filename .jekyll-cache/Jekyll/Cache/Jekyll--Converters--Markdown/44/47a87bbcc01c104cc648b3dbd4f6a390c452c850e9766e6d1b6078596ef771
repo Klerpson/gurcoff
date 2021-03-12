@@ -1,4 +1,4 @@
-I"><p><img src="/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin.webp" alt="Señal de tránsito que anuncia la entrada a San Agustín" title="Entrada a San Agustín Huila" /></p>
+I"\<p><img src="/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin.webp" alt="Señal de tránsito que anuncia la entrada a San Agustín" title="Entrada a San Agustín Huila" /></p>
 
 <p>Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un chocolate o rico café colombiano en la plaza principal, o <strong><a href="/">un delicioso helado suave en GurCoff.</a></strong> Su gente es muy amable y servicial con los turistas. Sus estructuras son del tipo colonial, lo que te permitirá tomar unas muy buenas fotos.</p>
 
@@ -43,7 +43,7 @@
 <!-- PUBLICIDAD -->
 <div class="publicidad">
   <h3>Digitalizar es Fácil</h3>
-  <img src="/img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" />
+  <img src="/img/publicidad/def.webp" loading="lazy" alt="Agencia de Estrategia Digital DeF" />
   <p>Has luchado por tu negocio por años. ¿Y ahora está a punto de cerrar? La digitalización es la respuesta. Nosotros te ayudamos a hacerlo fácil</p>
   <a href="https://wa.me/573202492786" rel="nofollow">Escríbenos a nuestro WhatsApp</a>
 </div>
@@ -63,7 +63,7 @@
 <!-- PUBLICIDAD -->
 <div class="publicidad">
   <h3>Tour en bicicleta con Adventure X Colombia</h3>
-  <img src="/img/publicidad/logoadventure.svg" alt="Logo de Aventure X Colombia" />
+  <img src="/img/publicidad/logoadventure.svg" loading="lazy" alt="Logo de Aventure X Colombia" />
   <p>Conoce San Agustín en una bicicleta de montaña. Conoce con calma y espíritu aventurero la belleza de los paisajes, parajes y arqueología que envuelve a esta mágica región</p>
   <a href="http://bit.ly/tour-en-bicicleta" rel="nofollow">Pregúntales por WhatsApp</a>
 </div>

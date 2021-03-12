@@ -4,7 +4,7 @@
   {% for galeria in site.data.principal %}
   <article>
     <h3>{{ galeria.title }}</h3>
-    <img src="{{ site.baseurl }}{{ galeria.img }}" alt="{{ galeria.alt }}">
+    <img src="{{ site.baseurl }}{{ galeria.img }}" loading="lazy" alt="{{ galeria.alt }}">
     <p>{{galeria.description}}</p>
   </article>
   {% endfor %}
