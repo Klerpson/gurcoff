@@ -1,1 +1,27 @@
-[{ % for post in site.posts %}{"title":"","url":"","category":"","tags":""}{ % unless forloop.last %},{ % endunless %}{ % endfor %}]
+[
+  
+   {
+  "title": "🌄 ¿Por qué debes visitar San Agustín Huila?",
+  "url": "/que-hacer-en-san-agustin/visita-san-agustin-huila/",
+  "category": "que-hacer-en-san-agustin",
+  "tags": "San Agustín, turismo, magdalena"
+  } ,  
+   {
+  "title": "🌄 Conoce la cascada Los Tres Chorros",
+  "url": "/que-hacer-en-san-agustin/cascada-los-tres-chorros-de-san-agustin/",
+  "category": "que-hacer-en-san-agustin",
+  "tags": "magazine, San Agustín, turismo, cascadas, rios, magdalena"
+  } ,  
+   {
+  "title": "San Agustín se reinventa",
+  "url": "/san-agustin-se-reinventa/",
+  "category": "",
+  "tags": "magazine, San Agustín, Negocios, noticias"
+  } ,  
+   {
+  "title": "Tu negocio en San Agustín puede sobrevivir",
+  "url": "/tu-negocio-puede-sobrevivir/",
+  "category": "",
+  "tags": "magazine, Negocios, San Agustín, Crisis"
+  }  
+]
