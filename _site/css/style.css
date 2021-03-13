@@ -981,9 +981,6 @@ section.magazine>p {
   justify-content: space-around;
 }
 
-.share-box h5 {
-  margin-bottom: 1rem;
-}
 .share-box a {
   display: inline-block;
   border-radius: 5px;
@@ -998,12 +995,12 @@ section.magazine>p {
 }
 
 .f {
-  color: #3b5998;
+  color: #284d9c;
 }
 
 .f:hover {
   color: #fff;
-  background-color: #3b5998;
+  background-color: #284d9c;
 }
 
 .i {

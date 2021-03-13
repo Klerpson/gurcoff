@@ -66,6 +66,10 @@ En estas breves líneas trate de resumir **que hacer en San Agustín Huila**. Si
 <!-- PUBLICIDAD -->
 {% include publicidad.html h3="Tour en bicicleta con Adventure X Colombia" img="img/publicidad/logoadventure.svg" alt="Logo de Aventure X Colombia" p="Conoce San Agustín en una bicicleta de montaña. Conoce con calma y espíritu aventurero la belleza de los paisajes, parajes y arqueología que envuelve a esta mágica región" href="http://bit.ly/tour-en-bicicleta" a="Pregúntales por WhatsApp" %}
 
+## ¿Ya has venido a San Agustín Huila?
+
+¿Qué fue lo que más te gustó del pueblo? ¿Cuál es tu actividad favorita en San Agustín? ¿Cuál fue tu lugar favorito del pueblo? **Cuéntame en los comentarios**.
+
 [img1]: {{ site.baseurl }}/{{page.img}} "Entrada a San Agustín Huila"
 [img2]: {{ site.baseurl }}/img/magazine/visita-san-agustin/achiras-de-san-agustin.webp "Achiras de San Agustín"
 [img3]: {{ site.baseurl }}/img/magazine/visita-san-agustin/rafting-en-san-agustin.webp "Practica rafting en tu viaje a San Agustín"

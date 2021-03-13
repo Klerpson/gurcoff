@@ -1,6 +1,12 @@
 [
   
    {
+  "title": "🌄 El Parque Arqueológico de San Agustín Huila",
+  "url": "/que-hacer-en-san-agustin/parque-arqueologico-san-agustin-huila/",
+  "category": "que-hacer-en-san-agustin",
+  "tags": "magazine, San Agustín, turismo, cascadas, rios, magdalena"
+  } ,  
+   {
   "title": "🌄 ¿Por qué debes visitar San Agustín Huila?",
   "url": "/que-hacer-en-san-agustin/visita-san-agustin-huila/",
   "category": "que-hacer-en-san-agustin",
@@ -8,20 +14,20 @@
   } ,  
    {
   "title": "🌄 Conoce la cascada Los Tres Chorros",
-  "url": "/que-hacer-en-san-agustin/cascada-los-tres-chorros-de-san-agustin/",
+  "url": "/que-hacer-en-san-agustin/cascada-los-tres-chorros/",
   "category": "que-hacer-en-san-agustin",
   "tags": "magazine, San Agustín, turismo, cascadas, rios, magdalena"
   } ,  
    {
   "title": "San Agustín se reinventa",
-  "url": "/san-agustin-se-reinventa/",
-  "category": "",
+  "url": "/magazine/san-agustin-se-reinventa/",
+  "category": "magazine",
   "tags": "magazine, San Agustín, Negocios, noticias"
   } ,  
    {
   "title": "Tu negocio en San Agustín puede sobrevivir",
-  "url": "/tu-negocio-puede-sobrevivir/",
-  "category": "",
+  "url": "/magazine/tu-negocio-puede-sobrevivir/",
+  "category": "magazine",
   "tags": "magazine, Negocios, San Agustín, Crisis"
   }  
 ]
