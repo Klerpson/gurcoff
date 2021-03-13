@@ -50,11 +50,28 @@ Entonces, a 3 kilómetros de la plaza, se encuentra el famoso **Parque Arqueoló
 ![Tumba del parque arqueológico][img6]
 *Tumba del parque arqueológico*
 
- akjfañsjf oia fnuawee uwe nffau fau fnasduansfduia nsufid nasifnaewui fnaui faue f
+Según la resolución 070 de 27 de marzo de 2017 se debe cancelar una boleta para entrar al parque. Esta solamente se compra en la taquilla de entrada de los parques.
+
+Según esa resolución, este pasaporte te sirve para **las 3 sedes del Parque Arqueológico: Mesitas, Alto de los ídolos y Alto de las Piedras**. Este pasaporte tiene una validez de 2 días para que disfrutes de los parque sin afanes.
+
+Hasta diciembre de 2019, las tarifas son:
+
+* Adultos: 35.000 mil pesos.
+* Estudiantes con carné vigente: 15.000 mil pesos.
+* Extranjeros: 50.000 mil pesos.
+
+Ahora bien, hay excepciones para entrar gratis. Son las siguientes:
+
+* Niños menores de 12 años
+* Adultos mayores de 62 años
+* Personas oriundas de la región
+* Comunidades indígenas
 
 ### ¿Qué horarios tiene el parque arqueológico de San Agustín?
 
-alksjfas nfuas nfisnfasufnapus nfausn faus nfuanfasn fuiafnasuifaisn faisufnasoif naiufn asnfaisnfuai
+De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre a las 8:00 a.m.**. La atención al público termina a las 4:00 p.m.
+
+Además, hay que tener en cuenta que en temporada normal el parque arqueológico no abre los días martes. En la temporada alta sí atienden toda la semana
 
 <!-- PUBLICIDAD -->
 {% include publicidad.html h3="Walter Tours" img="img/publicidad/def.webp" alt="Logo de la agencia de Turismo Walter Tours" p="¿Te gustaría hacer este viaje de aventura y misterio con una agencia de viajes de confianza? Nosotros te garantizamos el mejor viaje al Parque Arqueológico" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
