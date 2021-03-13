@@ -45,7 +45,7 @@ Por la gran afluencia de visitantes encontraremos, artesanía, **[hoteles](https
 
 Entonces, a 3 kilómetros de la plaza, se encuentra el famoso **Parque Arqueológico de San Agustín Huila**, que está considerado una reserva natural con aproximadamente 2.000 Km2 de extensión.
 
-### ¿Cuánto cuesta la entrada al parque?
+### ¿Cuánto vale la entrada al parque arqueológico de San Agustín?
 
 ![Tumba del parque arqueológico][img6]
 *Tumba del parque arqueológico*
@@ -67,6 +67,8 @@ Ahora bien, hay excepciones para entrar gratis. Son las siguientes:
 * Personas oriundas de la región
 * Comunidades indígenas
 
+Recuerda que si cumples alguna de estas condiciones, entras gratis. Por ejemplo, si eres del municipio de San Agustín o de Isnos, puedes ir y conocer el tesoro que tienes en tu ciudad.
+
 ### ¿Qué horarios tiene el parque arqueológico de San Agustín?
 
 De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre a las 8:00 a.m.**. La atención al público termina a las 4:00 p.m.
@@ -76,11 +78,11 @@ Además, hay que tener en cuenta que en temporada normal el parque arqueológico
 <!-- PUBLICIDAD -->
 {% include publicidad.html h3="Walter Tours" img="img/publicidad/def.webp" alt="Logo de la agencia de Turismo Walter Tours" p="¿Te gustaría hacer este viaje de aventura y misterio con una agencia de viajes de confianza? Nosotros te garantizamos el mejor viaje al Parque Arqueológico" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
 
-## Conociendo su historia
+## Características del parque arqueológico
 
-En el año de 1.935, se funda el Parque Arqueológico de San Agustín Huila, en la actualidad está compuesto por:
+**El Parque Arqueológico de San Agustín Huila se fundó en el año de 1.935**. En la actualidad está compuesto por:
 
-* La casa museo. Con salas donde se exhiben vasijas de barro, documentos relacionados con las investigaciones realizadas en el pasado, y otros utensilios.
+* **La casa museo**. Con salas donde se exhiben vasijas de barro, documentos relacionados con las investigaciones realizadas en el pasado, y otros utensilios.
 ![Estatua del parque arqueológico de San Agustín][img5]
 *Estatua del parque arqueológico de San Agustín*
 * El bosque de las estatuas. Con 130 estatuas creadas en el mismo sitio o transportadas de otros lugares.

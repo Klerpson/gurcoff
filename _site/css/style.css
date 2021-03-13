@@ -669,6 +669,12 @@ footer a {
 .articulo h2 {
   line-height: 1.2;
   margin: 2rem 0;
+  font-size: var(--sizeH2);
+}
+
+.articulo h3{
+  font-size: var(--sizeH3);
+  font-family: var(--fuenteTexto);
 }
 
 .articulo p {
