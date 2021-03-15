@@ -18,14 +18,26 @@ Si ya conoces la hermosa ciudad de **San Agustín**, ubicada en el Departamento 
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Conociendo un poco más del Parque Arqueológico
-
 Ahora, si por el contrario no has tenido el placer de disfrutar de sus hermosos paisajes y la receptividad de su gente; vamos a hacer un poco de **turismo cultural** y conocer uno de sus principales atractivos.
 
-El **Parque Arqueológico de San Agustín Huila**, ubicado en la parte alta del río Magdalena; está conformado por el área de concentración de tumbas o necrópolis de mayor extensión en el mundo.
+## Información sobre el Parque Arqueológico
+
+El **Parque Arqueológico de San Agustín Huila** es una amplia zona del valle alto del río Magdalena, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos.
+
+Es la zona con más allazgos arqueológicos de la época conocida como América Precolombina. Se considera como una de las primeras sociedades de Sudamérica con alta complejidad en su formación.
+
+### Características del parque
+
+Las concentraciones de los hallazgos arqueológicos son tan grandes que del **Parque Arqueológico Nacional de San Agustín** se dividió en tres áreas turísticas: Mesitas, en el municipio de San Agustín y Alto de los Ídolos y Alto de las Piedras, en Isnos.
+
+La zona más grande se conoce como **Mesitas de San Agustín**. Cubre cerca de 80 hectáreas y se ubica a unos 2 kilómetros del centro del municipio. Hacia esta zona encontrarás la mayoría de los servicios hoteleros, de hostelería y de turismo de la región.
+
+La sede del Alto de los Ídolos son 13 hectáreas, a 18 kilómetros por carretera desde San Agustín y a 8 kilómetros desde la cabecera municipal de Isnos. La sede del Alto de las Piedras (11 hectáreas) está aún más al norte, a 9 kilómetros por carretera desde Isnos.
 
 ![Cascada Tres Chorros Magdalena][img2]
 *Estatuas del parque arqueológico en detalle*
+
+Estos municipios también se caracterizan por la gran variedad de nichos ecológicos de exuberante vegetación y fauna silvestre, rodeados de profundos cañones, ríos con rápidos y saltos de agua. Todos estos lugares se prestan para disfrutar de un paseo delicioso.
 
 Estamos seguros de que los conocedores del tema arqueológico vivirán intensos e inolvidables momentos llenos de historia. Si eres de los **amantes de la aventura y el misterio**, te cautivará con sus figuras majestuosas, que lo convierten en uno de los baluartes más importantes de Colombia.
 
@@ -34,16 +46,32 @@ Para orgullo de Colombia y de **San Agustín Huila**, el parque fue declarado po
 <!-- PUBLICIDAD -->
 {% include publicidad.html h3="Digitalizar es Fácil" img="img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" p="Has luchado por tu negocio por años. ¿Y ahora está a punto de cerrar? La digitalización es la respuesta. Nosotros te ayudamos a hacerlo fácil" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
 
-## ¿Cómo llegar al parque arqueológico de San Agustín?
+## ¿Cómo puedo llegar al parque arqueológico de San Agustín?
+
+Debes tener claros 2 destinos. El primero es el municipio de **Pitalito Huila**. El segundo es el municipio de **San Agustín Huila**. Después de llegar a San Agustín, te diriges hasta la plaza principal. Es el lugar obligatorio de reunión para sus habitantes y turistas, rodeada de numerosos sitios de interés.
 
 ![Tableros de información en el parque arqueológico de San Agustín][img3]
 *Información de la necrópolis durante el recorrido*
 
-Primero, al llegar al pueblo de San Agustín, vamos a la plaza principal. Es el lugar obligatorio de reunión para sus habitantes y turistas, rodeada de numerosos sitios de interés.
-
 Por la gran afluencia de visitantes encontraremos, artesanía, **[hoteles](https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/)**, templos, restaurantes, comida típica, comida rápida, **[deliciosas y modernas heladerías](https://gurcoff.com)** (teníamos que mencionarlo ;)).
 
 Entonces, a 3 kilómetros de la plaza, se encuentra el famoso **Parque Arqueológico de San Agustín Huila**, que está considerado una reserva natural con aproximadamente 2.000 Km2 de extensión.
+
+### ¿Cómo llegar al parque desde Bogotá?
+
+Para **llegar al parque arqueológico desde Bogotá** puedes utilizar el transporte terrestre desde Bogotá (9 horas aproximadamente) hasta Pitalito. Desde allí viajarás hasta San Agustín (30 minutos).
+
+También, puedes tomar vuelos domésticos desde Bogotá. El aeropuerto más cercano está ubicado en Pitalito, justo en la vía entre Pitalito y San Agustín. Por otra parte, están los aeropuertos de Florencia Caquetá y Puerto Asís o Villa Garzón Putumayo. Claro, estos últimos están un poco más retirados de tu destino. Pero igual te ahorrarán un gran trayecto.
+
+### ¿Cómo llegar al parque desde Neiva?
+
+La ruta al **parque arqueológico desde Neiva es más corta** (4 horas aproximadamente), pero es la misma. Esto se debe a que la ciudad de Neiva está entre la ruta Bogotá - San Agustín.
+
+### Otras rutas para llegar al parque
+
+La ruta desde el sur del país es llegar primero hasta la ciudad de Mocoa. Esta es la misma ruta que recorres si tomas un vuelo hasta los aeropuertos del Putumayo (5 horas aproximadamente). Luego viajarás por una difícil vía hasta el municipio de Pitalito.
+
+Además, existe una carretera destapada y difícil. Esta es la vía que viene desde Popayán, por el páramo, hasta San Agustín directamente (4 horas). Es importante saber que si vienes **desde Popayán hasta San Agustín**, no es necesario que vayas hasta Pitalito, pues encontrarás primero el municipio de San Agustín en esta ruta.
 
 ### ¿Cuánto vale la entrada al parque arqueológico de San Agustín?
 

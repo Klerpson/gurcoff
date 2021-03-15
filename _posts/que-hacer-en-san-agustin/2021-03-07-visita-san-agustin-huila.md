@@ -12,7 +12,7 @@ excerpt_separator: <!-- excerpt -->
 ---
 ![Señal de tránsito que anuncia la entrada a San Agustín][img1]
 
-Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un chocolate o rico café colombiano en la plaza principal, o **[un delicioso helado suave en GurCoff.]({{site.baseurl}}/)** Su gente es muy amable y servicial con los turistas. Sus estructuras son del tipo colonial, lo que te permitirá tomar unas muy buenas fotos.
+Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un chocolate o rico café colombiano en la plaza principal, o **[un delicioso helado suave en GurCoff.]({{site.baseurl}}/contacto)**
 
 <!-- excerpt -->
 
@@ -21,7 +21,11 @@ Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitaci�
 
 ## Atrévete a conocer San Agustín Huila
 
-En **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila))** encontramos lugares extraordinarios para hospedarse, desde **hoteles campestres hasta fincas** en medio de la naturaleza con vistas espectaculares. O si deseas podrías quedarte en las prácticas posadas en el centro urbanístico. A pesar de que es un **lugar turístico** sus precios son accesibles.
+En **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila))** encontramos lugares extraordinarios para hospedarse, desde **hoteles campestres hasta fincas** en medio de la naturaleza con vistas espectaculares.
+
+O si deseas podrías quedarte en las prácticas posadas en el centro urbanístico. A pesar de que es un **lugar turístico** sus precios son accesibles.
+
+Su gente es muy amable y servicial con los turistas. Sus estructuras son del tipo colonial, lo que te permitirá tomar unas muy buenas fotos.
 
 ![Achiras, amasijo típico de San Agustín][img2]
 *Achiras, amasijo típico de San Agustín*

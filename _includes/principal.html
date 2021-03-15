@@ -9,12 +9,12 @@
   </article>
   {% endfor %}
 
-  {% include boton.html path="https://wa.me/c/573115245225" texto="Mirar la carta completa en tu WhatsApp" %}
+  <a class="botones" href="https://wa.me/c/573115245225" title="Carta de la Heladería GurCoff" target="_blank" rel="nofollow">Mirar la carta completa en tu WhatsApp</a>
 
 </section>
 <section class="invitacion">
   <h2>Deliciosas tardes en San Agustín Huila</h2>
-  <p><a href="/contacto" style="font-weight: 700; color: var(--accion);"> HAZ CLIC AQUÍ</a> para
+  <p><a href="/contacto" style="font-weight: 700; color: var(--accion);" title="Página de contacto de la heladería GurCoff"> HAZ CLIC AQUÍ</a> para
     saber cómo llegar y
     alegrar la tarde de tus seres amados.</p>
   <p>Ven y enamórate del <strong>mejor helado suave de San Agustín</strong>, el centro del turismo
@@ -26,21 +26,21 @@
   <article>
     {% assign nuevo = site.posts[0] %}
     <h3>
-    <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
+    <a class="botones" href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
     </h3>
     {{nuevo.excerpt}}
   </article>
   <article>
     {% assign nuevo = site.posts[1] %}
     <h3>
-    <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
+    <a class="botones" href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
     </h3>
     {{nuevo.excerpt}}
   </article>
   <article>
     {% assign nuevo = site.posts[2] %}
     <h3>
-    <a class="botones" href="{{ nuevo.url }}">{{ nuevo.title }}</a>
+    <a class="botones" href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
     </h3>
     {{nuevo.excerpt}}
   </article>
