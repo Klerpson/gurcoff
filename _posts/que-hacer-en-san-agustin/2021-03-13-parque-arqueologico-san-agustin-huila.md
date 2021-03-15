@@ -135,7 +135,7 @@ Estamos seguros de que la guía turística de la región es interminable, avent�
 
 Referencias:
 
-* [Wikipedia](https://es.wikipedia.org/wiki/Parque_arqueológico_de_San_Agustin)
+* [Wikipedia](https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn)
 * [sanagustinhuilacolombia.com](https://sanagustinhuilacolombia.com.co/parque-arqueologico-de-san-agustin/)
 * [colombia.travel](https://colombia.travel/es/san-agustin)
 * [Fotografías via Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=Special:Search&limit=20&offset=80&profile=default&search=parque+arqueologico+de+san+agustin&advancedSearch-current={}&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1)
