@@ -25,9 +25,9 @@
   --fuenteTexto: 'Lato', sans-serif;
   --fuenteGraficas: 'Lato', sans-serif;
 
-  --sizeH1: 2.223em;
-  --sizeH2: 1.875em;
-  --sizeH3: 1.5em;
+  --sizeH1: 2.223rem;
+  --sizeH2: 1.875rem;
+  --sizeH3: 1.5rem;
   --sizeTextos: 18px;
 }
 
@@ -631,8 +631,14 @@ header.scrolled .logo svg {
 
 @media screen and (min-width: 767px){
   .botones::before{
-    font-size: 8rem;
+    font-size: 5rem;
     top: calc(100% - 200%);
+  }
+}
+
+@media screen and (min-width: 1200px){
+  .botones::before{
+    font-size: 4rem;
   }
 }
 
@@ -836,26 +842,27 @@ footer a {
 
 .magazine article {
   width: 300px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .magazine img {
   max-width: 100%;
+  margin: 1rem 0;
   border-radius: 5px;
   box-shadow: var(--shadow);
 }
 
-.magazine p {
-  margin: 1rem 0;
-}
-
-section.magazine>p {
-  margin: 0;
+.magazine article a{
+  justify-self: end;
 }
 
 @media screen and (min-width: 992px) {
   .magazine {
     width: 80vw;
+    padding: 2rem 0;
     margin: 0 auto;
+    gap: 4rem;
   }
 }
 

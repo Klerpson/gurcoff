@@ -25,8 +25,8 @@
   --fuenteTexto: 'Lato', sans-serif;
   --fuenteGraficas: 'Lato', sans-serif;
 
-  --sizeH1: 2.223em;
-  --sizeH2: 1.875em;
-  --sizeH3: 1.5em;
+  --sizeH1: 2.223rem;
+  --sizeH2: 1.875rem;
+  --sizeH3: 1.5rem;
   --sizeTextos: 18px;
 }

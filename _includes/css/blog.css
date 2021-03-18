@@ -14,25 +14,26 @@
 
 .magazine article {
   width: 300px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .magazine img {
   max-width: 100%;
+  margin: 1rem 0;
   border-radius: 5px;
   box-shadow: var(--shadow);
 }
 
-.magazine p {
-  margin: 1rem 0;
-}
-
-section.magazine>p {
-  margin: 0;
+.magazine article a{
+  justify-self: end;
 }
 
 @media screen and (min-width: 992px) {
   .magazine {
     width: 80vw;
+    padding: 2rem 0;
     margin: 0 auto;
+    gap: 4rem;
   }
 }
