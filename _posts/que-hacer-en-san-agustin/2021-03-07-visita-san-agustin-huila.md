@@ -1,7 +1,7 @@
 ---
 layout: articulo
-title: 🌄 ¿Por qué debes visitar San Agustín Huila?
-description: San Agustín tiene los paisajes del macizo colombiano. Sus estructuras coloniales. Un exquisito café en la plaza. Conoce más de nuestro pueblo
+title: ¿Por qué debes visitar San Agustín Huila? 🌄
+description: San Agustín tiene los paisajes del macizo colombiano 🌄. Sus estructuras coloniales. Un exquisito café en la plaza. Conoce más de nuestro pueblo
 category: que-hacer-en-san-agustin
 tags: [San Agustín, turismo, magdalena]
 img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin.webp

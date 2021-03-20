@@ -1,7 +1,7 @@
 ---
 layout: articulo
-title: Descubre cuáles son los 5 mejores hoteles de San Agustín Huila
-description: Decidir los mejores hoteles de San Agustín no es tarea fácil. Con estos cinco hoteles podrás tener una guía excelente. Míralos y escoge tu favorito.
+title: ▷ Descubre los 5 mejores hoteles de San Agustín Huila
+description: Decidir los mejores hoteles de San Agustín no es tarea fácil 🏨. Con estos 5 hoteles podrás tener una guía excelente. Míralos y escoge tu favorito.
 category: hoteles-san-agustin
 tags: [magazine, San Agustín, turismo, cascadas, rios, magdalena]
 img: img/magazine/hoteles-san-agustin/cuarto-hotel-san-agustin.webp
