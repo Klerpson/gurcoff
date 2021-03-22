@@ -1,10 +1,4 @@
 /*** Formatos Universales ***/
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
 html {
   line-height: 1.5;
   scroll-behavior: smooth;
@@ -15,20 +9,12 @@ body {
   background-color: var(--blanco);
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTextos);
-  color: var(--grisFuentes);
 }
 
 section,
-header,
 main,
 footer {
   padding: 4rem 2rem;
-}
-
-a {
-  text-decoration: none;
-  font-family: var(--fuenteTexto);
-  color: var(--principal);
 }
 
 b,
@@ -42,7 +28,6 @@ span {
   padding: 0;
 }
 
-h1,
 h3,
 h4 {
   font-family: var(--fuenteTitulos);
@@ -75,7 +60,6 @@ img {
 @media only screen and (min-width: 600px) {
 
   section,
-  header,
   main,
   footer {
     padding: 2rem 5rem;
@@ -85,7 +69,6 @@ img {
 @media only screen and (min-width: 992px) {
 
   section,
-  header,
   main,
   footer {
     padding: 2rem 8rem;
