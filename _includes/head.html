@@ -30,6 +30,10 @@
   <meta property="article:published_time" content="{{ page.date}}" />
   <meta property="og:description"
     content="{% if page.description %}{{ page.description}}{% else %}{{ page.title}}{% endif %}" />
+  {% if page.noindex %}
+  <meta name="robots" content="noindex, nofollow">
+  {% endif %}
+
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl}}/img/favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl}}/img/favicon/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl}}/img/favicon/apple-icon-72x72.png">

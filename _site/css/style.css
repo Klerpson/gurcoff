@@ -496,13 +496,12 @@ header.scrolled .logo svg {
 }
 
 .botones{
-  transition: 0.5s ease-in;
+  transition: 0.3s ease-in;
 }
 
 .botones:hover {
   text-decoration: underline;
-  text-decoration-color: var(--accion);
-  text-decoration-thickness: 0.4rem;
+  text-decoration-color: var(--complemento2);
 }
 
 @media screen and (min-width: 1200px){
