@@ -1,0 +1,28 @@
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+     <title>{{ site.title }}</title>
+     <link href="{{ site.url }}/atom.xml" rel="self"/>
+     <id>{{ site.url }}</id>
+     <updated>{{ site.time | date_to_xmlschema }}</updated>
+     <language>es-co</language>
+
+     <author>
+       <name>Julian Andres Franco</name>
+       <email>digitalizaresfacil@gmail.com</email>
+     </author>
+
+ {% for post in site.posts limit: 10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="{{ site.url }}{{ post.url }}"/>
+   <id>{{ site.url }}{{ post.id }}</id>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <content type="html">{{ post.content | xml_escape | truncatewords:50 }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>
