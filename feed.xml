@@ -8,7 +8,6 @@ layout: null
      <link href="{{ site.url }}/atom.xml" rel="self"/>
      <id>{{ site.url }}</id>
      <updated>{{ site.time | date_to_xmlschema }}</updated>
-     <language>es-co</language>
 
      <author>
        <name>Julian Andres Franco</name>
