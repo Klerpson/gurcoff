@@ -2,8 +2,8 @@
 layout: articulo
 title: El Parque Arqueológico de San Agustín Huila 🌄
 description: El parque arqueológico de San Agustín 🌄 es un paseo lleno de descubrimientos misteriosos e impresionantes. Ven a conocer esta asombrosa cultura
-category: que-hacer-en-san-agustin
-tags: [magazine, San Agustín, turismo, cascadas, rios, magdalena]
+category: magazine
+tags: [magazine, San Agustín, turismo, parque]
 img: img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp
 alt: Parque arqueológico de San Agustín Huila sección mesita A
 autor: Julian Andres Franco Bedoya
