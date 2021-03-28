@@ -44,7 +44,7 @@ Estamos seguros de que los conocedores del tema arqueológico vivirán intensos 
 Para orgullo de Colombia y de **San Agustín Huila**, el parque fue declarado por la Unesco en 1995, como **Patrimonio Histórico de la Humanidad**.
 
 <!-- PUBLICIDAD -->
-{% include publicidad.html h3="Digitalizar es Fácil" img="img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" p="Has luchado por tu negocio por años. ¿Y ahora está a punto de cerrar? La digitalización es la respuesta. Nosotros te ayudamos a hacerlo fácil" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
+{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="hhttps://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 ## ¿Cómo puedo llegar al parque arqueológico de San Agustín?
 
@@ -104,7 +104,7 @@ De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre 
 Además, hay que tener en cuenta que en temporada normal el parque arqueológico no abre los días martes. En la temporada alta sí atienden toda la semana
 
 <!-- PUBLICIDAD -->
-{% include publicidad.html h3="Walter Tours" img="img/publicidad/def.webp" alt="Logo de la agencia de Turismo Walter Tours" p="¿Te gustaría hacer este viaje de aventura y misterio con una agencia de viajes de confianza? Nosotros te garantizamos el mejor viaje al Parque Arqueológico" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
+{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="hhttps://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 ## Características del parque arqueológico
 
@@ -121,7 +121,7 @@ Además, hay que tener en cuenta que en temporada normal el parque arqueológico
 Como notarás, es un gran legado con muchas información interesante por descubrir.
 
 <!-- PUBLICIDAD -->
-{% include publicidad.html h3="Digitalizar es Fácil" img="img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" p="Has luchado por tu negocio por años. ¿Y ahora está a punto de cerrar? La digitalización es la respuesta. Nosotros te ayudamos a hacerlo fácil" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
+{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="hhttps://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 ## Una experiencia para repetir
 
