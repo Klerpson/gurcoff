@@ -12,7 +12,7 @@
   font-size: var(--sizeH2);
 }
 
-.articulo h3{
+.articulo h3 {
   font-size: var(--sizeH3);
   font-family: var(--fuenteTexto);
 }
@@ -74,6 +74,15 @@
   font-family: var(--fuenteTexto);
 }
 
+#mc_embed_signup {
+  background: #6BF178;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+  width: 80vw;
+  margin: 3rem auto;
+  padding: 2rem;
+}
+
 @media screen and (min-width: 600px) {
   .articulo {
     padding: 0 4rem;
@@ -113,6 +122,10 @@
   .relacionados {
     padding: 0;
   }
+
+  #mc_embed_signup {
+    width: 60vw;
+  }
 }
 
 @media screen and (min-width: 992px) {
@@ -121,6 +134,10 @@
   .comentarios {
     width: 50vw;
     margin: 0 auto;
+  }
+
+  #mc_embed_signup {
+    width: 50vw;
   }
 
 }
@@ -132,6 +149,10 @@
 
   .articulo {
     width: 60vw;
+  }
+
+  #mc_embed_signup {
+    width: 40vw;
   }
 }
 
