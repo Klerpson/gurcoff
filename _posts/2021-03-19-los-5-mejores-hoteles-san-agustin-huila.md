@@ -6,7 +6,8 @@ category: magazine
 tags: [magazine, San Agustín, turismo, hoteles]
 img: img/magazine/hoteles-san-agustin/cuarto-hotel-san-agustin.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
-autor: Julian Andres Franco Bedoya
+autor: Julian Franco
+date: 2021-03-19
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 ---

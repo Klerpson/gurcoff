@@ -6,7 +6,8 @@ category: magazine
 tags: [magazine, San Agustín, turismo, parque]
 img: img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp
 alt: Parque arqueológico de San Agustín Huila sección mesita A
-autor: Julian Andres Franco Bedoya
+autor: Julian Franco
+date: 2021-03-13
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 ---

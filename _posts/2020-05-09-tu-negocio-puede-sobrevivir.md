@@ -6,7 +6,8 @@ category: magazine
 tags: [magazine, Negocios, San Agustín, Crisis]
 img: img/magazine/2020-05-09/heladeria-gurcoff-san-agustin-huila-mini.webp
 alt: Calle 5 de San Agustín solitaria
-autor: Julian Andres Franco Bedoya
+autor: Julian Franco
+date: 2020-05-09
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 p1: img/publicidad/camaras.jpg

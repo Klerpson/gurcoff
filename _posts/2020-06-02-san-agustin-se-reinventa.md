@@ -7,7 +7,8 @@ category: magazine
 img: img/magazine/2020-06-02/cerrado.webp
 alt: Calle 5 de San Agustín solitaria
 altp: Cámaras de seguridad MyS
-autor: Julian Andres Franco Bedoya
+autor: Julian Franco
+date: 2020-06-02
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 p1: img/publicidad/camaras.jpg

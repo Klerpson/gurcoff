@@ -6,7 +6,8 @@ category: magazine
 tags: [San Agustín, turismo, río magdalena]
 img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin.webp
 alt: Entrada a San Agustín
-autor: Julian Andres Franco Bedoya
+autor: Julian Franco
+date: 2021-03-07
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 ---
