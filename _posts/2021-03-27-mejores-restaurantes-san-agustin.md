@@ -6,9 +6,10 @@ category: magazine
 tags: [San Agustín, restaurantes, turismo]
 img: img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp
 alt: Plato preparado en la Gata Parrilla de San Agustín Huila
-autor: Julian Andres Franco Bedoya
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
+autor: Julian Andres Franco Bedoya
+date: 2021-04-02
 ---
 ![Cascada los Tres Chorros][img1]
 

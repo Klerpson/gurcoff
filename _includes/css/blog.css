@@ -2,20 +2,24 @@
   position: relative;
   display: flex;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 3rem;
   justify-content: center;
   align-content: center;
   margin: 0;
 }
 
-.magazine h2 {
-  font-size: var(--sizeH2);
+.magazine h1{
+  text-align: center;
+  font-size: var(--sizeH1);
+  margin-top: 3rem ;
+  line-height: 1.2;
 }
 
 .magazine article {
   width: 300px;
   display: flex;
   flex-wrap: wrap;
+  border-bottom: 1px solid var(--gris2);
 }
 
 .magazine img {
@@ -29,11 +33,15 @@
   justify-self: end;
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 767px) {
   .magazine {
-    width: 80vw;
     padding: 2rem 0;
     margin: 0 auto;
     gap: 4rem;
+  }
+
+  .magazine p {
+    text-align: center;
+    width: 60vw;
   }
 }

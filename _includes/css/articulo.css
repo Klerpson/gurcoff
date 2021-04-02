@@ -1,9 +1,11 @@
-.header-articulo h1 {
-  padding-top: calc(100Vh - 80vh);
-}
-
 .articulo {
   padding: 0 2rem;
+}
+
+.articulo h1 {
+  text-align: center;
+  margin-top: 4rem;
+  line-height: 1.2;
 }
 
 .articulo h2 {
@@ -14,7 +16,10 @@
 
 .articulo h3 {
   font-size: var(--sizeH3);
-  font-family: var(--fuenteTexto);
+}
+
+.articulo h4 {
+  margin-top: 2rem;
 }
 
 .articulo p {
@@ -58,20 +63,18 @@
 }
 
 .sugerencias h3 {
-  margin: 0 0 1rem 0;
+  margin: 2rem 0 1rem 0;
   font-size: var(--sizeH3);
 }
 
 .relacionados {
-  width: 300px;
+  width: 200px;
 }
 
 .relacionados img {
   max-width: 100%;
-}
-
-.sugerencias h4 {
-  font-family: var(--fuenteTexto);
+  border-radius: 7px;
+  box-shadow: var(--shadow);
 }
 
 #mc_embed_signup {
@@ -87,6 +90,16 @@
   .articulo {
     padding: 0 4rem;
   }
+
+  .sugerencias {
+    padding: 0;
+    grid-template-columns: repeat(auto-fill, minmax(auto, 200px));
+  }
+
+  .sugerencias h3{
+    grid-column: span 2;
+    text-align: center;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -98,6 +111,7 @@
 
   .articulo em {
     width: 300px;
+    font-family: var(--fuenteGraficas);
   }
 
   .articulo img,
@@ -108,10 +122,6 @@
     margin: 0 0 2rem 2rem;
   }
 
-  .sugerencias {
-    padding: 0;
-    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
-  }
 
   .sugerencias h3 {
     grid-column: span 3;
@@ -130,7 +140,9 @@
 
 @media screen and (min-width: 992px) {
 
-  .sugerencias,
+  .sugerencias h3{
+    grid-column: span 4;
+  }
   .comentarios {
     width: 50vw;
     margin: 0 auto;
@@ -153,6 +165,11 @@
 
   #mc_embed_signup {
     width: 40vw;
+  }
+
+  .sugerencias{
+    width: 70vw;
+    margin: 0 auto;
   }
 }
 

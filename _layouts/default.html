@@ -9,21 +9,8 @@ layout: compress
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
   {% include nav.html %}
+  {% include logo.html %}
   {{ content }}
-  
-  <!-- scroll logo -->
-  <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
-    crossorigin="anonymous"></script>
-  <script>
-    $(window).scroll(function () {
-      var scroll = $(window).scrollTop();
-      if (scroll > 0) {
-        $("header").addClass('scrolled');
-      } else {
-        $("header").removeClass('scrolled');
-      }
-    })
-  </script>
   <!-- nav -->
   <script src="{{ site.baseurl }}/js/app.js"></script>
 </body>

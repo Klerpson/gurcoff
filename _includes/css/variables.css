@@ -21,12 +21,12 @@
   --blancoRGBA: rgba(255, 255, 255, 0.8);
 
   /*** FUENTES ***/
-  --fuenteTitulos: 'Dancing Script', cursive;
-  --fuenteTexto: 'Lato', sans-serif;
-  --fuenteGraficas: 'Lato', sans-serif;
+  --fuenteTitulos: 'Arvo', serif;
+  --fuenteTexto: 'Martel', serif;
+  --fuenteGraficas: 'Delius', cursive;
 
   --sizeH1: 2.223rem;
   --sizeH2: 1.875rem;
   --sizeH3: 1.5rem;
-  --sizeTextos: 18px;
+  --sizeTextos: 16px;
 }

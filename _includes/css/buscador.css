@@ -18,6 +18,8 @@
 #search-container input {
   padding: 0.7rem;
   border-color: var(--principal);
+  border-radius: 7px;
+  box-shadow: var(--shadow);
 }
 
 #results-container div a {
@@ -37,8 +39,8 @@
 }
   @media screen and (min-width: 767px) {
 
-  #search-container {
+  #search-container input{
     width: 60vw;
-    padding: 0;
+    align-self: center;
   }
 }
