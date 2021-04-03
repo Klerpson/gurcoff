@@ -4,13 +4,21 @@
      <link href="https://gurcoff.com/feed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://gurcoff.com/" rel="alternate" type="text/html"/>
      <id>https://gurcoff.com/</id>
-     <updated>2021-04-02T07:50:10-05:00</updated>
+     <updated>2021-04-03T10:41:06-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title>El Estrecho del Magdalena</title>
+   <link href="https://gurcoff.com//estrecho-rio-magdalena"/>
+   <id>https://gurcoff.com//estrecho-rio-magdalena</id>
+   <updated>2021-04-02T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp&quot; alt=&quot;Cascada los Tres Chorros&quot; title=&quot;Vista aérea del estrecho del Magdalena&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena&lt;/strong&gt; es un paisaje hermoso, formado en el momento que este majestuoso río &lt;strong&gt;se reduce a un canal de solo 2.20 metros&lt;/strong&gt;.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Si no has leído algo sobre el &lt;a...</content>
+ </entry>
  
  <entry>
    <title>Los 5 restaurantes mejor calificados de San Agustín Huila</title>
@@ -21,7 +29,7 @@
  </entry>
  
  <entry>
-   <title>▷ Descubre los 5 mejores hoteles de San Agustín Huila</title>
+   <title>Los 5 mejores hoteles de San Agustín Huila</title>
    <link href="https://gurcoff.com//los-5-mejores-hoteles-san-agustin-huila"/>
    <id>https://gurcoff.com//los-5-mejores-hoteles-san-agustin-huila</id>
    <updated>2021-03-19T00:00:00-05:00</updated>

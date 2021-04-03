@@ -44,6 +44,17 @@
   margin-left: 1rem;
 }
 
+.articulo table th{
+  background: var(--secundario);
+  padding: 0.3rem 1rem;
+  text-align: center;
+}
+
+.articulo table td{
+  padding: 0.3rem 1rem;
+border-bottom: 1px solid var(--secundario);
+}
+
 .articulo blockquote {
   position: relative;
   display: grid;

@@ -560,6 +560,17 @@ footer a {
   margin-left: 1rem;
 }
 
+.articulo table th{
+  background: var(--secundario);
+  padding: 0.3rem 1rem;
+  text-align: center;
+}
+
+.articulo table td{
+  padding: 0.3rem 1rem;
+border-bottom: 1px solid var(--secundario);
+}
+
 .articulo blockquote {
   position: relative;
   display: grid;
@@ -813,6 +824,7 @@ footer a {
    width: 100%;
    background: var(--secundario);
    padding: 1rem;
+   margin: 2rem 0;
    display: grid;
    grid-gap: 1rem;
    justify-content: center;
