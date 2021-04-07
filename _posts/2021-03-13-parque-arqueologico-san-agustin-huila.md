@@ -44,9 +44,6 @@ Estamos seguros de que los conocedores del tema arqueológico vivirán intensos 
 
 Para orgullo de Colombia y de **San Agustín Huila**, el parque fue declarado por la Unesco en 1995, como **Patrimonio Histórico de la Humanidad**.
 
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="hhttps://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
-
 ## ¿Cómo puedo llegar al parque arqueológico de San Agustín?
 
 Debes tener claros 2 destinos. El primero es el municipio de **Pitalito Huila**. El segundo es el municipio de **San Agustín Huila**. Después de llegar a San Agustín, te diriges hasta la plaza principal. Es el lugar obligatorio de reunión para sus habitantes y turistas, rodeada de numerosos sitios de interés.
@@ -104,9 +101,6 @@ De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre 
 
 Además, hay que tener en cuenta que en temporada normal el parque arqueológico no abre los días martes. En la temporada alta sí atienden toda la semana
 
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="hhttps://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
-
 ## Características del parque arqueológico
 
 **El Parque Arqueológico de San Agustín Huila se fundó en el año de 1.935**. En la actualidad está compuesto por:
@@ -120,9 +114,6 @@ Además, hay que tener en cuenta que en temporada normal el parque arqueológico
 * El alto de Lavapatas. Ofrece una majestuosa vista de toda la región, con paisajes increíbles, donde se encontraron ruinas de una vivienda con restos que al analizarlos con carbono 14 dieron una data de 3.300 años antes de Cristo.
 
 Como notarás, es un gran legado con muchas información interesante por descubrir.
-
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="hhttps://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 ## Una experiencia para repetir
 

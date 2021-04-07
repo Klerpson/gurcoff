@@ -54,9 +54,6 @@ El conferenciante explicaba que cuando uno quiere hacer cambios en su vida, y si
 
 Después de pasarme un mes estudiando, intenté aplicar lo aprendido para ayudar a mi comunidad. Pero no fue posible. Muchos factores no favorecieron otro proyecto más.
 
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Digitalizar es Fácil" img="img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" p="Te ayudamos para que no tengas que cerrar tu negocio o emprendimiento. La digitalización es la respuesta" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
-
 Sin embargo, comprendí que yo ya tenía un gran proyecto en mano: mi heladería en San Agustín. Así que enfoqué todos mis esfuerzos en sacarla a flote con todo lo que había aprendido hasta ese momento (**al final te diré qué páginas me han servido para aprender más todavía**).
 
 Y aquí te comparto otra perla importante: **a veces los cambios no son tan grandes, pero funcionan muy bien**.
@@ -82,9 +79,6 @@ En la medida de lo posible, **no te endeudes**. Mira en tu casa:
 * ¿Tiene tu familia dos, tres o más vehículos, sean carros o motos?
 
 * ¿Cuántos televisores hay en tu casa?
-
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Digitalizar es Fácil" img="img/publicidad/def.webp" alt="Agencia de Estrategia Digital DeF" p="Te ayudamos para que no tengas que cerrar tu negocio o emprendimiento. La digitalización es la respuesta" href="https://wa.me/573202492786" a="Escríbenos a nuestro WhatsApp" %}
 
 ¿Entiendes el punto? *Son tiempos difíciles. Así mismo deben vivirse.* No que te arruines, no digo eso. Pero si tienes tu capital en casa, en tus cosas, tus pertenencias, ¿por qué endeudarte para dejar tu negocio a un banco o algo parecido?
 

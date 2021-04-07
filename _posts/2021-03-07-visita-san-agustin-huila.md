@@ -53,9 +53,6 @@ Su fauna es extensa y recorrer este territorio amerita gran destreza y condició
 
 **Sus esculturas arqueológicas de Obando fueron declaradas Patrimonio de la Humanidad por la Unesco**, están distribuidas en sitios cercanos de donde se encontraron, podrás realizar las caminas programadas, son largas, en subida y con algunos caminos angostos. Además, encontraras también el conjunto funerario mejor conservado conocido como **[Alto de los Ídolos](https://es.wikiloc.com/rutas-senderismo/san-agustin-a-alto-de-los-idolos-8819284)**.
 
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
-
 ## Lo que siempre debe tomar en cuenta al venir
 
 ![Cascada Tres Chorros Magdalena][img6]
@@ -67,9 +64,6 @@ Te aconsejamos que al visitar esta hermosa población traigas zapatos cómodos p
 *Las caminatas por los senderos del pueblo es otra actividad muy agradable*
 
 En estas breves líneas trate de resumir **que hacer en San Agustín Huila**. Sin embargo, falto mucho más por escribir, atrévete y descubre más acerca de esta mágica tierra. Su belleza y misticismo, su historia y cultura, su tierra llena de vida y vegetación; son suficientes razones para **visitar San Agustín Huila.**
-
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 ## ¿Ya has venido a San Agustín Huila?
 

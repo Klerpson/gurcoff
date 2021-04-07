@@ -77,9 +77,6 @@ En el siguiente video la gente de [Renunciamos y Viajamos](https://www.youtube.c
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/l7JTW00vtxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
-
 ### Estrecho del Magdalena crecido
 
 Un gran espectáculo en las épocas de lluvia, es observar la capacidad del río. **Sus aguas se crecen hasta cubrir toda la zona transitable sobre la roca**. Llega hasta las escaleras de acceso al lugar. Mejor unas imágenes del evento:
@@ -107,9 +104,6 @@ En realidad son como 5 niveles de escaleras para acceder hasta el estrecho. No s
 Lastimosamente, hasta el momento no se han hecho trabajos que permitan el acceso a personas con limitaciones físicas. Sería un buen proyecto para las autoridades encargadas del lugar.
 
 La buena noticia es que llegas hasta el lugar en escaleras muy bonitas para una foto con naturaleza.
-
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 ## Lo que no debes hacer en el Estrecho del Magdalena
 

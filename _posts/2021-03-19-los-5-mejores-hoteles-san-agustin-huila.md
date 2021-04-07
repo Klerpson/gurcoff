@@ -58,9 +58,6 @@ Además, alrededor del hotel hay todo tipo de caminos en los cuales **se puede p
 
 Otro punto importantísimo, es que desde este hotel puedes llegar rápidamente hasta **El Estrecho del Magdalena**, un punto de este grandioso río que es muy turístico.
 
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
-
 ## San Agustín Internacional Hotel
 
 ![Fotografía de uno de los edificios del Hotel Internacional de San Agustín Huila][img4]
@@ -83,9 +80,6 @@ Claro está, hay muchos más que están creciendo y desarrollando excelentes exp
 ## ¿Y hay un helado bien rico cerca de estos hoteles?
 
 ¡Claro que sí! Recuerda que cerca a todos estos hoteles puedes salir a probar el helado suave favorito de San Agustín Huila. Te prometemos que también te encantará. En nuestra página de [contacto]({{site.baseurl}}/contacto/) podrás encontrar todos nuestros datos. ¡Te esperamos!
-
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 [img1]: {{ site.baseurl }}/{{page.img}} "Cascada de los Tres Chorros en San Agustín Huila"
 [img2]: {{ site.baseurl }}/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin.webp "Hotel Masaya San Agustín Huila"

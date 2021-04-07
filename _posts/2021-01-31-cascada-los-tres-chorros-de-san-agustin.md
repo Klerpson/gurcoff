@@ -43,9 +43,6 @@ Lo mismo pueden hacer los transportes en motocicleta o "motoratones", como se le
 
 Cuando ya llegas al comienzo de los sendero naturales, comienza una caminata. Sí, como acabas de descubrir, no hay acceso en vehículo hasta la cascada. Pero en parte, **esa es una de las razones por la que la cascada Tres Chorros es tan hermosa**.
 
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
-
 Ahora bien, puedes contratar la compañía de guías turísticos. O sencillamente preguntar a las personas del lugar cuáles son los sendero que llegan hasta allá.
 
 Al llegar al sendero, la caminata comienza atravezando por un camino entre antiguas haciendas ganaderas. Luego atravesarás senderos por medio del bosque y descendiendo por la montaña.
@@ -62,9 +59,6 @@ Al llegar al sendero, la caminata comienza atravezando por un camino entre antig
 Primero, puedes **hacer el viaje en bicicleta**. Puedes alquilar muy buenas bicicletas y vivir la aventura, el ejercicio y una experiencia que siempre recordarás. ¿Te imaginas las fotos?
 
 Por ejemplo, la agencia **Adventure-X-Colombia de San Agustín** te ofrece un recorrido a los Tres Chorros. Te incluyen el seguro, un buen snack, fotos con dron y Go-Pro. Dependiendo de tu capacidad en la bicicleta, así mismo dura el tiempo de esta **excursión a los Tres Chorros**.
-
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorros. Es una experiencia hermosa que también te recomendamos, claro, si tu presupuesto te lo permite.
 
@@ -89,9 +83,6 @@ Al llegar a Los Tres Chorros, entenderá el por qué de su nombre. Encontrarás 
 Tendrás de fondo un hermoso panorama que, en contraste con la luz solar, te dejará un hermoso panorama lleno de luz y  hermosos colores.
 
 Sus aguas son frías. Pero si esto no es un problema para ti, podrás bañar en sus aguas. Y si quieres más emociones, es posible **practicar rappel sobre la cascada Tres Chorros**, claro con personal especializado y con todos los equipos de seguridad necesarios.
-
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 Tendrás el marco apropiado para la meditación. Y luego, en tu viaje de regreso, deja volar tu imaginación con la vista increíble de los páramos donde nace uno de los principales rios de Colombia.
 

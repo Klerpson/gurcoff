@@ -30,9 +30,6 @@ Su ambiente es muy agradable agradable. El recinto cuenta con una terraza rodead
 
 Puedes ver sus referencias en [**TripAdvisor**](https://www.tripadvisor.co/Restaurant_Review-g445060-d16875100-Reviews-La_Gata_Parrilla-San_Agustin_Huila_Department.html "link de la página tripadvisor con el perfil del restaurante La Gata Parrilla de San Agustín Huila")
 
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
-
 Ahora bien, ¿qué puedes comer aquí? **Carnes, frutas y verduras a la parrilla, además de pinchos y hamburguesas artesanales**.
 
 Como notarás, partiendo de este restaurante, hace que venir a **San Agustín Huila** es [un plan muy completo](https://www.viajeros.com/guias/san-agustin-huila-magia-y-arqueologia-en-colombia). El clima, el ambiente, la gente, sus casas coloniales muy hermosas y su comida sana hará que tu estancia sea muy agradable.
@@ -114,9 +111,6 @@ Recuerda:
 * Casi todos tienen Wi-Fi gratis.
 
 * Y también tienen entrega a domicilio.
-
-<!-- PUBLICIDAD -->
-{% include publicidad.html h3="Agencia Colombia Viajera" img="img/publicidad/disfruta-san-agustin.webp" alt="Agencia de viajes Colombia Viajer" p="Quieres visitar San Agustín, y te gustaría utilizar una agencia de viajes confiable. <strong>Te recomendamos esta agencia con muchos años de buena reputación.</strong> ¡Escríbeles con confiaza!" href="https://bit.ly/disfrutasanagustin" a="Escribir por WhatsApp" %}
 
 ## ¿Cuál es tu plato favorito?
 
