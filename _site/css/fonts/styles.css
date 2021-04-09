@@ -1,1 +1,36 @@
-@charset "UTF-8";@font-face{font-family:'Arvo';font-style:normal;font-weight:400;src:local(''),url('../fonts/arvo-v14-latin-regular.woff2') format('woff2'),url('../fonts/arvo-v14-latin-regular.woff') format('woff')}@font-face{font-family:'Arvo';font-style:normal;font-weight:700;src:local(''),url('../fonts/arvo-v14-latin-700.woff2') format('woff2'),url('../fonts/arvo-v14-latin-700.woff') format('woff')}@font-face{font-family:'Delius';font-style:normal;font-weight:400;src:local(''),url('../fonts/delius-v10-latin-regular.woff2') format('woff2'),url('../fonts/delius-v10-latin-regular.woff') format('woff')}@font-face{font-family:'Martel';font-style:normal;font-weight:400;src:local(''),url('../fonts/martel-v5-latin-regular.woff2') format('woff2'),url('../fonts/martel-v5-latin-regular.woff') format('woff')}@font-face{font-family:'Martel';font-style:normal;font-weight:700;src:local(''),url('../fonts/martel-v5-latin-700.woff2') format('woff2'),url('../fonts/martel-v5-latin-700.woff') format('woff')}
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('../fonts/arvo-v14-latin-regular.woff2') format('woff2'), url('../fonts/arvo-v14-latin-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('../fonts/arvo-v14-latin-700.woff2') format('woff2'), url('../fonts/arvo-v14-latin-700.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Delius';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('../fonts/delius-v10-latin-regular.woff2') format('woff2'), url('../fonts/delius-v10-latin-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Martel';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url('../fonts/martel-v5-latin-regular.woff2') format('woff2'), url('../fonts/martel-v5-latin-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Martel';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url('../fonts/martel-v5-latin-700.woff2') format('woff2'), url('../fonts/martel-v5-latin-700.woff') format('woff');
+}
