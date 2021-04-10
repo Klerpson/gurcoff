@@ -1,7 +1,7 @@
 ---
 layout: articulo
-title: ¿Por qué debes visitar San Agustín Huila? 🌄
-description: San Agustín tiene los paisajes del macizo colombiano 🌄. Sus estructuras coloniales. Un exquisito café en la plaza. Conoce más de nuestro pueblo
+title: San Agustín Huila, un destino obligado para el turismo nacional 🌄
+description: San Agustín Huila tiene los hermosos paisajes del macizo colombiano 🌄. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer!
 category: magazine
 tags: [San Agustín, turismo, río magdalena]
 img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin.webp
@@ -13,23 +13,54 @@ excerpt_separator: <!-- excerpt -->
 ---
 ![Señal de tránsito que anuncia la entrada a San Agustín][img1]
 
-Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un chocolate o rico café colombiano en la plaza principal, o **[un delicioso helado suave en GurCoff.]({{site.baseurl}}/contacto)**
+**Razones para visitar San Agustín Huila sobran**. Su clima fresco es una invitación a quedarse y tomarse un rico café colombiano en la plaza principal, o **[un delicioso helado en nuestra heladería GurCoff.]({{site.baseurl}}/contacto)**
 
 <!-- excerpt -->
+
+Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares muy cerca para hacer todo un recorrido de variedad aventurera.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Atrévete a conocer San Agustín Huila
+## Cómo llegar a San Agustín Huila
 
-En **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila))** encontramos lugares extraordinarios para hospedarse, desde **hoteles campestres hasta fincas** en medio de la naturaleza con vistas espectaculares.
+Lo primero es saber **cómo llegar hasta San Agustín**. Y tienes 2 opciones: puedes llegar por carretera o en un vuelo comercial, o privado si puedes. Sería genial, ¿no?
 
-O si deseas podrías quedarte en las prácticas posadas en el centro urbanístico. A pesar de que es un **lugar turístico** sus precios son accesibles.
+### Cómo llegar por tierra
 
-Su gente es muy amable y servicial con los turistas. Sus estructuras son del tipo colonial, lo que te permitirá tomar unas muy buenas fotos.
+Para llegar por tierra, puedes utilizar el transporte público. Constantemente llegan empresas como [Coomotors](https://coomotor.com.co/) y [Taxis Verdes](https://taxisverdes.net/). Estas empresas llegan directamente hasta Pitalito Huila. **Luego te traen hasta San Agustín**.
+
+También puedes utilizar otra empresa de transporte que te lleve directamente hasta el terminal de transporte de la ciudad de Pitalito, y desde allí escoges en qué empresa haces la escala hasta San Agustín. Por ejemplo, hay una línea de camionetas de [Cootranslaboyana](https://www.cootranslaboyana.com.co/). No te recomiendo viajar en la parte de atrás. Es bastante incómodo.
+
+Por supuesto, también puedes venir en tu carro particular. Estas son las **distancias en kilómetros y el tiempo de duración de cada viaje**:
+
+| Punto de partida | Kilómetro | Tiempo | Peajes |
+| --- | --- | --- | --- |
+| Neiva | 220km | 4:30 horas | 2 peajes |
+| Bogotá | 533km | 9:30 horas | 8 peajes, tristemente |
+| Cali | 270km | 7:10 horas | 2 peajes |
+| Mocoa | 156km | 3:30 horas | 0 peajes |
+
+Como dice en las indicaciones de Google Maps, las indicaciones son aproximaciones. Si hay construcciones, mal el clima, mucho tráfico, desastres o derrumbes en la vía u otros factores, pueden cambiar las distancias o los tiempos de recorrido. Lo mejor es llamar al #767, a las autoridades de tránsito, y preguntar por el estado de las vías para hacer tus planes
+
+### Cómo llegar por aire
+
+Si deseas y puedes hacerlo, la mejor opción es **tomar un avión hasta el aeropuerto de Pitalito.** Este aeropuerto está a solo 30 minutos de distancia en carro de San Agutín.
+
+Otros aeropuertos que están relativamente cerca son los **aeropuerto de Florencia Caquetá, el de Villa Garzón Putumayo y el de Puerto Asís**. Serían una buena opción para comenzar un recorrido desde allá hasta pasar por San Agustín.
+
+## Dónde hospedarse al visitar San Agustín Huila
+
+En **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila))** encontramos lugares extraordinarios para hospedarse. Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.** La mayoría de ellos se emplazan en medio de la naturaleza con vistas espectaculares. Así que tienes aseguradas unas relajantes vacaciones.
+
+O si deseas podrías quedarte en las prácticas posadas en el centro urbano. La gran ventaja es que a pesar de que es un lugar turístico, los precios para todos los presupuestos: encuentras **hoteles baratos, hostales económicos, hoteles cómodos y de lujo. Hasta hoteles con piscina!**.
+
+En cualquier caso encontrarás gente muy amable y servicial con los turistas.
 
 ![Achiras, amasijo típico de San Agustín][img2]
 *Achiras, amasijo típico de San Agustín*
+
+### Gastronomía del pueblo de San Agustín Huila
 
 Su gastronomía es muy variada, trae una mezcla de muchas culturas. Podrás disfrutar desde el **asado huilense** hasta el típico **caldo de cuchas**; con bebidas tradicionales heredadas de sus aborígenes como lo son **el masato, la chicha y el jugo de gulupa.**
 
@@ -66,6 +97,8 @@ Te aconsejamos que al visitar esta hermosa población traigas zapatos cómodos p
 En estas breves líneas trate de resumir **que hacer en San Agustín Huila**. Sin embargo, falto mucho más por escribir, atrévete y descubre más acerca de esta mágica tierra. Su belleza y misticismo, su historia y cultura, su tierra llena de vida y vegetación; son suficientes razones para **visitar San Agustín Huila.**
 
 ## ¿Ya has venido a San Agustín Huila?
+
+Sus estructuras son del tipo colonial, lo que te permitirá tomar unas muy buenas fotos.
 
 ¿Qué fue lo que más te gustó del pueblo? ¿Cuál es tu actividad favorita en San Agustín? ¿Cuál fue tu lugar favorito del pueblo? **Cuéntame en los comentarios**.
 
