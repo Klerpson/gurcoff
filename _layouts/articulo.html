@@ -41,7 +41,7 @@ layout: default
       <picture>
         {% if post.img %}
         <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.img }}">
-        <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}">
+        <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}" loading="lazy">
         {% endif %}
       </picture>
       <h4> {{ post.title }}</h4>
