@@ -9,6 +9,7 @@ alt: Parque arqueológico de San Agustín Huila sección mesita A
 autor: Julian Franco
 date: 2021-03-13
 copyright: Julian Andres Franco Bedoya
+json: true
 excerpt_separator: <!-- excerpt -->
 ---
 ![{{page.alt}}][img1]

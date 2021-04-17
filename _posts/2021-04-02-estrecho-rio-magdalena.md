@@ -9,6 +9,7 @@ alt: Vista aérea del estrecho del Magdalena cortesía de Adventure X Colombia
 autor: Julian Franco
 date: 2021-04-02
 copyright: Julian Andres Franco Bedoya
+json: true
 excerpt_separator: <!-- excerpt -->
 ---
 ![Cascada los Tres Chorros][img1]

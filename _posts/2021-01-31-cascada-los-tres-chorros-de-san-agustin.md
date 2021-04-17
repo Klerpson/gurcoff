@@ -1,7 +1,7 @@
 ---
 layout: articulo
 title: Conoce la cascada Los Tres Chorros 🌄
-description: La hermosa cascada de los 3 chorros en el Magdalena 🌄. Es un excelente plan para los turistas de San Agustín Huila
+description: La hermosa cascada de los 3 chorros en San Agustín Huila es un excelente plan para los turistas que visitan este pueblo adornado por el Magdalena
 category: magazine
 tags: [magazine, San Agustín, turismo, cascadas, río magdalena]
 img: img/magazine/2021-01-31/tres-chorros-san-agustin.webp
@@ -9,6 +9,45 @@ alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco
 date: 2021-01-31
 copyright: Julian Andres Franco Bedoya
+json: {
+  "@context": "https://schema.org",
+  "@type": "TouristDestination",
+  "name": "Cascada los Tres Chorros de San Agustín Huila",
+  "description": "La hermosa cascada de los 3 chorros en San Agustín Huila es un excelente plan para los turistas que visitan este pueblo adornado por el Magdalena. Al visitarla, encontrarás una cascada que es parte del rio Mulales. La cascada de los Tres Chorros tiene una caída de cerca de 28 metros **que forman tres chorros paralelos de muy buen caudal**, haciendo que el efecto visual y la sensación al estar presentes sea intimidante, potente y digna de admiración. ",
+  "url": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
+  "touristType": {
+    "@type": "Audience",
+    "audienceType": [
+      "Adventure",
+      "Natural tourism"
+    ]
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "1.8906913505198162",
+    "longitude": "-76.3819676029056"
+  },
+  "includesAttraction": [
+    {
+      "@type": [
+        "River",
+        "TouristAttraction"
+      ],
+      "name": "Cascada Los Tres Chorros",
+      "sameAs": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
+      "image": "https://gurcoff.com/img/magazine/2021-01-31/tres-chorros-san-agustin.webp"
+    },
+    {
+      "@type": [
+        "Horses",
+        "TouristAttraction"
+      ],
+      "name": "Cabalgata hasta la Cascada de los Tres Chorros",
+      "sameAs": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
+      "image": "https://gurcoff.com/img/magazine/2021-01-31/cabalgata-cascada-tres-chorros-mini.webp"
+    }
+  ]
+}
 excerpt_separator: <!-- excerpt -->
 ---
 ![Cascada los Tres Chorros][img1]
@@ -26,7 +65,7 @@ Muchas de los visitantes de este lugar lo describen como "una de las maravillas 
 
 Al visitarla, encontrarás una cascada que es parte del rio Mulales. La cascada de los Tres Chorros tiene una caída de cerca de 28 metros **que forman tres chorros paralelos de muy buen caudal**, haciendo que el efecto visual y la sensación al estar presentes sea intimidante, potente y digna de admiración.
 
-Su ubicación es privilegiada. Está en medio de un exuberante paisaje de bosque, por lo que el paseo hasta este lugar se muy emocionante.
+Su ubicación es privilegiada. Está en medio de un exuberante paisaje de bosque, por lo que el paseo hasta este lugar es muy emocionante.
 
 ## ¿Cómo llego a la cascada los Tres Chorros?
 
@@ -37,13 +76,13 @@ Puedes comenzar tu viaje desde San Agustín. También puedes hospedarte en un ho
 ![Cascada Tres Chorros Magdalena][img2]
 *Cascada los Tres Chorros de San Agustín*
 
-En el municipio de San Agustín tienes diferentes opciones de transporte. Están las empresas de transporte intermunicipal, que te pueden acercar hasta el comienzo de los hermosos cenderos naturales que conducen hasta la cascada.
+En el municipio de San Agustín tienes diferentes opciones de transporte. Están las empresas de transporte intermunicipal, que te pueden acercar hasta el comienzo de los hermosos senderos naturales que conducen hasta la cascada.
 
 Lo mismo pueden hacer los transportes en motocicleta o "motoratones", como se les conoce localmente. ¡Y hasta puedes llegar en chiva!
 
 Cuando ya llegas al comienzo de los sendero naturales, comienza una caminata. Sí, como acabas de descubrir, no hay acceso en vehículo hasta la cascada. Pero en parte, **esa es una de las razones por la que la cascada Tres Chorros es tan hermosa**.
 
-Ahora bien, puedes contratar la compañía de guías turísticos. O sencillamente preguntar a las personas del lugar cuáles son los sendero que llegan hasta allá.
+Ahora bien, puedes contratar la compañía de guías turísticos. O sencillamente preguntar a las personas del lugar cuáles son los senderos que llegan hasta la cascada.
 
 Al llegar al sendero, la caminata comienza atravezando por un camino entre antiguas haciendas ganaderas. Luego atravesarás senderos por medio del bosque y descendiendo por la montaña.
 
@@ -63,8 +102,6 @@ Por ejemplo, la agencia **Adventure-X-Colombia de San Agustín** te ofrece un re
 También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorros. Es una experiencia hermosa que también te recomendamos, claro, si tu presupuesto te lo permite.
 
 Para más información sobre el tour a caballo, puedes contactar a esta agencia. Es muy conocida y con mucho tiempo de experiencia en la localidad. Se llama **Disfruta San Agustín**:
-
-{% include boton.html path="http://bit.ly/tour-a-caballo" texto="Preguntar por el tour a caballo" %}
 
 ![Foto de Mano creado por ArthurHidden - www.freepik.es][img4]
 *Otra opción es llegar a caballo*

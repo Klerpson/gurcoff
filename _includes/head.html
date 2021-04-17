@@ -8,6 +8,7 @@
   <link rel="alternate" type="application/rss+xml"
     title="{{page.title}}"
     href="{{ "/feed.xml" | relative_url}}">
+  <link rel="alternate" href="https://gurcoff.com" hreflang="es">
   <meta name="viewport"
     content="width=device-width, initial-scale=1, minimum-scale-1, maximum-scale-1, user-scalable-no, minimal-ui">
   <title>{{ page.title}}</title>
@@ -38,7 +39,41 @@
   {% if page.noindex %}
   <meta name="robots" content="noindex, nofollow">
   {% endif %}
-
+<!-- Codigo json para snippets de Google -->
+  {% if page.url=="{{site.baseurl}}" %}
+  <script type='application/ld+json'>
+    {
+      "@context": "http://www.schema.org",
+      "@type": "IceCreamShop",
+      "name": "Heladería GurCoff de San Agustín Huila",
+      "url": "https://gurcoff.com/",
+      "logo": "https://gurcoff.com/img/favicon/ms-icon-150x150.png",
+      "image": "https://gurcoff.com/img/milkshake-san-agustin-huila.svg",
+      "description": "San Agustín Huila tiene un dulce lugar para relajarte, para descansar, para charlar y para comer un helado suave bien rico. Bienvenidos a GurCoff Heladería, el punto de encuentro favorito de quienes visitan este hermoso pueblo turístico. Tienes que vivir tú mismo la experiencia GurCoff",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle 5 17-02",
+        "addressLocality": "San Agustín",
+        "addressRegion": "Huila",
+        "postalCode": "418060",
+        "addressCountry": "Colombia"
+      },
+      "hasMap": "VPPG+44 San Agustín, Huila",
+      "openingHours": "Mo, Tu, Th, Fr 13:30-19:00 Sa, Su 13:30-19:30",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+573115245225",
+        "contactType": "Atención al Cliente"
+      }
+    }
+     </script>
+  {% endif %}
+  <!-- Codigo json para google en los articulos -->
+{% if page.json %}
+  <script type="application/ld+json">
+{{page.json}}
+    </script>
+{% endif %}
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl}}/img/favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl}}/img/favicon/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl}}/img/favicon/apple-icon-72x72.png">
@@ -250,10 +285,10 @@
   </style>
 
   <!-- mailchimp -->
-  <script id="mcjs">
+  <!-- <script id="mcjs">
     ! function (c, h, i, m, p) {
       m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p)
     }(document, "script",
       "https://chimpstatic.com/mcjs-connected/js/users/0faf40f7e005334f6b2ff07d7/19a52f0841e85e4ecb36e4287.js");
-  </script>
+  </script> -->
 </head>

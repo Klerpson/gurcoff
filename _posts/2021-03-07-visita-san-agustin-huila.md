@@ -9,6 +9,7 @@ alt: Entrada a San Agustín
 autor: Julian Franco
 date: 2021-03-07
 copyright: Julian Andres Franco Bedoya
+json: true
 excerpt_separator: <!-- excerpt -->
 ---
 ![Señal de tránsito que anuncia la entrada a San Agustín][img1]

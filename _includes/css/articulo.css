@@ -88,13 +88,19 @@
   box-shadow: var(--shadow);
 }
 
-#mc_embed_signup {
+/* mailchimp */
+/* #mc_embed_signup {
   background: #6BF178;
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
   width: 80vw;
   margin: 3rem auto;
   padding: 2rem;
+} */
+
+/* pushnotifications */
+.boton-notificaciones{
+  justify-self: center;
 }
 
 @media screen and (min-width:600px) {
