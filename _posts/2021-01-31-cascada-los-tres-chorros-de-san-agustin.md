@@ -9,7 +9,7 @@ alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco
 date: 2021-01-31
 copyright: Julian Andres Franco Bedoya
-json: {
+json: '{
   "@context": "https://schema.org",
   "@type": "TouristDestination",
   "name": "Cascada los Tres Chorros de San Agustín Huila",
@@ -47,7 +47,7 @@ json: {
       "image": "https://gurcoff.com/img/magazine/2021-01-31/cabalgata-cascada-tres-chorros-mini.webp"
     }
   ]
-}
+}'
 excerpt_separator: <!-- excerpt -->
 ---
 ![Cascada los Tres Chorros][img1]
