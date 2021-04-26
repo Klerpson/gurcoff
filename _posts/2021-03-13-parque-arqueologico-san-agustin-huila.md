@@ -35,14 +35,21 @@ Muchas de los monumentos fueron restaurados para después del año de 1857. Para
 ![Tableros de información en el parque arqueológico de San Agustín][img3]
 *Información de la necrópolis durante el recorrido*
 
+### Los hallazgos arqueológicos
+
 Este parque es la zona **con más allazgos arqueológicos de la época conocida como América Precolombina**. Esto es antes que llegaran los españoles a arruinar tantas cosas hermosas de nuestra tierra. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social.
 
-Ahora hablemos de lo que será tu visita al parque.
+En cuanto al patrimonio podemos encontrar muchos restos. Esta cultura, además de trabajar la parte lítica (que era el fuerte de ellos: trabajar la piedra) trabajaba también la cerámica, la madera y conocía la orfebrería, trabajando el oro de muy buena calidad. Los pocos elementos o accesorios de oro que se encontraron están expuestos en el Museo del Oro de Bogotá.
+
+### Muchos objetos que lo convirtieron en patrimonio para la humanidad
+
+El parque arqueológico consta de 78 hectáreas pertenecientes a los campesinos de la región y que fueron vendidas al gobierno con el tiempo. Desde 1935 se creó oficialmente el Parque Arqueológico de San Agustín, que **actualmente está conformado por la casa museo Luis Duque Gómez, las estatuas de madera, las mesas A, B, y C, la fuente ceremonial de las lavapatas y el alto de las lavapatas**. Toda una ruta turística llena de muchas historias fascinantes.
+
+Te contaré en qué consiste cada atractivo turístico:
 
 ## ¿Cómo puedo llegar al parque arqueológico de San Agustín?
 
 Debes tener claros 2 destinos. El primero es el municipio de **Pitalito Huila**. El segundo es el municipio de **San Agustín Huila**. Después de llegar a San Agustín, te diriges hasta la plaza principal. Es el lugar obligatorio de reunión para sus habitantes y turistas, rodeada de numerosos sitios de interés.
-
 
 Por la gran afluencia de visitantes encontraremos, artesanía, **[hoteles](https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/)**, templos, restaurantes, comida típica, comida rápida, **[deliciosas y modernas heladerías](https://gurcoff.com)** (teníamos que mencionarlo ;)).
 
@@ -64,15 +71,55 @@ La ruta desde el sur del país es llegar primero hasta la ciudad de Mocoa. Esta 
 
 Además, existe una carretera destapada y difícil. Esta es la vía que viene desde Popayán, por el páramo, hasta San Agustín directamente (4 horas). Es importante saber que si vienes **desde Popayán hasta San Agustín**, no es necesario que vayas hasta Pitalito, pues encontrarás primero el municipio de San Agustín en esta ruta.
 
-### Características del parque
+## Características del parque
 
 Las concentraciones de los hallazgos arqueológicos son tan grandes que del **Parque Arqueológico Nacional de San Agustín** se dividió en tres áreas turísticas: Mesitas, en el municipio de San Agustín y Alto de los Ídolos y Alto de las Piedras, en Isnos.
+
+### Las zonas del parque arqueológico
 
 La zona más grande se conoce como **Mesitas de San Agustín**. Cubre cerca de 80 hectáreas y se ubica a unos 2 kilómetros del centro del municipio. Hacia esta zona encontrarás la mayoría de los servicios hoteleros, de hostelería y de turismo de la región.
 
 La sede del Alto de los Ídolos son 13 hectáreas, a 18 kilómetros por carretera desde San Agustín y a 8 kilómetros desde la cabecera municipal de Isnos. La sede del Alto de las Piedras (11 hectáreas) está aún más al norte, a 9 kilómetros por carretera desde Isnos.
 
-![Cascada Tres Chorros Magdalena][img2]
+#### El museo Luis Duque Gómez
+
+Es sin duda el mayor museo del municipio de San Agustín. Te muestra un guión museístico moderno, como los mejores museos del mundo. **El Museo cuenta con 9 salas de exposición**, en las que se muestran testimonios de los distintos grupos que habitaron la región en los diferentes períodos (arcaico, formativo y clásico), a lo largo de casi 6.000 años. Allí podrás apreciar muchas estatuas y herramientas de la época y muy bien conservadas. También verás los artefactos de cerámica en menor escala.
+
+#### La Fuente Ceremonial del Lavapatas
+
+Una de las creaciones más significativas de la cultura de San Agustín fue **la Fuente Ceremonial de Lavapatas**, una obra de ingeniería hidráulica en la que se representaba una serie de figuras talladas, canales y estanques sobre un lecho de roca.
+
+*Las figuras que ahí se forman según las hipótesis de los arqueólogos están asociadas a la vida.*
+
+Tallaron una serie de figuras, canales y piscinas. Hay un sistema de drenaje por el que circula el agua de manera uniforme y artificial. Este lugar posiblemente fue utilizado para hacer ceremonias a la vida. La relación es con el agua, considera generativa y símbolo de vida.
+
+#### El bosque de las estatuas
+
+Es un nombre muy interesante. El lugar también lo es. **Es un sendero con un recorrido de unos 700 metros**. Tiene una colección de esculturas que fueron traídas de diferentes lugares, algunas encontradas en las mesitas B y C, otras en caminos colindantes al pueblo. Todas las esculturas fueron ubicadas estratégicamente para decorar este sendero del parque y transportarte a su historia.
+
+Todas ellas son originales, simétricas y perfectamente elaboradas; además de la estatuaria encontrarás un frondoso bosque con fauna y flora de la zona.
+
+#### El alto del Lavapatas
+
+**Es uno de los sitios más importantes del parque arqueológico de San Agustín.** En este lugar se encontraron restos de una vivienda, se encontró un fogón y en él se encontraron restos orgánicos. Estos fueron analizados en un laboratorio con carbono 14 y arrojaron una cronología de 3,300 años antes de Cristo, convirtiéndos en el hallazgo más antiguo de la cultura en San Agustín.
+
+En la antigüedad las zonas altas de las montañas eran lugares importantes y estratégicos para el dominio del territorio. En la estrategia de las guerras, eran una enorme ventaja. Lo anterior se debía a que se podía ver todo el panorama completo. Tener esta visibilidad era una ventaja al momento del combate. Y desde el Alto de Lavapatas se podía tener esa ventaja.
+
+*En el Alto de Lavapatas nacen los ríos Magdalena, Cauca, Caquetá, Patía y el Putumayo.*
+
+#### La zona de "Las Mesitas"
+
+En estos sitios se encuentran lugares funerarios como tumbas y montículos artificiales. También, se encuentran las esculturas más famosas del parque, como el águila y el Dios del sol. **Las tumbas fueron trazadas según las clases sociales, las jerarquías políticas y religiosas,** que siempre han existido en los grupos humanos.
+
+*Con la escultura consiguió plasmar ese gran conocimiento*
+
+Las culturas nativas sabían de arquitectura, de matemáticas y de astronomía. Así nos dejaron un mensaje con el que nos transmiten su pensamiento mitológico, su forma de ver e interpretar el mundo, mensajes muy profundos en un lenguaje silencioso.
+
+Ahora hablemos de lo que será tu visita al parque.
+
+## Visita el parque arqueológico
+
+![Estatuas del parque arqueológico de San Agustín Huila][img2]
 *Estatuas del parque arqueológico en detalle*
 
 Estos municipios también se caracterizan por la gran variedad de nichos ecológicos de exuberante vegetación y fauna silvestre, rodeados de profundos cañones, ríos con rápidos y saltos de agua. Todos estos lugares se prestan para disfrutar de un paseo delicioso.
@@ -90,7 +137,7 @@ Según la resolución 070 de 27 de marzo de 2017 se debe cancelar una boleta par
 
 Según esa resolución, este pasaporte te sirve para **las 3 sedes del Parque Arqueológico: Mesitas, Alto de los ídolos y Alto de las Piedras**. Este pasaporte tiene una validez de 2 días para que disfrutes de los parque sin afanes.
 
-Hasta diciembre de 2019, las tarifas son:
+Hasta diciembre de 2020, las tarifas son:
 
 * Adultos: 35.000 mil pesos.
 * Estudiantes con carné vigente: 15.000 mil pesos.
