@@ -41,7 +41,7 @@ json: '{
     {
       "@type": [
         "Pictures",
-        "graffiti"
+        "graffiti",
         "TouristAttraction"
       ],
       "name": "Arte urbano",
