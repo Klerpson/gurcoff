@@ -9,7 +9,7 @@ alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco
 date: 2021-03-19
 copyright: Julian Andres Franco Bedoya
-json: true
+json: false
 excerpt_separator: <!-- excerpt -->
 ---
 ![Cuarto de Hotel de San Agustín][img1]

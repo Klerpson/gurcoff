@@ -9,7 +9,45 @@ alt: Parque arqueológico de San Agustín Huila sección mesita A
 autor: Julian Franco
 date: 2021-03-13
 copyright: Julian Andres Franco Bedoya
-json: true
+json: '{
+  "@context": "https://schema.org",
+  "@type": "TouristDestination",
+  "name": "Parque Arqueológico de San Agustín Huila",
+  "description": "El Parque Arqueológico de San Agustín Huila es una amplia zona del valle alto del río Magdalena, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos. El parque arqueológico consta de 78 hectáreas pertenecientes a los campesinos de la región y que fueron vendidas al gobierno con el tiempo. Desde 1935 se creó oficialmente el Parque Arqueológico de San Agustín, que actualmente está conformado por la casa museo Luis Duque Gómez, las estatuas de madera, las mesas A, B, y C, la fuente ceremonial de las lavapatas y el alto de las lavapatas",
+  "url": "https://gurcoff.com/parque-arqueologico-san-agustin-huila",
+  "touristType": {
+    "@type": "Audience",
+    "audienceType": [
+      "Aventura",
+      "Turismo Arqueológico"
+    ]
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "1.8875191121066097",
+    "longitude": "-76.29458614761889"
+  },
+  "includesAttraction": [
+    {
+      "@type": [
+        "Natural",
+        "TouristAttraction"
+      ],
+      "name": "Caminata por senderos naturales",
+      "sameAs": "https://gurcoff.com/parque-arqueologico-san-agustin-huila",
+      "image": "https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp"
+    },
+    {
+      "@type": [
+        "Culture",
+        "TouristAttraction"
+      ],
+      "name": "Arqueología con hallazgos desde 3000 A.C.",
+      "sameAs": "https://gurcoff.com/parque-arqueologico-san-agustin-huila",
+      "image": "https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/estatuas-parque-arqueologico-san-agustin.webp"
+    }
+  ]
+}'
 excerpt_separator: <!-- excerpt -->
 ---
 ![{{page.alt}}][img1]

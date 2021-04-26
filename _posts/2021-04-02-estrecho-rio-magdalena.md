@@ -9,7 +9,36 @@ alt: Vista aérea del estrecho del Magdalena cortesía de Adventure X Colombia
 autor: Julian Franco
 date: 2021-04-02
 copyright: Julian Andres Franco Bedoya
-json: true
+json: '{
+  "@context": "https://schema.org",
+  "@type": "TouristDestination",
+  "name": "El Estrecho del Río Magdalena",
+  "description": "El estrecho del río Magdalena es impactante por solo tener 2 metros de ancho. Si no has leído algo sobre el Río Magdalena, o río Yuma como también se le conoce, puede que no te parezca nada impresionante. Pero cuando sabes que este río en sus partes más anchas puede superar los 1.000 metros, entonces sí llama la atención.",
+  "url": "https://gurcoff.com/estrecho-rio-magdalena",
+  "touristType": {
+    "@type": "Audience",
+    "audienceType": [
+      "Adventure",
+      "Natural tourism"
+    ]
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "1.930120452590474",
+    "longitude": "-76.29382482332004"
+  },
+  "includesAttraction": [
+    {
+      "@type": [
+        "River",
+        "TouristAttraction"
+      ],
+      "name": "Estrecho del río Magdalena",
+      "sameAs": "https://gurcoff.com/estrecho-rio-magdalena",
+      "image": "https://gurcoff.com/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp"
+    }
+  ]
+}'
 excerpt_separator: <!-- excerpt -->
 ---
 ![Cascada los Tres Chorros][img1]

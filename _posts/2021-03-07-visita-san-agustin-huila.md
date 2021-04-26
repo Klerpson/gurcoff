@@ -9,7 +9,47 @@ alt: Entrada a San Agustín
 autor: Julian Franco
 date: 2021-03-07
 copyright: Julian Andres Franco Bedoya
-json: true
+json: '{
+  "@context": "https://schema.org",
+  "@type": "TouristDestination",
+  "name": "San Agustín Huila, pueblo turístico lleno de historia y naturaleza",
+  "description": "Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un rico café colombiano en la plaza principal, o un delicioso helado en nuestra heladería GurCoff. Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares muy cerca para hacer todo un recorrido de variedad aventurera.",
+  "url": "https://gurcoff.com/visita-san-agustin-huila",
+  "touristType": {
+    "@type": "Audience",
+    "audienceType": [
+      "Adventure",
+      "Culture",
+      "Natural tourism"
+    ]
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "1.8804269194334269",
+    "longitude": "-76.26894715166486"
+  },
+  "includesAttraction": [
+    {
+      "@type": [
+        "Town",
+        "TouristAttraction"
+      ],
+      "name": "San Agustín Huila pueblo Turístico",
+      "sameAs": "https://gurcoff.com/visita-san-agustin-huila",
+      "image": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp"
+    },
+    {
+      "@type": [
+        "Pictures",
+        "graffiti"
+        "TouristAttraction"
+      ],
+      "name": "Arte urbano",
+      "sameAs": "https://gurcoff.com/visita-san-agustin-huila",
+      "image": "https://gurcoff.com/img/magazine/visita-san-agustin/mural-san-agustin-huila.webp"
+    }
+  ]
+}'
 excerpt_separator: <!-- excerpt -->
 ---
 ![Señal de tránsito que anuncia la entrada a San Agustín][img1]

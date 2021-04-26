@@ -10,7 +10,7 @@ copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 autor: Julian Franco
 date: 2021-03-27
-json: true
+json: false
 ---
 ![Cascada los Tres Chorros][img1]
 
