@@ -27,7 +27,7 @@ Si vas de paseo o de vacaciones a San Agustín y deseas degustar algún rico alm
 
 Este es uno de los mejores **restaurantes en San Agustín Huila**. La Gata Parrilla es un lugar de comida saludable. Sus platos son preparados, como su nombre lo indica, a la parrilla. Sí, lo bueno es que no es solo el nombre.
 
-Su ambiente es muy agradable agradable. El recinto cuenta con una terraza rodeada de plantas verdes, lo que hace que el ambiente sea acogedor. Sus propietarios son amantes de la buena música. Por lo tanto, el ambiente es siempre el mejor. Además, al lugar llegan constantemente personas a tocar en vivo. ¡Y vaya que lo hacen muy bien!
+Su ambiente es muy agradable. El recinto cuenta con una terraza rodeada de plantas verdes, lo que hace que el ambiente sea acogedor. Sus propietarios son amantes de la buena música. Por lo tanto, el ambiente es siempre el mejor. Además, al lugar llegan constantemente personas a tocar en vivo. ¡Y vaya que lo hacen muy bien!
 
 Puedes ver sus referencias en [**TripAdvisor**](https://www.tripadvisor.co/Restaurant_Review-g445060-d16875100-Reviews-La_Gata_Parrilla-San_Agustin_Huila_Department.html "link de la página tripadvisor con el perfil del restaurante La Gata Parrilla de San Agustín Huila")
 
