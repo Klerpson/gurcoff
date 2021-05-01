@@ -38,7 +38,7 @@ Ahora bien, aparte de la necesidad de las páginas web, noté las siguientes car
 
 ## Una solución para quienes tanto nos han apoyado en nuestra heladería
 
-En GurCoff siempre estamos muy agradecidos con todo el apoyo que el pueblo nos ha mostrado. Así que preparé una estrategia para ofrecer a los hoteles la oportunidad de tener su página web. *Quiero ofrecer a todos mis vecinos que se benefician del turismo, la oportunidad de publicar un artículo en nuestro blog, diseñándolo como si fuera su landing page o página web*.
+*Quiero ofrecer a todos mis vecinos que se benefician del turismo, la oportunidad de publicar un artículo en nuestro blog, diseñándolo como si fuera su landing page o página web*. En GurCoff siempre estamos muy agradecidos con todo el apoyo que el pueblo nos ha mostrado. Así que preparé una estrategia para ofrecer a los hoteles la oportunidad de tener su página web.
 
 ## El blog de San Agustín Huila al servicio de todos
 
@@ -49,3 +49,11 @@ Así que antes de que esto suceda, queremos hacerlos partícipes para que sus ne
 ### La idea de la propuesta
 
 GurCoff tiene su blog. Cada artículo es un tema sobre nuestro querido pueblo. Así que se me ocurrió que cada artículo puede ser un tema sobre cada uno de los negocios que tiene el pueblo. Además, como diseñador web, puedo personalizar el diseño para que cada negocio pueda ofrecer sus servicios y productos en ese artículo. **¡Al final será como si tuviera su propio sitio web!**
+
+Analicemos un ejemplo para entender mejor la idea. Claro, será solo un ejemplo, por lo que el resultado final será muy diferente a lo que será el diseño final de las páginas para los negocios.
+
+### El artículo del parque arqueológico... como si fuera un negocio
+
+Vamos a suponer que el artículo que hicimos para el parque arqueológico es la página de un negocio dentro del blog. Puedes ver el artículo en este enlace: [parque arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila)
+
+Entonces, el negocio podría tomar la dirección de ese artículo para utilizarlo como su página web. Sería una página dedicada solamente a su negocio. Su diseño en fotografías, datos, servicios, productos, entre otros, serían más grandes para captar más la atención. Aunque el diseño general se conservaría, por el blog, cada artículo se adaptaría para que sirva como landing page.
