@@ -10,10 +10,10 @@ autor: Julian Franco
 date: 2021-04-02
 copyright: Julian Andres Franco Bedoya
 json: '{
-  "@context": "https://schema.org",
-  "@type": "TouristDestination",
-  "name": "El Estrecho del Río Magdalena",
-  "description": "El estrecho del río Magdalena es impactante por solo tener 2 metros de ancho. Si no has leído algo sobre el Río Magdalena, o río Yuma como también se le conoce, puede que no te parezca nada impresionante. Pero cuando sabes que este río en sus partes más anchas puede superar los 1.000 metros, entonces sí llama la atención.",
+  "@context" : "https://schema.org",
+  "@type" : "TouristDestination",
+  "name" : "El Estrecho del Río Magdalena",
+  "description" : "El estrecho del río Magdalena es impactante por solo tener 2 metros de ancho. Si no has leído algo sobre el Río Magdalena, o río Yuma como también se le conoce, puede que no te parezca nada impresionante. Pero cuando sabes que este río en sus partes más anchas puede superar los 1.000 metros, entonces sí llama la atención.",
   "url": "https://gurcoff.com/estrecho-rio-magdalena",
   "touristType": {
     "@type": "Audience",
