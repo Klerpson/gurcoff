@@ -3,7 +3,7 @@ layout: articulo
 title: San Agustín Huila, un destino obligado para el turismo nacional 🌄
 description: San Agustín Huila tiene los hermosos paisajes del macizo colombiano 🌄. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer!
 category: magazine
-tags: [San Agustín, turismo, río magdalena]
+tags: [San Agustín, turismo]
 img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin.webp
 alt: Entrada a San Agustín
 autor: Julian Franco

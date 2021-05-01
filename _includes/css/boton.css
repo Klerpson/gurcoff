@@ -7,9 +7,3 @@
   -webkit-text-decoration-color: var(--complemento2);
   text-decoration-color: var(--complemento2);
 }
-
-@media screen and (min-width:1200px) {
-  .botones::before {
-    font-size: 4rem
-  }
-}

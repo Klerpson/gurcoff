@@ -1,39 +1,45 @@
 [
   
    {
+  "title": "Página web para los negocios de San Agustín Huila",
+  "url": "/invitacion-hoteles",
+  "category": "magazine",
+  "tags": "turismo, hoteles, restaurantes"
+  } ,  
+   {
   "title": "El Estrecho del Magdalena",
   "url": "/estrecho-rio-magdalena",
   "category": "magazine",
-  "tags": "San Agustín, magdalena, turismo"
+  "tags": "río magdalena, turismo"
   } ,  
    {
   "title": "Los 5 restaurantes mejor calificados de San Agustín Huila",
   "url": "/mejores-restaurantes-san-agustin",
   "category": "magazine",
-  "tags": "San Agustín, restaurantes, turismo"
+  "tags": "restaurantes, turismo"
   } ,  
    {
   "title": "Los 5 mejores hoteles de San Agustín Huila",
   "url": "/los-5-mejores-hoteles-san-agustin-huila",
   "category": "magazine",
-  "tags": "magazine, San Agustín, turismo, hoteles"
+  "tags": "turismo, hoteles"
   } ,  
    {
   "title": "El Parque Arqueológico de San Agustín Huila 🌄",
   "url": "/parque-arqueologico-san-agustin-huila",
   "category": "magazine",
-  "tags": "magazine, San Agustín, turismo, parque"
+  "tags": "turismo, parque arqueológico"
   } ,  
    {
   "title": "San Agustín Huila, un destino obligado para el turismo nacional 🌄",
   "url": "/visita-san-agustin-huila",
   "category": "magazine",
-  "tags": "San Agustín, turismo, río magdalena"
+  "tags": "San Agustín, turismo"
   } ,  
    {
   "title": "Conoce la cascada Los Tres Chorros 🌄",
   "url": "/cascada-los-tres-chorros-de-san-agustin",
-  "category": "magazine",
-  "tags": "magazine, San Agustín, turismo, cascadas, río magdalena"
+  "category": "turismo",
+  "tags": "cascadas, río magdalena"
   }  
 ]

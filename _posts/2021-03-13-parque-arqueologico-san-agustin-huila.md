@@ -3,7 +3,7 @@ layout: articulo
 title: El Parque Arqueológico de San Agustín Huila 🌄
 description: El parque arqueológico de San Agustín 🌄 es un paseo lleno de descubrimientos misteriosos e impresionantes. Ven a conocer esta asombrosa cultura
 category: magazine
-tags: [magazine, San Agustín, turismo, parque]
+tags: [turismo, parque arqueológico]
 img: img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp
 alt: Parque arqueológico de San Agustín Huila sección mesita A
 autor: Julian Franco
@@ -109,7 +109,7 @@ La ruta desde el sur del país es llegar primero hasta la ciudad de Mocoa. Esta 
 
 Además, existe una carretera destapada y difícil. Esta es la vía que viene desde Popayán, por el páramo, hasta San Agustín directamente (4 horas). Es importante saber que si vienes **desde Popayán hasta San Agustín**, no es necesario que vayas hasta Pitalito, pues encontrarás primero el municipio de San Agustín en esta ruta.
 
-## Características del parque
+## El parque arqueológico de San Agustín, patrimonio histórico y cultural
 
 Las concentraciones de los hallazgos arqueológicos son tan grandes que del **Parque Arqueológico Nacional de San Agustín** se dividió en tres áreas turísticas: Mesitas, en el municipio de San Agustín y Alto de los Ídolos y Alto de las Piedras, en Isnos.
 
@@ -155,12 +155,20 @@ Las culturas nativas sabían de arquitectura, de matemáticas y de astronomía. 
 
 Ahora hablemos de lo que será tu visita al parque.
 
+#### El Alto de los Ídolos
+
+**El Alto de los Ídolos es un sitio arqueolgico muy importante para la región**. Se encuentra en el municipio de San Jos de Isnos, a tan solo 20 minutos desde San Agustín. Recuerda que con el mismo pasaporte que pagas en San Agustín, puedes entrar a este importante lugar. También, si llegas primero aquí, en la casa de la administración se puede adquirir la entrada por 20.000 pesos moneda Colombiana.
+
+**El Alto de los Ídolos es una llanura artificial en forma de U**, en la que existió un enorme asentamiento. Las conclusiones se sacan de los vertederos encontrados en sus laderas. El lugar está rodeado por reductos de bosque natural primario en la que predominan muchos arboles frutales.
+
+Hay muchos hallazgos de tumbas simples, tumbas de pozo, tumbas con cámaras laterales de formas variadas, pintadas o acompañadas de un sarcófago monolítico. Lo interesante es que se encontraron los cadaveres en muchas posiciones: de pie, tumbado, en posición fetal, etc. Hasta se encontraron funerales colectivos.
+
 ## Visita el parque arqueológico
 
 ![Estatuas del parque arqueológico de San Agustín Huila][img2]
 *Estatuas del parque arqueológico en detalle*
 
-Estos municipios también se caracterizan por la gran variedad de nichos ecológicos de exuberante vegetación y fauna silvestre, rodeados de profundos cañones, ríos con rápidos y saltos de agua. Todos estos lugares se prestan para disfrutar de un paseo delicioso.
+**El parque arqueológico de San Agustín e Isnos se caracteriza por la gran variedad de nichos ecológicos de exuberante vegetación y fauna silvestre**, rodeados de profundos cañones, ríos con rápidos y saltos de agua. Todos estos lugares se prestan para disfrutar de un paseo delicioso.
 
 Estamos seguros de que los conocedores del tema arqueológico vivirán intensos e inolvidables momentos llenos de historia. Si eres de los **amantes de la aventura y el misterio**, te cautivará con sus figuras majestuosas, que lo convierten en uno de los baluartes más importantes de Colombia.
 
@@ -171,9 +179,9 @@ Para orgullo de Colombia y de **San Agustín Huila**, el parque fue declarado po
 ![Tumba del parque arqueológico][img6]
 *Tumba del parque arqueológico*
 
-Según la resolución 070 de 27 de marzo de 2017 se debe cancelar una boleta para entrar al parque. Esta solamente se compra en la taquilla de entrada de los parques.
+Según la resolución 070 de 27 de marzo de 2017 se debe cancelar una boleta para entrar al parque. Esta solamente se compra en la taquilla de entrada de los parques. No la compres en otra parte a revendedores.
 
-Según esa resolución, este pasaporte te sirve para **las 3 sedes del Parque Arqueológico: Mesitas, Alto de los ídolos y Alto de las Piedras**. Este pasaporte tiene una validez de 2 días para que disfrutes de los parque sin afanes.
+Según esa resolución, **este pasaporte te sirve para las 3 sedes del Parque Arqueológico: Mesitas, Alto de los ídolos y Alto de las Piedras**. Este pasaporte tiene una validez de 2 días para que disfrutes de los parque sin afanes.
 
 Hasta diciembre de 2020, las tarifas son:
 
@@ -181,7 +189,7 @@ Hasta diciembre de 2020, las tarifas son:
 * Estudiantes con carné vigente: 15.000 mil pesos.
 * Extranjeros: 50.000 mil pesos.
 
-Ahora bien, hay excepciones para entrar gratis. Son las siguientes:
+Ahora bien, hay excepciones para no pagar y entrar gratis. Son las siguientes:
 
 * Niños menores de 12 años
 * Adultos mayores de 62 años
@@ -198,7 +206,7 @@ Además, hay que tener en cuenta que en temporada normal el parque arqueológico
 
 ### Características del parque arqueológico
 
-**El Parque Arqueológico de San Agustín Huila se fundó en el año de 1.935**. En la actualidad está compuesto por:
+**El Parque Arqueológico de San Agustín Huila se fundó en el año de 1.935**. En resumen, esto es lo que te ofrece este lugar turístico:
 
 * **La casa museo**. Con salas donde se exhiben vasijas de barro, documentos relacionados con las investigaciones realizadas en el pasado, y otros utensilios.
 ![Estatua del parque arqueológico de San Agustín][img5]
@@ -207,12 +215,13 @@ Además, hay que tener en cuenta que en temporada normal el parque arqueológico
 * Las mesitas A, B y C. Sitio funerario con tumbas de diversas características.
 * La fuente ceremonial de Lavapatas. Constituida por un sistema de canales en piedras labradas que representan figuras humanas y de animales reptiles.
 * El alto de Lavapatas. Ofrece una majestuosa vista de toda la región, con paisajes increíbles, donde se encontraron ruinas de una vivienda con restos que al analizarlos con carbono 14 dieron una data de 3.300 años antes de Cristo.
+* El importante Alto de los ídolos con todos sus hallazgos funerarios.
 
-Como notarás, es un gran legado con muchas información interesante por descubrir.
+Como notarás, es un gran legado con mucha información interesante por descubrir.
 
-## Video de una visita al parque arqueológico
+### Video de una visita al parque arqueológico
 
-Los créditos del video son del canal regional [Canal Trece](https://www.youtube.com/watch?v=eGdhBn_WnO8):
+En este **video del parque arqueológico de San Agustín** tienes un pequeño adelanto de lo que disfrutarás en tu visita. Los créditos del video son del canal regional [Canal Trece](https://www.youtube.com/watch?v=eGdhBn_WnO8):
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/eGdhBn_WnO8" style="border-radius: 5px; box-shadow: var(--shadow);" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -225,6 +234,10 @@ Los créditos del video son del canal regional [Canal Trece](https://www.youtube
 Por la rica cantidad de productos que allí se producen ofrece una nutrida y variada gastronomía. El atractivo turístico es tan variado que no es suficiente una visita, la calidez de sus habitantes nos hará regresar una y otra vez y nos obligará a repetir la experiencia.
 
 Estamos seguros de que la guía turística de la región es interminable, aventúrate a conocer el Parque Arqueológico de San Agustín y una cantidad de atractivos locales, aún desconocidos para muchos.
+
+## ¿Te gustaría visitar el parque arqueológico?
+
+Te invitamos a conocer este lugar. Mientras tanto, cuéntame en los comentarios: **¿qué te gustó más de la información del parque arqueológico de San Agustín? ¿Qué te gustaría hacer en este lugar? ¿Haz visitado un lugar igual?**
 
 Referencias:
 
