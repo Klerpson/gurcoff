@@ -54,6 +54,51 @@ Analicemos un ejemplo para entender mejor la idea. Claro, será solo un ejemplo,
 
 ### El artículo del parque arqueológico... como si fuera un negocio
 
+![Artículo sobre el estrecho del Magdalena]({{site.baseurl}}/img/magazine/paginas-web-san-agustin/articulo-estrecho-magdalena.webp "imagen del artículo en el blog de San Agustín Huila")
 Vamos a suponer que el artículo que hicimos para el parque arqueológico es la página de un negocio dentro del blog. Puedes ver el artículo en este enlace: [parque arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila)
 
 Entonces, el negocio podría tomar la dirección de ese artículo para utilizarlo como su página web. Sería una página dedicada solamente a su negocio. Su diseño en fotografías, datos, servicios, productos, entre otros, serían más grandes para captar más la atención. Aunque el diseño general se conservaría, por el blog, cada artículo se adaptaría para que sirva como landing page.
+
+### Características ofrecidas
+
+El objetivo de estas páginas es **facilitar el contacto entre el cliente y los negocios**. Para esto, agregaremos las siguientes características:
+
+* Botones que permitan hacer consultas directamente al whatsapp de cada negocio. Este medio ha sido el preferido en el comercio digital para hacer compras y consultas. También, podrá presentar imágenes y descripciones completas de sus menús, habitaciones, productos, entre otros.
+
+* En el caso de que el negocio ofrezca productos, podrá incluir una galería con sus productos. Sin embargo, no será un e-commerce o tienda en línea, ya que no es esa clase de páginas. Ahora bien, con imágenes bien logradas y descripciones bien pensadas, podrá llevar sus contactos a su catálogo de whatsapp bussines para que hagan sus compras directamente allí.
+
+* Scripts y etiquetas meta de posicionamiento de cada negocio en los buscadores, con técnicas SEO on-page.
+
+* Enlaces a las redes sociales de cada negocio para obtener más seguidores que estén pendientes de sus estrategias digitales.
+
+* El diseño de cada página será un diseño único, adaptado para que todos los diferentes tipos de negocios puedan presentarse de una manera profesional y atractiva visualmente.
+
+* Aunque no se proveerán dominios, sí se pueden personalizar las urls del blog para que se puedan utilizar al presentar cada negocio.
+
+## ¿Qué debo hacer para participar de esta iniciativa?
+
+Si te gustaría beneficiarte de esta iniciativa, debes cumplir con algunas condiciones. No son complicadas. Y la mayoría ya las debes tener listas como propietario de tu negocio o emprendimiento. **Si no sabes cómo llevar a cabo alguna de estas instrucciones, pídele a un familiar o amigo que te ayude**:
+
+1. Selecciona las mejores fotografías de tu negocio: habitaciones, productos, platos del menú, etc. Asegúrate que tienen buena iluminación y buena resolución fotográfica. Si las fotos son muy pequeñas o con mala iluminación, no serán incluídas en el artículo. Luego debes enviarlas al correo electrónico [gurcoffheladeria@gmail.com](mailto:gurcoffheladeria@gmail.com). No las envíes por whatsapp, ya que perderán calidad.
+
+2. También puedes incluir videos de muy buena calidad. Para incluirlos, debes subirlos al canal de youtube de tu negocio y enviarnos el link del video. Si no tienes canal de youtube o no sabes cómo tenerlo, puedes pedir ayuda y decirles que nos envíen el link. Recuerda que los videos ayudan mucho para generar ventas.
+
+3. Para el texto de tu página, puedes enviarnos un archivo de texto al mismo correo electrónico. No pueden ser notas de un solo párrafo. **Créeme, cuando uno es el propietario de su negocio, y lo tiene como el proyecto de su vida, tiene mucho que contarle a los demás**. Cuenta todo lo que puedas. Esta será la estructura del texto:
+
+   * **¿Quiénes somos?.** Habla de la historia de tu emprendimiento y qué hacen con exactitud. Ejemplo: no es lo mismo decir que eres un restaurante a decir que eres un restaurante vegetariano. También son diferentes un hotel a un hostal o una cabaña, etc.
+
+   * **Describe tus productos o servicios.** Recuerda incluir todos los detalles. Puedes guiarte por las preguntas que siempre te hacen tus clientes sobre lo que ofreces. Incluye los precios o valores de lo que ofreces. La gente quiere saberlo y siempre lo va a preguntar. Si tu producto o servicio es de muy buena calidad, estoy seguro que no tendrás ningún problema en mencionarlos. Puedes ver cómo mercadolibre o amazon siempre ponen los precios, y venden mucho.
+
+   * **Envía la ubicación exacta de tu negocio en Google Maps**
+
+   * **Dile a tus clientes qué tiene tu negocio que lo diferencia de los demás**. Sé muy específico y evita generalidades como buena calidad, buena atención, entre otros.
+
+   * **Menciona tus horarios.** Si no tienes horarios específicos, menciona que atiendes las 24 horas.
+
+   * **Cuenta quiénes forman tu equipo de trabajo.** Este dato genera confianza. Resalta las profesiones y habilidades que aportan al valor que recibirá el cliente en tu negocio.
+
+   * **Datos de contacto.** Incluye el teléfono. Si tienes whatsapp para tu negocio en un número diferente al de las llamadas, incluye el número para whatsapp o telegram. También, incluye el email, redes sociales, etc.
+
+   * **Datos adicionales.** Si quieres incluir algo más, envíalo. Con gusto lo anexaremos a la información antes mencionada.
+
+4. Por otra parte, recuerda que es tu deber mantener los datos actualizados. Nosotros no podemos ponernos en contacto constante con cada uno para preguntar si todo está al día. Por esto, si cambias un número o alguno de tus servicios, recuerda mencionarnos para poner tu artículo al día.
