@@ -95,25 +95,6 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://gurcoff.com/"></xhtml:link>
   </url>
   <url>
-    <loc>https://gurcoff.com/contacto</loc>
-    <lastmod>2021-05-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/nosotros/helado-gurcoff.webp</image:loc>
-        <image:title>Niño de San Agustín comiéndose un helado GurCoff</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/nosotros/gurcoff-san-agustin-huila.webp</image:loc>
-        <image:title>Local comercial de la heladería GurCoff ubicada en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/nosotros/atardecer-en-san-agustin.webp</image:loc>
-        <image:title>Foto de un atardecer desde la heladería GurCoff</image:title>
-      </image:image>
-    <xhtml:link rel="alternate" hreflang="es" href="https://gurcoff.com/"></xhtml:link>
-  </url>
-  <url>
     <loc>https://gurcoff.com/mejores-restaurantes-san-agustin</loc>
     <lastmod>2021-05-01</lastmod>
     <changefreq>daily</changefreq>
@@ -149,6 +130,25 @@
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp</image:loc>
         <image:title>Parque arqueológico de San Agustín Huila sección mesita A</image:title>
+      </image:image>
+    <xhtml:link rel="alternate" hreflang="es" href="https://gurcoff.com/"></xhtml:link>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/contacto</loc>
+    <lastmod>2021-05-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/nosotros/helado-gurcoff.webp</image:loc>
+        <image:title>Niño de San Agustín comiéndose un helado GurCoff</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/nosotros/gurcoff-san-agustin-huila.webp</image:loc>
+        <image:title>Local comercial de la heladería GurCoff ubicada en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/nosotros/atardecer-en-san-agustin.webp</image:loc>
+        <image:title>Foto de un atardecer desde la heladería GurCoff</image:title>
       </image:image>
     <xhtml:link rel="alternate" hreflang="es" href="https://gurcoff.com/"></xhtml:link>
   </url>
@@ -195,6 +195,14 @@
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/paginas-web-san-agustin/paginas-web-san-agustin-huila.webp</image:loc>
         <image:title>Página web para hoteles en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/paginas-web-san-agustin/website.svg</image:loc>
+        <image:title>Ícono de website</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/paginas-web-san-agustin/articulo-estrecho-magdalena.webp</image:loc>
+        <image:title>Artículo sobre el estrecho del Magdalena</image:title>
       </image:image>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp</image:loc>
