@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: El Estrecho del Río Magdalena en San Agustín Huila
+title: El Estrecho del Río Magdalena | San Agustín Huila
 description: El Estrecho del Magdalena es el punto más reducido del majestuoso río Colombiano. Lee cómo es este lugar y de qué manera puedes ir a conocerlo.
 category: magazine
 tags: [río magdalena, turismo]
