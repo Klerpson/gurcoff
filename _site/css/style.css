@@ -161,6 +161,17 @@ section {
   section {
     width: 70vw;
   }
+
+  .contacto ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .contacto ul li {
+    margin-right: 1.5rem;
+  }
 }
 
 @media screen and (min-width:767px) {
@@ -247,6 +258,12 @@ section {
 
   .invitacion {
     padding: 1rem 7rem;
+  }
+
+  .contacto,
+  .nosotros {
+    width: 50vw;
+    margin: 0 auto
   }
 }
 
@@ -463,27 +480,11 @@ footer a {
 
 .contacto h2{
   margin: 2.5rem 0;
-  text-transform: capitalize;
 }
 
 .contacto h3 {
   margin: 2.5rem 0;
-  font-size: var(--sizeH3);
-  line-height: 1.1;
   margin-bottom: 1.5rem;
-}
-
-.contacto ul {
-  line-height: calc(100% * 2);
-}
-
-.contacto ul li a {
-  text-decoration: underline;
-  -webkit-text-decoration-color: var(--secundario);
-  text-decoration-color: var(--secundario);
-  text-decoration-thickness: .2rem;
-  display: block;
-  margin: 1.5rem 0;
 }
 
 .nosotros {
@@ -511,17 +512,6 @@ footer a {
 }
 
 .nosotros q {
-  font-size: var(--sizeH3);
   font-family: var(--fuenteTitulos);
   color: var(--complemento2);
-  line-height: 1.1;
-}
-
-@media screen and (min-width:992px) {
-
-  .contacto,
-  .nosotros {
-    width: 50vw;
-    margin: 0 auto
-  }
 }
