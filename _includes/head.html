@@ -5,9 +5,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
-  <link rel="alternate" type="application/rss+xml"
-    title="{{page.title}}"
-    href="{{ "/feed.xml" | relative_url}}">
+  <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ "/feed.xml" | relative_url}}">
   <link rel="alternate" href="https://gurcoff.com" hreflang="es">
   <meta name="viewport"
     content="width=device-width, initial-scale=1, minimum-scale-1, maximum-scale-1, user-scalable-no, minimal-ui">
@@ -40,11 +38,11 @@
   <meta name="robots" content="noindex, nofollow">
   {% endif %}
   <!-- Codigo json para google en los articulos -->
-{% if page.json %}
+  {% if page.json %}
   <script type="application/ld+json">
-{{page.json}}
-    </script>
-{% endif %}
+    {{page.json}}
+  </script>
+  {% endif %}
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl}}/img/favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl}}/img/favicon/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl}}/img/favicon/apple-icon-72x72.png">
@@ -82,66 +80,28 @@
   </script>
   <link rel="stylesheet" href="{{ site.baseurl}}/css/style.css">
   <link rel="stylesheet" href="{{ site.baseurl}}/css/fonts/styles.css" rel="preload">
-  <meta property="fb:app_id" content="1430056210515454" />
-  <meta name="facebook-domain-verification" content="bzy42bl1wdcknpxcf5d554hlsxi8ji" />
+  <!-- <meta property="fb:app_id" content="1430056210515454" /> -->
+  <!-- <meta name="facebook-domain-verification" content="bzy42bl1wdcknpxcf5d554hlsxi8ji" /> -->
   <style>
+    html {
+      line-height: 1.5;
+      scroll-behavior: smooth;
+    }
+
     body {
-      color: #202020
+      color: var(--grisFuentes);
+      display: grid;
+      grid-gap: 3rem;
+      margin: 0;
+      padding: 0;
+      background-color: var(--blanco);
+      font-family: var(--fuenteTexto);
     }
 
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0
-    }
-
-    header {
-      padding: 4rem 2rem
-    }
-
-    a {
-      text-decoration: none;
-      font-family: var(--fuenteTexto);
-      color: var(--principal)
-    }
-
-    h1 {
-      font-family: var(--fuenteTitulos)
-    }
-
-    @media only screen and (min-width:600px) {
-      header {
-        padding: 2rem 5rem
-      }
-    }
-
-    @media only screen and (min-width:992px) {
-      header {
-        padding: 2rem 8rem
-      }
-    }
-
-    header {
-      position: relative;
-      width: 100%;
-      height: 80vh;
-      background: linear-gradient(rgba(107, 241, 120, 0.3), rgba(224, 251, 252, 0.3), rgba(250, 250, 250, 0.4)), url(https://gurcoff.com/img/hero/milkshake-san-agustin-huila.svg);
-      background-position: center bottom;
-      background-repeat: no-repeat;
-      background-size: contain;
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-end;
-      align-items: center;
-      text-align: center;
-      z-index: 3;
-    }
-
-    header h1 {
-      font-size: var(--sizeH1);
-      text-transform: capitalize;
-      line-height: 1.2;
-      text-shadow: 0 6px 1px rgba(250, 250, 250, .1), 0 0 5px rgba(250, 250, 250, .1), 0 1px 3px rgba(250, 250, 250, .3), 0 3px 5px rgba(250, 250, 250, .4), 0 5px 10px rgba(250, 250, 250, .5)
     }
 
     .logo {
@@ -151,62 +111,67 @@
       z-index: 5;
     }
 
-
-    @media screen and (min-width:767px) {
-
-      header {
-        height: 60vh;
-      }
-
-      header h1 {
-        max-width: 60vw
-      }
-
-      header .botones {
-        font-size: 2em
-      }
+    a {
+      text-decoration: none;
+      font-family: var(--fuenteTexto);
+      color: var(--principal);
     }
 
-    @media screen and (min-width:992px) {
-      header {
-        background-size: contain;
-        background-position: right;
-      }
-
-      header .botones {
-        font-size: 2rem;
-        text-shadow: 0 0 5px var(--complemento1)
-      }
-
-      header .botones::before {
-        text-shadow: none
-      }
+    header {
+      position: relative;
+      width: 100%;
+      height: 70vh;
+      background: linear-gradient(rgba(107, 241, 120, 0.3), rgba(224, 251, 252, 0.3), rgba(250, 250, 250, 0.4)), url(https://gurcoff.com/img/hero/milkshake-san-agustin-huila.svg);
+      background-position: right bottom;
+      background-repeat: no-repeat;
+      background-size: contain;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: center;
+      text-align: center;
     }
+
+    header h1{width: 90vw;}
 
     .botones {
       position: relative;
-      display: block;
-      margin: 1rem 0;
-      max-width: 60vw;
-      font-family: var(--fuenteGraficas);
-      font-weight: 700;
-      font-size: var(--sizeH3);
-      line-height: 1.2;
-      color: var(--principal);
-      text-decoration: underline;
-      text-decoration-color: var(--secundario);
-      text-decoration-thickness: 0.2rem
+      display: inline-block;
+      width: fit-content;
+      justify-self: center;
+      border: 1.5px solid var(--principal);
+      border-radius: 7px;
+      margin: 2rem 0 0;
+      padding: 0.7rem 1rem;
+      transition: .3s ease-in;
+      background: var(--blanco);
+      text-align: center;
     }
 
-    .botones::before {
-      content: 'Clic';
+    .botones::before{
+      background-color: var(--secundario);
+      border-bottom: 2px solid var(--secundario);
+      border-right: 2px solid var(--secundario);
+      content: "";
+      height: 100%;
+      left: 8px;
       position: absolute;
-      top: calc(100% - 150%);
-      left: calc(100% - 110%);
-      color: rgba(255, 231, 76, 0.5);
-      font-size: 3rem;
-      letter-spacing: 5px;
-      z-index: -1
+      top: 8px;
+      border-radius: 7px;
+      -webkit-transition: .3s;
+      -moz-transition: .3s;
+      transition: .3s;
+      width: 100%;
+      z-index: -1;
+    }
+
+    .botones:hover{
+      background: transparent;
+    }
+
+    .botones:hover::before {
+      top: 0;
+      left: 0;
     }
 
     .f {

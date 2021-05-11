@@ -1,11 +1,5 @@
-.articulo {
-  padding: 0 2rem;
-}
-
 .articulo h1 {
-  text-align: center;
-  margin-top: 4rem;
-  line-height: 1.2;
+  margin-top: 7rem;
 }
 
 .articulo h2 {
@@ -88,26 +82,12 @@
   box-shadow: var(--shadow);
 }
 
-/* mailchimp */
-/* #mc_embed_signup {
-  background: #6BF178;
-  clear: left;
-  font: 14px Helvetica, Arial, sans-serif;
-  width: 80vw;
-  margin: 3rem auto;
-  padding: 2rem;
-} */
-
 /* pushnotifications */
 .boton-notificaciones{
   justify-self: center;
 }
 
 @media screen and (min-width:600px) {
-  .articulo {
-    padding: 0 4rem
-  }
-
   .sugerencias {
     padding: 0;
     grid-template-columns: repeat(auto-fill, minmax(auto, 200px))
@@ -122,7 +102,6 @@
 @media screen and (min-width:768px) {
   .articulo {
     width: 80vw;
-    margin: 0 auto
   }
 
   .articulo em {

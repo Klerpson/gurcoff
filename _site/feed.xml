@@ -4,7 +4,7 @@
      <link href="https://gurcoff.comfeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://gurcoff.com" rel="alternate" type="text/html"/>
      <id>https://gurcoff.com</id>
-     <updated>2021-05-10T07:27:44-05:00</updated>
+     <updated>2021-05-10T18:36:31-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -17,7 +17,7 @@
    <link href="https://gurcoff.com/invitacion-hoteles"/>
    <id>https://gurcoff.com/invitacion-hoteles</id>
    <updated>2021-04-27T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/paginas-web-san-agustin/paginas-web-san-agustin-huila.webp&quot; alt=&quot;Página web para hoteles en San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Muchos hoteles de San Agustín no tienen página web&lt;/strong&gt;. Queremos ayudar a que este gremio tan importante en nuestro pueblo para que tengan su hotel en internet.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Por eso, estamos preparando un proyecto que sabemos les...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Muchos hoteles de San Agustín no tienen página web&lt;/strong&gt;. Queremos ayudar a que este gremio tan importante en nuestro pueblo para que tengan su hotel en internet. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/paginas-web-san-agustin/paginas-web-san-agustin-huila.webp&quot; alt=&quot;Página web para hoteles en San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Por eso, estamos preparando un proyecto que sabemos les...</content>
  </entry>
  
  <entry>
@@ -25,7 +25,7 @@
    <link href="https://gurcoff.com/estrecho-rio-magdalena"/>
    <id>https://gurcoff.com/estrecho-rio-magdalena</id>
    <updated>2021-04-02T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp&quot; alt=&quot;Cascada los Tres Chorros&quot; title=&quot;Vista aérea del estrecho del Magdalena&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena&lt;/strong&gt; es un paisaje hermoso, formado en el momento que este majestuoso río &lt;strong&gt;se reduce a un canal de solo 2.20 metros&lt;/strong&gt;.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Si no has leído algo sobre el &lt;a...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena&lt;/strong&gt; es un paisaje hermoso, formado en el momento que este majestuoso río &lt;strong&gt;se reduce a un canal de solo 2.20 metros&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp&quot; alt=&quot;Cascada los Tres Chorros&quot; title=&quot;Vista aérea del estrecho del Magdalena&quot; /&gt;&lt;/p&gt; &lt;p&gt;Si no has leído algo sobre el &lt;a...</content>
  </entry>
  
  <entry>
@@ -33,7 +33,7 @@
    <link href="https://gurcoff.com/mejores-restaurantes-san-agustin"/>
    <id>https://gurcoff.com/mejores-restaurantes-san-agustin</id>
    <updated>2021-03-27T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp&quot; alt=&quot;Cascada los Tres Chorros&quot; title=&quot;Asado del restaurante Gata Parrilla de San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Aquí explicaremos &lt;strong&gt;los 5 mejores restaurantes en San Agustín Huila&lt;/strong&gt; y los detalles podrán disfrutar todos sus visitantes.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#restaurantes-en-san-agustín-huila-la-gata-parrilla&quot; id=&quot;markdown-toc-restaurantes-en-san-agustín-huila-la-gata-parrilla&quot;&gt;Restaurantes en San Agustín Huila: La Gata Parrilla&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
+   <content type="html">&lt;p&gt;Aquí explicaremos &lt;strong&gt;los 5 mejores restaurantes en San Agustín Huila&lt;/strong&gt; y los detalles podrán disfrutar todos sus visitantes. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp&quot; alt=&quot;Cascada los Tres Chorros&quot; title=&quot;Asado del restaurante Gata Parrilla de San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#restaurantes-en-san-agustín-huila-la-gata-parrilla&quot; id=&quot;markdown-toc-restaurantes-en-san-agustín-huila-la-gata-parrilla&quot;&gt;Restaurantes en San Agustín Huila: La Gata Parrilla&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
  </entry>
  
  <entry>
@@ -41,23 +41,23 @@
    <link href="https://gurcoff.com/los-5-mejores-hoteles-san-agustin-huila"/>
    <id>https://gurcoff.com/los-5-mejores-hoteles-san-agustin-huila</id>
    <updated>2021-03-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/hoteles-san-agustin/cuarto-hotel-san-agustin.webp&quot; alt=&quot;Cuarto de Hotel de San Agustín&quot; title=&quot;Cascada de los Tres Chorros en San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Datos como saber cuáles son los 5 mejores &lt;strong&gt;hoteles en San Agustín Huila&lt;/strong&gt; te permitirá disfrutar de una genial escapada.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Es una buena idea pensar en conocer nuevos lugares...</content>
+   <content type="html">&lt;p&gt;Datos como saber cuáles son los 5 mejores &lt;strong&gt;hoteles en San Agustín Huila&lt;/strong&gt; te permitirá disfrutar de una genial escapada. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/hoteles-san-agustin/cuarto-hotel-san-agustin.webp&quot; alt=&quot;Cuarto de Hotel de San Agustín&quot; title=&quot;Cascada de los Tres Chorros en San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Es una buena idea pensar en conocer nuevos lugares...</content>
  </entry>
  
  <entry>
-   <title>Parque Arqueológico de San Agustín Huila | GurCoff</title>
+   <title>Parque Arqueológico de San Agustín Huila</title>
    <link href="https://gurcoff.com/parque-arqueologico-san-agustin-huila"/>
    <id>https://gurcoff.com/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-03-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot; alt=&quot;Parque arqueológico de San Agustín Huila sección mesita A&quot; title=&quot;Zona mesita A del parque arqueológico de San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Si has visitado el municipio de &lt;strong&gt;San Agustín Huila&lt;/strong&gt;, sabes que aquí tienes 3 cosas por hacer sí o sí:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Tomarse un café perfecto&lt;/li&gt; &lt;li&gt;Comerse un helado...</content>
+   <content type="html">&lt;p&gt;Si has visitado el municipio de &lt;strong&gt;San Agustín Huila&lt;/strong&gt;, sabes que aquí tienes 3 cosas por hacer sí o sí:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Tomarse un café perfecto&lt;/li&gt; &lt;li&gt;Comerse un helado suave GurCoff&lt;/li&gt; &lt;li&gt;El &lt;strong&gt;tour al parque arqueológico&lt;/strong&gt; &lt;!-- excerpt --&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot; alt=&quot;Parque arqueológico de San Agustín Huila sección mesita A&quot;...</content>
  </entry>
  
  <entry>
-   <title>San Agustín Huila, un destino obligado para el turismo nacional 🌄</title>
+   <title>San Agustín Huila - Turismo y Naturaleza a tu alcance</title>
    <link href="https://gurcoff.com/visita-san-agustin-huila"/>
    <id>https://gurcoff.com/visita-san-agustin-huila</id>
    <updated>2021-03-07T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin.webp&quot; alt=&quot;Señal de tránsito que anuncia la entrada a San Agustín&quot; title=&quot;Entrada a San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Razones para visitar San Agustín Huila sobran&lt;/strong&gt;. Su clima fresco es una invitación a quedarse y tomarse un rico café colombiano en la plaza principal, o &lt;strong&gt;&lt;a href=&quot;/contacto&quot;&gt;un delicioso helado en nuestra...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;San Agustín Huila tiene los hermosos paisajes del macizo colombiano&lt;/strong&gt; 🌄. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal, o &lt;a href=&quot;/contacto&quot;&gt;un delicioso helado en nuestra heladería GurCoff.&lt;/a&gt; &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin.webp&quot; alt=&quot;Señal de tránsito que anuncia...</content>
  </entry>
  
  <entry>
@@ -65,7 +65,7 @@
    <link href="https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin"/>
    <id>https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin</id>
    <updated>2021-01-31T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/magazine/2021-01-31/tres-chorros-san-agustin.webp&quot; alt=&quot;Cascada los Tres Chorros&quot; title=&quot;Cascada de los Tres Chorros en San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Un hermoso rincón de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Estamos hablando de las cascadas de Los Tres Chorros.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#hermoso-sitio-turístico-de-san-agustín&quot; id=&quot;markdown-toc-hermoso-sitio-turístico-de-san-agustín&quot;&gt;Hermoso sitio...</content>
+   <content type="html">&lt;p&gt;Un hermoso rincón de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Estamos hablando de las cascadas de Los Tres Chorros. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/2021-01-31/tres-chorros-san-agustin.webp&quot; alt=&quot;Cascada los Tres Chorros&quot; title=&quot;Cascada de los Tres Chorros en San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#hermoso-sitio-turístico-de-san-agustín&quot; id=&quot;markdown-toc-hermoso-sitio-turístico-de-san-agustín&quot;&gt;Hermoso sitio...</content>
  </entry>
  
 

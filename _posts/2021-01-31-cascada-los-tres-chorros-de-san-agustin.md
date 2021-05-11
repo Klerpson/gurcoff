@@ -50,11 +50,10 @@ json: '{
 }'
 excerpt_separator: <!-- excerpt -->
 ---
-![Cascada los Tres Chorros][img1]
-
 Un hermoso rincón de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Estamos hablando de las cascadas de Los Tres Chorros.
-
 <!-- excerpt -->
+
+![Cascada los Tres Chorros][img1]
 
 * Do not remove this line (it will not be displayed)
 {:toc}

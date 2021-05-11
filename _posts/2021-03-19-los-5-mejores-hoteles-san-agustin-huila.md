@@ -12,11 +12,10 @@ copyright: Julian Andres Franco Bedoya
 json: false
 excerpt_separator: <!-- excerpt -->
 ---
-![Cuarto de Hotel de San Agustín][img1]
-
 Datos como saber cuáles son los 5 mejores **hoteles en San Agustín Huila** te permitirá disfrutar de una genial escapada.
-
 <!-- excerpt -->
+
+![Cuarto de Hotel de San Agustín][img1]
 
 Es una buena idea pensar en conocer nuevos lugares para desconectar de nuestra rutina. La oportunidad de descubrir sitios que no imaginabas que existían, llenos de mucha diversión y relax.
 

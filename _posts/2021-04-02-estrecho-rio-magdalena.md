@@ -41,11 +41,10 @@ json: '{
 }'
 excerpt_separator: <!-- excerpt -->
 ---
-![Cascada los Tres Chorros][img1]
-
 **El estrecho del río Magdalena** es un paisaje hermoso, formado en el momento que este majestuoso río **se reduce a un canal de solo 2.20 metros**.
-
 <!-- excerpt -->
+
+![Cascada los Tres Chorros][img1]
 
 Si no has leído algo sobre el [Río Magdalena](https://es.wikipedia.org/wiki/R%C3%ADo_Magdalena), o río Yuma como también se le conoce, puede que no te parezca nada impresionante. Pero cuando sabes que este río en sus partes más anchas puede superar los 1.000 metros, entonces sí llama la atención.
 

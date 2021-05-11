@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: San Agustín Huila, un destino obligado para el turismo nacional 🌄
+title: San Agustín Huila - Turismo y Naturaleza a tu alcance
 description: San Agustín Huila tiene los hermosos paisajes del macizo colombiano 🌄. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer!
 category: magazine
 tags: [San Agustín, turismo]
@@ -12,8 +12,8 @@ copyright: Julian Andres Franco Bedoya
 json: '{
   "@context": "https://schema.org",
   "@type": "TouristDestination",
-  "name": "San Agustín Huila, pueblo turístico lleno de historia y naturaleza",
-  "description": "Razones para visitar San Agustín Huila sobran. Su clima fresco es una invitación a quedarse y tomarse un rico café colombiano en la plaza principal, o un delicioso helado en nuestra heladería GurCoff. Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares muy cerca para hacer todo un recorrido de variedad aventurera.",
+  "name": "San Agustín Huila - Turismo y Naturaleza a tu alcance",
+  "description": "San Agustín Huila tiene los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer! Y podrás probar un delicioso helado en nuestra heladería GurCoff. Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.",
   "url": "https://gurcoff.com/visita-san-agustin-huila",
   "touristType": {
     "@type": "Audience",
@@ -52,13 +52,12 @@ json: '{
 }'
 excerpt_separator: <!-- excerpt -->
 ---
-![Señal de tránsito que anuncia la entrada a San Agustín][img1]
-
-**Razones para visitar San Agustín Huila sobran**. Su clima fresco es una invitación a quedarse y tomarse un rico café colombiano en la plaza principal, o **[un delicioso helado en nuestra heladería GurCoff.]({{site.baseurl}}/contacto)**
-
+**San Agustín Huila tiene los hermosos paisajes del macizo colombiano** 🌄. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal, o [un delicioso helado en nuestra heladería GurCoff.]({{site.baseurl}}/contacto)
 <!-- excerpt -->
 
-Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares muy cerca para hacer todo un recorrido de variedad aventurera.
+![Señal de tránsito que anuncia la entrada a San Agustín][img1]
+
+Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
@@ -96,7 +95,7 @@ En **[San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)
 
 O si deseas podrías quedarte en las prácticas posadas en el centro urbano. La gran ventaja es que a pesar de que es un lugar turístico, los precios para todos los presupuestos: encuentras **hoteles baratos, hostales económicos, hoteles cómodos y de lujo. Hasta hoteles con piscina!**.
 
-En cualquier caso encontrarás gente muy amable y servicial con los turistas.
+Preparamos para tí una lista con los [cinco hoteles mejor calificados de San Agustín Huila.](https://gurcoff.com/los-5-mejores-hoteles-de-san-agustin-huila) En cualquier caso encontrarás gente muy amable y servicial con los turistas.
 
 ![Achiras, amasijo típico de San Agustín][img2]
 *Achiras, amasijo típico de San Agustín*
