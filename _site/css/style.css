@@ -466,7 +466,49 @@ footer a {
 
 #markdown-toc::before{content:"Contenido:";font-weight:bold;}#markdown-toc ul{list-style:decimal;}#markdown-toc{border:1px solid #aaa;padding:1.5em;list-style:decimal;display:inline-block;}
 
-.magazine{position:relative;display:flex;flex-wrap:wrap;gap:3rem;justify-content:center;align-content:center;margin:0;}.magazine h1{text-align:center;font-size:var(--sizeH1);margin-top:3rem;line-height:1.2;}.magazine article{width:300px;display:flex;flex-wrap:wrap;border-bottom:1px solid var(--gris2);}.magazine img{max-width:100%;margin:1rem 0;border-radius:5px;box-shadow:var(--shadow);}.magazine article a{justify-self:end;}@media screen and (min-width:767px){.magazine{padding:2rem 0;margin:0 auto;gap:4rem}.magazine p{text-align:center;width:60vw}}
+.magazine {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 7rem 0 2rem;
+}
+
+.magazine h1 {
+  text-align: center;
+}
+
+.magazine article {
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.magazine img {
+  max-width: 100%;
+  margin: 1rem 0;
+  border-radius: 5px;
+  box-shadow: var(--shadow);
+}
+
+.magazine article a {
+  justify-self: end;
+}
+
+@media screen and (min-width:767px) {
+  .magazine {
+    gap: 2rem
+  }
+
+  .magazine p {
+    text-align: center;
+    width: 60vw
+  }
+}
 
 #search-container{position:relative;padding:.5rem 1rem;margin:0 auto;width:80vw;display:flex;flex-direction:column;color:var(--complemento2);}#search-container h1{font-family:var(--fuenteTexto);margin-top:1.2rem;}#search-container input{padding:.7rem;border-color:var(--principal);border-radius:7px;box-shadow:var(--shadow);}#results-container div a{font-family:var(--fuenteTexto);color:var(--principal);}#results-container div a span{font-family:var(--fuenteTexto);color:var(--accion);}@media screen and (min-width:600px){#search-container{grid-column:span 3}}@media screen and (min-width:767px){#search-container input{width:60vw;align-self:center}}
 
