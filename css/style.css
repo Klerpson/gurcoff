@@ -8,8 +8,6 @@
 
 {% include css/principal.css %}
 
-{% include css/qeueries.css %}
-
 {% include css/footer.css %}
 
 {% include css/articulo.css %}
@@ -25,3 +23,5 @@
 {% include css/share.css %}
 
 {% include css/contacto.css %}
+
+{% include css/qeueries.css %}

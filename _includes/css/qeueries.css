@@ -13,6 +13,7 @@
   .contacto ul li {
     margin-right: 1.5rem;
   }
+
 }
 
 @media screen and (min-width:767px) {
@@ -76,16 +77,21 @@
     align-self: flex-end;
   }
 
-  .blog-intro {
-    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
-    justify-content: center;
-    align-items: center;
-    width: 100%;
+  .blog-intro,
+  .magazine {
+    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
+    place-content: center;
   }
 
   .blog-intro article {
     width: 300px;
   }
+
+  #search-container input {
+    width: 60vw;
+    align-self: center
+  }
+
 }
 
 @media only screen and (min-width:992px) {

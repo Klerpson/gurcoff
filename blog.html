@@ -3,17 +3,22 @@ layout: buscador
 title: En San Agustín Huila tienes mucho por hacer
 description: Conoce los lugares turísticos, los hoteles y las experiencias que ofrece San Agustín Huila. Todo desde las vivencias de tu heladería favorita.
 ---
+{% include header.html %}
 <section class="magazine">
-  <h1>{{page.title}}</h1>
-  <p>{{ page.description }}</p>
+  <p>{{page.description}}</p>
   {% include search.html %}
-  {% for post in site.posts %}
+  <h2>Encuentra en San Agustín Huila</h2>
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <h3 id="{{ category_name}}">{{ category_name | capitalize}}
+  </h3>
+  {% for post in site.categories[category_name] %}
   <article>
-    <h2>
-      {{ post.title }}
-    </h2>
-    {{ post.excerpt }}
-    <a class="botones" href="{{ site.baseurl }}{{ post.url }}"> Leer más</a>
+    <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
+      <img src="{{ site.baseurl }}/{{ post.img }}" width="300" height="200" alt="{{ post.alt }}">
+      <h4>{{ post.title }}</h4>
+    </a>
   </article>
+    {% endfor %}
   {% endfor %}
 </section>
