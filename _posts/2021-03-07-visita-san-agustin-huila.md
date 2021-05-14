@@ -222,6 +222,8 @@ Falta mucho más por escribir. Atrévete y descubre más acerca de esta mágica 
 
 ¿Qué fue lo que más te gustó del pueblo? ¿Cuál es tu actividad favorita en San Agustín? ¿Cuál fue tu lugar favorito del pueblo? **Cuéntame en los comentarios**.
 
+{% if page.referencias %}
 #### Fotografías, fuentes y referencias del artículo {{page.title}} {#fuentes}
 
 {% include fuentes.html %}
+{% endif %}
