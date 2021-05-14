@@ -188,13 +188,17 @@ Además, existe una carretera destapada y difícil. Esta es la vía que viene de
 
 ## Visita el parque arqueológico
 
+<!-- Imágenes AMP -->
+{% include img-amp.html img="magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin.webp" alt="Estatuas del Parque Arqueológico de San Agustín Huila" %}
+*Estatuas del parque arqueológico de San Agustín Huila*
+
 **El parque arqueológico de San Agustín e Isnos se caracteriza por la gran variedad de nichos ecológicos de exuberante vegetación y fauna silvestre**, rodeados de profundos cañones, ríos con rápidos y saltos de agua. Todos estos lugares se prestan para disfrutar de un paseo delicioso.
 
 Estamos seguros de que los conocedores del tema arqueológico vivirán intensos e inolvidables momentos llenos de historia. Si eres de los **amantes de la aventura y el misterio**, te cautivará con sus figuras majestuosas, que lo convierten en uno de los baluartes más importantes de Colombia.
 
 Para orgullo de Colombia y de **San Agustín Huila**, el parque fue declarado por la Unesco en 1995, como **Patrimonio Histórico de la Humanidad**.
 
-## ¿Cuánto vale la entrada al parque arqueológico de San Agustín?
+### ¿Cuánto vale la entrada al parque arqueológico de San Agustín?
 
 Según la resolución 070 de 27 de marzo de 2017 se debe cancelar una boleta para entrar al parque. Esta solamente se compra en la taquilla de entrada de los parques. No la compres en otra parte a revendedores.
 
@@ -220,20 +224,6 @@ Recuerda que si cumples alguna de estas condiciones, entras gratis. Por ejemplo,
 De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre a las 8:00 a.m.**. La atención al público termina a las 4:00 p.m.
 
 Además, hay que tener en cuenta que en temporada normal el parque arqueológico no abre los días martes. En la temporada alta sí atienden toda la semana
-
-### Características del parque arqueológico
-
-**El Parque Arqueológico de San Agustín Huila se fundó en el año de 1.935**. En resumen, esto es lo que te ofrece este lugar turístico:
-
-* **La casa museo**. Con salas donde se exhiben vasijas de barro, documentos relacionados con las investigaciones realizadas en el pasado, y otros utensilios.
-
-* El bosque de las estatuas. Con 130 estatuas creadas en el mismo sitio o transportadas de otros lugares.
-* Las mesitas A, B y C. Sitio funerario con tumbas de diversas características.
-* La fuente ceremonial de Lavapatas. Constituida por un sistema de canales en piedras labradas que representan figuras humanas y de animales reptiles.
-* El alto de Lavapatas. Ofrece una majestuosa vista de toda la región, con paisajes increíbles, donde se encontraron ruinas de una vivienda con restos que al analizarlos con carbono 14 dieron una data de 3.300 años antes de Cristo.
-* El importante Alto de los ídolos con todos sus hallazgos funerarios.
-
-Como notarás, es un gran legado con mucha información interesante por descubrir.
 
 ### Video de una visita al parque arqueológico
 
