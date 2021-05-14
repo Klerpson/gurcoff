@@ -15,11 +15,6 @@
     margin-right: 1.5rem;
   }
 
-  #search-container {
-    width: 60vw;
-    justify-self: center;
-  }
-
 }
 
 @media screen and (min-width:767px) {
@@ -85,14 +80,13 @@
 
   .blog-intro,
   .magazine {
-    grid-template-columns: repeat(auto-fill, minmax(250px, auto));
+    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
     place-content: center;
   }
 
   .blog-intro article {
     width: 300px;
   }
-
 
   .articulo table tr{
     grid-template-columns: repeat(4, 1fr);
@@ -105,6 +99,18 @@
 
   .articulo table thead {
     text-align: center;
+  }
+
+  .magazine {
+    width: 80vw;
+    grid-gap: 0.5rem;
+  }
+
+  .magazine h2,
+  .magazine p,
+  .magazine h3,
+  #search-container{
+    grid-column: span 2;
   }
 
 }
@@ -125,6 +131,22 @@
 
   .invitacion {
     padding: 1rem 7rem;
+  }
+
+  #search-container {
+    width: 50vw;
+    justify-self: center;
+  }
+
+  .magazine{
+    width: 75vw;
+  }
+
+  .magazine h2,
+  .magazine p,
+  .magazine h3,
+  #search-container{
+    grid-column: span 3;
   }
 
 }

@@ -1,17 +1,18 @@
+.magazine{
+  display: grid;
+  grid-gap: 2rem;
+  place-content: center;
+}
 .magazine p,
 .magazine h2{
   width: 100%;
   margin-bottom: 2rem;
-}
-
-.magazine h3 {
-  margin: 2rem 0;
+  text-align: center;
 }
 
 .magazine article {
   width: 300px;
-  margin: 1.5rem auto;
-  align-self: center;
+  justify-self: center;
 }
 
 .magazine article a img {

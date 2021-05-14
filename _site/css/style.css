@@ -314,20 +314,21 @@ footer a {
 
 #markdown-toc::before{content:"Contenido:";font-weight:bold;}#markdown-toc ul{list-style:decimal;}#markdown-toc{border:1px solid #aaa;padding:1.5em;list-style:decimal;display:inline-block;}
 
+.magazine{
+  display: grid;
+  grid-gap: 2rem;
+  place-content: center;
+}
 .magazine p,
 .magazine h2{
   width: 100%;
   margin-bottom: 2rem;
-}
-
-.magazine h3 {
-  margin: 2rem 0;
+  text-align: center;
 }
 
 .magazine article {
   width: 300px;
-  margin: 1.5rem auto;
-  align-self: center;
+  justify-self: center;
 }
 
 .magazine article a img {
@@ -432,11 +433,6 @@ footer a {
     margin-right: 1.5rem;
   }
 
-  #search-container {
-    width: 60vw;
-    justify-self: center;
-  }
-
 }
 
 @media screen and (min-width:767px) {
@@ -502,14 +498,13 @@ footer a {
 
   .blog-intro,
   .magazine {
-    grid-template-columns: repeat(auto-fill, minmax(250px, auto));
+    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
     place-content: center;
   }
 
   .blog-intro article {
     width: 300px;
   }
-
 
   .articulo table tr{
     grid-template-columns: repeat(4, 1fr);
@@ -522,6 +517,18 @@ footer a {
 
   .articulo table thead {
     text-align: center;
+  }
+
+  .magazine {
+    width: 80vw;
+    grid-gap: 0.5rem;
+  }
+
+  .magazine h2,
+  .magazine p,
+  .magazine h3,
+  #search-container{
+    grid-column: span 2;
   }
 
 }
@@ -542,6 +549,22 @@ footer a {
 
   .invitacion {
     padding: 1rem 7rem;
+  }
+
+  #search-container {
+    width: 50vw;
+    justify-self: center;
+  }
+
+  .magazine{
+    width: 75vw;
+  }
+
+  .magazine h2,
+  .magazine p,
+  .magazine h3,
+  #search-container{
+    grid-column: span 3;
   }
 
 }
