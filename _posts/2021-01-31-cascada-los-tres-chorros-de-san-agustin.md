@@ -52,7 +52,8 @@ excerpt_separator: <!-- excerpt -->
 La cascada Los Tres Chorros es un hermoso rincón natural de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Una conservación muy bien guardada por la misma naturaleza.
 <!-- excerpt -->
 
-![Cascada los Tres Chorros][img1]
+<!-- Imágenes AMP -->
+{% include img-amp.html img="magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" %}
 
 * Do not remove this line (it will not be displayed)
 {:toc}
@@ -160,7 +161,6 @@ Los sonidos naturales del agua y el bosque te llevarán a un momento hermoso y m
 
 ¿Ya conocías la cascada? ¿Cuál es tu actividad favorita en un lugar como este? Y si ya lo conoces, ¿qué te pareció el lugar? **Cuéntame en los comentarios**.
 
-[img1]: {{ site.baseurl }}/{{page.img}} "Cascada de los Tres Chorros en San Agustín Huila"
 [img2]: {{ site.baseurl }}/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp "Cascada Tres Chorros Magdalena"
 [img3]: {{ site.baseurl }}/img/magazine/cascada-tres-chorros/llegada-tres-chorros-huila.webp "Llegando a los tres chorros"
 [img4]: {{ site.baseurl }}/img/magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros-mini.webp "Cabalgata a la cascada Tres chorros"
