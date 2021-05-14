@@ -221,9 +221,3 @@ Para hospedarte trata de contactar directamente con los hospedajes de la zona. S
 Falta mucho más por escribir. Atrévete y descubre más acerca de esta mágica tierra. Su belleza y misticismo, su historia y cultura, su tierra llena de vida y vegetación; son suficientes razones para **visitar San Agustín Huila.**
 
 ¿Qué fue lo que más te gustó del pueblo? ¿Cuál es tu actividad favorita en San Agustín? ¿Cuál fue tu lugar favorito del pueblo? **Cuéntame en los comentarios**.
-
-{% if page.referencias %}
-#### Fotografías, fuentes y referencias del artículo {{page.title}} {#fuentes}
-
-{% include fuentes.html %}
-{% endif %}

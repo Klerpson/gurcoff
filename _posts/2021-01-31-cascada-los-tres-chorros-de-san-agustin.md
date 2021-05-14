@@ -172,9 +172,3 @@ Los sonidos naturales del agua y el bosque te llevarán a un momento hermoso y m
 ## ¿Qué te gustaría hacer en los Tres Chorros?
 
 ¿Ya conocías la cascada? ¿Cuál es tu actividad favorita en un lugar como este? Y si ya lo conoces, ¿qué te pareció el lugar? **Cuéntame en los comentarios**.
-
-{% if page.referencias %}
-#### Fotografías, fuentes y referencias del artículo {{page.title}} {#fuentes}
-
-{% include fuentes.html %}
-{% endif %}
