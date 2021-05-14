@@ -2,7 +2,7 @@
 layout: articulo
 title: San Agustín Huila - Turismo y Naturaleza a tu alcance
 description: San Agustín Huila tiene los hermosos paisajes del macizo colombiano 🌄. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer!
-category: magazine
+category: turismo
 tags: [San Agustín, turismo]
 img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila.webp
 alt: Entrada a San Agustín Huila

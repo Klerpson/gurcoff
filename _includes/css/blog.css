@@ -10,9 +10,8 @@
 
 .magazine article {
   width: 300px;
-  margin: 1rem 0;
+  margin: 1.5rem auto;
   align-self: center;
-  justify-self: grid;
 }
 
 .magazine article a img {

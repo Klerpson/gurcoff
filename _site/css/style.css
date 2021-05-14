@@ -326,9 +326,8 @@ footer a {
 
 .magazine article {
   width: 300px;
-  margin: 1rem 0;
+  margin: 1.5rem auto;
   align-self: center;
-  justify-self: grid;
 }
 
 .magazine article a img {
@@ -339,9 +338,8 @@ footer a {
 
 #search-container {
   position: relative;
-  padding: .5rem 1rem;
-  margin: 1rem auto;
-  width: 80vw;
+  padding: 0.5rem 1rem;
+  margin: 0;
   display: flex;
   flex-direction: column;
   color: var(--complemento2);
@@ -356,6 +354,7 @@ footer a {
   border-color: var(--principal);
   border-radius: 7px;
   box-shadow: var(--shadow);
+  justify-self: center;
 }
 
 #results-container div a {
@@ -433,6 +432,11 @@ footer a {
     margin-right: 1.5rem;
   }
 
+  #search-container {
+    width: 60vw;
+    justify-self: center;
+  }
+
 }
 
 @media screen and (min-width:767px) {
@@ -498,7 +502,7 @@ footer a {
 
   .blog-intro,
   .magazine {
-    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
+    grid-template-columns: repeat(auto-fill, minmax(250px, auto));
     place-content: center;
   }
 
@@ -506,10 +510,6 @@ footer a {
     width: 300px;
   }
 
-  #search-container input {
-    width: 60vw;
-    align-self: center
-  }
 
   .articulo table tr{
     grid-template-columns: repeat(4, 1fr);

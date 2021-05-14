@@ -2,7 +2,7 @@
 layout: articulo
 title: Página web para los negocios de San Agustín Huila
 description: Muchos negocios de San Agustín no tienen sitio web. Queremos ayudar a que este gremio tan importante en nuestro pueblo tengan su hotel en internet
-category: magazine
+category: hoteles
 tags: [turismo, hoteles, restaurantes]
 img: img/magazine/paginas-web-san-agustin/paginas-web-san-agustin-huila.webp
 alt: Páginas web para los negocios en San Agustín Huila

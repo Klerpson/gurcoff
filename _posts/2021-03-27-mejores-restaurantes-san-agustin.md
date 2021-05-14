@@ -2,7 +2,7 @@
 layout: articulo
 title: Los 5 restaurantes mejor calificados de San Agustín Huila
 description: En San Agustín Huila hay mucha variedad de restaurantes. Y muy buenos. Te contaremos de 5 de ellos con muy buenas calificaciones.
-category: magazine
+category: restaurantes
 tags: [restaurantes, turismo]
 img: img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp
 alt: Plato preparado en la Gata Parrilla de San Agustín Huila
