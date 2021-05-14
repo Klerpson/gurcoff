@@ -1,5 +1,6 @@
 @media only screen and (min-width:600px) {
-  section {
+  section,
+  main {
     width: 70vw;
   }
 
@@ -92,9 +93,27 @@
     align-self: center
   }
 
+  .articulo table tr{
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0.5rem;
+  }
+
+  .articulo table thead tr{
+    padding: 0;
+  }
+
+  .articulo table thead {
+    text-align: center;
+  }
+
 }
 
 @media only screen and (min-width:992px) {
+
+  section,
+  main {
+    width: 50vw;
+  }
 
   .principal article h3,
   .principal article p {
@@ -107,9 +126,4 @@
     padding: 1rem 7rem;
   }
 
-  .contacto,
-  .nosotros {
-    width: 50vw;
-    margin: 0 auto
-  }
 }

@@ -9,7 +9,7 @@
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
   --grisFuentes: rgb(24, 24, 24);
-  --shadow: 1px 2px 5px rgba(24, 24, 24, .2);
+  --shadow: 0 2px 5px rgba(24, 24, 24, .3);
   --blanco: rgb(248, 248, 255);
   --blancoRGBA: rgba(255, 255, 255, .8);
   --fuenteTitulos: 'Arvo', serif;
@@ -44,7 +44,7 @@ h3 {
 }
 
 h2, h3{
-  margin: 0;
+  margin: 1.5rem 0;
   font-family: var(--fuenteTitulos);
   text-transform: capitalize;
 }
@@ -53,7 +53,8 @@ img {
   border-style: none;
 }
 
-section {
+section,
+main {
   width: 90vw;
   justify-self: center;
 }
@@ -184,51 +185,37 @@ footer a {
   margin-top: 7rem;
 }
 
-.articulo h2 {
-  line-height: 1.2;
-  margin: 2rem 0;
-  font-size: var(--sizeH2);
-}
-
-.articulo h3 {
-  font-size: var(--sizeH3);
-}
-
-.articulo h4 {
-  margin-top: 2rem;
-}
-
-.articulo p {
+.articulo p,
+.articulo h4{
   margin: 1.5rem 0;
 }
 
-.articulo p img {
+.articulo amp-img {
   border-radius: 7px;
   box-shadow: var(--shadow);
 }
 
 .articulo em {
-  display: inherit;
-  line-height: 1.1;
-}
-
-.articulo a {
-  color: var(--principal);
+  font-family: var(--fuenteTitulos);
+  line-height: 1.2;
 }
 
 .articulo li {
   margin-left: 1rem;
 }
 
-.articulo table th {
-  background: var(--secundario);
-  padding: .3rem 1rem;
-  text-align: center;
+.articulo table{width: 100%;}
+
+.articulo table tr{
+  display: grid;
+  border-bottom: 1px solid var(--secundario);
+  padding: 0.5rem 0;
 }
 
-.articulo table td {
-  padding: .3rem 1rem;
-  border-bottom: 1px solid var(--secundario);
+.articulo table th {
+  background: var(--secundario);
+  padding: 0.3rem 0.5rem;
+  text-align: center;
 }
 
 .articulo blockquote {
@@ -282,22 +269,6 @@ footer a {
 }
 
 @media screen and (min-width:768px) {
-  .articulo {
-    width: 80vw;
-  }
-
-  .articulo em {
-    width: 300px;
-    font-family: var(--fuenteGraficas)
-  }
-
-  .articulo img,
-  .articulo em {
-    position: relative;
-    overflow: hidden;
-    float: right;
-    margin: 0 0 2rem 2rem
-  }
 
   .sugerencias h3 {
     grid-column: span 3;
@@ -330,14 +301,6 @@ footer a {
 }
 
 @media screen and (min-width:1200px) {
-  .header-articulo h1 {
-    padding-top: calc(100Vh - 60vh)
-  }
-
-  .articulo {
-    width: 60vw
-  }
-
   #mc_embed_signup {
     width: 40vw
   }
@@ -348,11 +311,6 @@ footer a {
   }
 }
 
-@media screen and (min-width:1400px) {
-  .articulo {
-    width: 50vw
-  }
-}
 
 #markdown-toc::before{content:"Contenido:";font-weight:bold;}#markdown-toc ul{list-style:decimal;}#markdown-toc{border:1px solid #aaa;padding:1.5em;list-style:decimal;display:inline-block;}
 
@@ -459,7 +417,8 @@ footer a {
 
 
 @media only screen and (min-width:600px) {
-  section {
+  section,
+  main {
     width: 70vw;
   }
 
@@ -552,9 +511,27 @@ footer a {
     align-self: center
   }
 
+  .articulo table tr{
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0.5rem;
+  }
+
+  .articulo table thead tr{
+    padding: 0;
+  }
+
+  .articulo table thead {
+    text-align: center;
+  }
+
 }
 
 @media only screen and (min-width:992px) {
+
+  section,
+  main {
+    width: 50vw;
+  }
 
   .principal article h3,
   .principal article p {
@@ -567,9 +544,4 @@ footer a {
     padding: 1rem 7rem;
   }
 
-  .contacto,
-  .nosotros {
-    width: 50vw;
-    margin: 0 auto
-  }
 }

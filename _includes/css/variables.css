@@ -9,7 +9,7 @@
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
   --grisFuentes: rgb(24, 24, 24);
-  --shadow: 1px 2px 5px rgba(24, 24, 24, .2);
+  --shadow: 0 2px 5px rgba(24, 24, 24, .3);
   --blanco: rgb(248, 248, 255);
   --blancoRGBA: rgba(255, 255, 255, .8);
   --fuenteTitulos: 'Arvo', serif;

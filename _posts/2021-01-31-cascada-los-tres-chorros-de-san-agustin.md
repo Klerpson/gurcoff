@@ -4,11 +4,10 @@ title: Los Tres Chorros de San Agustín Huila
 description: Los Tres Chorros es una espectacular cascada en San Agustín Huila. Esta artículo te guiará para que visites este pueblo adornado por el Magdalena
 category: turismo
 tags: [cascadas, turismo]
-img: img/magazine/2021-01-31/tres-chorros-san-agustin.webp
+img: img/magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco
 date: 2021-01-31
-copyright: Julian Andres Franco Bedoya
 json: '{
   "@context": "https://schema.org",
   "@type": "TouristDestination",
@@ -35,7 +34,7 @@ json: '{
       ],
       "name": "Cascada Los Tres Chorros",
       "sameAs": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
-      "image": "https://gurcoff.com/img/magazine/2021-01-31/tres-chorros-san-agustin.webp"
+      "image": "https://gurcoff.com/img/magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp"
     },
     {
       "@type": [
@@ -44,13 +43,13 @@ json: '{
       ],
       "name": "Cabalgata hasta la Cascada de los Tres Chorros",
       "sameAs": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
-      "image": "https://gurcoff.com/img/magazine/2021-01-31/cabalgata-cascada-tres-chorros-mini.webp"
+      "image": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros-mini.webp"
     }
   ]
 }'
 excerpt_separator: <!-- excerpt -->
 ---
-Un hermoso rincón de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Estamos hablando de las cascadas de Los Tres Chorros.
+La cascada Los Tres Chorros es un hermoso rincón natural de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Una conservación muy bien guardada por la misma naturaleza.
 <!-- excerpt -->
 
 ![Cascada los Tres Chorros][img1]
@@ -162,8 +161,8 @@ Los sonidos naturales del agua y el bosque te llevarán a un momento hermoso y m
 ¿Ya conocías la cascada? ¿Cuál es tu actividad favorita en un lugar como este? Y si ya lo conoces, ¿qué te pareció el lugar? **Cuéntame en los comentarios**.
 
 [img1]: {{ site.baseurl }}/{{page.img}} "Cascada de los Tres Chorros en San Agustín Huila"
-[img2]: {{ site.baseurl }}/img/magazine/2021-01-31/cascada-tres-chorros.webp "Cascada Tres Chorros Magdalena"
-[img3]: {{ site.baseurl }}/img/magazine/2021-01-31/llegada-tres-chorros-huila.webp "Llegando a los tres chorros"
-[img4]: {{ site.baseurl }}/img/magazine/2021-01-31/cabalgata-cascada-tres-chorros-mini.webp "Cabalgata a la cascada Tres chorros"
-[img5]: {{ site.baseurl }}/img/magazine/2021-01-31/tour-tres-chorros-bicicleta.webp "Viaja en bicicleta a la cascada Tres chorros"
-[img6]: {{ site.baseurl }}/img/magazine/2021-01-31/frutos-rojos.webp "Copa de Helado Frutos Rojos de la heladería GurCoff de San Agustín Huila"
+[img2]: {{ site.baseurl }}/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp "Cascada Tres Chorros Magdalena"
+[img3]: {{ site.baseurl }}/img/magazine/cascada-tres-chorros/llegada-tres-chorros-huila.webp "Llegando a los tres chorros"
+[img4]: {{ site.baseurl }}/img/magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros-mini.webp "Cabalgata a la cascada Tres chorros"
+[img5]: {{ site.baseurl }}/img/magazine/cascada-tres-chorros/tour-tres-chorros-bicicleta.webp "Viaja en bicicleta a la cascada Tres chorros"
+[img6]: {{ site.baseurl }}/img/magazine/cascada-tres-chorros/frutos-rojos.webp "Copa de Helado Frutos Rojos de la heladería GurCoff de San Agustín Huila"
