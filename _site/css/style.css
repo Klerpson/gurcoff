@@ -181,13 +181,14 @@ footer a {
   font-weight: 700;
 }
 
-.articulo h1 {
-  margin-top: 7rem;
+.articulo{
+  display: grid;
+  grid-gap: 1.5rem;
 }
 
-.articulo p,
-.articulo h4{
-  margin: 1.5rem 0;
+.articulo h1 {
+  margin-top: 7rem;
+  text-align: center;
 }
 
 .articulo amp-img {
@@ -228,6 +229,13 @@ footer a {
   color: var(--blanco);
   font-weight: 700;
   font-size: var(--sizeH3);
+}
+
+.articulo iframe{
+  width: 100%;
+  justify-self: center;
+  box-shadow: var(--shadow);
+  border-radius: 7px;
 }
 
 .sugerencias {
