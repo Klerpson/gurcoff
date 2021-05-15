@@ -53,6 +53,7 @@ json: '{
 referencias: [https://commons.wikimedia.org/wiki/Main_Page, https://www.colombia.com/gastronomia/recetas-colombianas/achira-r233, https://www.cootranslaboyana.com.co/, https://taxisverdes.net/, https://coomotor.com.co/, https://adventurecolombia.co/]
 excerpt_separator: <!-- excerpt -->
 ---
+
 **San Agustín Huila es especial para viajar y descansar**. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal, o [un delicioso helado en nuestra heladería GurCoff.]({{site.baseurl}}/contacto)
 <!-- excerpt -->
 
