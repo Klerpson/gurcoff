@@ -1,5 +1,11 @@
-{% for link in page.referencias %}
-<p>
-<a href="{{link}}" rel="nofollow" target="_blank" style="max-width: 100%; font-size: 0.9rem;">{{link}}</a>
-</p>
-{% endfor %}
+<div class="referencias">
+  {% for link_hash in page.referencias %}
+  {% for link in link_hash %}
+  <ul>
+    <li>
+      <a href="{{ link[1] }}">{{ link[0] }}</a>
+    </li>
+  </ul>
+  {% endfor %}
+  {% endfor %}
+</div>

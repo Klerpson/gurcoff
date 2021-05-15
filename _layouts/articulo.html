@@ -44,12 +44,9 @@ layout: default
 
   <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">
     <div class="relacionados">
-      <picture>
-        {% if post.img %}
-        <source type="image/webp" srcset="{{ site.baseurl }}/{{ post.img }}">
-        <img src="{{ site.baseurl }}/{{ post.img }}" alt="{{ post.alt }}" loading="lazy">
-        {% endif %}
-      </picture>
+      {% if post.img %}
+      <img src="{{ site.baseurl }}/{{ post.img }}" width="100%" height="auto" alt="{{ post.alt }}" loading="lazy">
+      {% endif %}
       <h4> {{ post.title }}</h4>
     </div>
   </a>

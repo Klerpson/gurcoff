@@ -9,7 +9,14 @@ alt: Entrada a San Agustín Huila
 autor: Julian Franco
 date: 2021-03-07
 copyright: Julian Andres Franco Bedoya
-referencias: [https://commons.wikimedia.org/wiki/Main_Page, https://www.colombia.com/gastronomia/recetas-colombianas/achira-r233, https://www.cootranslaboyana.com.co/, https://taxisverdes.net/, https://coomotor.com.co/, https://adventurecolombia.co/, https://es.wikiloc.com/rutas-senderismo/san-agustin-a-alto-de-los-idolos-8819284]
+referencias:
+  - Fotografías: https://commons.wikimedia.org/wiki/Main_Page
+  - Foto Achiras: https://www.colombia.com/gastronomia/recetas-colombianas/achira-r233
+  - Cootranslaboyana: https://www.cootranslaboyana.com.co/
+  - Taxiverdes: https://taxisverdes.net/
+  - Coomotor: https://coomotor.com.co/
+  - Adventure X Colombia: https://adventurecolombia.co/
+  - Wikilo Foto Alto de los ídolos: https://es.wikiloc.com/rutas-senderismo/san-agustin-a-alto-de-los-idolos-8819284
 excerpt_separator: <!-- excerpt -->
 json: '{
   "@context": "https://schema.org",
