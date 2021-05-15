@@ -9,7 +9,11 @@ alt: Parque arqueológico de San Agustín Huila sección mesita A
 autor: Julian Franco
 date: 2021-03-13
 copyright: Julian Andres Franco Bedoya
-direcciones: [https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn, https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/, https://colombia.travel/es/san-agustin, https://commons.wikimedia.org]
+referencias:
+  - Fotografías: https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn
+  - Parque arquelógico San Agustín: https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/
+  - Colombia Travel: https://colombia.travel/es/san-agustin
+  - Wikimedia: https://commons.wikimedia.org
 excerpt_separator: <!-- excerpt -->
 json: '{
   "@context": "https://schema.org",
