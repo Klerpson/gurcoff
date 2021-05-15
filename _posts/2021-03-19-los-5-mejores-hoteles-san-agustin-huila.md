@@ -11,7 +11,9 @@ date: 2021-03-19
 copyright: Julian Andres Franco Bedoya
 json: false
 excerpt_separator: <!-- excerpt -->
-direcciones: [https://www.miviajeporelmundo.com/como-elegir-un-buen-hotel-para-hospedarte, https://psicologiaymente.com/psicologia/beneficios-psicologicos-viajar]
+referencias:
+  - Elección de hoteles: https://www.miviajeporelmundo.com/como-elegir-un-buen-hotel-para-hospedarte
+  - Beneficios de Viajar: https://psicologiaymente.com/psicologia/beneficios-psicologicos-viajar]
 ---
 Datos como saber cuáles son los 5 mejores **hoteles en San Agustín Huila** te permitirá disfrutar de una genial escapada.
 <!-- excerpt -->
