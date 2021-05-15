@@ -19,16 +19,8 @@
 
 @media screen and (min-width:767px) {
 
-  header {
-    height: 60vh;
-  }
-
   header h1 {
     max-width: 60vw;
-  }
-
-  header .botones {
-    font-size: 2em;
   }
 
   .principal article {
@@ -139,9 +131,9 @@
   }
 
   .principal,
-  .blog-intro
+  .blog-intro,
   .magazine{
-    width: 75vw;
+    width: 70vw;
   }
 
   .magazine h2,
