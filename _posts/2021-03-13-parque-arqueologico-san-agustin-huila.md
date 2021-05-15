@@ -242,7 +242,3 @@ Estamos seguros de que la guía turística de la región es interminable, avent�
 ## ¿Te gustaría visitar el parque arqueológico?
 
 Te invitamos a conocer este lugar. Mientras tanto, cuéntame en los comentarios: **¿qué te gustó más de la información del parque arqueológico de San Agustín? ¿Qué te gustaría hacer en este lugar? ¿Haz visitado un lugar igual?**
-
-#### Fotografías, fuentes y referencias del artículo {{page.title}} {#fuentes}
-
-{% include fuentes.html %}
