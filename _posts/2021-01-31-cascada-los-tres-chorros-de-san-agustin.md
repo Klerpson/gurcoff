@@ -76,7 +76,7 @@ Su ubicación es privilegiada. Está en medio de un exuberante paisaje de bosque
 
 ## ¿Cómo llego a la cascada los Tres Chorros?
 
-Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín Huila](_posts\que-hacer-en-san-agustin\2021-03-07-visita-san-agustin-huila.md). **Debes llegar hasta una vereda de San Agustín (zona rural del municipio) llamada La Pradera**. La vía es una carretera de 20 kilómetros aproximadamente.
+Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila). **Debes llegar hasta una vereda de San Agustín (zona rural del municipio) llamada La Pradera**. La vía es una carretera de 20 kilómetros aproximadamente.
 
 Puedes comenzar tu viaje desde San Agustín. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
 
@@ -149,7 +149,7 @@ Y, por supuesto, cuando llegues al pueblo de San Agustín nuevamente, puedes pas
 {% include img.html img="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff.webp" alt="Brownie con helado de la heladería GurCoff de San Agustín Huila" title="Brownie con Helado GurCoff" %}
 *Brownie con Helado GurCoff*
 
-**[HAZ CLIC AQUÍ]({{site.baseurl}}/contacto)** y mira los horarios y nuestros datos de contacto.
+**[HAZ CLIC AQUÍ](https://gurcoff.com/contacto)** y mira los horarios y nuestros datos de contacto.
 
 ## Disfruta este sitio turístico de San Agustín
 
