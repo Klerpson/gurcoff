@@ -1,6 +1,6 @@
 <picture>
-  <source type="image/webp" srcset="{{ site.baseurl }}/img/{{ include.img }}" width="720" height="360"
+  <source type="image/webp" srcset="{{ site.baseurl }}/img/{{ include.img }}" width="720" height="auto"
     media="(min-width: 767px)">
-  <img src="{{site.baseurl}}/img/{{include.img-mini}}" width="300" height="200" alt="{{include.alt}}"
+  <img src="{{site.baseurl}}/img/{{include.img-mini}}" width="100%" height="auto" alt="{{include.alt}}"
     title="{{include.title}}" loading="lazy">
 </picture>

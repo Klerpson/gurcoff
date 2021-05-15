@@ -44,18 +44,18 @@ json: '{
       ],
       "name": "Cabalgata hasta la Cascada de los Tres Chorros",
       "sameAs": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
-      "image": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros-mini.webp"
+      "image": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros.webp"
     }
   ]
 }'
 referencias: [https://www.masaya-experience.com/san-agustin/tours/cabalgata-arqueologica-circuito-corto/, https://adventurecolombia.co/]
 excerpt_separator: <!-- excerpt -->
 ---
-La cascada Los Tres Chorros es un hermoso rincón natural de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Una conservación muy bien guardada por la misma naturaleza.
+La cascada Los Tres Chorros es un hermoso rincón natural de San Agustín Huila. Practicar el turismo en este lugar es una hermosa aventura. Encontrarás una cascada muy bien guardada por la misma naturaleza.
 <!-- excerpt -->
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Cascada de los Tres Chorros en San Agustín Huila" %}
+{% include img.html img="magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp" img-mini="magazine/cascada-tres-chorros/tres-chorros-san-agustin-400px.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Cascada de los Tres Chorros en San Agustín Huila" %}
 *Cascada los Tres Chorros de San Agustín Huila*
 
 * Do not remove this line (it will not be displayed)
@@ -80,7 +80,7 @@ Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín H
 Puedes comenzar tu viaje desde San Agustín. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/cascada-tres-chorros.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Foto de la cascada los tres chorros" %}
+{% include img.html img="magazine/cascada-tres-chorros/cascada-tres-chorros.webp" img-mini="magazine/cascada-tres-chorros/cascada-tres-chorros-400px.webp.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Foto de la cascada los tres chorros" %}
 
 ### Transporte público hasta la cascada
 
@@ -99,7 +99,7 @@ Ahora bien, puedes contratar la compañía de guías turísticos. O sencillament
 ## Viaja a los Tres Chorros de forma diferente
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/tour-tres-chorros-bicicleta.webp" alt="Fotografía del tour en bicicleta hasta la cascada de los Tres Chorros - Tomada por Adventure X Colombia" title="Tour en bicicleta hasta los Tres Chorros" %}
+{% include img.html img="magazine/cascada-tres-chorros/tour-tres-chorros-bicicleta.webp" img-mini="magazine/cascada-tres-chorros/tour-tres-chorros-bicicleta-400px.webp" alt="Fotografía del tour en bicicleta hasta la cascada de los Tres Chorros - Tomada por Adventure X Colombia" title="Tour en bicicleta hasta los Tres Chorros" %}
 *Has tu viaje hasta la cascada Tres Chorros en bicicleta*
 
 ¿Quieres una aventura diferente?  Pues tienes estas opciones para llegar a esta cascada de San Agustín Huila:
@@ -113,7 +113,7 @@ También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorro
 Para más información sobre el tour a caballo, puedes contactar a esta agencia. Es muy conocida y con mucho tiempo de experiencia en la localidad. Se llama **Disfruta San Agustín**:
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros-mini.webp" alt="Cabalgata hasta la cascada de los Tres Chorros de San Agustín Huila" title="Tour a caballo en la cascada de los Tres Chorros" %}
+{% include img.html img="magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros.webp" img-mini="magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros-400px.webp" alt="Cabalgata hasta la cascada de los Tres Chorros de San Agustín Huila" title="Tour a caballo en la cascada de los Tres Chorros" %}
 *Otra opción es llegar a caballo*
 
 ## ¿Qué te espera en tu viaje a Los Tres Chorros del Magdalena?
@@ -123,7 +123,7 @@ Para comenzar, disfrutarás del viaje mismo. Durante el recorrido, en **medio de
 Esta es una de las razones principales por las que cada año, turistas nacionales y extranjeros, eligen visitar este sitio. Así que antes de llegar a la cascada, prepara tu cámara para entrar en contacto con especies exóticas, como monos capuchinos; y hermosas aves, como loros y turpiales, que le dan el toque mágico a este lugar.
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/llegada-tres-chorros-huila.webp" alt="Llegada a la cascada de los Tres Chorros de San Agustín Huila" title="Paisaje en la cascada de los Tres Chorros" %}
+{% include img.html img="magazine/cascada-tres-chorros/llegada-tres-chorros-huila.webp" img-mini="magazine/cascada-tres-chorros/llegada-tres-chorros-huila-400px.webp" alt="Llegada a la cascada de los Tres Chorros de San Agustín Huila" title="Paisaje en la cascada de los Tres Chorros" %}
 *Llegada a los Tres Chorros*
 
 Al llegar a Los Tres Chorros, entenderá el por qué de su nombre. Encontrarás esta hermosa trifurcación que presenta el rio Mulales en esta caída de agua
@@ -145,7 +145,7 @@ Por otra parte, en Las Tapias los visitantes pueden disfrutar de otro ratico de 
 Y, por supuesto, cuando llegues al pueblo de San Agustín nuevamente, puedes pasar por nuestra heladería y **disfrutar de un delicioso helado suave con receta. Será el mejor remate del paseo a los Tres Chorros.**
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff.webp" alt="Brownie con helado de la heladería GurCoff de San Agustín Huila" title="Brownie con Helado GurCoff" %}
+{% include img.html img="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff.webp" img-mini="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff-400px.webp" alt="Brownie con helado de la heladería GurCoff de San Agustín Huila" title="Brownie con Helado GurCoff" %}
 *Brownie con Helado GurCoff*
 
 **[HAZ CLIC AQUÍ]({{site.baseurl}}/contacto)** y mira los horarios y nuestros datos de contacto.
