@@ -9,9 +9,10 @@
   text-align: center;
 }
 
-.articulo picture img {
+.articulo img {
   border-radius: 7px;
   box-shadow: var(--shadow);
+  max-width: 100%;
 }
 
 .articulo em {
