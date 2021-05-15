@@ -11,6 +11,13 @@ excerpt_separator: <!-- excerpt -->
 autor: Julian Franco
 date: 2021-03-27
 json: false
+referencias:
+ - TripAdvisor Gata Parrilla: https://www.tripadvisor.co/Restaurant_Review-g445060-d16875100-Reviews-La_Gata_Parrilla-San_Agustin_Huila_Department.html
+ - Guías San Agustín Huila: https://www.viajeros.com/guias/san-agustin-huila-magia-y-arqueologia-en-colombia
+ - TripAdvisor Pepenero: https://www.tripadvisor.co/Restaurant_Review-g445060-d7377207-Reviews-Pepe_Nero-San_Agustin_Huila_Department.html
+ - Página restaurante El Tomate: https://restaurante-tomate.negocio.site/
+ - Página restaurante Tingo Tango: https://tingo-tango-pub.negocio.site/
+ - Catálogo de WhatsApp con la carta de GurCoff: https://wa.me/c/573115245225
 ---
 Aquí explicaremos **los 5 mejores restaurantes en San Agustín Huila** y los detalles podrán disfrutar todos sus visitantes.
 <!-- excerpt -->
@@ -28,11 +35,11 @@ Este es uno de los mejores **restaurantes en San Agustín Huila**. La Gata Parri
 
 Su ambiente es muy agradable. El recinto cuenta con una terraza rodeada de plantas verdes, lo que hace que el ambiente sea acogedor. Sus propietarios son amantes de la buena música. Por lo tanto, el ambiente es siempre el mejor. Además, al lugar llegan constantemente personas a tocar en vivo. ¡Y vaya que lo hacen muy bien!
 
-Puedes ver sus referencias en [**TripAdvisor**](https://www.tripadvisor.co/Restaurant_Review-g445060-d16875100-Reviews-La_Gata_Parrilla-San_Agustin_Huila_Department.html "link de la página tripadvisor con el perfil del restaurante La Gata Parrilla de San Agustín Huila")
+Puedes ver sus referencias en [TripAdvisor](#fuentes "link de la página tripadvisor con el perfil del restaurante La Gata Parrilla de San Agustín Huila")
 
 Ahora bien, ¿qué puedes comer aquí? **Carnes, frutas y verduras a la parrilla, además de pinchos y hamburguesas artesanales**.
 
-Como notarás, partiendo de este restaurante, hace que venir a **San Agustín Huila** es [un plan muy completo](https://www.viajeros.com/guias/san-agustin-huila-magia-y-arqueologia-en-colombia). El clima, el ambiente, la gente, sus casas coloniales muy hermosas y su comida sana hará que tu estancia sea muy agradable.
+Como notarás, partiendo de este restaurante, hace que venir a **San Agustín Huila** es [un plan muy completo](#fuentes). El clima, el ambiente, la gente, sus casas coloniales muy hermosas y su comida sana hará que tu estancia sea muy agradable.
 
 ## Restaurante Pepenero
 
@@ -45,7 +52,7 @@ Y te cuento que he probado personalmente su pizza. Es muy especial y te la recom
 
 Pero, ¿qué más encontrarás en su restaurante? **Deliciosas preparaciones vegetarianas. Vinos exquisitos. Platos mediterráneos y Europeos. Y finalmente, postres sencillos pero deliciosos.** Como dicen los que saben, menos es más.
 
-Puedes ver sus referencias en [**TripAdvisor**](https://www.tripadvisor.co/Restaurant_Review-g445060-d7377207-Reviews-Pepe_Nero-San_Agustin_Huila_Department.html "link de la página tripadvisor con el perfil del restaurante Pepenero de San Agustín Huila")
+Puedes ver sus referencias en [TripAdvisor](#fuentes "link de la página tripadvisor con el perfil del restaurante Pepenero de San Agustín Huila")
 
 ## Restaurante El Tomate
 
@@ -58,7 +65,7 @@ La comida es balanceada y, por supuesto, muy sana. Aquí **puedes desayunar, alm
 
 Adicionalmente, estoy absolutamente seguro que los sabores que logran en sus preparaciones te sorprenderán. Créeme, uno dice que la comida vegetariana no es para uno, hasta que visita este restaurante.
 
-[Visita su sitio de presentación](https://restaurante-tomate.negocio.site/ "link de la página del restaurante El Tomate de San Agustín Huila") en Google Sites para más información.
+[Visita su sitio de presentación](#fuentes "link de la página del restaurante El Tomate de San Agustín Huila") en Google Sites para más información.
 
 ## Restaurante Tingo Tango Pub
 
@@ -80,7 +87,7 @@ Tan pronto llegues notarás sus puntos fuertes:
 
 3. Y recuerda preguntar por **las costillas al barril**. Será un recuerdo permanente de tu visita a San Agustín.
 
-También tienen su [sitio de presentación](https://tingo-tango-pub.negocio.site/ "link de la página del restaurante Tingo Tango"). Visítalo
+También tienen su [sitio de presentación](#fuentes "link de la página del restaurante Tingo Tango"). Visítalo
 
 ## Restaurante Ambrosía El Faro
 
@@ -94,7 +101,7 @@ Aquí encontrarás **pizzas y comidas rápidas con muy buenas bebidas, y un toqu
 
 No pierdas la oportunidad de conocer este hermoso pueblo colonial y visitar todos sus asombrosos sitios gastronómicos. Aquí solo te mencioné cinco de los que he podido visitar. Pero hay muchas delicias más por venir a probar.
 
-Por ejemplo, las deliciosas recetas que tenemos de helado suave para ti. Seguro que será una tarde deliciosa si nos visitas. Mira [nuestra carta](https://wa.me/c/573115245225 "link al catálogo de WhatsApp con el menú de la heladería GurCoff") para antojarte un poco más. ¡Te esperamos!
+Por ejemplo, las deliciosas recetas que tenemos de helado suave para ti. Seguro que será una tarde deliciosa si nos visitas. Mira [nuestra carta](#fuentes "link al catálogo de WhatsApp con el menú de la heladería GurCoff") para antojarte un poco más. ¡Te esperamos!
 
 Ven y diviértete en un pueblo colonial que es muy acogedor. Tiene un cálido ambiente campestre.
 
