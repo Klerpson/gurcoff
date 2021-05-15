@@ -80,7 +80,7 @@ Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín H
 Puedes comenzar tu viaje desde San Agustín. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/cascada-tres-chorros.webp" img-mini="magazine/cascada-tres-chorros/cascada-tres-chorros-400px.webp.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Foto de la cascada los tres chorros" %}
+{% include img.html img="magazine/cascada-tres-chorros/cascada-tres-chorros.webp" img-mini="magazine/cascada-tres-chorros/cascada-tres-chorros-400px.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Foto de la cascada los tres chorros" %}
 
 ### Transporte público hasta la cascada
 
@@ -145,7 +145,7 @@ Por otra parte, en Las Tapias los visitantes pueden disfrutar de otro ratico de 
 Y, por supuesto, cuando llegues al pueblo de San Agustín nuevamente, puedes pasar por nuestra heladería y **disfrutar de un delicioso helado suave con receta. Será el mejor remate del paseo a los Tres Chorros.**
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff.webp" img-mini="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff-400pxa.webp" alt="Brownie con helado de la heladería GurCoff de San Agustín Huila" title="Brownie con Helado GurCoff" %}
+{% include img.html img="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff.webp" img-mini="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff-400px.webp" alt="Brownie con helado de la heladería GurCoff de San Agustín Huila" title="Brownie con Helado GurCoff" %}
 *Brownie con Helado GurCoff*
 
 **[HAZ CLIC AQUÍ]({{site.baseurl}}/contacto)** y mira los horarios y nuestros datos de contacto.
