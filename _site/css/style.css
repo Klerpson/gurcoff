@@ -581,6 +581,8 @@ footer a {
     justify-self: center;
   }
 
+  .principal,
+  .blog-intro
   .magazine{
     width: 75vw;
   }
