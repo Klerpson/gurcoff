@@ -4,12 +4,12 @@ layout: default
 <main class="articulo">
   <h1>{{page.title}}</h1>
   {{ content }}
-  <h4 id="fuentes">Fotografías, fuentes y referencias del artículo {{page.title}}</h4> 
-{% include fuentes.html %}
+  <div>
+    <h4 id="fuentes">Fotografías, fuentes y referencias del artículo {{page.title}}</h4>
+    {% include fuentes.html %}
+  </div>
   <h4>Autor:</h4>
   <small>{{page.autor}} - {{ page.date | date_to_long_string }}</small>
-<!-- inscripcion por notificaciones -->
-<div id="webpushr-subscription-button" data-button-text="Suscríbite a nuestros artículos" data-subscriber-count-text="suscripciones en tu cuenta" data-background-color="#ffdd00" data-color="#333100" class="boton-notificaciones" style="display: block; margin-top: 1rem; text-align: center;"></div>
 </main>
 
 <h2>Comparte este artículo</h2>
@@ -62,5 +62,8 @@ layout: default
   {% endfor %}
 
 </section>
-
+<!-- inscripcion por notificaciones -->
+<div id="webpushr-subscription-button" data-button-text="Suscríbite a nuestros artículos"
+data-subscriber-count-text="suscripciones en tu cuenta" data-background-color="#ffdd00" data-color="#333100"
+class="boton-notificaciones" style="display: block; margin-top: 1rem; text-align: center;"></div>
 {% include footer.html %}

@@ -1,0 +1,147 @@
+@media screen and (min-width:600px) {
+
+  section,
+  main {
+    width: 70vw;
+  }
+
+  .contacto ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .contacto ul li {
+    margin-right: 1.5rem;
+  }
+
+}
+
+@media screen and (min-width:767px) {
+
+  header h1 {
+    max-width: 60vw;
+  }
+
+  .principal article {
+    display: grid;
+    grid-gap: 0 1rem;
+    grid-template-areas: "img h3""img p";
+    justify-content: center;
+    align-items: center;
+  }
+
+  .principal article img {
+    max-width: 40vw;
+    max-height: 60vh;
+    padding: 2rem 6rem;
+    grid-area: img;
+  }
+
+  .principal article:nth-child(3),
+  .principal article:nth-child(5),
+  .principal article:nth-child(7) {
+    grid-template-areas: "h3 img""p img";
+  }
+
+  .principal article:nth-child(3) img,
+  .principal article:nth-child(5) img,
+  .principal article:nth-child(7) img {
+    border-radius: 150px 0 75px 0;
+  }
+
+  .principal h3 {
+    align-self: flex-end;
+  }
+
+  .invitacion {
+    display: grid;
+    grid-gap: 2rem;
+    grid-template-columns: 1fr 2fr;
+  }
+
+  .invitacion video {
+    grid-row: span 2;
+    justify-self: center;
+    align-self: center;
+  }
+
+  .invitacion h2 {
+    align-self: flex-end;
+  }
+
+  .blog-intro,
+  .magazine {
+    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
+    place-content: center;
+  }
+
+  .blog-intro article {
+    width: 300px;
+  }
+
+  .articulo table tr {
+    grid-template-columns: repeat(4, 1fr);
+    padding: 0.5rem;
+  }
+
+  .articulo table thead tr {
+    padding: 0;
+  }
+
+  .articulo table thead {
+    text-align: center;
+  }
+
+  .magazine {
+    width: 80vw;
+    grid-gap: 0.5rem;
+  }
+
+  .magazine h2,
+  .magazine p,
+  .magazine h3,
+  #search-container {
+    grid-column: span 2;
+  }
+
+}
+
+@media only screen and (min-width:992px) {
+
+  section,
+  main {
+    width: 720px;
+  }
+
+  .principal article h3,
+  .principal article p {
+    margin: 0;
+    padding: 0 2rem;
+    max-width: 40vw;
+  }
+
+  .invitacion {
+    padding: 1rem 7rem;
+  }
+
+  #search-container {
+    width: 50vw;
+    justify-self: center;
+  }
+
+  .principal,
+  .blog-intro,
+  .magazine {
+    width: 70vw;
+  }
+
+  .magazine h2,
+  .magazine p,
+  .magazine h3,
+  #search-container {
+    grid-column: span 3;
+  }
+
+}

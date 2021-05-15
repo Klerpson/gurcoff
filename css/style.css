@@ -1,8 +1,6 @@
 ---
 ---
-{% include css/universales.css %}
-
-{% include css/variables.css %}
+{% include css/universal.css %}
 
 {% include css/nav.css %}
 
@@ -24,4 +22,4 @@
 
 {% include css/contacto.css %}
 
-{% include css/qeueries.css %}
+{% include css/queries.css %}

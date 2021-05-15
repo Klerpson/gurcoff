@@ -60,7 +60,7 @@ excerpt_separator: <!-- excerpt -->
 <!-- excerpt -->
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp" alt="Parque Arqueológico de San Agustín Huila - Mesita A" title="Mesita A del parque arqueológico de San Agustín" %}
+{% include img.html img="magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp" img-mini="magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp" alt="Parque Arqueológico de San Agustín Huila - Mesita A" title="Mesita A del parque arqueológico de San Agustín" %}
 *Parque Arqueológico de San Agustín*
 
 * Do not remove this line (it will not be displayed)
@@ -77,7 +77,7 @@ El **Parque Arqueológico de San Agustín Huila** es una amplia zona del valle a
 Muchas de los monumentos fueron restaurados para después del año de 1857. Para esa época hubo un temblor muy fuerte en la zona que destruyó gran parte de los tesoros arqueológicos del lugar. Ya para el año de 1931 se hizo la restauración de los lugares para conservarlos y que hoy los puedas visitar.
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico.webp" alt="Mapa del Parque Arqueológico de San Agustín Huila" title="Mapa parque arqueológico de San Agustín" %}
+{% include img.html img="magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico.webp" img-mini="magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico-400px.webp" alt="Mapa del Parque Arqueológico de San Agustín Huila" title="Mapa parque arqueológico de San Agustín" %}
 *Mapa de San Agustín e Isnos - Complejo parque arqueológico*
 
 ### Los hallazgos arqueológicos

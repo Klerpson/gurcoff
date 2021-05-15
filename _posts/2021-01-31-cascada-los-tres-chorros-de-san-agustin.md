@@ -7,6 +7,7 @@ tags: [cascadas, turismo]
 img: img/magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco
+copyright: Julian Andres Franco Bedoya
 date: 2021-01-31
 json: '{
   "@context": "https://schema.org",
