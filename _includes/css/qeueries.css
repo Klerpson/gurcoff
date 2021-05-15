@@ -1,10 +1,11 @@
 @media only screen and (min-width:600px) {
+
   section,
   main {
     width: 70vw;
   }
 
-  .contacto ul{
+  .contacto ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -80,12 +81,12 @@
     width: 300px;
   }
 
-  .articulo table tr{
+  .articulo table tr {
     grid-template-columns: repeat(4, 1fr);
     padding: 0.5rem;
   }
 
-  .articulo table thead tr{
+  .articulo table thead tr {
     padding: 0;
   }
 
@@ -101,7 +102,7 @@
   .magazine h2,
   .magazine p,
   .magazine h3,
-  #search-container{
+  #search-container {
     grid-column: span 2;
   }
 
@@ -132,14 +133,14 @@
 
   .principal,
   .blog-intro,
-  .magazine{
+  .magazine {
     width: 70vw;
   }
 
   .magazine h2,
   .magazine p,
   .magazine h3,
-  #search-container{
+  #search-container {
     grid-column: span 3;
   }
 

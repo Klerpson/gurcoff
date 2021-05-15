@@ -1,8 +1,8 @@
 ---
 ---
-{% include css/variables.css %}
-
 {% include css/universales.css %}
+
+{% include css/variables.css %}
 
 {% include css/nav.css %}
 

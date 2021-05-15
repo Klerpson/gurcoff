@@ -4,7 +4,7 @@
      <link href="https://gurcoff.comfeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://gurcoff.com" rel="alternate" type="text/html"/>
      <id>https://gurcoff.com</id>
-     <updated>2021-05-14T22:34:18-05:00</updated>
+     <updated>2021-05-15T00:17:13-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -49,7 +49,7 @@
    <link href="https://gurcoff.com/parque-arqueologico-san-agustin-huila"/>
    <id>https://gurcoff.com/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-03-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El parque arqueológico de San Agustín Huila es un destino obligatorio para tu viaje&lt;/strong&gt;. Aquí tienes 3 cosas por disfrutar sí o sí:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Tomarse un café perfecto&lt;/li&gt; &lt;li&gt;Comerse un helado suave GurCoff&lt;/li&gt; &lt;li&gt;Relajarse absolutamente en sus paisajes&lt;/li&gt; &lt;/ol&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;amp-img src=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot; width=&quot;720&quot; height=&quot;360&quot;...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;El parque arqueológico de San Agustín Huila es un destino obligatorio para tu viaje&lt;/strong&gt;. Aquí tienes 3 cosas por disfrutar sí o sí:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Tomarse un café perfecto&lt;/li&gt; &lt;li&gt;Comerse un helado suave GurCoff&lt;/li&gt; &lt;li&gt;Relajarse absolutamente en sus paisajes&lt;/li&gt; &lt;/ol&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot;...</content>
  </entry>
  
  <entry>
@@ -65,7 +65,7 @@
    <link href="https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin"/>
    <id>https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin</id>
    <updated>2021-01-31T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;La cascada Los Tres Chorros es un hermoso rincón natural de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Una conservación muy bien guardada por la misma naturaleza. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;!-- Imágenes AMP --&gt; &lt;amp-img src=&quot;/img/magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp&quot; width=&quot;720&quot; height=&quot;360&quot; layout=&quot;responsive&quot; alt=&quot;Cascada de los Tres Chorros de...</content>
+   <content type="html">&lt;p&gt;La cascada Los Tres Chorros es un hermoso rincón natural de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Una conservación muy bien guardada por la misma naturaleza. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp&quot; width=&quot;720&quot; height=&quot;360&quot; media=&quot;(min-width: 766px)&quot; /&gt; &lt;img src=&quot;/img/&quot;...</content>
  </entry>
  
 

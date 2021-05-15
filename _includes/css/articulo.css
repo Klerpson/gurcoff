@@ -1,5 +1,6 @@
 .articulo{
   display: grid;
+  place-content: center;
   grid-gap: 1.5rem;
 }
 
@@ -8,7 +9,7 @@
   text-align: center;
 }
 
-.articulo amp-img {
+.articulo picture img {
   border-radius: 7px;
   box-shadow: var(--shadow);
 }
