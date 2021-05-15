@@ -48,7 +48,7 @@ json: '{
     }
   ]
 }'
-referencias: [https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn, https://sanagustinhuilacolombia.com.co/parque-arqueologico-de-san-agustin/, https://colombia.travel/es/san-agustin, https://commons.wikimedia.org]
+referencias: [https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn, https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/, https://colombia.travel/es/san-agustin, https://commons.wikimedia.org]
 excerpt_separator: <!-- excerpt -->
 ---
 **El parque arqueológico de San Agustín Huila es un destino obligatorio para tu viaje**. Aquí tienes 3 cosas por disfrutar sí o sí:
@@ -162,7 +162,7 @@ Hay muchos hallazgos de tumbas simples, tumbas de pozo, tumbas con cámaras late
 
 Debes tener claros 2 destinos. El primero es el municipio de **Pitalito Huila**. El segundo es el municipio de **San Agustín Huila**. Después de llegar a San Agustín, te diriges hasta la plaza principal. Es el lugar obligatorio de reunión para sus habitantes y turistas, rodeada de numerosos sitios de interés.
 
-Por la gran afluencia de visitantes encontraremos, artesanía, **[hoteles](https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/)**, templos, restaurantes, comida típica, comida rápida, **[deliciosas y modernas heladerías](https://gurcoff.com)** (teníamos que mencionarlo ;)).
+Por la gran afluencia de visitantes encontraremos, artesanía, [hoteles](#fuentes), templos, restaurantes, comida típica, comida rápida, [deliciosas y modernas heladerías](https://gurcoff.com) (teníamos que mencionarlo ;)).
 
 Entonces, a 3 kilómetros de la plaza, se encuentra el famoso **Parque Arqueológico de San Agustín Huila**, que está considerado una reserva natural con aproximadamente 2.000 Km2 de extensión.
 

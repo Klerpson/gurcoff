@@ -54,7 +54,7 @@ referencias: [https://commons.wikimedia.org/wiki/Main_Page, https://www.colombia
 excerpt_separator: <!-- excerpt -->
 ---
 
-**San Agustín Huila es especial para viajar y descansar**. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal, o [un delicioso helado en nuestra heladería GurCoff.]({{site.baseurl}}/contacto)
+**San Agustín Huila es especial para viajar y descansar**. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal, o [un delicioso helado en nuestra heladería GurCoff.](https://gurcoff.com/contacto)
 <!-- excerpt -->
 
 <!-- Imágenes AMP -->
@@ -113,7 +113,7 @@ Podremos encontrar el [Estrecho del Magdalena](https://gurcoff.com/estrecho-rio-
 
 #### Un tour de cascadas en San Agustín Huila y sus alrededores
 
-**El Salto de los Bordones**, una de las cascadas más altas de Colombia; **el Salto el Mortiño**, con su mirador de cristal y su culumpio al vacío; [la cascada Los Tres Chorros](https://gurcoff.com/que-hacer-en-san-agustin/cascada-los-tres-chorros-de-san-agustin/), un rincón preservado naturalmente por su ubicación; y numerosos caudales más, formando una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
+**El Salto de los Bordones**, una de las cascadas más altas de Colombia; **el Salto el Mortiño**, con su mirador de cristal y su culumpio al vacío; [la cascada Los Tres Chorros](https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin/), un rincón preservado naturalmente por su ubicación; y numerosos caudales más, formando una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
 
 <!-- Imágenes AMP -->
 {% include img.html img="magazine/visita-san-agustin/salto-de-bordones-huila.webp" img-mini="magazine/visita-san-agustin/salto-de-bordones-huila-mini.webp" alt="Salto de Bordones en Isnos Huila" title="Cascada salto de Bordones" %}

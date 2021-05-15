@@ -11,6 +11,7 @@ date: 2021-03-19
 copyright: Julian Andres Franco Bedoya
 json: false
 excerpt_separator: <!-- excerpt -->
+referencias: [https://www.miviajeporelmundo.com/como-elegir-un-buen-hotel-para-hospedarte, https://psicologiaymente.com/psicologia/beneficios-psicologicos-viajar]
 ---
 Datos como saber cuáles son los 5 mejores **hoteles en San Agustín Huila** te permitirá disfrutar de una genial escapada.
 <!-- excerpt -->
@@ -19,7 +20,7 @@ Datos como saber cuáles son los 5 mejores **hoteles en San Agustín Huila** te 
 
 Es una buena idea pensar en conocer nuevos lugares para desconectar de nuestra rutina. La oportunidad de descubrir sitios que no imaginabas que existían, llenos de mucha diversión y relax.
 
-¿Quieres conocer uno de los municipios más pintorescos del departamento de Huila? Es una gran idea, pero primero debes [saber en dónde vas a alojarte](https://www.miviajeporelmundo.com/como-elegir-un-buen-hotel-para-hospedarte). Por eso hoy debes conocer los alojamientos que aquí puedes encontrar.
+¿Quieres conocer uno de los municipios más pintorescos del departamento de Huila? Es una gran idea, pero primero debes [saber en dónde vas a alojarte](). Por eso hoy debes conocer los alojamientos que aquí puedes encontrar.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
@@ -38,7 +39,7 @@ Sin embargo, también cuenta con lujos como lo son su restaurante muy bien valor
 ![Hotel Storake de San Agustín Huila][img3]
 *Hotel Storake cerca al parque arqueológico*
 
-Se trata de uno de **los mejores lugares para quedarse en San Agustín Huila**, principalmente porque está a menos de un kilómetro del [Parque Arqueológico](https://gurcoff.com/que-hacer-en-san-agustin/parque-arqueologico-san-agustin-huila/).
+Se trata de uno de **los mejores lugares para quedarse en San Agustín Huila**, principalmente porque está a menos de un kilómetro del [Parque Arqueológico](https://gurcoff.com/parque-arqueologico-san-agustin-huila).
 
 Al pagar tu estadía, estás accediendo al delicioso desayuno continental. Las habitaciones cuentan con WiFi, hermosas decoraciones de granito y servicio al cuarto. Y por si fuera poco, también podrás disfrutar de algunos tragos en el bar del hotel.
 
@@ -71,7 +72,7 @@ Sus cuartos son casi que pequeños apartamentos ambientados con las diferentes c
 
 ## Disfruta de los 5 mejores hoteles de San Agustín Huila con tus seres queridos
 
-Viajar a nuevos lugares  es una de las [mejores experiencias](https://psicologiaymente.com/psicologia/beneficios-psicologicos-viajar) que se pueden vivir, especialmente con personas valiosas para nosotros.
+Viajar a nuevos lugares  es una de las [mejores experiencias]() que se pueden vivir, especialmente con personas valiosas para nosotros.
 
 No importa si se trata de tu familia, tu pareja o tu grupo de amigos, estos 5 **hoteles de San Agustín Huila** te harán vivir unos días increíbles.
 
@@ -79,7 +80,7 @@ Claro está, hay muchos más que están creciendo y desarrollando excelentes exp
 
 ## ¿Y hay un helado bien rico cerca de estos hoteles?
 
-¡Claro que sí! Recuerda que cerca a todos estos hoteles puedes salir a probar el helado suave favorito de San Agustín Huila. Te prometemos que también te encantará. En nuestra página de [contacto]({{site.baseurl}}/contacto/) podrás encontrar todos nuestros datos. ¡Te esperamos!
+¡Claro que sí! Recuerda que cerca a todos estos hoteles puedes salir a probar el helado suave favorito de San Agustín Huila. Te prometemos que también te encantará. En nuestra página de [contacto](https://gurcoff.com/contacto/) podrás encontrar todos nuestros datos. ¡Te esperamos!
 
 [img1]: {{ site.baseurl }}/{{page.img}} "Cascada de los Tres Chorros en San Agustín Huila"
 [img2]: {{ site.baseurl }}/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin.webp "Hotel Masaya San Agustín Huila"
