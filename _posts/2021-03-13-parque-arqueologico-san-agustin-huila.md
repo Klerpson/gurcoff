@@ -99,7 +99,7 @@ Te contaré en qué consiste cada atractivo turístico:
 ### Las zonas del parque arqueológico
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/informacion-parque-arqueologico.webp" alt="Mapa de las zonas del Parque Arqueológico de San Agustín Huila" title="Zonas del parque arqueológico de San Agustín" %}
+{% include img.html img="magazine/parque-arqueologico-san-agustin/informacion-parque-arqueologico.webp" img-mini="magazine/parque-arqueologico-san-agustin/informacion-parque-arqueologico-400px.webp" alt="Mapa de las zonas del Parque Arqueológico de San Agustín Huila" title="Zonas del parque arqueológico de San Agustín" %}
 *Información de la necrópolis durante el recorrido*
 
 Las concentraciones de los hallazgos arqueológicos son tan grandes que del **Parque Arqueológico Nacional de San Agustín** se dividió en 3 áreas turísticas: Mesitas, en el municipio de San Agustín y Alto de los Ídolos y Alto de las Piedras, en Isnos.
@@ -119,7 +119,7 @@ Este museo te permite apreciar muchas estatuas y herramientas de la época, y mu
 Una de las creaciones más significativas de la cultura de San Agustín fue **la Fuente Ceremonial de Lavapatas**, una obra de ingeniería hidráulica en la que se representaba una serie de figuras talladas, canales y estanques sobre un lecho de roca.
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/fuente-lavapatas-parque-arqueologico-san-agustin.webp" alt="Fuente lavapatas del Parque Arqueológico de San Agustín Huila" title="Fuente lavapatas parque arqueológico de San Agustín" %}
+{% include img.html img="magazine/parque-arqueologico-san-agustin/fuente-lavapatas-parque-arqueologico-san-agustin.webp" img-mini="magazine/parque-arqueologico-san-agustin/fuente-lavapatas-parque-arqueologico-san-agustin-400px.webp" alt="Fuente lavapatas del Parque Arqueológico de San Agustín Huila" title="Fuente lavapatas parque arqueológico de San Agustín" %}
 *Las figuras que ahí se forman según las hipótesis de los arqueólogos están asociadas a la vida.*
 
 Tallaron una serie de figuras, canales y piscinas. Hay un sistema de drenaje por el que circula el agua de manera uniforme y artificial. Este lugar posiblemente fue utilizado para hacer ceremonias a la vida. La relación es con el agua, considera generativa y símbolo de vida.
@@ -143,7 +143,7 @@ En la antigüedad las zonas altas de las montañas eran lugares importantes y es
 En estos sitios se encuentran lugares funerarios como tumbas y montículos artificiales. También, se encuentran las esculturas más famosas del parque, como el águila y el Dios del sol. **Las tumbas fueron trazadas según las clases sociales, las jerarquías políticas y religiosas,** que siempre han existido en los grupos humanos.
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/tumba-parque-arqueologico-san-agustin.webp" alt="Tumbas del Parque Arqueológico de San Agustín Huila" title="Tumbas parque arqueológico de San Agustín" %}
+{% include img.html img="magazine/parque-arqueologico-san-agustin/tumba-parque-arqueologico-san-agustin.webp" img-mini="magazine/parque-arqueologico-san-agustin/tumba-parque-arqueologico-san-agustin-400px.webp" alt="Tumbas del Parque Arqueológico de San Agustín Huila" title="Tumbas parque arqueológico de San Agustín" %}
 *Hallazgos de tumbas en el parque arqueológico*
 
 Las culturas nativas sabían de arquitectura, de matemáticas y de astronomía. Así nos dejaron un mensaje con el que nos transmiten su pensamiento mitológico, su forma de ver e interpretar el mundo, mensajes muy profundos en un lenguaje silencioso.
@@ -153,7 +153,7 @@ Ahora hablemos de lo que será tu visita al parque.
 #### El Alto de los Ídolos
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/alto-idolos-parque-arqueologico-san-agustin.webp" alt="Alto de los ídolos del Parque Arqueológico de San Agustín Huila" title="Alto ídolos parque arqueológico de San Agustín" %}
+{% include img.html img="magazine/parque-arqueologico-san-agustin/alto-idolos-parque-arqueologico-san-agustin.webp" img-mini="magazine/parque-arqueologico-san-agustin/alto-idolos-parque-arqueologico-san-agustin-400px.webp" alt="Alto de los ídolos del Parque Arqueológico de San Agustín Huila" title="Alto ídolos parque arqueológico de San Agustín" %}
 *Alto de los ídolos*
 
 **El Alto de los Ídolos es un sitio arqueolgico muy importante para la región**. Se encuentra en el municipio de San Jos de Isnos, a tan solo 20 minutos desde San Agustín. Recuerda que con el mismo pasaporte que pagas en San Agustín, puedes entrar a este importante lugar. También, si llegas primero aquí, en la casa de la administración se puede adquirir la entrada por 20.000 pesos moneda Colombiana.
@@ -193,7 +193,7 @@ Además, existe una carretera destapada y difícil. Esta es la vía que viene de
 ## Visita el parque arqueológico
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin.webp" alt="Fotografías del Parque Arqueológico de San Agustín Huila" title="Fotografías del parque arqueológico de San Agustín" %}
+{% include img.html img="magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin.webp" img-mini="magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin-400px.webp" alt="Fotografías del Parque Arqueológico de San Agustín Huila" title="Fotografías del parque arqueológico de San Agustín" %}
 *Estatuas del parque arqueológico de San Agustín Huila*
 
 **El parque arqueológico de San Agustín e Isnos se caracteriza por la gran variedad de nichos ecológicos de exuberante vegetación y fauna silvestre**, rodeados de profundos cañones, ríos con rápidos y saltos de agua. Todos estos lugares se prestan para disfrutar de un paseo delicioso.
