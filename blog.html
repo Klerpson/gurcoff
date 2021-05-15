@@ -15,7 +15,7 @@ description: Conoce los lugares turísticos, los hoteles y las experiencias que 
   {% for post in site.categories[category_name] %}
   <article>
     <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
-      <img src="{{ site.baseurl }}/{{ post.img }}" width="300" height="200" alt="{{ post.alt }}">
+      <img src="{{ site.baseurl }}/{{ post.img }}" width="100%" height="auto" alt="{{ post.alt }}">
       <h4>{{ post.title }}</h4>
     </a>
   </article>

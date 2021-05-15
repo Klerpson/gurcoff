@@ -3,12 +3,14 @@ layout: articulo
 title: San Agustín Huila Turismo y Naturaleza
 description: San Agustín Huila tiene los hermosos paisajes del macizo colombiano 🌄. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer!
 category: turismo
-tags: [San Agustín, turismo]
-img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila.webp
+tags: [turismo]
+img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp
 alt: Entrada a San Agustín Huila
 autor: Julian Franco
 date: 2021-03-07
 copyright: Julian Andres Franco Bedoya
+referencias: [https://commons.wikimedia.org/wiki/Main_Page, https://www.colombia.com/gastronomia/recetas-colombianas/achira-r233, https://www.cootranslaboyana.com.co/, https://taxisverdes.net/, https://coomotor.com.co/, https://adventurecolombia.co/, https://es.wikiloc.com/rutas-senderismo/san-agustin-a-alto-de-los-idolos-8819284]
+excerpt_separator: <!-- excerpt -->
 json: '{
   "@context": "https://schema.org",
   "@type": "TouristDestination",
@@ -50,14 +52,10 @@ json: '{
     }
   ]
 }'
-referencias: [https://commons.wikimedia.org/wiki/Main_Page, https://www.colombia.com/gastronomia/recetas-colombianas/achira-r233, https://www.cootranslaboyana.com.co/, https://taxisverdes.net/, https://coomotor.com.co/, https://adventurecolombia.co/]
-excerpt_separator: <!-- excerpt -->
 ---
-
 **San Agustín Huila es especial para viajar y descansar**. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal, o [un delicioso helado en nuestra heladería GurCoff.](https://gurcoff.com/contacto)
 <!-- excerpt -->
 
-<!-- Imágenes AMP -->
 {% include img.html img="magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila.webp" img-mini="magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp" alt="Entrada a San Agustín Huila" title="Señal de tránsito que indica la llegada a San Agustín Huila" %}
 
 Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.
@@ -77,7 +75,6 @@ Estas zonas arqueológicas componen un complejo que abarca 2 municipios, desde S
 
 #### El parque arqueológico de San Agustín
 
-<!-- Imágenes AMP -->
 {% include img.html img="magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp" img-mini="magazine/visita-san-agustin/parque-arqueologico-san-agustin-mini.webp" alt="Piedras talladas en el parque arqueológico de San Agustín Huila" title="Piedras talladas en el parque arqueológico de San Agustín Huila" %}
 *Parque arqueológico de San Agustín Huila*
 
@@ -87,9 +84,8 @@ Estas zonas arqueológicas componen un complejo que abarca 2 municipios, desde S
 
 #### El Alto de los ídolos
 
-Este lugar contiene el conjunto funerario mejor conservado de Colombia, y uno de los más grandes de Latinoamérica. Es conocido como el [Alto de los Ídolos](https://es.wikiloc.com/rutas-senderismo/san-agustin-a-alto-de-los-idolos-8819284).
+Este lugar contiene el conjunto funerario mejor conservado de Colombia, y uno de los más grandes de Latinoamérica. Es conocido como el [Alto de los Ídolos](#fuentes).
 
-<!-- Imágenes AMP -->
 {% include img.html img="magazine/visita-san-agustin/alto-de-los-idolos-san-agustin.webp" img-mini="magazine/visita-san-agustin/alto-de-los-idolos-san-agustin-mini.webp" alt="Alto de los ídolos en San Agustín Huila" title="Alto de los ídolos" %}
 *Alto de los ídolos en San Agustín Huila*
 
@@ -97,7 +93,6 @@ Este lugar contiene el conjunto funerario mejor conservado de Colombia, y uno de
 
 A solo 10 kilómetros después de San Agustín, puedes encontrar **El Parque Museo de Obando**. Está en un pueblito rodeado de coloridas casas y un espectacular paisaje de fondo. En este lugar conocerás un gran tesoro de urnas funerarias, grutas que fueron aposentos sagrados. **Se hizo un museo en el parque central con unas escaleras de concreto que descienden hasta las tumbas.** Y tú puedes acceder a su interior.
 
-<!-- Imágenes AMP -->
 {% include img.html img="magazine/visita-san-agustin/museo-de-obando-san-agustin-huila.webp" img-mini="magazine/visita-san-agustin/museo-de-obando-san-agustin-huila-mini.webp" alt="Museo de Obando en San Agustín Huila" title="Pueblo de obando en San Agustín Huila" %}
 *Museo de Obando en San Agustín Huila*
 
@@ -115,7 +110,6 @@ Podremos encontrar el [Estrecho del Magdalena](https://gurcoff.com/estrecho-rio-
 
 **El Salto de los Bordones**, una de las cascadas más altas de Colombia; **el Salto el Mortiño**, con su mirador de cristal y su culumpio al vacío; [la cascada Los Tres Chorros](https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin/), un rincón preservado naturalmente por su ubicación; y numerosos caudales más, formando una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
 
-<!-- Imágenes AMP -->
 {% include img.html img="magazine/visita-san-agustin/salto-de-bordones-huila.webp" img-mini="magazine/visita-san-agustin/salto-de-bordones-huila-mini.webp" alt="Salto de Bordones en Isnos Huila" title="Cascada salto de Bordones" %}
 *Cascada el Salto de Bordones*
 
@@ -125,7 +119,6 @@ Con una fauna es extensa y un recorrido aventurero que amerita gran destreza y c
 
 **San Agustín Huila tiene una arquitectura colonial hermosa**. Su zona urbana está rodeada de casas antiguas, murales hermosos, naturaleza en la zona urbana, calles empedradas, obras de artesanía local, etc.
 
-<!-- Imágenes AMP -->
 {% include img.html img="magazine/visita-san-agustin/murales-san-agustin-huila.webp" img-mini="magazine/visita-san-agustin/murales-san-agustin-huila-mini.webp" alt="Murales en San Agustín Huila" title="Mural en San Agustín Huila" %}
 *Murales de San Agustín Huila*
 
@@ -169,7 +162,6 @@ Serían una buena opción para comenzar una aventura desde estos municipios hast
 
 ## Hoteles en San Agustín Huila
 
-<!-- Imágenes AMP -->
 {% include img.html img="magazine/hoteles-san-agustin/hotel-masaya-san-agustin.webp" img-mini="magazine/visita-san-agustin/hotel-masaya-san-agustin-mini.webp" alt="Hotel Masaya en San Agustín Huila" title="Hotel Masaya San Agustín Huila" %}
 *Hotel Masaya en San Agustín Huila*
 
@@ -187,7 +179,6 @@ Su gastronomía es muy variada, pues tiene una mezcla de muchas culturas. Podrá
 
 Hay un amasajo muy recomendado: **las achiras huilenses**. La achira o simple achiras es elaborada a partir del almidón de achira o sagú, una planta de origen sudamericano, utilizada por los pueblos prehispánicos de Perú y Colombia.
 
-<!-- Imágenes AMP -->
 {% include img.html img="magazine/visita-san-agustin/achiras-huilenses.webp" img-mini="magazine/visita-san-agustin/achiras-huilenses-mini.webp" alt="Achiras Huilenses" title="Achiras" %}
 *Las deliciosas achiras del Huila*
 
@@ -201,7 +192,6 @@ Las temperaturas de las tierras del Huila son los ideales para el mejor resultad
 
 Tienes muchas cafeterías especializadas en estas bebidas. La variedad de la oferta te podría permitir un paseo solamente para conocer variedad de bebidas. Por ejemplo, en nuestra heladería GurCoff te ofrecemos el mejor Affogato que probarás en tu vida, con café orgánico de la zona y nuestra receta GurCoff de vainilla.
 
-<!-- Imágenes AMP -->
 {% include img.html img="magazine/visita-san-agustin/affogato-san-agustin-huila.webp" img-mini="magazine/visita-san-agustin/affogato-san-agustin-huila-mini.webp" alt="Affogato GurCoff - café orgánico con helado de vainilla GurCoff" title="Affogato con Helado GurCoff" %}
 *Affogato Gurcoff en San Agustín*
 

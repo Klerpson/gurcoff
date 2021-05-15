@@ -20,7 +20,7 @@ Datos como saber cuáles son los 5 mejores **hoteles en San Agustín Huila** te 
 
 Es una buena idea pensar en conocer nuevos lugares para desconectar de nuestra rutina. La oportunidad de descubrir sitios que no imaginabas que existían, llenos de mucha diversión y relax.
 
-¿Quieres conocer uno de los municipios más pintorescos del departamento de Huila? Es una gran idea, pero primero debes [saber en dónde vas a alojarte](). Por eso hoy debes conocer los alojamientos que aquí puedes encontrar.
+¿Quieres conocer uno de los municipios más pintorescos del departamento de Huila? Es una gran idea, pero primero debes [saber en dónde vas a alojarte](#fuentes). Por eso hoy debes conocer los alojamientos que aquí puedes encontrar.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
@@ -72,7 +72,7 @@ Sus cuartos son casi que pequeños apartamentos ambientados con las diferentes c
 
 ## Disfruta de los 5 mejores hoteles de San Agustín Huila con tus seres queridos
 
-Viajar a nuevos lugares  es una de las [mejores experiencias]() que se pueden vivir, especialmente con personas valiosas para nosotros.
+Viajar a nuevos lugares  es una de las [mejores experiencias](#fuentes) que se pueden vivir, especialmente con personas valiosas para nosotros.
 
 No importa si se trata de tu familia, tu pareja o tu grupo de amigos, estos 5 **hoteles de San Agustín Huila** te harán vivir unos días increíbles.
 

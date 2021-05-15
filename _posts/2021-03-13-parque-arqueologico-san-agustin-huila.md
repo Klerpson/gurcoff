@@ -4,11 +4,13 @@ title: Parque Arqueológico de San Agustín Huila
 description: El parque arqueológico de San Agustín es un destino lleno de descubrimientos, historia y aprendizaje. Ven a conocer el parque patrimonio colombiano
 category: turismo
 tags: [turismo, parque arqueológico]
-img: img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp
+img: img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp
 alt: Parque arqueológico de San Agustín Huila sección mesita A
 autor: Julian Franco
 date: 2021-03-13
 copyright: Julian Andres Franco Bedoya
+referencias: [https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn, https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/, https://colombia.travel/es/san-agustin, https://commons.wikimedia.org]
+excerpt_separator: <!-- excerpt -->
 json: '{
   "@context": "https://schema.org",
   "@type": "TouristDestination",
@@ -48,8 +50,6 @@ json: '{
     }
   ]
 }'
-referencias: [https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn, https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/, https://colombia.travel/es/san-agustin, https://commons.wikimedia.org]
-excerpt_separator: <!-- excerpt -->
 ---
 **El parque arqueológico de San Agustín Huila es un destino obligatorio para tu viaje**. Aquí tienes 3 cosas por disfrutar sí o sí:
 
