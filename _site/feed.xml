@@ -4,7 +4,7 @@
      <link href="https://gurcoff.comfeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://gurcoff.com" rel="alternate" type="text/html"/>
      <id>https://gurcoff.com</id>
-     <updated>2021-05-15T12:06:58-05:00</updated>
+     <updated>2021-05-16T12:21:39-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -41,7 +41,7 @@
    <link href="https://gurcoff.com/los-5-mejores-hoteles-san-agustin-huila"/>
    <id>https://gurcoff.com/los-5-mejores-hoteles-san-agustin-huila</id>
    <updated>2021-03-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Datos como saber cuáles son los 5 mejores &lt;strong&gt;hoteles en San Agustín Huila&lt;/strong&gt; te permitirá disfrutar de una genial escapada. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/hoteles-san-agustin/cuarto-hotel-san-agustin.webp&quot; alt=&quot;Cuarto de Hotel de San Agustín&quot; title=&quot;Cascada de los Tres Chorros en San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Es una buena idea pensar en conocer nuevos lugares...</content>
+   <content type="html">&lt;p&gt;Datos como saber cuáles son los 5 mejores &lt;strong&gt;hoteles en San Agustín Huila&lt;/strong&gt; te permitirá disfrutar de una genial escapada. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/parque-arqueologico-san-agustin/hotel-akawanka-san-agustin-huila.webp&quot; width=&quot;720&quot; height=&quot;auto&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin-400px.webp&quot; width=&quot;100%&quot; height=&quot;auto&quot; alt=&quot;Fotografías del Parque Arqueológico de San Agustín Huila&quot; title=&quot;Fotografías del...</content>
  </entry>
  
  <entry>
@@ -61,7 +61,7 @@
  </entry>
  
  <entry>
-   <title>Los Tres Chorros Cascada Natural de San Agustín Huila</title>
+   <title>Los Tres Chorros - ¡Cascada Natural de San Agustín Huila!</title>
    <link href="https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin"/>
    <id>https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin</id>
    <updated>2021-01-31T00:00:00-05:00</updated>

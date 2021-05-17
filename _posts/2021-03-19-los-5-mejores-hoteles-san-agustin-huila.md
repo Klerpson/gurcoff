@@ -4,7 +4,7 @@ title: Los 5 mejores hoteles de San Agustín Huila
 description: Decidir los mejores hoteles de San Agustín no es tarea fácil 🏨. Con estos 5 hoteles podrás tener una guía excelente. Míralos y escoge tu favorito.
 category: hoteles
 tags: [turismo, hoteles]
-img: img/magazine/hoteles-san-agustin/cuarto-hotel-san-agustin.webp
+img: img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco
 date: 2021-03-19
@@ -18,7 +18,9 @@ referencias:
 Datos como saber cuáles son los 5 mejores **hoteles en San Agustín Huila** te permitirá disfrutar de una genial escapada.
 <!-- excerpt -->
 
-![Cuarto de Hotel de San Agustín][img1]
+<!-- Imágenes AMP -->
+{% include img.html img="magazine/parque-arqueologico-san-agustin/hotel-akawanka-san-agustin-huila.webp" img-mini="magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin-400px.webp" alt="Fotografías del Parque Arqueológico de San Agustín Huila" title="Fotografías del parque arqueológico de San Agustín" %}
+*Estatuas del parque arqueológico de San Agustín Huila*
 
 Es una buena idea pensar en conocer nuevos lugares para desconectar de nuestra rutina. La oportunidad de descubrir sitios que no imaginabas que existían, llenos de mucha diversión y relax.
 

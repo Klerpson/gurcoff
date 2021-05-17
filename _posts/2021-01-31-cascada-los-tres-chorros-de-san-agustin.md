@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Los Tres Chorros Cascada Natural de San Agustín Huila
+title: Los Tres Chorros - ¡Cascada Natural de San Agustín Huila!
 description: Los Tres Chorros es una espectacular cascada en San Agustín Huila. Una cascada muy bien conservada por la misma naturaleza debido a su ubicación.
 category: turismo
 tags: [cascadas, turismo]
