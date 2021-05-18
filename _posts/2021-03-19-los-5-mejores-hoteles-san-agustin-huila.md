@@ -19,8 +19,8 @@ Datos como saber cuáles son los 5 mejores **hoteles en San Agustín Huila** te 
 <!-- excerpt -->
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/hotel-akawanka-san-agustin-huila.webp" img-mini="magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin-400px.webp" alt="Fotografías del Parque Arqueológico de San Agustín Huila" title="Fotografías del parque arqueológico de San Agustín" %}
-*Estatuas del parque arqueológico de San Agustín Huila*
+{% include img.html img="magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp" img-mini="magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila-400px.webp" alt="Fotografías del Parque Arqueológico de San Agustín Huila" title="Fotografías del parque arqueológico de San Agustín" %}
+*Los hoteles de San Agustín Huila llenos de naturaleza*
 
 Es una buena idea pensar en conocer nuevos lugares para desconectar de nuestra rutina. La oportunidad de descubrir sitios que no imaginabas que existían, llenos de mucha diversión y relax.
 

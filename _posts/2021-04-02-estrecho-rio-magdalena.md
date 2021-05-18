@@ -4,7 +4,7 @@ title: El Estrecho del Río Magdalena en San Agustín Huila
 description: El Estrecho del Magdalena es el punto más reducido del majestuoso río Colombiano. Lee cómo es este lugar y de qué manera puedes ir a conocerlo.
 category: turismo
 tags: [río magdalena, turismo]
-img: img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp
+img: img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp
 alt: Vista aérea del estrecho del Magdalena cortesía de Adventure X Colombia
 autor: Julian Franco
 date: 2021-04-02
@@ -35,7 +35,7 @@ json: '{
       ],
       "name": "Estrecho del río Magdalena",
       "sameAs": "https://gurcoff.com/estrecho-rio-magdalena",
-      "image": "https://gurcoff.com/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp"
+      "image": "https://gurcoff.com/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp"
     }
   ]
 }'
@@ -44,7 +44,8 @@ excerpt_separator: <!-- excerpt -->
 **El estrecho del río Magdalena** es un paisaje hermoso, formado en el momento que este majestuoso río **se reduce a un canal de solo 2.20 metros**.
 <!-- excerpt -->
 
-![Cascada los Tres Chorros][img1]
+{% include img.html img="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp" alt="Estrecho del río Magdalena en San Agustín Huila" title="Estrecho del río Magdalena en San Agustín" %}
+*Estrecho del río Magdalena en San Agustín Huila - cortesía de Adventure X Colombia*
 
 Si no has leído algo sobre el [Río Magdalena](https://es.wikipedia.org/wiki/R%C3%ADo_Magdalena), o río Yuma como también se le conoce, puede que no te parezca nada impresionante. Pero cuando sabes que este río en sus partes más anchas puede superar los 1.000 metros, entonces sí llama la atención.
 
@@ -73,15 +74,15 @@ Para llegar a este punto del río Magdalena, debes partir desde el casco urbano 
 
 ## ¿Y cómo llegar al estrecho del río Magdalena?
 
-![Calle que sale hacia el Estrecho del Magdalena][img2]
+{% include img.html img="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp" alt="Esquina donde se sale hacia el Estrecho del río Magdalena en San Agustín Huila" title="Calle que sale hacia el Estrecho del río Magdalena en San Agustín" %}
 *Imagen tomada de Google Maps - Salida hacia el Estrecho del Magdalena*
 
 A nuestra heladería llegan muchos turistas preguntando cuál es la salida hacia el estrecho, pues tiende a confundirse con la salida al [parque arqueológico,](https://gurcoff.com/parque-arqueologico-san-agustin-huila) que es por donde se encuentra nuestra heladería está ubicada (visita la sección de [contacto](https://gurcoff.com/contacto) para más información).
 
 La salida hacia el estrecho del Magdalena es otra. Debes preguntar por la calle de las artesanías. Cuando llegas a la esquina de esta calle, estarás ubicado en la esquina que se conoce como la esquina de los moto-ratones. La dirección es carrera 14 con calle 5.
 
-![Entrada al Estrecho del río Magdalena][img3]
-*Esta es la entrada al Estrecho*
+{% include img.html img="magazine/estrecho-rio-magdalena/entrada-al-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/entrada-al-estrecho-del-magdalena-400px.webp" alt="Entrada al Estrecho del río Magdalena en San Agustín Huila" title="Entrada a la llegada del Estrecho del río Magdalena en San Agustín" %}
+*Esta es la entrada al Estrecho del Magdalena*
 
 **Para salir hacia el estrecho del Magdalena debes seguir por la carrera 14**. Esta calle es la que viene desde la iglesia del parque central del municipio. Así que cuando estés subiendo por la carrera 14, no te desvíes hacia el parque arqueológico. Solo sigue derecho.
 
@@ -91,8 +92,8 @@ La salida hacia el estrecho del Magdalena es otra. Debes preguntar por la calle 
 
 Los locales han adaptado este punto de una manera muy atractiva. Al llegar encontrarás hermosos souvenirs y obras de arte comunes en la localidad.
 
-![Artesanías de San Agustín Huila][img4]
-*Algunas artesanías que puedes comprar en el lugar*
+{% include img.html img="magazine/estrecho-rio-magdalena/artesanias-en-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/artesanias-en-estrecho-del-magdalena-400px.webp" alt="Artesanías en el Estrecho del río Magdalena en San Agustín Huila" title="Artesanías en el Estrecho del río Magdalena en San Agustín" %}
+*Algunas artesanías que puedes comprar en el Estrecho del Magdalena*
 
 Adicionalmente, las aguas del río anteriores y posteriores al estrecho son punto de referencia obligado para 2 rutas de rafting: la primera es de grado 4 desde el sitio Mulales a El Estrecho. La segunda es de grado 5, y va desde El estrecho hasta el Puente de Sombrerillos.
 
@@ -118,7 +119,7 @@ Aquí te comparto también unas cuantas fotografías que tomé en el lugar:
 
 #### Señal del lugar
 
-![Letrero con estampas al llegar al Estrecho del Magdalena][img5]
+{% include img.html img="magazine/estrecho-rio-magdalena/letrero-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/letrero-estrecho-del-magdalena-400px.webp" alt="Letrero en el Estrecho del río Magdalena en San Agustín Huila" title="Letrero en el Estrecho del río Magdalena en San Agustín" %}
 
 En esta antigua señalización los turistas han tenido la costumbre de dejar sus estampas. Es una imagen muy curiosa **al llegar al estrecho**.
 
@@ -126,7 +127,7 @@ Sobre todo hay imágenes de lo que parecen ser clubes de moteros. Otras simpleme
 
 #### Escaleras de acceso
 
-![Escaleras que bajan hasta el Estrecho del Magdalena][img6]
+{% include img.html img="magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/estrecho-del-magdalena-400px.webp" alt="Estrecho río Magdalena en San Agustín Huila" title="Estrecho río Magdalena en San Agustín" %}
 
 En realidad son como 5 niveles de escaleras para acceder hasta el estrecho. No son demasiados escalones. Tampoco tienen un nivel de exigencia para atletas.
 
@@ -153,11 +154,3 @@ Estamos seguros que pasarás un paseo relajante, muy bonito, rodeado de naturale
 ## ¿Te gustaría venir y tomar tus fotos allí?
 
 ¿Te imaginabas que el Magdalena tuviera un punto así? ¿Qué te parece? **Cuéntame en los comentarios**.
-
-[img1]: {{ site.baseurl }}/{{page.img}} "Vista aérea del estrecho del Magdalena"
-[img2]: {{ site.baseurl }}/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp "Calle que sale hacia el estrecho del Magdalena"
-[img3]: {{ site.baseurl }}/img/magazine/estrecho-rio-magdalena/entrada-al-estrecho-del-magdalena.webp "Llegada al Estrecho del Magdalena"
-[img4]: {{ site.baseurl }}/img/magazine/estrecho-rio-magdalena/artesanias-en-estrecho-del-magdalena.webp "Artesanías de San Agustín Huila"
-[img5]: {{ site.baseurl }}/img/magazine/estrecho-rio-magdalena/letrero-estrecho-del-magdalena.webp "Letrero del Estrecho de Magdalena"
-[img6]: {{ site.baseurl }}/img/magazine/estrecho-rio-magdalena/escaleras-estrecho-del-magdalena.webp "Escaleras de acceso al Estrecho del Magdalena"
-[img7]: {{ site.baseurl }}/img/magazine/estrecho-rio-magdalena/estrecho-del-rio-magdalena.webp "Estrecho del río Magdalena"

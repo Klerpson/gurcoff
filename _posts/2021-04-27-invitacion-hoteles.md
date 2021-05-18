@@ -11,6 +11,7 @@ date: 2021-04-27
 copyright: Julian Andres Franco Bedoya
 json: false
 excerpt_separator: <!-- excerpt -->
+published: false
 ---
 **Muchos hoteles de San Agustín no tienen página web**. Queremos ayudar a que este gremio tan importante en nuestro pueblo para que tengan su hotel en internet.
 <!-- excerpt -->

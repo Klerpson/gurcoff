@@ -4,7 +4,7 @@
      <link href="https://gurcoff.comfeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://gurcoff.com" rel="alternate" type="text/html"/>
      <id>https://gurcoff.com</id>
-     <updated>2021-05-16T12:21:39-05:00</updated>
+     <updated>2021-05-18T11:47:58-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -13,19 +13,11 @@
 
  
  <entry>
-   <title>Página web para los negocios de San Agustín Huila</title>
-   <link href="https://gurcoff.com/invitacion-hoteles"/>
-   <id>https://gurcoff.com/invitacion-hoteles</id>
-   <updated>2021-04-27T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Muchos hoteles de San Agustín no tienen página web&lt;/strong&gt;. Queremos ayudar a que este gremio tan importante en nuestro pueblo para que tengan su hotel en internet. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/paginas-web-san-agustin/paginas-web-san-agustin-huila.webp&quot; alt=&quot;Página web para hoteles en San Agustín Huila&quot; /&gt;&lt;/p&gt; &lt;p&gt;Por eso, estamos preparando un proyecto que sabemos les...</content>
- </entry>
- 
- <entry>
    <title>El Estrecho del Río Magdalena en San Agustín Huila</title>
    <link href="https://gurcoff.com/estrecho-rio-magdalena"/>
    <id>https://gurcoff.com/estrecho-rio-magdalena</id>
    <updated>2021-04-02T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena&lt;/strong&gt; es un paisaje hermoso, formado en el momento que este majestuoso río &lt;strong&gt;se reduce a un canal de solo 2.20 metros&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp&quot; alt=&quot;Cascada los Tres Chorros&quot; title=&quot;Vista aérea del estrecho del Magdalena&quot; /&gt;&lt;/p&gt; &lt;p&gt;Si no has leído algo sobre el &lt;a...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena&lt;/strong&gt; es un paisaje hermoso, formado en el momento que este majestuoso río &lt;strong&gt;se reduce a un canal de solo 2.20 metros&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp&quot; width=&quot;720&quot; height=&quot;auto&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp&quot; width=&quot;100%&quot; height=&quot;auto&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot;...</content>
  </entry>
  
  <entry>
@@ -41,7 +33,7 @@
    <link href="https://gurcoff.com/los-5-mejores-hoteles-san-agustin-huila"/>
    <id>https://gurcoff.com/los-5-mejores-hoteles-san-agustin-huila</id>
    <updated>2021-03-19T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Datos como saber cuáles son los 5 mejores &lt;strong&gt;hoteles en San Agustín Huila&lt;/strong&gt; te permitirá disfrutar de una genial escapada. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/parque-arqueologico-san-agustin/hotel-akawanka-san-agustin-huila.webp&quot; width=&quot;720&quot; height=&quot;auto&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin-400px.webp&quot; width=&quot;100%&quot; height=&quot;auto&quot; alt=&quot;Fotografías del Parque Arqueológico de San Agustín Huila&quot; title=&quot;Fotografías del...</content>
+   <content type="html">&lt;p&gt;Datos como saber cuáles son los 5 mejores &lt;strong&gt;hoteles en San Agustín Huila&lt;/strong&gt; te permitirá disfrutar de una genial escapada. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp&quot; width=&quot;720&quot; height=&quot;auto&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila-400px.webp&quot; width=&quot;100%&quot; height=&quot;auto&quot; alt=&quot;Fotografías del Parque Arqueológico de San Agustín Huila&quot; title=&quot;Fotografías del...</content>
  </entry>
  
  <entry>
