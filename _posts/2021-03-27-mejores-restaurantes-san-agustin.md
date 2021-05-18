@@ -22,14 +22,17 @@ referencias:
 Aquí explicaremos **los 5 mejores restaurantes en San Agustín Huila** y los detalles podrán disfrutar todos sus visitantes.
 <!-- excerpt -->
 
-![Cascada los Tres Chorros][img1]
-
 * Do not remove this line (it will not be displayed)
 {:toc}
 
+## Restaurantes en San Agustín Huila
+
 Si vas de paseo o de vacaciones a San Agustín y deseas degustar algún rico almuerzo, o una cena inolvidable, no te puedes perder la diversidad gastronómica de sus restaurantes.
 
-## Restaurantes en San Agustín Huila: La Gata Parrilla
+### La Gata Parrilla
+
+{% include img.html img="magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin-400px.webp" alt="Plato a la carta con asados del restaurante la Gata  Parrilla de San Agustín Huila" title="Restaurante la Gata Parrilla de San Agustín" %}
+*Asado en el restaurante La Gata Parrilla de San Agustín Huila*
 
 Este es uno de los mejores **restaurantes en San Agustín Huila**. La Gata Parrilla es un lugar de comida saludable. Sus platos son preparados, como su nombre lo indica, a la parrilla. Sí, lo bueno es que no es solo el nombre.
 
@@ -41,10 +44,10 @@ Ahora bien, ¿qué puedes comer aquí? **Carnes, frutas y verduras a la parrilla
 
 Como notarás, partiendo de este restaurante, hace que venir a **San Agustín Huila** es [un plan muy completo](#fuentes). El clima, el ambiente, la gente, sus casas coloniales muy hermosas y su comida sana hará que tu estancia sea muy agradable.
 
-## Restaurante Pepenero
+### Restaurante Pepenero
 
-![Plato del restaurante Pepenero de San Agustín][img2]
-*Plato preparado en el restaurante Pepenero*
+{% include img.html img="magazine/restaurantes-san-agustin/restaurante-pepenero-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-pepenero-san-agustin-400px.webp" alt="Postre en el restaurante Pepenero de San Agustín Huila" title="Restaurante Pepenero de San Agustín Huila" %}
+*Plato preparado en el restaurante Pepenero de San Agustín Huila*
 
 Otro de los **lugares para comer en San Agustín Huila** es el restaurante Pepe Nero. Este sitio ofrece una variedad de platos italianos.
 
@@ -54,12 +57,12 @@ Pero, ¿qué más encontrarás en su restaurante? **Deliciosas preparaciones veg
 
 Puedes ver sus referencias en [TripAdvisor](#fuentes "link de la página tripadvisor con el perfil del restaurante Pepenero de San Agustín Huila")
 
-## Restaurante El Tomate
+### Restaurante El Tomate
 
-También se encuentra en la lista este restaurante con nombre peculiar. La razón del nombre del restaurante es que venden comida vegetariana.
+También se encuentra en la lista este restaurante con nombre peculiar. La razón del nombre del restaurante es que **venden comida vegetariana**. Una muy buena opción si este es tu menú favorito.
 
-![Platos del Restaurante El Tomate][img3]
-*Platos preparados en el Restaurante El Tomate*
+{% include img.html img="magazine/restaurantes-san-agustin/restaurante-tomate-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-tomate-san-agustin-400px.webp" alt="Plato especial del restaurante El Tomate de San Agustín Huila" title="Restaurante el Tomate en San Agustín Huila" %}
+*Plato vegetariano del restaurante el Tomate en San Agustín Huila*
 
 La comida es balanceada y, por supuesto, muy sana. Aquí **puedes desayunar, almorzar y comprar panes, mermeladas, entre otros**. En temporada abre diariamente y los precios son accesibles.
 
@@ -67,13 +70,13 @@ Adicionalmente, estoy absolutamente seguro que los sabores que logran en sus pre
 
 [Visita su sitio de presentación](#fuentes "link de la página del restaurante El Tomate de San Agustín Huila") en Google Sites para más información.
 
-## Restaurante Tingo Tango Pub
+### Restaurante Tingo Tango Pub
 
 Este restaurante es considerado un sitio gastronómico con un nombre dinámico, y realmente lo es.
 
 El **restaurante Tingo Tango Pub** es un punto ideal para ver juegos deportivos, mientras pides una deliciosa comida. También, tienen un programa tipo cine club que funciona los miércoles en la noche. Así que es perfecto para un plan mini-cine con buena comida.
 
-![Instalaciones del restaurante Tingo Tango Pub][img4]
+{% include img.html img="magazine/restaurantes-san-agustin/restaurante-tingo-tango-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-tingo-tango-san-agustin-400px.webp" alt="Comida rápida en el restaurante Tingo Tango Pub de San Agustín Huila" title="Restaurante Tingo Tango Pub de San Agustín Huila" %}
 *Restaurante Tingo Tango Pub de San Agustín*
 
 Su ambiente es más artístico. Y sus instalaciones ocupan un patio interior. Así que también te sentirás en un ambiente natural mientras comes en el centro del pueblo.
@@ -89,9 +92,12 @@ Tan pronto llegues notarás sus puntos fuertes:
 
 También tienen su [sitio de presentación](#fuentes "link de la página del restaurante Tingo Tango"). Visítalo
 
-## Restaurante Ambrosía El Faro
+### Restaurante Ambrosía El Faro
 
 Por último, mencionaremos otro **lugar excelente para comer en San Agustín Huila**. Las pizzas en horno de leña del restaurante El Faro Ambrosía.
+
+{% include img.html img="magazine/restaurantes-san-agustin/restaurante-ambrosia-faro-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-ambrosia-faro-san-agustin-400px.webp" alt="Pizza en el restaurante Ambrosía el Faro en San Agustín Huila" title="Restaurante Ambrosía el Faro de San Agustín Huila" %}
+*Restaurante Ambrosía El Faro en San Agustín Huila*
 
 La excelente atención del lugar es siempre recomendada por lugareños y turistas. Se encuentra ubicado cerca del parque principal, por la calle conocida como "La calle de las sombrillas" o la "calle de la lozería".
 
@@ -122,8 +128,3 @@ Recuerda:
 ## ¿Cuál es tu plato favorito?
 
 ¿Ya conocías algo sobre estos restaurantes? ¿Cuál es tu favorito y por qué? **Cuéntame en los comentarios**.
-
-[img1]: {{ site.baseurl }}/{{page.img}} "Asado del restaurante Gata Parrilla de San Agustín Huila"
-[img2]: {{ site.baseurl }}/img/magazine/restaurantes-san-agustin/restaurante-pepenero-san-agustin.webp "Plato preparado en el restaurante Pepenero de San Agustín Huila"
-[img3]: {{ site.baseurl }}/img/magazine/restaurantes-san-agustin/restaurante-tomate-san-agustin.webp "Platos del restaurante el tomate de San Agustín Huila"
-[img4]: {{ site.baseurl }}/img/magazine/restaurantes-san-agustin/restaurante-tingo-tango-san-agustin.webp "Instalaciones del restaurante el Tingo Tango Pub de San Agustín Huila"
