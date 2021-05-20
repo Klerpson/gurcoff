@@ -14,7 +14,7 @@ excerpt_separator: <!-- excerpt -->
 referencias:
   - Elección de hoteles: https://www.miviajeporelmundo.com/como-elegir-un-buen-hotel-para-hospedarte
   - Beneficios de Viajar: https://psicologiaymente.com/psicologia/beneficios-psicologicos-viajar]
-published: false
+published: no
 ---
 **Los hoteles en San Agustín Huila son lugares especiales** para descansar, para escapar de la rutina, para conectar con la naturaleza y otras cosas que siempre esperas disfrutar en tus viajes.
 <!-- excerpt -->
