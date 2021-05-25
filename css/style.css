@@ -14,6 +14,8 @@
 
 {% include css/blog.css %}
 
+{% include css/negocio.css %}
+
 {% include css/buscador.css %}
 
 {% include css/publicidad.css %}

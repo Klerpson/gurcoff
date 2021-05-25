@@ -106,6 +106,32 @@ json: '{
       {% endfor %}
     </ul>
   </article>
+  <article>
+    {% assign nuevo = site.posts[4] %}
+    <img src="{{site.baseurl}}/{{nuevo.img}}" width="100%" height="auto" alt="{{nuevo.alt}}">
+    <h3>
+    <a href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
+    </h3>
+    <p>{{nuevo.excerpt}}</p>
+    <ul>
+      {% for tag in nuevo.tags %}
+      <li>{{tag}}</li>
+      {% endfor %}
+    </ul>
+  </article>
+  <article>
+    {% assign nuevo = site.posts[5] %}
+    <img src="{{site.baseurl}}/{{nuevo.img}}" width="100%" height="auto" alt="{{nuevo.alt}}">
+    <h3>
+    <a href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.title }}</a>
+    </h3>
+    <p>{{nuevo.excerpt}}</p>
+    <ul>
+      {% for tag in nuevo.tags %}
+      <li>{{tag}}</li>
+      {% endfor %}
+    </ul>
+  </article>
 </section>
 <a class="botones" href="https://gurcoff.com/blog" title="Página del blog de la Heladería GurCoff de San Agustín Huila">Mirar el Blog</a>
 {% include footer.html %}

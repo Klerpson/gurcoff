@@ -1,10 +1,5 @@
 @media screen and (min-width:600px) {
 
-  section,
-  main {
-    width: 70vw;
-  }
-
   .contacto ul {
     display: flex;
     flex-wrap: wrap;
@@ -19,25 +14,6 @@
 }
 
 @media screen and (min-width:767px) {
-
-  header h1 {
-    max-width: 60vw;
-  }
-
-  .principal article {
-    display: grid;
-    grid-gap: 0 1rem;
-    grid-template-areas: "img h3""img p";
-    justify-content: center;
-    align-items: center;
-  }
-
-  .principal article img {
-    max-width: 40vw;
-    max-height: 60vh;
-    padding: 2rem 6rem;
-    grid-area: img;
-  }
 
   .principal article:nth-child(3),
   .principal article:nth-child(5),
@@ -94,6 +70,10 @@
     text-align: center;
   }
 
+  .negocio{
+    grid-template-columns: 300px 2fr;
+  }
+
   .magazine {
     width: 80vw;
     grid-gap: 0.5rem;
@@ -109,10 +89,10 @@
 }
 
 @media only screen and (min-width:992px) {
-
-  section,
-  main {
-    width: 720px;
+  .principal,
+  .blog-intro,
+  .magazine {
+    width: 70vw;
   }
 
   .principal article h3,
@@ -129,12 +109,6 @@
   #search-container {
     width: 50vw;
     justify-self: center;
-  }
-
-  .principal,
-  .blog-intro,
-  .magazine {
-    width: 70vw;
   }
 
   .magazine h2,

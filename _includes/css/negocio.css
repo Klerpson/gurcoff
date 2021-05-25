@@ -1,0 +1,17 @@
+.negocio{
+  padding: 0.5rem;
+  width: 100%;
+  display: grid;
+  grid-gap: 1rem;
+  justify-items: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.negocio img{
+  display: block;
+}
+
+.negocio h3{
+  margin: 0;
+}

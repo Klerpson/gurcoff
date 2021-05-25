@@ -1,9 +1,9 @@
 ---
 layout: articulo
 title: Los 5 restaurantes mejor calificados de San Agustín Huila
-description: En San Agustín Huila hay mucha variedad de restaurantes. Y muy buenos. Te contaremos de 5 de ellos con muy buenas calificaciones.
+description: Los restaurantes en San Agustín Huila tienen mucha variedad de ofertas gastronómicas. Te contaremos de 5 de ellos con muy buenas calificaciones.
 category: restaurantes
-tags: [restaurantes, turismo]
+tags: [restaurantes, parque]
 img: img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp
 alt: Plato preparado en la Gata Parrilla de San Agustín Huila
 copyright: Julian Andres Franco Bedoya
@@ -19,7 +19,7 @@ referencias:
  - Página restaurante Tingo Tango: https://tingo-tango-pub.negocio.site/
  - Catálogo de WhatsApp con la carta de GurCoff: https://wa.me/c/573115245225
 ---
-Aquí explicaremos **los 5 mejores restaurantes en San Agustín Huila** y los detalles podrán disfrutar todos sus visitantes.
+Aquí explicaremos **los 5 mejores restaurantes de San Agustín Huila** y los detalles podrán disfrutar todos sus visitantes.
 <!-- excerpt -->
 
 * Do not remove this line (it will not be displayed)
@@ -27,7 +27,7 @@ Aquí explicaremos **los 5 mejores restaurantes en San Agustín Huila** y los de
 
 ## Restaurantes en San Agustín Huila
 
-Si vas de paseo o de vacaciones a San Agustín y deseas degustar algún rico almuerzo, o una cena inolvidable, no te puedes perder la diversidad gastronómica de sus restaurantes.
+Si vas de paseo o de vacaciones a San Agustín Huila y deseas degustar algún rico almuerzo, o una cena inolvidable, no te puedes perder la diversidad gastronómica de sus restaurantes.
 
 ### La Gata Parrilla
 
@@ -103,7 +103,7 @@ La excelente atención del lugar es siempre recomendada por lugareños y turista
 
 Aquí encontrarás **pizzas y comidas rápidas con muy buenas bebidas, y un toque especial de las verduras deshidratadas que utilizan en sus recetas.**
 
-## Un delicioso viaje a San Agustín Huila
+## Ya tienes donde comer en San Agustín Huila
 
 No pierdas la oportunidad de conocer este hermoso pueblo colonial y visitar todos sus asombrosos sitios gastronómicos. Aquí solo te mencioné cinco de los que he podido visitar. Pero hay muchas delicias más por venir a probar.
 

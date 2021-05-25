@@ -4,7 +4,7 @@ title: Los 5 mejores hoteles de San Agustín Huila
 description: Decidir los mejores hoteles de San Agustín no es tarea fácil 🏨. Con estos 5 hoteles podrás tener una guía excelente. Míralos y escoge tu favorito.
 category: hoteles
 tags: [turismo, hoteles]
-img: img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp
+img: img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco
 date: 2021-03-19
@@ -74,13 +74,11 @@ Sus cuartos son casi que pequeños apartamentos ambientados con las diferentes c
 
 ¿Quieres llevarte un recuerdo de San Agustín? También puedes pasar por la tienda de regalos del alojamiento. Además, por su excelente ubicación cerca a la zona urbana, puedes pasar por la calle de las artesanías en el pueblo, o visitar los que consideramos son [los mejores restaurantes de San Agustín.](https://gurcoff.com/mejores-restaurantes-san-agustin)
 
-## Disfruta de los 5 mejores hoteles de San Agustín Huila con tus seres queridos
+## Conoce más hoteles en San Agustín Huila
 
-Viajar a nuevos lugares  es una de las [mejores experiencias](#fuentes) que se pueden vivir, especialmente con personas valiosas para nosotros.
+Viajar a nuevos lugares  es una de las [mejores experiencias](#fuentes) que se pueden vivir, especialmente con personas valiosas para nosotros. No importa si se trata de tu familia, tu pareja o tu grupo de amigos, estos 5 **hoteles de San Agustín Huila** te harán vivir unos días increíbles.
 
-No importa si se trata de tu familia, tu pareja o tu grupo de amigos, estos 5 **hoteles de San Agustín Huila** te harán vivir unos días increíbles.
-
-Claro está, hay muchos más que están creciendo y desarrollando excelentes experiencias de hospedaje. Al final del artículo te dejo el contacto de una excelente agencia turística que te puede ayudar a escoger el hotel que necesitas.
+Claro está, hay muchos más que están creciendo y desarrollando excelentes experiencias de hospedaje. Visita nuestro artículo con la lista de todos los [**hoteles de San Agustín Huila**](https://gurcoff.com/hoteles-san-agustin-huila) disponibles.
 
 ## ¿Y hay un helado bien rico cerca de estos hoteles?
 

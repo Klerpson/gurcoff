@@ -15,3 +15,7 @@
   box-shadow: var(--shadow);
   list-style: decimal;
 }
+
+#markdown-toc ul li a{
+  text-decoration: none;
+}
