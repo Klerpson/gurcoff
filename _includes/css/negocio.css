@@ -10,8 +10,10 @@
 
 .negocio img{
   display: block;
+  max-width: 100%;
 }
 
-.negocio h3{
-  margin: 0;
+.negocio p a{
+  display: inline-block;
+  margin: 0.5rem 0;
 }
