@@ -1,5 +1,6 @@
 .articulo{
   display: grid;
+  justify-items: center;
   grid-gap: 1.5rem;
 }
 

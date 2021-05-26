@@ -13,8 +13,9 @@ json: false
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Akawanka San Agustín Huila: https://www.booking.com/hotel/co/akawanka-lodge.es.html
-  - TripAdvisor Akawanka SAn Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d3464148-Reviews-Akawanka_Lodge-San_Agustin_Huila_Department.html
+  - TripAdvisor Akawanka San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d3464148-Reviews-Akawanka_Lodge-San_Agustin_Huila_Department.html
   - Fotos Hotel Akawanka: https://www.google.com/maps/place/Akawanka+Lodge/@1.8918538,-76.2811355,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOeEc1O5cDYQ2OBSU3-XLmckaUljq65hQXROV1z!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOeEc1O5cDYQ2OBSU3-XLmckaUljq65hQXROV1z%3Dw531-h298-k-no!7i1980!8i1111!4m10!3m9!1s0x8e257a61372e816b:0xd3b4077a5a54165c!5m2!4m1!1i2!8m2!3d1.8918538!4d-76.2811355!14m1!1BCgIgAQ?hl=es
+  - Página web de Akawanka: https://akawankalodge.com
 permalink: /hoteles/akawanka-lodge-san-agustin-huila
 ---
 El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la naturaleza, el arte, el comfort y la seguridad que busca cualquier turista.
@@ -67,7 +68,7 @@ El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la
 
 1. Si tienes mascotas, este no es el hotel que buscas, pues no se admiten.
 2. Si buscas un hotel económico en San Agustín Huila, escoge otro. Su calidad y profesionalidad requieren de costos moderados y altos, según el servicio.
-3. Para llegar a este alojamiento hay que pasar por un camino sin asfaltar, por lo que el acceso podría no ser adecuado para algunos vehículos.
+3. Para llegar a este alojamiento hay que pasar por un camino sin asfaltar. Sin embargo, es un trayecto corto.
 
 ## Opiniones del hotel Akawanka de San Agustín
 
@@ -77,14 +78,14 @@ Los comentarios sobre el hotel siempre destacan 3 aspectos importantes:
 * El ambiente **tranquilo y relajante**.
 * Su **decoración temática** tan cuidada y bien aplicada.
 
-También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en [TripAdvisor](#fuentes).
+También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en [TripAdvisor](#fuentes). Además, puedes visitar su [página web oficial.](#fuentes)
 
 ## Contacto del Hotel Akawanka Lodge
 
-{% include boton.html path="https://wa.me/573203929160" title="whatsapp del Hotel Akawanka de San Agustín Huila" texto="Whatsapp del hotel Akawanka Lodge" %}
+{% include boton.html path="https://wa.me/573203929160" title="whatsapp del Hotel Akawanka de San Agustín Huila" texto="Whatsapp" %}
 
-{% include boton.html path="tel:+573214501377" title="Celular del Hotel Akawanka de San Agustín Huila" texto="Llamar al hotel Akawanka Lodge" %}
+{% include boton.html path="tel:+573214501377" title="Celular del Hotel Akawanka de San Agustín Huila" texto="Llamar" %}
 
-{% include boton.html path="mailto:akawankalodge@gmail.com" title="Email del Hotel Akawanka de San Agustín Huila" texto="Escribir e-mail" %}
+{% include boton.html path="mailto:akawankalodge@gmail.com" title="Email del Hotel Akawanka de San Agustín Huila" texto="E-mail" %}
 
-{% include boton.html path="https://goo.gl/maps/DxywRKcRYfWhr9Lq9" title="Ubicación del Hotel Akawanka de San Agustín Huila" texto="Ubicación en Google Maps" %}
+{% include boton.html path="https://goo.gl/maps/DxywRKcRYfWhr9Lq9" title="Ubicación del Hotel Akawanka de San Agustín Huila" texto="Google Maps" %}
