@@ -4,7 +4,7 @@
      <link href="https://gurcoff.comfeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://gurcoff.com" rel="alternate" type="text/html"/>
      <id>https://gurcoff.com</id>
-     <updated>2021-05-26T09:29:38-05:00</updated>
+     <updated>2021-05-31T07:44:05-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -69,11 +69,11 @@
  </entry>
  
  <entry>
-   <title>San Agustín Huila Turismo y Naturaleza</title>
+   <title>San Agustín Huila - Turismo y Naturaleza</title>
    <link href="https://gurcoff.com/visita-san-agustin-huila"/>
    <id>https://gurcoff.com/visita-san-agustin-huila</id>
    <updated>2021-03-07T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;San Agustín Huila es especial para viajar y descansar&lt;/strong&gt;. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal, o &lt;a href=&quot;https://gurcoff.com/contacto&quot;&gt;un delicioso helado en nuestra heladería GurCoff.&lt;/a&gt; &lt;!-- excerpt --&gt;&lt;/p&gt;...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;San Agustín Huila es especial para viajar y descansar. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal.&lt;/strong&gt; &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila.webp&quot; width=&quot;720&quot; height=&quot;auto&quot; media=&quot;(min-width: 767px)&quot; /&gt;...</content>
  </entry>
  
  <entry>

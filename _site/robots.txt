@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+User-Agent: AdsBot-Google-Mobile
+User-Agent: AdsBot-Google
+Disallow: /privacidad
+Disallow: /condiciones
+Sitemap: https://gurcoff.com/sitemap.xml

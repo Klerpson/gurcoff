@@ -1,7 +1,7 @@
 ---
 layout: articulo
-title: San Agustín Huila Turismo y Naturaleza
-description: San Agustín Huila tiene los hermosos paisajes del macizo colombiano 🌄. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer!
+title: San Agustín Huila - Turismo y Naturaleza
+description: San Agustín Huila tiene los hermosos paisajes del macizo colombiano. El turismo es perfecto por su ambiente y su exquisito café. ¡Ven a conocer!
 category: turismo
 tags: [turismo, parque]
 img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp
@@ -60,7 +60,7 @@ json: '{
   ]
 }'
 ---
-**San Agustín Huila es especial para viajar y descansar**. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal, o [un delicioso helado en nuestra heladería GurCoff.](https://gurcoff.com/contacto)
+**San Agustín Huila es especial para viajar y descansar. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal.**
 <!-- excerpt -->
 
 {% include img.html img="magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila.webp" img-mini="magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp" alt="Entrada a San Agustín Huila" title="Señal de tránsito que indica la llegada a San Agustín Huila" %}
@@ -80,7 +80,7 @@ Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila:
 
 Estas zonas arqueológicas componen un complejo que abarca 2 municipios, desde San Agustín Huila hasta Isnos. Es un paseo lleno de datos muy interesantes y reveladores.
 
-#### El parque arqueológico de San Agustín
+#### El parque arqueológico de San Agustín Huila
 
 {% include img.html img="magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp" img-mini="magazine/visita-san-agustin/parque-arqueologico-san-agustin-mini.webp" alt="Piedras talladas en el parque arqueológico de San Agustín Huila" title="Piedras talladas en el parque arqueológico de San Agustín Huila" %}
 *Parque arqueológico de San Agustín Huila*
@@ -133,37 +133,40 @@ Es un tour fascinante que puedes hacer con el fin de obtener hermosas fotografí
 
 ## Cómo llegar a San Agustín Huila
 
-**Tienes 2 opciones para llegar a San Agustín Huila**: puedes llegar por carretera o en un vuelo comercial, o privado si puedes. Sería genial, ¿no?
+**Tienes 2 opciones para llegar a San Agustín Huila**: puedes llegar en vehículo por carretera o en avión a los aeropuertos cercanos y completas el viaje en vehículo.
 
 ### Cómo llegar por tierra hasta San Agustín
 
-Para llegar por tierra, puedes utilizar el transporte público. Constantemente llegan empresas como [Coomotors](#fuentes) y [Taxis Verdes](#fuentes). **Estas empresas llegan directamente hasta Pitalito Huila. Luego te traen hasta San Agustín Huila**.
+**Para llegar a San Agustín Huila puedes utilizar el transporte público. Constantemente llegan empresas como [Coomotors](#fuentes) y [Taxis Verdes](#fuentes) desde las principales ciudades del país, y hacen escala en Pitalito Huila. Luego te traen hasta San Agustín Huila.**.
 
-También puedes utilizar otra empresa de transporte que te lleve directamente hasta el terminal de transporte de la ciudad de Pitalito, y desde allí escoges en qué empresa haces la escala hasta San Agustín Huila.
+Algunas empresas de transporte intermunicipal conocidas que te pueden traer son coomotor, cootranshuila, cootranslaboyana, sotracauca y taxis verdes. Por ejemplo, hay una línea de camionetas de [Cootranslaboyana](#fuentes) que salen cada 30 minutos del terminal de transporte de Pitalito. No te recomiendo viajar en la parte de atrás. Es bastante incómodo.
 
-Por ejemplo, hay una línea de camionetas de [Cootranslaboyana](#fuentes). **No te recomiendo viajar en la parte de atrás**. Es bastante incómodo.
+Si vienes por Popayán, te bajas en el cruce de entrada a San Agustín, después de pasar el municipio de Isnos. No tienes que llegar hasta Pitalito. En la entrada, en temporada normal, encontrarás taxis que te traen hasta el casco urbano de San Agustín.
 
-Por supuesto, también puedes venir en tu carro particular. Estas son las **distancias en kilómetros hasta San Agustín y el tiempo de duración de cada viaje**:
+Por supuesto, también puedes venir en tu carro particular. Estas son las **distancias en kilómetros hasta San Agustín y el tiempo de duración de cada viaje**.
+
+#### Distancias hasta San Agustín Huila y peajes
 
 | Punto de partida | Kilómetro | Tiempo | Peajes |
 | --- | --- | --- | --- |
 | Neiva - San Agustín Huila | 220km | 4:30 horas | 2 peajes |
 | Bogotá - San Agustín Huila | 533km | 9:30 horas | 8 peajes, tristemente |
 | Cali - San Agustín Huila | 270km | 7:10 horas | 2 peajes |
+| Popayán - San Agustín Huila | 79km | 3:30 horas | 0 peajes |
 | Mocoa - San Agustín Huila | 156km | 3:30 horas | 0 peajes |
 
 Como dice en las indicaciones de Google Maps, estas son aproximaciones. Si hay construcciones, mal clima, mucho tráfico, desastres o derrumbes en la vía u otros factores, pueden cambiar las distancias o los tiempos de recorrido. Lo mejor es llamar al #767, a las autoridades de tránsito, y preguntar por el estado de las vías para hacer tus planes.
 
-### Cómo llegar por aire hasta San Agustín
+### Cómo llegar en avión hasta San Agustín Huila
 
-Si deseas y puedes hacerlo, la mejor opción es **tomar un avión hasta el aeropuerto de Pitalito.** Este aeropuerto está a solo 30 minutos de distancia en carro.
+Si deseas y puedes hacerlo, **la mejor opción es tomar un avión hasta el aeropuerto de Pitalito. Este aeropuerto está a solo 30 minutos de distancia en carro.**
 
-Estos son los **aeropuertos que están cerca de San Agustín Huila**:
+Estos son los **aeropuertos cercanos a San Agustín Huila**:
 
-* Aeropuerto de Pitalito
-* Aeropuerto de Florencia Caquetá
-* Aeropuerto de Villa Garzón Putumayo
-* Aeropuerto de Puerto Asís
+* Aeropuerto de Pitalito, a media hora de distancia.
+* Aeropuerto de Florencia Caquetá, a dos horas de distancia.
+* Aeropuerto de Villa Garzón Putumayo, a tres horas y media de distancia
+* Aeropuerto de Puerto Asís, a cinco horas de distancia.
 
 Serían una buena opción para comenzar una aventura desde estos municipios hasta llegar a San Agustín.
 
@@ -176,7 +179,7 @@ Ahora hablemos de tu estadía en [San Agustín Huila](https://es.wikipedia.org/w
 
 O si deseas podrías quedarte en las prácticas **posadas de San Agustín Huila** en el centro urbano. La gran ventaja es que a pesar de que es un lugar turístico, los precios para todos los presupuestos: encuentras **hoteles baratos, hostales económicos, hoteles cómodos y de lujo. Hasta hoteles con piscina!**.
 
-Preparamos para tí una lista con los [cinco hoteles mejor calificados de San Agustín Huila.](https://gurcoff.com/los-5-mejores-hoteles-san-agustin-huila) En cualquier hotel que elijas, encontrarás gente muy amable y servicial con los turistas.
+Preparamos para tí una lista con los [hoteles de San Agustín Huila.](https://gurcoff.com/hoteles-san-agustin-huila) En cualquier hotel que elijas, encontrarás gente muy amable y servicial con los turistas.
 
 ## Gastronomía del pueblo de San Agustín Huila
 
@@ -204,7 +207,7 @@ Tienes muchas cafeterías especializadas en estas bebidas. La variedad de la ofe
 
 ## Recomendaciones para visitar San Agustín Huila
 
-Te aconsejamos que al visitar esta hermosa población, traigas puestos tus zapatos más cómodos para caminar y explorar. Necesitarás vestimenta abrigada para temperaturas de un promedio de 18 °C.
+Te aconsejamos que al visitar esta hermosa población, traigas puestos tus zapatos más cómodos para caminar y explorar. Necesitarás vestimenta abrigada para temperaturas de un promedio de 18 °C. La altura del lugar es de 1640 metros sobre el nivel del mar.
 
 Por otra parte, ten en cuenta que **en San Agustín Huila abundan las precipitaciones y las lluvias pasajeras son frecuentes en estas zonas.**
 
