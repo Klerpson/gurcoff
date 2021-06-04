@@ -50,7 +50,6 @@ Los administradores de la casa de huéspedes son tres jóvenes mochileros con un
 | **Servicios de limpieza** | Puedes contratar el servicio de lavandería |
 | **Información turística** | Te ofrecen diferentes paquetes de turismo para practicar ciclismo, senderismo, tours a pie, equitación y tours o clases sobre cultura local |
 | **Alquiler de bicicletas** | Puedes contratar tours en bicicleta o simplemente alquilarlas |
-| **Zona para fumadores** | ... |
 | **Terraza** | Vistas maravillosas de todo San Agustín. Perfecta para contemplar fantásticas puestas de sol |
 | **Estacionamiento** | Te ofrecen estacionamiento público gratuito cercano |
 | **Bar** | Sala social compartida para conocer más viajeros y compartir experiencias |
@@ -60,6 +59,7 @@ Los administradores de la casa de huéspedes son tres jóvenes mochileros con un
 | **Sala de estar** | Con televisión compartida |
 | **Servicio de transporte** | El aeropuerto de Pitalito está ubicado a 21km del Hostal Bambú. Puedes contratar un servicio de enlace con el aeropuerto |
 | **Caja de seguridad** | Cuidan tus cosas valiosas en recepción directamente |
+| **Zona para fumadores** | ... |
 
 <!-- IMG -->
 {% include img.html img="magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hostal-bambu-san-agustin-400px.webp" alt="Miniaturas del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka Lodge de San Agustín Huila" %}
@@ -75,26 +75,46 @@ Los administradores de la casa de huéspedes son tres jóvenes mochileros con un
 7. Según la temporada, puedes ser voluntario para la recepción y otros oficios a cambio de tu hospedaje.
 8. El hostal Bambú permite cancelar las reservas sin costo alguno hasta 2 días antes de la fecha programada. Más información en su [páginas web oficial.](#fuentes)
 
+#### Video del Hostal Bambú de San Agustín Huila
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KBA-ZRxbs8A?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Otros aspectos sobre el hotel Akawanka Lodge
 
 1. Es una muy bien calificada y de excelente calidad, a pesar de ser económico. La ausencia de otros servicios de lujos se pueden encontrar en el comercio cercano.
 
-## Opiniones del Hotal Bambú de San Agustín
+## Cómo llegar al Hostal Bambú de San Agustín
 
-Los comentarios sobre el hotel siempre destacan 3 aspectos importantes:
+La dirección del Hostal Bambú es **Carrera 13 No. 6-78**.
+
+{% include boton.html path="https://g.page/HostalBambuSanAgustin?share" title="Ubicación del Hostal Bambú de San Agustín Huila en Google Maps" texto="Google Maps" %}
+
+{% include boton.html path="https://ul.waze.com/ul?place=ChIJt1ZBsnd6JY4RAGrfCXKtKcI&ll=1.88519980%2C-76.27156950&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hostal Bambú de San Agustín Huila en Waze" texto="Waze" %}
+
+### WhatsApp del Hostal Bambú
+
+El número de whatsapp del hostal Bambú es **+573113606841.**
+
+{% include boton.html path="https://wa.me/573113606841" title="whatsapp del Hostal Bambú de San Agustín Huila" texto="Whatsapp" %}
+
+### Teléfono del Hostal Bambú
+
+El número de celular del hostal Bambú es **+573113606841**.
+
+{% include boton.html path="tel:+573113606841" title="Celular del Hostal Bambú de San Agustín Huila" texto="Llamar" %}
+
+### Email del Hostal Bambú
+
+El correo electrónico del hostal es **bambuhostalsa@hotmail.com**.
+
+{% include boton.html path="mailto:bambuhostalsa@hotmail.com" title="Email del Hostal Bambú de San Agustín Huila" texto="E-mail" %}
+
+## Opiniones del Hostal Bambú de San Agustín
+
+Los comentarios sobre el hostal Bamú siempre destacan 3 aspectos importantes que debes tener en cuenta para tomar tu decisión:
 
 * Su **ubicación es perfecta** para ahorrar en costos y acceder al comercio local.
 * **Su terraza con vista al pueblo es perfecta para los atardeceres, la lectura y la meditación**.
 * Su **estética con murales decorados** que relajan y generan un ambiente muy acogedor.
 
 También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en [TripAdvisor](#fuentes).
-
-## Contacto del Hostal Bambú de San Agustín
-
-{% include boton.html path="https://wa.me/573113606841" title="whatsapp del Hostal Bambú de San Agustín Huila" texto="Whatsapp" %}
-
-{% include boton.html path="tel:+573113606841" title="Celular del Hostal Bambú de San Agustín Huila" texto="Llamar" %}
-
-{% include boton.html path="mailto:bambuhostalsa@hotmail.com" title="Email del Hostal Bambú de San Agustín Huila" texto="E-mail" %}
-
-{% include boton.html path="https://g.page/HostalBambuSanAgustin?share" title="Ubicación del Hostal Bambú de San Agustín Huila" texto="Google Maps" %}

@@ -42,6 +42,7 @@ El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la
 | **Jaguar SPA** | Espacio con decorado y todo lo necesario para relajarte y recuperar totalmente del agotamiento y el estrés, con terapeutas profesionales e instructores de yoga |
 | **Restaurante Akawanka** | Ofrece un menú y un buffet basado en la gastronomía local y nacional. También, tienen cafetería y bar |
 | **Huerta Akawanka** | Akawanka Lodge tiene huerta propia para el consumo de hiervas, frutas y verduras. Se encuentra unida a la oferta gastronómica del restaurante, cumpliendo con la temática y misión del hotel. Además, puedes participar de esta actividad natural |
+| **Recepción** | Servicio disponible las 24 horas |
 | **Salón de eventos** | Ubicación privilegiada para disfrutar de tus reuniones |
 | **Servicios de limpieza** | Puedes contratar los servicios de lavandería y planchado |
 | **Servicios de Transporte** | Te ofrecen el servicio para el traslado desde el aeropuerto de Pitalito hasta el hotel |
@@ -64,11 +65,41 @@ El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la
 5. Están disponibles si necesitas pedir servicios con condiciones especiales.
 6. Puedes pagar con tarjetas Maestro Mastercard, Visa, Diners Club y American Express.
 
+#### Video del Hotel Akawanaka Lodge de San Agustín
+
+<iframe width="900" height="506" src="https://www.youtube.com/embed/591S3u4Zgoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Otros aspectos sobre el hotel Akawanka Lodge
 
 1. Si tienes mascotas, este no es el hotel que buscas, pues no se admiten.
 2. Si buscas un hotel económico en San Agustín Huila, escoge otro. Su calidad y profesionalidad requieren de costos moderados y altos, según el servicio.
 3. Para llegar a este alojamiento hay que pasar por un camino sin asfaltar. Sin embargo, es un trayecto corto.
+
+## Cómo llegar al Hotel Akawanka Lodge de San Agustín
+
+La dirección del Hotel Akawanka Lodge es **vía al Parque Arqueológico, 500 metros más arriba de la piscina "Las Moyas"**.
+
+{% include boton.html path="https://goo.gl/maps/DxywRKcRYfWhr9Lq9" title="Ubicación del Hotel Akawanka de San Agustín Huila" texto="Google Maps" %}
+
+{% include boton.html path="https://ul.waze.com/ul?place=ChIJa4EuN2F6JY4RXBZUWnoHtNM&ll=1.89185380%2C-76.28113550&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel Akawanka Lodge de San Agustín Huila en Waze" texto="Waze" %}
+
+### WhatsApp del Hotel Akawanka Lodge
+
+El número de whatsapp del Hotel Akawanka Lodge es **+573203929160.**
+
+{% include boton.html path="https://wa.me/573203929160" title="whatsapp del Hotel Akawanka de San Agustín Huila" texto="Whatsapp" %}
+
+### Teléfono del Hotel Akawanka Lodge
+
+El número de celular del Hotel Akawanka Lodge es **+573214501377**.
+
+{% include boton.html path="tel:+573214501377" title="Celular del Hotel Akawanka de San Agustín Huila" texto="Llamar" %}
+
+### Email del Hotel Akawanka Lodge
+
+El correo electrónico del hostal es **akawankalodge@gmail.com**.
+
+{% include boton.html path="mailto:akawankalodge@gmail.com" title="Email del Hotel Akawanka de San Agustín Huila" texto="E-mail" %}
 
 ## Opiniones del hotel Akawanka de San Agustín
 
@@ -79,13 +110,3 @@ Los comentarios sobre el hotel siempre destacan 3 aspectos importantes:
 * Su **decoración temática** tan cuidada y bien aplicada.
 
 También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en [TripAdvisor](#fuentes). Además, puedes visitar su [página web oficial.](#fuentes)
-
-## Contacto del Hotel Akawanka Lodge
-
-{% include boton.html path="https://wa.me/573203929160" title="whatsapp del Hotel Akawanka de San Agustín Huila" texto="Whatsapp" %}
-
-{% include boton.html path="tel:+573214501377" title="Celular del Hotel Akawanka de San Agustín Huila" texto="Llamar" %}
-
-{% include boton.html path="mailto:akawankalodge@gmail.com" title="Email del Hotel Akawanka de San Agustín Huila" texto="E-mail" %}
-
-{% include boton.html path="https://goo.gl/maps/DxywRKcRYfWhr9Lq9" title="Ubicación del Hotel Akawanka de San Agustín Huila" texto="Google Maps" %}
