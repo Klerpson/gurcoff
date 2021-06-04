@@ -285,7 +285,7 @@ Aunque no se ofrecen camarotes, puedes escoger entre habitaciones simple, doble 
 
 ## ¿Por qué escoger el Hotel San Agustín Internacional?
 
-1. Si tu visita a San Agustín Huila incluye conocer el [Parque Arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), desde el hotel Internacional llegar al parque solo te tomará entre 20 y 30 minutos caminando.
+1. Si tu [visita a San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila) incluye conocer el [Parque Arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), desde el hotel Internacional llegar al parque solo te tomará entre 20 y 30 minutos caminando.
 2. Tiene muy buena reputación por la calidad de su atención al público.
 3. No está demás mencionar que en su hospitalidad disponen de estación de bebidas calientes de cortesía.
 4. El hotel San Agustín Internacional está rodeado de hermosos jardines y zonas verdes muy relajantes.
