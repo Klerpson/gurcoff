@@ -34,7 +34,11 @@ Esta es la lista disponible:
 
 ### Hotel Akawanka Lodge
 
-{% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp" alt="Fotografía del Hotel Akawanka de San Agustín Huila" imgtitle="Foto del Hotel Akawanka" texto="Hotel de lujo con hermosa decoración cultural y natural, con una temática eco lodge y servicios profesionales para liberar tu estrés." link="akawanka-lodge-san-agustin-huila" %}
+{% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila-400px.webp" alt="Fotografía del Hotel Akawanka de San Agustín Huila" imgtitle="Foto del Hotel Akawanka" texto="Hotel de lujo con hermosa decoración cultural y natural, con una temática eco lodge y servicios profesionales para liberar tu estrés." link="akawanka-lodge-san-agustin-huila" %}
+
+### Hotel San Agustín Internacional
+
+{% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-400px.webp" alt="Fotografía del Hotel Internacional de San Agustín Huila" imgtitle="Foto del Hotel Internacional" texto="Hotel con sus construcciones inspiradas en diferentes paísesy en la arquitectura colombiana precolombina, colonial, republicana y contemporánea." link="hotel-internacional-san-agustin-huila" %}
 
 ## Hostal en San Agustín Huila a tu medida
 
@@ -42,4 +46,4 @@ Esta es la lista disponible:
 
 ### Hostal Bambú San Agustín
 
-{% include negocios.html src="img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp" alt="Fotografía del Hostal Bambú de San Agustín Huila" imgtitle="Foto del Hostal Bambú" texto="El Hostal Bambú de San Agustín Huila se define como un lugar para socializar con otros viajeros. Tienen en sus instalaciones muchas zonas comunes adecuadas para compartir las experiencias de sus viajes." link="hostal-bambu-san-agustin-huila" %}
+{% include negocios.html src="img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin-400px.webp" alt="Fotografía del Hostal Bambú de San Agustín Huila" imgtitle="Foto del Hostal Bambú" texto="El Hostal Bambú de San Agustín Huila se define como un lugar para socializar con otros viajeros. Tienen en sus instalaciones muchas zonas comunes adecuadas para compartir las experiencias de sus viajes." link="hostal-bambu-san-agustin-huila" %}
