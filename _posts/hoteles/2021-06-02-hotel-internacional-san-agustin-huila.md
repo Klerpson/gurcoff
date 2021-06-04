@@ -289,7 +289,7 @@ Aunque no se ofrecen camarotes, puedes escoger entre habitaciones simple, doble 
 2. Tiene muy buena reputación por la calidad de su atención al público.
 3. No está demás mencionar que en su hospitalidad disponen de estación de bebidas calientes de cortesía.
 4. El hotel San Agustín Internacional está rodeado de hermosos jardines y zonas verdes muy relajantes.
-5. Tiene una muy buena ubicación. Caminando, a menos de 30 minutos tienes [el parque arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila) y los restaurantes de la zona, incluyendo nuestra [Heladería GurCoff](https://gurcoff.com/contacto); el El Faro Restaurante Bar a  1 km; el Restaurante Casa Grande a 0,7 km; el restaurtante Donde Richard a 0,7 km; el Restaurante Italiano Pepe Nero a 0,6 km; el mini mercado Coidema a 0,7 km; el mercado Justo y Bueno a 0,9 km.
+5. Tiene una muy buena ubicación. Los restaurantes de la zona están cerca, incluyendo nuestra [Heladería GurCoff](https://gurcoff.com/contacto); el El Faro Restaurante Bar a  1 km; el Restaurante Casa Grande a 0,7 km; el restaurtante Donde Richard a 0,7 km; el Restaurante Italiano Pepe Nero a 0,6 km; el mini mercado Coidema a 0,7 km; el mercado Justo y Bueno a 0,9 km.
 6. Habitaciones con balcón privado para aprovechar al máximo las vistas del lugar.
 7. Puedes pagar con tarjetas Maestro Mastercard, Visa, Diners Club y American Express.
 8. Puedes pedir el reembolso de tu pago hasta un par de días antes del check-in. El Hotel Internacional aplica condiciones a este punto.
