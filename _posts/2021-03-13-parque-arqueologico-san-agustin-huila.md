@@ -55,11 +55,7 @@ json: '{
   ]
 }'
 ---
-**El parque arqueológico de San Agustín Huila es un destino obligatorio para tu viaje**. Aquí tienes 3 cosas por disfrutar sí o sí:
-
-1. Tomarse un café perfecto
-2. Comerse un helado suave GurCoff
-3. Relajarse absolutamente en sus paisajes
+El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones. Te cuento todo lo que puedes disfrutar cuando vengas a visitarlo.
 
 <!-- excerpt -->
 
@@ -70,23 +66,23 @@ json: '{
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-**El inmenso legado del parque arqueológico de San Agustín** es de gran importancia para el país, y para toda latinoamérica. Al terminar este artículo, estoy seguro que tendrás un nuevo destino por visitar en tu próximo viaje. Espero compartirte toda la información necesaria para que pueda planear lo mejor posible tu visita.
+El parque arqueológico de San Agustín tiene un inmenso legado de gran importancia para el país, y para toda latinoamérica. Al terminar este artículo, estoy seguro que tendrás un nuevo destino por visitar en tu próximo viaje.
 
 Por otra parte, puedes mirar todos los demás artículos del [blog de GurCoff](https://gurcoff.com/blog) para escoger tus hoteles, guías, restaurantes y demás.
 
 ## Información sobre el Parque Arqueológico de San Agustín
 
-El **Parque Arqueológico de San Agustín Huila** es una amplia zona del valle alto del río Magdalena, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos.
+**El Parque Arqueológico de San Agustín Huila es una amplia zona del valle alto del río Magdalena, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos.**
 
-Muchas de los monumentos fueron restaurados para después del año de 1857. Para esa época hubo un temblor muy fuerte en la zona que destruyó gran parte de los tesoros arqueológicos del lugar. Ya para el año de 1931 se hizo la restauración de los lugares para conservarlos y que hoy los puedas visitar.
+Muchas de los monumentos fueron restaurados para después del año de 1857. Para esa época hubo un temblor muy fuerte en la zona que destruyó gran parte de los tesoros arqueológicos del lugar. Ya para el año de 1931 se hizo la restauración de los lugares para conservarlos. Y en la actulidad es un hermoso parque para el turismo.
 
 <!-- Imágenes AMP -->
 {% include img.html img="magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico.webp" img-mini="magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico-400px.webp" alt="Mapa del Parque Arqueológico de San Agustín Huila" title="Mapa parque arqueológico de San Agustín" %}
 *Mapa de San Agustín e Isnos - Complejo parque arqueológico*
 
-### Los hallazgos arqueológicos
+### El parque de San Agustín Huila y os hallazgos arqueológicos
 
-Este parque es la zona **con más allazgos arqueológicos de la época conocida como América Precolombina**. Esto es antes que llegaran los españoles a arruinar tantas cosas hermosas de nuestra tierra. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social.
+**El parque arqueológico de San Agustín es la zon con más allazgos arqueológicos de la época conocida como América Precolombina**. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social.
 
 En cuanto al patrimonio podemos encontrar muchos restos. Esta cultura, además de trabajar la parte lítica (que era el fuerte de ellos: trabajar la piedra) trabajaba también la cerámica, la madera y conocía la orfebrería, trabajando el oro de muy buena calidad. Los pocos elementos o accesorios de oro que se encontraron están expuestos en el Museo del Oro de Bogotá.
 
