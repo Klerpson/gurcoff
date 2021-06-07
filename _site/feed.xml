@@ -4,7 +4,7 @@
      <link href="https://gurcoff.comfeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://gurcoff.com" rel="alternate" type="text/html"/>
      <id>https://gurcoff.com</id>
-     <updated>2021-06-04T14:23:48-05:00</updated>
+     <updated>2021-06-07T10:32:42-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -45,11 +45,11 @@
  </entry>
  
  <entry>
-   <title>El Estrecho del Río Magdalena en San Agustín Huila</title>
+   <title>Estrecho del Río Magdalena en San Agustín Huila</title>
    <link href="https://gurcoff.com/estrecho-rio-magdalena"/>
    <id>https://gurcoff.com/estrecho-rio-magdalena</id>
    <updated>2021-04-02T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena&lt;/strong&gt; es un paisaje hermoso, formado en el momento que este majestuoso río &lt;strong&gt;se reduce a un canal de solo 2.20 metros&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp&quot; width=&quot;720&quot; height=&quot;auto&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp&quot; width=&quot;100%&quot; height=&quot;auto&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot;...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2.20 metros&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp&quot; width=&quot;720&quot; height=&quot;auto&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp&quot; width=&quot;100%&quot; height=&quot;auto&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot;...</content>
  </entry>
  
  <entry>
@@ -73,7 +73,7 @@
    <link href="https://gurcoff.com/parque-arqueologico-san-agustin-huila"/>
    <id>https://gurcoff.com/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-03-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El parque arqueológico de San Agustín Huila es un destino obligatorio para tu viaje&lt;/strong&gt;. Aquí tienes 3 cosas por disfrutar sí o sí:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Tomarse un café perfecto&lt;/li&gt; &lt;li&gt;Comerse un helado suave GurCoff&lt;/li&gt; &lt;li&gt;Relajarse absolutamente en sus paisajes&lt;/li&gt; &lt;/ol&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot;...</content>
+   <content type="html">&lt;p&gt;El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones. Te cuento todo lo que puedes disfrutar cuando vengas a visitarlo.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot; width=&quot;720&quot; height=&quot;auto&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp&quot; width=&quot;100%&quot; height=&quot;auto&quot; alt=&quot;Parque Arqueológico de San Agustín...</content>
  </entry>
  
  <entry>
