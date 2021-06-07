@@ -176,7 +176,7 @@ Una de las creaciones más significativas de la cultura de San Agustín fue **la
 
 Tallaron una serie de figuras, canales y piscinas. Hay un sistema de drenaje por el que circula el agua de manera uniforme y artificial. Este lugar posiblemente fue utilizado para hacer ceremonias a la vida. La relación es con el agua, considera generativa y símbolo de vida.
 
-#### El bosque de las estatuas
+### El bosque de las estatuas
 
 Es un nombre muy interesante. El lugar también lo es. **Es un sendero con un recorrido de unos 700 metros**. Tiene una colección de esculturas que fueron traídas de diferentes lugares, algunas encontradas en las mesitas B y C, otras en caminos colindantes al pueblo. Todas las esculturas fueron ubicadas estratégicamente para decorar este sendero del parque y transportarte a su historia.
 
