@@ -28,7 +28,7 @@ NOTA: Si en alguna categoría se repite un hotel, es porque puede satisfacer cua
 
 ## Hoteles de San Agustín Huila para todos los gustos
 
-**Puedes contactar hoteles de San Agustín económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al [parque arqueológico de san agustin](https://gurcoff.com/parque-arqueologico-san-agustin-huila), hoteles cerca al [estrecho del Magdalena](https://gurcoff.com/estrecho-rio-magdalena), entre otros.**
+**Puedes contactar hoteles de San Agustín económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al [Parque Arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), hoteles cerca al [estrecho del Magdalena](https://gurcoff.com/estrecho-rio-magdalena), entre otros.**
 
 Esta es la lista disponible:
 
@@ -47,3 +47,9 @@ Esta es la lista disponible:
 ### Hostal Bambú San Agustín
 
 {% include negocios.html src="img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin-400px.webp" alt="Fotografía del Hostal Bambú de San Agustín Huila" imgtitle="Foto del Hostal Bambú" texto="El Hostal Bambú de San Agustín Huila es un lugar hermoso con zonas comunes adecuadas para compartir experiencias." link="hostal-bambu-san-agustin-huila" logo1="img/iconos/mascotas-no.svg" alt-logo1="Hostal Bambú de San Agustín Huila no acepta mascotas" title-logo1="Logo mascotas no" logo2="img/iconos/wifi.svg" alt-logo2="Hostal Bambú de San Agustín Huila wifi" title-logo2="Logo wifi" logo3="img/iconos/dolar.svg" alt-logo3="Hostal Bambú de San Agustín Huila dolar" title-logo3="Logo dolar" logo4="img/iconos/bicicleta.svg" alt-logo4="Hostal Bambú de San Agustín Huila alquiler de bicicletas" title-logo4="Logo bicicleta" logo5="img/iconos/ducha.svg" alt-logo5="Hostal Bambú de San Agustín Huila ducha" title-logo5="Logo ducha" %}
+
+## San Agustín Huila: hoteles, restaurantes y más
+
+Toda esta lista de hoteles te enviará a un artículo en el que te damos toda la información completa: teléfono, cómo llegar, servicios, calificaciones, entre otros.
+
+Si también deseas saber **qué puedes hacer al venir a San Agustín Huila, puedes leer el artículo titulado ["Visita San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila).**
