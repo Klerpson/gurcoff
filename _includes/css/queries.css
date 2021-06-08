@@ -71,7 +71,15 @@
   }
 
   .negocio{
-    grid-template-columns: 300px 2fr;
+    padding: 1rem;
+  }
+
+  .negocio a{
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .negocio a img{
+    max-width: 300px;
   }
 
   .magazine {

@@ -314,23 +314,37 @@ footer a {
 }
 
 .negocio{
-  padding: 0.5rem;
+  padding: 0.7rem;
   width: 100%;
+  margin-bottom: 2rem;
+  background: var(--complemento1);
+  box-shadow: var(--shadow);
+  border-radius: 7px;
+}
+
+.negocio a{
   display: grid;
   grid-gap: 1rem;
-  justify-items: center;
   align-items: center;
-  margin-bottom: 2rem;
+  justify-items: center;
 }
 
 .negocio img{
-  display: block;
   max-width: 100%;
 }
 
-.negocio p a{
-  display: inline-block;
-  margin: 0.5rem 0;
+.negocio div ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+.negocio div ul li{
+  list-style: none;
+  margin: 1rem 0;
+}
+
+.negocio div ul li img{
+  box-shadow: none;
 }
 
 #search-container {
@@ -576,7 +590,15 @@ footer a {
   }
 
   .negocio{
-    grid-template-columns: 300px 2fr;
+    padding: 1rem;
+  }
+
+  .negocio a{
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .negocio a img{
+    max-width: 300px;
   }
 
   .magazine {
