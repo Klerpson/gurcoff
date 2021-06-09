@@ -26,7 +26,7 @@ En cada hotel de San Agustín te contaré qué lo hace especial o diferente. Lue
 
 NOTA: Si en alguna categoría se repite un hotel, es porque puede satisfacer cualquiera de las opciones que buscas.
 
-## Hoteles de San Agustín Huila para todos los gustos
+## Hoteles en San Agustín Huila para todos los gustos
 
 **Puedes contactar hoteles de San Agustín económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al [Parque Arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), hoteles cerca al [estrecho del Magdalena](https://gurcoff.com/estrecho-rio-magdalena), entre otros.**
 
