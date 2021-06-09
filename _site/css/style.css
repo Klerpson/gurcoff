@@ -213,59 +213,7 @@ footer a {
   justify-self: center;
 }
 
-@media screen and (min-width:600px) {
-  .sugerencias {
-    padding: 0;
-  }
 
-  .sugerencias h3 {
-    grid-column: span 2;
-    text-align: center
-  }
-}
-
-@media screen and (min-width:768px) {
-
-  .sugerencias h3 {
-    grid-column: span 3;
-    text-align: center;
-    margin: 2rem 0
-  }
-
-  .relacionados {
-    padding: 0
-  }
-
-  #mc_embed_signup {
-    width: 60vw
-  }
-}
-
-@media screen and (min-width:992px) {
-  .sugerencias h3 {
-    grid-column: span 4
-  }
-
-  .comentarios {
-    width: 50vw;
-    margin: 0 auto
-  }
-
-  #mc_embed_signup {
-    width: 50vw
-  }
-}
-
-@media screen and (min-width:1200px) {
-  #mc_embed_signup {
-    width: 40vw
-  }
-
-  .sugerencias {
-    width: 70vw;
-    margin: 0 auto
-  }
-}
 
 
 #markdown-toc::before {
@@ -518,6 +466,14 @@ footer a {
 
 
 @media screen and (min-width:600px) {
+  .sugerencias {
+    padding: 0;
+  }
+
+  .sugerencias h3 {
+    grid-column: span 2;
+    text-align: center
+  }
 
   .contacto ul {
     display: flex;
@@ -613,6 +569,20 @@ footer a {
     grid-column: span 2;
   }
 
+  .sugerencias h3 {
+    grid-column: span 3;
+    text-align: center;
+    margin: 2rem 0
+  }
+
+  .relacionados {
+    padding: 0
+  }
+
+  #mc_embed_signup {
+    width: 60vw
+  }
+
 }
 
 @media only screen and (min-width:992px) {
@@ -645,4 +615,28 @@ footer a {
     grid-column: span 3;
   }
 
+  .sugerencias h3 {
+    grid-column: span 4
+  }
+
+  .comentarios {
+    width: 50vw;
+    margin: 0 auto
+  }
+
+  #mc_embed_signup {
+    width: 50vw
+  }
+
+}
+
+@media screen and (min-width:1200px) {
+  #mc_embed_signup {
+    width: 40vw
+  }
+
+  .sugerencias {
+    width: 70vw;
+    margin: 0 auto
+  }
 }
