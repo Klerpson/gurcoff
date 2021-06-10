@@ -82,7 +82,7 @@ Claro está, hay muchos más que están creciendo y desarrollando excelentes exp
 
 ## ¿Y hay un helado bien rico cerca de estos hoteles?
 
-¡Claro que sí! Recuerda que cerca a todos estos hoteles puedes salir a probar el helado suave favorito de San Agustín Huila. Te prometemos que también te encantará. En nuestra página de [contacto](https://gurcoff.com/contacto/) podrás encontrar todos nuestros datos. ¡Te esperamos!
+¡Claro que sí! Recuerda que cerca a todos estos hoteles puedes salir a probar el helado suave favorito de San Agustín Huila. Te prometemos que también te encantará. En nuestra página de [contacto](https://gurcoff.com/contacto) podrás encontrar todos nuestros datos. ¡Te esperamos!
 
 [img1]: {{ site.baseurl }}/{{page.img}} "Cascada de los Tres Chorros en San Agustín Huila"
 [img2]: {{ site.baseurl }}/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin.webp "Hotel Masaya San Agustín Huila"
