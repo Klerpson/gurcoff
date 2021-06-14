@@ -52,7 +52,7 @@ Es predominante el ambiente artístico en su decoración. Las pinturas de las pa
 | **Capilla católica** | Disponible para los creyentes católicos y quienes deseen utilizar sus servicios |
 | **Cambios de divisa** | Cambio en dólares y euros |
 | **Tienda de recuerdos** | Puedes comprar regalos con motivos locales para llevar al regresar a casa |
-| **Zona de juegos** | Puedes pasar un rato divertico con juegos de mesa y deportes de salón como el ping-pong |
+| **Zona de juegos** | Puedes pasar un rato divertido con juegos de mesa y deportes de salón como el ping-pong |
 | **Zona de parqueadero** | Servicio gratuito del hotel con muy buena seguridad y amplios espacios |
 | **Zona WiFi** | Servicio gratuito con muy buena cobertura |
 | **Zonas para actividades** | Cuenta con amplias zonas verdes para relajarse y llevar a cabo tus actividades |

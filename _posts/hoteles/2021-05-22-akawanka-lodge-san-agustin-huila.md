@@ -50,7 +50,7 @@ El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la
 | **Zona parqueadero** | Servicio gratuito del hotel con muy buena seguridad |
 | **Zona WiFi** | Servicio gratuito con muy buena cobertura |
 | **Zonas para actividades** | Dentro del hotel Akawanka y en sus alrededores puedew practicar equitación y senderismo, entre otras |
-| **Zona de juegos** | Puedes pasar un rato divertico con juegos de mesa |
+| **Zona de juegos** | Puedes pasar un rato divertido con juegos de mesa |
 | **Tienda de recuerdos** | Encontrarás el detalle que quieres llevar al regresar a casa |
 
 <!-- IMG -->
