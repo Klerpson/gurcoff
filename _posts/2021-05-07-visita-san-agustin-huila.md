@@ -172,7 +172,7 @@ Serían una buena opción para comenzar una aventura desde estos municipios hast
 
 ## Hoteles en San Agustín Huila
 
-{% include img.html img="magazine/hoteles-san-agustin/hotel-masaya-san-agustin.webp" img-mini="magazine/visita-san-agustin/hotel-masaya-san-agustin-mini.webp" alt="Hotel Masaya en San Agustín Huila" title="Hotel Masaya San Agustín Huila" %}
+{% include img.html img="magazine/hoteles-san-agustin/hotel-masaya-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-masaya-san-agustin-mini.webp" alt="Hotel Masaya en San Agustín Huila" title="Hotel Masaya San Agustín Huila" %}
 *Hotel Masaya en San Agustín Huila*
 
 Ahora hablemos de tu estadía en [San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)). Y, por supuesto, encontramos lugares extraordinarios para hospedarse. Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.** La mayoría de ellos se emplazan en medio de la naturaleza con vistas espectaculares. Así que tienes aseguradas unas relajantes vacaciones.
