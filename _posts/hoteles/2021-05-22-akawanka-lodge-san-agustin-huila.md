@@ -77,7 +77,7 @@ El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la
 
 ## Cómo llegar al Hotel Akawanka Lodge de San Agustín
 
-La dirección del Hotel Akawanka Lodge es **vía al Parque Arqueológico, 500 metros más arriba de la piscina "Las Moyas"**.
+**La dirección del Hotel Akawanka Lodge es vía al Parque Arqueológico, 500 metros más arriba de la piscina "Las Moyas"**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
 
 {% include boton.html path="https://goo.gl/maps/DxywRKcRYfWhr9Lq9" title="Ubicación del Hotel Akawanka de San Agustín Huila" texto="Google Maps" %}
 

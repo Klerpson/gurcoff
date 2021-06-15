@@ -68,7 +68,7 @@ El parque arqueológico de San Agustín Huila es un destino obligado para tus va
 
 El parque arqueológico de San Agustín tiene un inmenso legado de gran importancia para el país, y para toda latinoamérica. Al terminar este artículo, estoy seguro que tendrás un nuevo destino por visitar en tu próximo viaje.
 
-Por otra parte, puedes mirar todos los demás artículos del [blog de GurCoff](https://gurcoff.com/blog) para escoger tus hoteles, guías, restaurantes y demás.
+Por otra parte, puedes mirar todos los demás artículos del [blog de GurCoff](https://gurcoff.com/blog "El blog de San Agustín Huila") para escoger tus hoteles, guías, restaurantes y demás.
 
 ## Cómo llegar al parque arqueológico de San Agustín Huila
 
@@ -76,9 +76,9 @@ Debes tener claros 2 destinos. El primero es el municipio de **Pitalito Huila**.
 
 **Desde el parque principal de San Agustin Huila, a 3 kilómetros, llegarás al Parque Arqueológico de San Agustín Huila**, reserva natural con aproximadamente 2.000 Km2 de extensión.
 
-**Puede servirte como punto de referencia llegar a nuestra [heladería GurCoff](https://gurcoff.com/contacto). Desde allí, solo sigue derecho 1,5 kilómetros.**
+**Puede servirte como punto de referencia llegar a nuestra [heladería GurCoff](https://gurcoff.com/contacto "Página de contacto de la heladería GurCoff"). Desde allí, solo sigue derecho 1,5 kilómetros.**
 
-Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles](https://gurcoff.com/hoteles-san-agustin-huila), restaurantes con comida típica y comidas rápidas, entre otros.
+Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles](https://gurcoff.com/hoteles-san-agustin-huila "Artículo sobre los hoteles de San Agustín Huila"), restaurantes con comida típica y comidas rápidas, entre otros.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86a5f6df7270d34c!2sParque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1621033727764!5m2!1ses-419!2sco" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -90,7 +90,7 @@ Para **llegar al parque arqueológico de San Agustín desde Bogotá** puedes uti
 
 También, puedes tomar vuelos domésticos desde Bogotá. El aeropuerto más cercano está ubicado en Pitalito, justo en la vía entre Pitalito y San Agustín. Por otra parte, están los aeropuertos de Florencia Caquetá y Puerto Asís o Villa Garzón Putumayo. Claro, estos últimos están un poco más retirados de tu destino. Pero igual te ahorrarán un gran trayecto.
 
-En el artículo ["Visita San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila), encontrarás más información sobre cómo llegar hasta San Agustín
+En el artículo ["Visita San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila "Artículo sobre San Agustín Huila"), encontrarás más información sobre cómo llegar hasta San Agustín
 
 ### ¿Cómo llegar al parque arqueológico desde Neiva?
 
@@ -234,7 +234,7 @@ Además, hay que tener en cuenta que en temporada normal el parque arqueológico
 
 En este video del parque arqueológico de San Agustín tienes un pequeño adelanto de lo que disfrutarás en tu visita. Los créditos del video son del canal regional [Canal Trece](https://www.youtube.com/watch?v=eGdhBn_WnO8):
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/eGdhBn_WnO8" style="border-radius: 5px; box-shadow: var(--shadow);" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/eGdhBn_WnO8" style="border-radius: 5px; box-shadow: var(--shadow);" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Video de un paseo al parque arqueológico de San Agustín Huila"></iframe>
 
 **El parque arqueológico de San Agustín Huila, es considerada la joya arqueológica de Colombia**, que nos ofrece además un encuentro inigualable con la naturaleza.
 

@@ -300,7 +300,7 @@ Aunque no se ofrecen camarotes, puedes escoger entre habitaciones simple, doble 
 
 ## ¿Cómo llegar al hotel Internacional de San Agustín Huila?
 
-La dirección del Hotel San Agustín Internacional es **carrera 19 N 1A-13, barrio Primero de Mayo**.
+**La dirección del Hotel San Agustín Internacional es carrera 19 N 1A - 13, barrio Primero de Mayo**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
 
 {% include boton.html path="https://goo.gl/maps/Swmrwrqeuqdp6ca28" title="Ubicación del Hotel Internacional de San Agustín Huila en Google Maps" texto="Google Maps" %}
 

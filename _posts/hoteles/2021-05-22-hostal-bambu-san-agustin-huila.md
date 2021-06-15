@@ -73,7 +73,7 @@ Los administradores de la casa de huéspedes son tres jóvenes mochileros con un
 5. **El hostal Bambú de San Agustín admite mascotas** bajo ciertas condiciones.
 6. Puedes hacer tu reserva sin tarjeta.
 7. Según la temporada, puedes ser voluntario para la recepción y otros oficios a cambio de tu hospedaje.
-8. El hostal Bambú permite cancelar las reservas sin costo alguno hasta 2 días antes de la fecha programada. Más información en su [páginas web oficial.](#fuentes)
+8. El hostal Bambú permite cancelar las reservas sin costo alguno hasta 2 días antes de la fecha programada. Más información en su [página web oficial.](#fuentes)
 
 #### Video del Hostal Bambú de San Agustín Huila
 
@@ -85,7 +85,7 @@ Los administradores de la casa de huéspedes son tres jóvenes mochileros con un
 
 ## Cómo llegar al Hostal Bambú de San Agustín
 
-La dirección del Hostal Bambú es **Carrera 13 No. 6-78**.
+**La dirección del Hostal Bambú es Carrera 13 No. 6-78**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
 
 {% include boton.html path="https://g.page/HostalBambuSanAgustin?share" title="Ubicación del Hostal Bambú de San Agustín Huila en Google Maps" texto="Google Maps" %}
 
