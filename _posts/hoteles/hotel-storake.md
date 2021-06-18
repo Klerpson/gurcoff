@@ -1,3 +1,24 @@
+---
+layout: articulo
+title: Hotel Masaya de San Agustín Huila
+description: El hotel Masaya es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena y su arquitectura es hermosa. ¡Conócelo aquí!
+category: hoteles
+tags: [hoteles]
+img: img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp
+alt: Fotografía del hotel Akawanka en San Agustín Huila
+autor: Julian Franco
+date: 2021-06-15
+copyright: Julian Andres Franco Bedoya
+json: false
+excerpt_separator: <!-- excerpt -->
+referencias:
+  - Booking Masaya San Agustín Huila: https://www.booking.com/hotel/co/masaya-hostel-san-agustin.es.html
+  - TripAdvisor Masaya San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d13154689-Reviews-Masaya_Hostel_San_Agustin-San_Agustin_Huila_Department.html
+  - Fotos Hotel Masaya: https://www.google.com/maps/place/Masaya+San+Agust%C3%ADn/@1.895828,-76.2683103,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPIVtVBrAV28ZUbTdbeocSQW3k3Y1KtHev5j5Th!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPIVtVBrAV28ZUbTdbeocSQW3k3Y1KtHev5j5Th%3Dw160-h120-k-no!7i5520!8i4140!4m18!1m9!3m8!1s0x8e25707f01ae31c7:0xccd64e01b1e32fe2!2sMasaya+San+Agust%C3%ADn!5m2!4m1!1i2!8m2!3d1.895837!4d-76.2683301!3m7!1s0x8e25707f01ae31c7:0xccd64e01b1e32fe2!5m2!4m1!1i2!8m2!3d1.895837!4d-76.2683301
+  - Página web del Hotel Masaya San Agustín: https://www.masaya-experience.com/san-agustin/
+permalink: /hoteles/hotel-masaya-san-agustin-huila
+published: no
+---
 Hotel Estorake San Agustin Huila 
 
 La búsqueda del hotel pequeño romántico ideal en San Agustin no tiene por qué ser difícil. Bienvenido a Hotel Estorake San Agustin Huila, una fantástica opción para viajeros como tú.

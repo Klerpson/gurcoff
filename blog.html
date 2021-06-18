@@ -1,11 +1,13 @@
 ---
 layout: buscador
 title: ¿Buscas qué hacer en San Agustín Huila?
+h1: ¿Qué hacer en San Agustín?
 description: Conoce los lugares turísticos, los hoteles y las experiencias que ofrece San Agustín Huila. Todo desde las vivencias de tu heladería favorita.
 ---
 {% include header.html %}
 <section class="magazine">
-  <p>{{page.description}}</p>
+  <p>Si estás en San Agustín Huila, o quieres venir, y no conoces el lugar, seguramente querrás saber <strong>qué hacer en San Agustín</strong>.</p>
+  <p> Pues este es el <strong>blog de San Agustín Huila</strong>. Te contamos todo sobre hoteles, restaurantes, lugares turísticos, dónde pasear gratis, etc. Todo te lo contamos con las experiencias personales de quienes vivimos a diario en este paraíso.</p>
   {% include search.html %}
   <h2>El Blog de San Agustín Huila</h2>
   {% for category in site.categories %}
@@ -16,7 +18,7 @@ description: Conoce los lugares turísticos, los hoteles y las experiencias que 
   <article>
     <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
       <img src="{{ site.baseurl }}/{{ post.img }}" width="100%" height="auto" alt="{{ post.alt }}">
-      <h4>{{ post.title }}</h4>
+      <h4>{{ post.h1 }}</h4>
     </a>
   </article>
     {% endfor %}

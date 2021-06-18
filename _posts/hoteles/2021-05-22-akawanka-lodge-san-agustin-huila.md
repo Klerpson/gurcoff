@@ -1,9 +1,10 @@
 ---
 layout: articulo
-title: Hotel Akawanka Lodge de San Agustín Huila
+title: Hotel Akawanka Lodge, 100% recomendado
 description: El hotel Akawanka Lodge de San Agustín Huila es uno de los mejores calificados por los turistas. Es un hotel de lujo para relajarte totalmente.
 category: hoteles
 tags: [hoteles]
+h1: Hotel Akawanka Lodge de San Agustín Huila
 img: img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp
 alt: Fotografía del hotel Akawanka en San Agustín Huila
 autor: Julian Franco

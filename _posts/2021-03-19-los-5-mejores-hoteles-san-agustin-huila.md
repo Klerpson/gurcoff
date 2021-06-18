@@ -4,6 +4,7 @@ title: Los 5 mejores hoteles de San Agustín Huila
 description: Decidir los mejores hoteles de San Agustín no es tarea fácil 🏨. Con estos 5 hoteles podrás tener una guía excelente. Míralos y escoge tu favorito.
 category: hoteles
 tags: [turismo, hoteles]
+h1: Los 5 hoteles mejor recomendados de San Agustín
 img: img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco

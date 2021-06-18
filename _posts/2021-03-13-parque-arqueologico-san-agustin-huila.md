@@ -1,9 +1,10 @@
 ---
 layout: articulo
-title: Parque Arqueológico de San Agustín Huila
+title: Parque Arqueológico de San Agustín | GurCoff
 description: El parque arqueológico de San Agustín es un destino lleno de descubrimientos, historia y aprendizaje. Ven a conocer el parque patrimonio colombiano
 category: turismo
 tags: [parque]
+h1: El Parque Arqueológico de San Agustín - Patrimonio de la Humanidad
 img: img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp
 alt: Parque arqueológico de San Agustín Huila sección mesita A
 autor: Julian Franco

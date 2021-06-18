@@ -1,9 +1,10 @@
 ---
 layout: articulo
-title: Hoteles en San Agustín Huila
+title: Hoteles en San Agustín Huila | GurCoff San Agustín
 description: Los hoteles en San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza. Encuentra hoteles, cabañas y más aquí. Léelo!
 category: hoteles
 tags: [turismo, hoteles]
+h1: Hoteles, hostales, cabañas y más para hospedarte en San Agustín
 img: img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp
 alt: Fotografía del hotel Akawanka en San Agustín Huila
 autor: Julian Franco

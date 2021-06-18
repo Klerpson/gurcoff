@@ -1,9 +1,10 @@
 ---
 layout: articulo
-title: Hostal Bambú de San Agustín Huila
+title: Hostal Bambú de San Agustín - Descanso y Diversión
 description: El hostal Bambú de San Agustín Huila está muy bien posicionado entre los turistas. Es una opción muy bonita y accesible en el pueblo. Conócelo
 category: hoteles
 tags: [hoteles, hostales]
+h1: Hostal Bambú de San Agustín Huila
 img: img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp
 alt: Fotografía del hotal bambú en San Agustín Huila
 autor: Julian Franco

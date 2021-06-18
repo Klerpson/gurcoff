@@ -1,9 +1,10 @@
 ---
 layout: articulo
-title: Hotel Internacional de San Agustín Huila
+title: Hotel San Agustín Internacional - Lujo y confort
 description: El hotel Internacional de San Agustín tiene un exuberante paisaje natural, propio del Macizo Colombiano Andino, y por una arquitectura hermosa.
 category: hoteles
 tags: [hoteles]
+h1: Hotel Internacional de San Agustín Huila
 img: img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp
 alt: Fotografía del hotel Internacional en San Agustín Huila
 autor: Julian Franco

@@ -1,49 +1,43 @@
 [
   
    {
-  "title": "Hotel Masaya de San Agustín Huila",
-  "url": "/hoteles/hotel-masaya-san-agustin-huila",
-  "category": "hoteles",
-  "tags": "hoteles"
-  } ,  
-   {
   "title": "San Agustín Huila - Turismo y Naturaleza",
   "url": "/visita-san-agustin-huila",
   "category": "turismo",
   "tags": "turismo, parque"
   } ,  
    {
-  "title": "Hotel Internacional de San Agustín Huila",
+  "title": "Hotel San Agustín Internacional - Lujo y confort",
   "url": "/hoteles/hotel-internacional-san-agustin-huila",
   "category": "hoteles",
   "tags": "hoteles"
   } ,  
    {
-  "title": "Hostal Bambú de San Agustín Huila",
+  "title": "Hostal Bambú de San Agustín - Descanso y Diversión",
   "url": "/hoteles/hostal-bambu-san-agustin-huila",
   "category": "hoteles",
   "tags": "hoteles, hostales"
   } ,  
    {
-  "title": "Hotel Akawanka Lodge de San Agustín Huila",
+  "title": "Hotel Akawanka Lodge, 100% recomendado",
   "url": "/hoteles/akawanka-lodge-san-agustin-huila",
   "category": "hoteles",
   "tags": "hoteles"
   } ,  
    {
-  "title": "Hoteles en San Agustín Huila",
+  "title": "Hoteles en San Agustín Huila | GurCoff San Agustín",
   "url": "/hoteles-san-agustin-huila",
   "category": "hoteles",
   "tags": "turismo, hoteles"
   } ,  
    {
-  "title": "Estrecho del Río Magdalena en San Agustín Huila",
+  "title": "Estrecho del Río Magdalena | GurCoff San Agustín",
   "url": "/estrecho-rio-magdalena",
   "category": "turismo",
   "tags": "parque, turismo"
   } ,  
    {
-  "title": "Los 5 restaurantes mejor calificados de San Agustín Huila",
+  "title": "Los restaurantes mejor calificados de San Agustín Huila",
   "url": "/mejores-restaurantes-san-agustin",
   "category": "restaurantes",
   "tags": "restaurantes, parque"
@@ -55,7 +49,7 @@
   "tags": "turismo, hoteles"
   } ,  
    {
-  "title": "Parque Arqueológico de San Agustín Huila",
+  "title": "Parque Arqueológico de San Agustín | GurCoff",
   "url": "/parque-arqueologico-san-agustin-huila",
   "category": "turismo",
   "tags": "parque"

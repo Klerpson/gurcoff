@@ -4,6 +4,7 @@ title: Los Tres Chorros - ¡Cascada Natural de San Agustín Huila!
 description: Los Tres Chorros es una espectacular cascada en San Agustín Huila. Una cascada muy bien conservada por la misma naturaleza debido a su ubicación.
 category: turismo
 tags: [cascadas, turismo]
+h1: Cascada Los Tres Chorros
 img: img/magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco
@@ -83,7 +84,7 @@ Puedes comenzar tu viaje desde San Agustín. También puedes hospedarte en un ho
 <!-- Imágenes AMP -->
 {% include img.html img="magazine/cascada-tres-chorros/cascada-tres-chorros.webp" img-mini="magazine/cascada-tres-chorros/cascada-tres-chorros-400px.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Foto de la cascada los tres chorros" %}
 
-### Transporte público hasta la cascada
+### Transporte público hasta la cascada los Tres Chorros
 
 En el municipio de San Agustín tienes diferentes opciones de transporte. Están las empresas de transporte intermunicipal, que te pueden acercar hasta el comienzo de los hermosos senderos naturales que conducen hasta la cascada.
 
@@ -91,7 +92,7 @@ Lo mismo pueden hacer los transportes en motocicleta o "motoratones", como se le
 
 Cuando ya llegas al comienzo de los sendero naturales, comienza una caminata. Sí, como acabas de descubrir, no hay acceso en vehículo hasta la cascada. Pero en parte, **esa es una de las razones por la que la cascada Tres Chorros es tan hermosa**.
 
-### Caminata hasta llegar a la cascada
+### Caminata hasta llegar a la cascada de los Tres Chorros
 
 Ahora bien, puedes contratar la compañía de guías turísticos. O sencillamente preguntar a las personas del lugar cuáles son los senderos que llegan hasta la cascada. Al llegar al sendero, la caminata comienza atravezando por un camino entre antiguas haciendas ganaderas. Luego atravesarás senderos por medio del bosque y descendiendo por la montaña.
 
