@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Hotel Masaya de San Agustín Huila
+title: Hotel Sto de San Agustín Huila
 description: El hotel Masaya es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena y su arquitectura es hermosa. ¡Conócelo aquí!
 category: hoteles
 tags: [hoteles]
