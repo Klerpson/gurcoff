@@ -37,7 +37,6 @@ json: '{
   "includesAttraction": [
     {
       "@type": [
-        "Natural",
         "TouristAttraction"
       ],
       "name": "Caminata por senderos naturales",
@@ -46,7 +45,6 @@ json: '{
     },
     {
       "@type": [
-        "Culture",
         "TouristAttraction"
       ],
       "name": "Arqueología con hallazgos desde 3000 A.C.",
