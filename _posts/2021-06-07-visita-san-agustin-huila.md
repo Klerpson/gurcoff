@@ -211,6 +211,40 @@ Por otra parte, ten en cuenta que **en San Agustín Huila abundan las precipitac
 
 Para hospedarte trata de contactar directamente con los hospedajes de la zona. Si tu preferencia es que una agencia te tenga todo listo para no preocuparte de nada en tu paseo, puedes buscar las agencias locales con más experiencia para mejorar los costos de tu viaje.
 
+### Testimonio de un turista en San Agustín
+
+Esta historia nos la hizo llegar Jackeline Méndez. Y nos gustó mucho. Te la compartimos para que sepas qué tal es la experiencia de venir a San Agustín Huila:
+
+### ¿Cómo fue nuestra visita a San Agustín Huila?
+
+Me siento en la necesidad de dar a conocer una de las mejores experiencias turísticas que he tenido en los últimos años. La pandemia nos tenía un poco cohibidos de conocer, viajar y disfrutar.
+
+Sin embargo, fue este fin de semana festivo la oportunidad perfecta para visitar San Agustín, un pueblo mágico al sur del departamento de Huila. Junto con mi familia, decidimos aventurarnos y conocer este tesoro arqueológico, el cual no se deben perder, y aquí les cuento por qué.
+
+#### ¿Qué lugares pudieron visitar?
+
+El primer día **visitamos el Parque Arqueológico San Agustín**, y nos gustó mucho saber que es Patrimonio de la Humanidad, y la necrópolis de mayor extensión del mundo. Eso nos llenó de orgullo.
+
+Pudimos ver uno de los yacimientos indígenas más antiguos, plasmados en 500 estatuas esparcidas a los largo de 50 kilómetros cuadrados que muestran parte de la historia precolombina.
+
+Después de casi 7 horas de recorrido, **fuimos al mirador de Chaquira**, en el cual se encuentra una escultura de una mujer tallada en la roca en la que se le pueden ver los brazos levantados, mirando hacía la zona oriental del cañón en la que se ubica. **Lo que más nos llamó la atención es que nunca ha sido restaurada.**
+
+#### ¿Dóndo les gustó comer?
+
+Uno de los restaurantes que más recomendamos, y al cual fuimos después de pasear por el pueblo y hacer un poco de compras de recordatorios, fue **el restaurante Pepenero, una joya italiana que debes probar**. Su pizza fue una experiencia única que recomiendo probar a ojos cerrados. Al día siguiente, escogimos un lugar más tradicional, **La Gata Parrilla, donde la sensación fueron los cortes de carne a la brasa**.
+
+No podíamos despedirnos del pueblo sin antes probar los helados más famosos del lugar, la suavidad y el sabor del helado GurCoff. ¡[Súper recomendado](https://g.page/r/CVLIWAcJjLsKEA0/review)! La Copa de Maracuyá fue el ganador para los adultos, y el brownie con helado para los más pequeños. Pasamos una tarde de fantasía no solo por las delicias del lugar sino también porque pudimos compartir con personas locales.
+
+#### ¿Dónde se hospedaron?
+
+San Agustín tiene muy buenos hoteles familiares donde hospedarse, el elegido por nosotros fue el [Hotel Internacional de San Agustín Huila]({{site.baseurl}}/hotel-internacional-san-agustin-huila) porque contaba con todas las comodidades como recepción 24 horas, parqueadero gratis, [Wifi](https://selectra.com.co/internet-hogar/inalambrico-fijo "Link de la empresa Selectra proveedora de WiFi") con buena conexión, guardería, parqueadero, entre otros. A su vez, otro punto a favor es que estaba comprometido con el medio ambiente al ser un hotel sostenible, un factor de importancia para nuestra familia.
+
+#### ¿Cómo te pareció la gente local?
+
+Otra de las cosas que más nos agradó del lugar fue la amabilidad de las personas. Siempre mantenían una sonrisa en la cara cada vez que nos recomendaban cosas, atendían o simplemente nos topamos en el camino
+
+La calidez humana y atención por el detalle hizo que nuestro viaje fuera aún mejor. Definitivamente la gente de San Agustín sabe como enamorar a sus visitantes, de tal manera que siempre quieran regresar.
+
 ## ¿Ya has venido a San Agustín Huila?
 
 Falta mucho más por escribir. Atrévete y descubre más acerca de esta mágica tierra. Su belleza y misticismo, su historia y cultura, su tierra llena de vida y vegetación; son suficientes razones para **visitar San Agustín Huila.**
