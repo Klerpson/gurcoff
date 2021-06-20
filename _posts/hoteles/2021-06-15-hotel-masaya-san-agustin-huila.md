@@ -10,7 +10,28 @@ alt: Fotografía del hotel Akawanka en San Agustín Huila
 autor: Julian Franco
 date: 2021-06-15
 copyright: Julian Andres Franco Bedoya
-json: false
+json: <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Hotel",
+    "name": "Hotel Masaya Lodge San Agustín",
+    "description": "El hotel Masaya es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena y su arquitectura es hermosa.",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Col",
+        "addressLocality": "San Agustín",
+        "addressRegion": "Huila",
+        "postalCode": "418060",
+        "streetAddress": "Vereda El Tablón - kilómetro 1 - Vía Estrecho del Magdalena"
+    },
+    "telephone": "+573124187927",
+    "photo": "{{site.baseurl}}/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp",
+    "starRating": {
+        "@type": "Rating",
+        "ratingValue": "4.6"
+    },
+    "priceRange": "79000 - 250000"
+}</script>
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Masaya San Agustín Huila: https://www.booking.com/hotel/co/masaya-hostel-san-agustin.es.html
@@ -47,24 +68,6 @@ El hotel Masaya es una propiedad enorme. Su ubición te brinda unas vistas hermo
 
 {% include boton.html path="https://ul.waze.com/ul?place=ChIJa4EuN2F6JY4RXBZUWnoHtNM&ll=1.89185380%2C-76.28113550&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel Masaya de San Agustín Huila en Waze" texto="Waze" %}
 
-## Servicios que ofrece el hotel Masaya de San Agustín
-
-| Servicio | Descripción |
-|---|---|
-| **Espacios de Relax** | Zonas de terraza compartida y por habitación. Zona de chimenea, espectacular para el frío de la zona |
-| **Recepción** | Servicio disponible las 24 horas. También puedes solicitar el servicio de guardaequipaje o pedir información turística |
-| **Restaurante** | Puedes contratar tus alimentos. También tienes servicio de bar |
-| **Salón de relax** | Puedes practicar yoga con sus clases en el hotel |
-| **Servicios de excursione y turismo** | Contrata diferentes paquetes de turismo con el hotel directamente |
-| **Servicios de limpieza** | Realizan limpieza diaria a las habitaciones. Te ofrecen servicios de lavandería, planchado en seco y planchado común |
-| **Servicios de Transporte** | Te ofrecen el servicio para el traslado desde el aeropuerto de Pitalito hasta el hotel |
-| **Zona parqueadero** | Servicio gratuito con muy buena seguridad |
-| **Zona de esparcimiento** | Puedes pasar un rato divertido con juegos de mesa, mesa de billar y mesa de ping pong. Además, pide tus libros favoritos o música para tus niños |
-| **Zona WiFi** | Servicio gratuito con muy buena cobertura |
-
-<!-- IMG -->
-{% include img.html img="magazine/hoteles-san-agustin/hotel-masaya-de-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-masaya-de-san-agustin-400px.webp" alt="Miniaturas del hotel Masaya de San Agustín Huila" title="Hotel Masaya de San Agustín Huila" %}
-
 ## Datos de contacto del Hotel Masaya
 
 Puedes contactarlos y preguntar por los paquetes de turismo que ofrece el mismo hotel. Contacta directamente con el hotel Masaya. Evita los intermediarios para obtener las mejores ofertas.
@@ -90,6 +93,24 @@ Puedes contactarlos y preguntar por los paquetes de turismo que ofrece el mismo 
 **El correo electrónico del hotel Masaya es sanagustin@masaya-experience.com**. Desde el siguiente botón puedes enviarles un e-mail:
 
 {% include boton.html path="mailto:sanagustin@masaya-experience.com" title="Email del Hotel Akawanka de San Agustín Huila" texto="E-mail" %}
+
+<!-- IMG -->
+{% include img.html img="magazine/hoteles-san-agustin/hotel-masaya-de-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-masaya-de-san-agustin-400px.webp" alt="Miniaturas del hotel Masaya de San Agustín Huila" title="Hotel Masaya de San Agustín Huila" %}
+
+## Servicios que ofrece el hotel Masaya de San Agustín
+
+| Servicio | Descripción |
+|---|---|
+| **Espacios de Relax** | Zonas de terraza compartida y por habitación. Zona de chimenea, espectacular para el frío de la zona |
+| **Recepción** | Servicio disponible las 24 horas. También puedes solicitar el servicio de guardaequipaje o pedir información turística |
+| **Restaurante** | Puedes contratar tus alimentos. También tienes servicio de bar |
+| **Salón de relax** | Puedes practicar yoga con sus clases en el hotel |
+| **Servicios de excursione y turismo** | Contrata diferentes paquetes de turismo con el hotel directamente |
+| **Servicios de limpieza** | Realizan limpieza diaria a las habitaciones. Te ofrecen servicios de lavandería, planchado en seco y planchado común |
+| **Servicios de Transporte** | Te ofrecen el servicio para el traslado desde el aeropuerto de Pitalito hasta el hotel |
+| **Zona parqueadero** | Servicio gratuito con muy buena seguridad |
+| **Zona de esparcimiento** | Puedes pasar un rato divertido con juegos de mesa, mesa de billar y mesa de ping pong. Además, pide tus libros favoritos o música para tus niños |
+| **Zona WiFi** | Servicio gratuito con muy buena cobertura |
 
 ## ¿Qué puedo hacer en el Hotel Masaya?
 

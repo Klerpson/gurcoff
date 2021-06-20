@@ -10,7 +10,28 @@ alt: Fotografía del hotel Internacional en San Agustín Huila
 autor: Julian Franco
 date: 2021-06-02
 copyright: Julian Andres Franco Bedoya
-json: false
+json: <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Hotel",
+    "name": "Hotel San Agustín Internacional",
+    "description": "El hotel Internacional de San Agustín tiene un exuberante paisaje natural, propio del Macizo Colombiano Andino, y por una arquitectura hermosa.",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Col",
+        "addressLocality": "San Agustín",
+        "addressRegion": "Huila",
+        "postalCode": "418060",
+        "streetAddress": "Carrera 19 N 1A - 13"
+    },
+    "telephone": "+573124332510",
+    "photo": "{{site.baseurl}}/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp",
+    "starRating": {
+        "@type": "Rating",
+        "ratingValue": "4.2"
+    },
+    "priceRange": "110000 - 380000"
+}</script>
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Hotel Internacional San Agustín Huila: http://www.booking.com/Share-VigE76
@@ -36,6 +57,39 @@ El Hotel Internacional de San Agustín Huila está ubicado en medio de un paisaj
 Es predominante el ambiente artístico en su decoración. Las pinturas de las paredes tienen relación directa con la arquitectura de cada edificio.
 
 **El Hotel Internacional tiene un certificado ACERT por ser sostenible**. La construcción se hizo sobre lo que era una hermosa hacienda de San Agustín. Sus propietarios decidieron conservar los cultivos de productos 100% orgánicos. Estos son parte de su oferta gastronómica en el restaurante del hotel.
+
+## ¿Cómo llegar al hotel Internacional de San Agustín Huila?
+
+**La dirección del Hotel San Agustín Internacional es carrera 19 N 1A - 13, barrio Primero de Mayo**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
+
+{% include boton.html path="https://goo.gl/maps/Swmrwrqeuqdp6ca28" title="Ubicación del Hotel Internacional de San Agustín Huila en Google Maps" texto="Google Maps" %}
+
+{% include boton.html path="https://ul.waze.com/ul?place=ChIJk0UGUnd6JY4R27NK5MaGTVI&ll=1.88312630%2C-76.27765800&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel San Agustín Internacional de San Agustín Huila en Waze" texto="Waze" %}
+
+### WhatsApp del Hotel San Agustín Internacional
+
+El número de whatsapp del Hotel San Agustín Internacional es **+573124332510.**
+
+{% include boton.html path="https://wa.me/573124332510" title="whatsapp del Hotel Internacional de San Agustín Huila" texto="Whatsapp" %}
+
+### Teléfono del Hotel San Agustín Internacional
+
+El número de celular del Hotel San Agustín Internacional es **+573114452615**.
+
+{% include boton.html path="tel:+573114452615" title="Celular del Hotel San Agustín Internacional de San Agustín Huila" texto="Llamar" %}
+
+El segundo número de celular del Hotel San Agustín Internacional es **+573112644839**.
+
+{% include boton.html path="tel:+573112644839" title="Celular del Hotel San Agustín Internacional de San Agustín Huila" texto="Llamar" %}
+
+### Redes sociales del Hotel San Agustín Internacional
+
+{% include boton.html path="https://www.facebook.com/hotelinternacionalsanagustin/" title="Facebook del Hotel San Agustín Internacional de San Agustín Huila" texto="Facebook" %}
+
+{% include boton.html path="https://www.instagram.com/hotelinternacionalsanagustin/?hl=es-la" title="Instagram del Hotel San Agustín Internacional de San Agustín Huila" texto="Instagram" %}
+
+{% include boton.html path="https://www.youtube.com/channel/UCP2ILPWDbPPJxSNz8YiOUZg" title="Youtube del Hotel San Agustín Internacional de San Agustín Huila" texto="Youtube" %}
+
 
 ### ¿Qué servicios ofrece el hotel Internacional de San Agustín?
 
@@ -298,38 +352,6 @@ Aunque no se ofrecen camarotes, puedes escoger entre habitaciones simple, doble 
 ### Video del Hotel San Agustín Internacional
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpTsYerg7BQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## ¿Cómo llegar al hotel Internacional de San Agustín Huila?
-
-**La dirección del Hotel San Agustín Internacional es carrera 19 N 1A - 13, barrio Primero de Mayo**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
-
-{% include boton.html path="https://goo.gl/maps/Swmrwrqeuqdp6ca28" title="Ubicación del Hotel Internacional de San Agustín Huila en Google Maps" texto="Google Maps" %}
-
-{% include boton.html path="https://ul.waze.com/ul?place=ChIJk0UGUnd6JY4R27NK5MaGTVI&ll=1.88312630%2C-76.27765800&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel San Agustín Internacional de San Agustín Huila en Waze" texto="Waze" %}
-
-### WhatsApp del Hotel San Agustín Internacional
-
-El número de whatsapp del Hotel San Agustín Internacional es **+573124332510.**
-
-{% include boton.html path="https://wa.me/573124332510" title="whatsapp del Hotel Internacional de San Agustín Huila" texto="Whatsapp" %}
-
-### Teléfono del Hotel San Agustín Internacional
-
-El número de celular del Hotel San Agustín Internacional es **+573114452615**.
-
-{% include boton.html path="tel:+573114452615" title="Celular del Hotel San Agustín Internacional de San Agustín Huila" texto="Llamar" %}
-
-El segundo número de celular del Hotel San Agustín Internacional es **+573112644839**.
-
-{% include boton.html path="tel:+573112644839" title="Celular del Hotel San Agustín Internacional de San Agustín Huila" texto="Llamar" %}
-
-### Redes sociales del Hotel San Agustín Internacional
-
-{% include boton.html path="https://www.facebook.com/hotelinternacionalsanagustin/" title="Facebook del Hotel San Agustín Internacional de San Agustín Huila" texto="Facebook" %}
-
-{% include boton.html path="https://www.instagram.com/hotelinternacionalsanagustin/?hl=es-la" title="Instagram del Hotel San Agustín Internacional de San Agustín Huila" texto="Instagram" %}
-
-{% include boton.html path="https://www.youtube.com/channel/UCP2ILPWDbPPJxSNz8YiOUZg" title="Youtube del Hotel San Agustín Internacional de San Agustín Huila" texto="Youtube" %}
 
 ### Otros aspectos sobre el hotel Internacional
 
