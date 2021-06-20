@@ -10,7 +10,7 @@ alt: Fotografía del hotel Akawanka en San Agustín Huila
 autor: Julian Franco
 date: 2021-05-22
 copyright: Julian Andres Franco Bedoya
-json: '<script type="application/ld+json">
+json: '
 {
     "@context": "https://schema.org",
     "@type": "Hotel",
@@ -31,7 +31,7 @@ json: '<script type="application/ld+json">
         "ratingValue": "4.6"
     },
     "priceRange": "380000 - 1000000"
-}</script>'
+}'
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Akawanka San Agustín Huila: https://www.booking.com/hotel/co/akawanka-lodge.es.html
