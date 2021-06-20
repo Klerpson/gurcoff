@@ -10,7 +10,7 @@ alt: Fotografía del hotel Internacional en San Agustín Huila
 autor: Julian Franco
 date: 2021-06-02
 copyright: Julian Andres Franco Bedoya
-json: <script type="application/ld+json">
+json: '<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "Hotel",
@@ -31,7 +31,7 @@ json: <script type="application/ld+json">
         "ratingValue": "4.2"
     },
     "priceRange": "110000 - 380000"
-}</script>
+}</script>'
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Hotel Internacional San Agustín Huila: http://www.booking.com/Share-VigE76

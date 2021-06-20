@@ -33,6 +33,10 @@ NOTA: Si en alguna categoría se repite un hotel, es porque puede satisfacer cua
 
 Esta es la lista disponible:
 
+### Hotel Masaya Lodge
+
+{% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp" alt="Fotografía del hotel Masaya San Agustín en San Agustín Huila" imgtitle="Foto del Hotel Masaya" texto="Ecolodge perfectamente ubicado sobre el cañón del río Magdalena y de arquitectura hermosa." link="hotel-masaya-san-agustin-huila" logo1="img/iconos/mascotas.svg" alt-logo1="Hotel Masaya San Agustín acepta mascotas" title-logo1="Logo mascotas sí" logo2="img/iconos/wifi.svg" alt-logo2="Hotel Masaya San Agustín wifi" title-logo2="Logo wifi" logo3="img/iconos/lavanderia.svg" alt-logo3="Hotel Masaya San Agustín lavanderia" title-logo3="Logo lavanderia" logo4="img/iconos/parqueadero.svg" alt-logo4="Hotel Masaya San Agustín parqueadero" title-logo4="Logo parqueadero" logo5="img/iconos/ducha.svg" alt-logo5="Hotel Masaya San Agustín ducha" title-logo5="Logo ducha" %}
+
 ### Hotel Akawanka Lodge
 
 {% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila-400px.webp" alt="Fotografía del Hotel Akawanka de San Agustín Huila" imgtitle="Foto del Hotel Akawanka" texto="Hotel de lujo con hermosas eco lodge y servicios profesionales para liberar tu estrés." link="akawanka-lodge-san-agustin-huila" logo1="img/iconos/mascotas-no.svg" alt-logo1="Hotel Akawanka no acepta mascotas" title-logo1="Logo mascotas no" logo2="img/iconos/wifi.svg" alt-logo2="Hotel Akawanka wifi" title-logo2="Logo wifi" logo3="img/iconos/tv.svg" alt-logo3="Hotel Akawanka tv" title-logo3="Logo tv" logo4="img/iconos/parqueadero.svg" alt-logo4="Hotel Akawanka parqueadero" title-logo4="Logo parqueadero" logo5="img/iconos/ducha.svg" alt-logo5="Hotel Akawanka ducha" title-logo5="Logo ducha" %}

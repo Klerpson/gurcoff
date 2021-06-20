@@ -31,7 +31,6 @@ json: '{
   "includesAttraction": [
     {
       "@type": [
-        "River",
         "TouristAttraction"
       ],
       "name": "Estrecho del río Magdalena",

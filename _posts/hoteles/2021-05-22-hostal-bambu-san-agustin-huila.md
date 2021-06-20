@@ -10,7 +10,7 @@ alt: Fotografía del hotal bambú en San Agustín Huila
 autor: Julian Franco
 date: 2021-05-25
 copyright: Julian Andres Franco Bedoya
-json: <script type="application/ld+json">
+json: '<script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "Hotel",
@@ -31,7 +31,7 @@ json: <script type="application/ld+json">
         "ratingValue": "4.8"
     },
     "priceRange": "24000 - 75000"
-}</script>
+}</script>'
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Hostal Bambú San Agustín Huila: https://www.booking.com/hotel/co/hostal-bambu.es.html

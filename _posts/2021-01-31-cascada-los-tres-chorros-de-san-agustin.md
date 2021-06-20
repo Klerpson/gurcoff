@@ -30,7 +30,6 @@ json: '{
   "includesAttraction": [
     {
       "@type": [
-        "River",
         "TouristAttraction"
       ],
       "name": "Cascada Los Tres Chorros",
@@ -39,7 +38,6 @@ json: '{
     },
     {
       "@type": [
-        "Horses",
         "TouristAttraction"
       ],
       "name": "Cabalgata hasta la Cascada de los Tres Chorros",

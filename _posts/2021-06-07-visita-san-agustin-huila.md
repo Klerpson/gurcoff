@@ -41,7 +41,6 @@ json: '{
   "includesAttraction": [
     {
       "@type": [
-        "Town",
         "TouristAttraction"
       ],
       "name": "San Agustín Huila pueblo Turístico",
@@ -50,8 +49,6 @@ json: '{
     },
     {
       "@type": [
-        "Pictures",
-        "graffiti",
         "TouristAttraction"
       ],
       "name": "Arte urbano",
