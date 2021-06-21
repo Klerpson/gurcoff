@@ -237,7 +237,7 @@ No podíamos despedirnos del pueblo sin antes probar los helados más famosos de
 
 #### ¿Dónde se hospedaron?
 
-San Agustín tiene muy buenos hoteles familiares donde hospedarse, el elegido por nosotros fue el [Hotel Internacional de San Agustín Huila]({{site.baseurl}}/hotel-internacional-san-agustin-huila) porque contaba con todas las comodidades como recepción 24 horas, parqueadero gratis, [Wifi](https://selectra.com.co/internet-hogar/inalambrico-fijo "Link de la empresa Selectra proveedora de WiFi") con buena conexión, guardería, parqueadero, entre otros. A su vez, otro punto a favor es que estaba comprometido con el medio ambiente al ser un hotel sostenible, un factor de importancia para nuestra familia.
+San Agustín tiene muy buenos hoteles familiares donde hospedarse, el elegido por nosotros fue el [Hotel Internacional de San Agustín Huila]({{site.baseurl}}/hoteles/hotel-internacional-san-agustin-huila) porque contaba con todas las comodidades como recepción 24 horas, parqueadero gratis, [Wifi](https://selectra.com.co/internet-hogar/inalambrico-fijo "Link de la empresa Selectra proveedora de WiFi") con buena conexión, guardería, parqueadero, entre otros. A su vez, otro punto a favor es que estaba comprometido con el medio ambiente al ser un hotel sostenible, un factor de importancia para nuestra familia.
 
 #### ¿Cómo te pareció la gente local?
 
