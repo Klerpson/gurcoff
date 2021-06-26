@@ -83,6 +83,7 @@ La Heladería GurCoff no garantiza el acceso permanente al Sitio Web ni garantiz
 La Heladería GurCoff y/o sus proveedores podrían, en cualquier momento y ya sea de forma temporal o permanente, modificar o interrumpir la totalidad o una parte del Sitio con el fin de realizar tareas de mantenimiento y/o mejoras y/o cambios en el Sitio. la Heladería GurCoff no será responsable de las modificaciones ni de la suspensión o la interrupción del Sitio.
 
 ## Marco jurídico
+
 Este Sitio y su contenido se rigen por la legislación de Colombia. Todo posible litigio relacionado con el Sitio o con su contenido se dirimirá en los tribunales de justicia colombianos.
 
 ## Cliente, Proveedor y Colaborador

@@ -1,0 +1,143 @@
+---
+layout: articulo
+title: Hotel Estorake San Agustín Huila
+description: El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante. Es un hotel con mucha calidad humana y en sus servicios. ¡Conócelo!
+category: hoteles
+tags: [hoteles]
+h1: Hotel Estorake de San Agustín Huila
+img: img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp
+alt: Fotografía del hotel Estorake en San Agustín Huila
+autor: Julian Franco
+date: 2021-06-25
+copyright: Julian Andres Franco Bedoya
+json: '
+{
+    "@context": "https://schema.org",
+    "@type": "Hotel",
+    "name": "Hotel Estorake San Agustín Huila",
+    "description": "El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante. Es un hotel con mucha calidad humana y en sus servicios. ¡Conócelo!",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Col",
+        "addressLocality": "San Agustín",
+        "addressRegion": "Huila",
+        "postalCode": "418060",
+        "streetAddress": "Calle 5 No. 23-88, Km1 Via al Parque Arqueológico"
+    },
+    "telephone": "+573208039667",
+    "photo": "{{site.baseurl}}/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp",
+    "starRating": {
+        "@type": "Rating",
+        "ratingValue": "4.7"
+    },
+    "priceRange": "190000 - 250000"
+}'
+excerpt_separator: <!-- excerpt -->
+referencias:
+  - Booking Hotel Estorake San Agustín Huila: http://www.booking.com/Share-Mt2TeD
+  - TripAdvisor Hotel Estorake San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d12627613-Reviews-Hotel_Estorake_San_Agustin_Huila-San_Agustin_Huila_Department.html?m=19905
+  - Fotos Hotel Hotel Estorake: https://www.google.com/maps/place/Hotel Estorake+San+Agust%C3%ADn/@1.895828,-76.2683103,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPIVtVBrAV28ZUbTdbeocSQW3k3Y1KtHev5j5Th!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPIVtVBrAV28ZUbTdbeocSQW3k3Y1KtHev5j5Th%3Dw160-h120-k-no!7i5520!8i4140!4m18!1m9!3m8!1s0x8e25707f01ae31c7:0xccd64e01b1e32fe2!2sHotel Estorake+San+Agust%C3%ADn!5m2!4m1!1i2!8m2!3d1.895837!4d-76.2683301!3m7!1s0x8e25707f01ae31c7:0xccd64e01b1e32fe2!5m2!4m1!1i2!8m2!3d1.895837!4d-76.2683301
+  - Página web del Hotel Hotel Estorake San Agustín: https://www.Hotel Estorake-experience.com/san-agustin/
+permalink: /hoteles/hotel-estorake-san-agustin-huila
+---
+**El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante, con mucha calidad humana y en sus servicios**.
+
+<!-- excerpt -->
+
+Al ser un hotel con mucho lujos y pequeño, se posiciona como uno de los lugares más acogedores de San Agustín Huila. Aquí te contamos todo lo que necesitas conocer sobre esta acogedora opción de hospedaje en San Agustín.
+
+* Do not remove this line (it will not be displayed)
+{:toc}
+
+## Hotel Estorake
+
+El Hotel Estorake es una construcción lujosa con muchas ventajas sobre las demás ofertas hoteleras. Además, tiene un personal muy bien capacitado en los servicios hoteleros.
+
+Una de sus políticas de servicio es evitar grandes grupos que causen incomodidad a los demás. Y los comentarios sobre el lugar siempre destacan la tranquilidad y la comodidad del hotel.
+
+{% include img.html img="magazine/hoteles-san-agustin/hotel-estorake-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp" alt="Fotografías del hotel Estorake de San Agustín Huila" title="Hotel Estorake de San Agustín Huila" %}
+*Hotel Estorake de San Agustín*
+
+## ¿Cómo llegar al hotel Estorake de San Agustín Huila?
+
+**La dirección del Hotel Estorake es Calle 5 No. 23-88, Km1 Via al Parque Arqueológico**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
+
+{% include boton.html path="https://goo.gl/maps/zPkg79faoULsudmQ7" title="Ubicación del Hotel Estorake de San Agustín Huila en Google Maps" texto="Google Maps" %}
+
+{% include boton.html path="https://ul.waze.com/ul?place=ChIJXV9CGnt6JY4R-Z3Li3AXjL0&ll=1.88691670%2C-76.28072150&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel Estorake de San Agustín Huila en Waze" texto="Waze" %}
+
+### WhatsApp del Hotel Estorake
+
+**El número de whatsapp del Hotel Estorake de San Agustín es +573208039667.** Haz clic en el botón para escribirles:
+
+{% include boton.html path="https://wa.me/573208039667" title="whatsapp del Hotel Estorake de San Agustín Huila" texto="Whatsapp" %}
+
+### Teléfono del Hotel Estorake
+
+**El número de celular del Hotel Estorake en San Agustín Huila es +573208039667**. Puedes llamarlos haciendo el clic en el siguiente botón:
+
+{% include boton.html path="tel:+573208039667" title="Celular del Hotel Estorake de San Agustín Huila" texto="Llamar" %}
+
+### Redes sociales del Hotel San Agustín Internacional
+
+Para visitar los perfiles del Hotel Estorake en las redes sociales, solamente debes hacer clic en los siguiente botones:
+
+{% include boton.html path="https://www.facebook.com/Hotel-Estorake-San-Agustin-1821257588195088/" title="Facebook del Hotel San Agustín Internacional de San Agustín Huila" texto="Facebook" %}
+
+{% include boton.html path="https://www.instagram.com/hotelestorake_san_agustin/" title="Instagram del Hotel Estorake de San Agustín" texto="Instagram" %}
+
+## ¿Qué servicios ofrece el hotel Internacional de San Agustín?
+
+| Servicio | Descripción |
+|---|---|
+| **Bar** | Bar muy elegante con zona de chimenea |
+| **Servicios de desayuno** | Puedes pedir desayuno americano al cuarto |
+| **Recepción** | Servicio disponible las 24 horas |
+| **Ducha caliente** | El hotel te regala artículos básicos de aseo |
+| **Servicios al cuarto** | Además del servicio diario de limpieza, tus solicitudes pueden atenderce directamente hasta el cuarto |
+| **Servicios de Transporte** | Puedes contratar el servicio por un cargo adicional |
+| **Servicios de Turismo** | Desde el mismo hotel puedes contratar paquetes turísticos |
+| **Zona WiFi** | Servicio gratuito con muy buena cobertura en todo el hotel |
+| **Actividades infantiles** | Zona familiar y para los más pequeños |
+| **Bodega** | Puedes encargar la seguridad de tus pertenencias por un tiempo |
+
+{% include img.html img="magazine/hoteles-san-agustin/hotel-estorake-san-agustin-huila.webp" img-mini="magazine/hoteles-san-agustin/hotel-estorake-san-agustin-huila-320px.webp" alt="Fotografías de los alrededores del hotel Estorake de San Agustín Huila" title="Paisajes del Hotel Estorake de San Agustín Huila" %}
+*Hotel Estorake de San Agustín*
+
+## Habitaciones del Hotel Estorake
+
+El hotel Estorake tiene una oferta de 14 habitaciones entre sencillas, dobles, triples. Además, tienen proyectada la construcciones de más suites tipo apartamento.
+
+Ahora tiene 2 cómodas suites con amplios balcones. Están ubicadas en la segunda planta con una vista hermosa.
+
+Todas tienen camas amplias, televisión por cable y todos los muebles completos para tu comodidad. La suite tiene caja fuerte, mini bar y sala de estar.
+
+## Preguntas sobre el Hotel Estorake
+
+1. **¿Qué lugares puedo visitar cerca al Hotel Estorake?** El casco urbano está a 1 minuto a pie. Allí está el Museo Precolombino Villa Real, la calle de las artesanías, restaurantes y todo el comercio. El Parque Arqueológico de San Agustín está a unos 15 minutos a pie. A 2 minutos tienes una piscina de agua natural. Estos entre otros.
+
+2. **¿Hay restaurantes cerca del Hotel Estorake?** Sí. Hay muchos restaurantes cercanos y de muy buena calidad. El Hotel Estorake está en medio de la zona de los mejores restaurantes del pueblo.
+
+3. **¿Hablan inglés en el Hotel Estorake?** El personal habla inglés.
+
+4. **¿Qué actividades turísticas ofrece el hotel** Con el hotel puedes contratar tours en jeep, paseos en caballo, senderismo, rafting y expedición al macizo colombiano.
+
+## ¿Por qué escoger el hotel Estorake?
+
+1. **El hotel es muy familiar. La construcción es pequeña, dándole ese ambiente de exclusividad.**
+2. Los huéspedes del Hotel Estorake disfrutan de mucha paz y de la naturaleza. Esto se destaca en los [comentarios sobre el hotel](#fuentes)
+3. En la noche, los visitantes, por su cercanía al pueblo, pueden disfrutar de la cultura de San Agustín.
+
+También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en [TripAdvisor](#fuentes). Además, puedes visitar su [página web oficial.](#fuentes)
+
+### Video del Hotel Estorake de San Agustín
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cgmfvOqOro8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Hotel Estorake San Agustín - Créditos al canal Estorake HOTEL SAN AGUSTÍN HUILA*
+
+### Otros aspectos sobre el hotel Estorake
+
+El hotel Estorake mantiene los protocolos de bioseguridad. Recuerda está dispuesto a colaborar. Otros puntos para tener en cuenta:
+
+1. Si buscas un hotel económico en San Agustín Huila, escoge otro. Su calidad y profesionalidad requieren de costos moderados y altos, según el servicio.
+2. El hotel no admite mascotas.

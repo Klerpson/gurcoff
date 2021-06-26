@@ -12,7 +12,7 @@ description: Conoce los lugares turísticos, los hoteles y las experiencias que 
   <h2>El Blog de San Agustín Huila</h2>
   {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  <h3 id="{{ category_name}}">{{ category_name | capitalize}}
+  <h3 id="{{ category_name}}">{{ category_name | capitalize}} en San Agustín Huila
   </h3>
   {% for post in site.categories[category_name] %}
   <article>

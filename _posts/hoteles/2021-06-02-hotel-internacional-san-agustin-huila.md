@@ -90,7 +90,6 @@ El segundo número de celular del Hotel San Agustín Internacional es **+5731126
 
 {% include boton.html path="https://www.youtube.com/channel/UCP2ILPWDbPPJxSNz8YiOUZg" title="Youtube del Hotel San Agustín Internacional de San Agustín Huila" texto="Youtube" %}
 
-
 ### ¿Qué servicios ofrece el hotel Internacional de San Agustín?
 
 | Servicio | Descripción |
