@@ -4,11 +4,11 @@ title: Hoteles en San Agustín Huila | GurCoff San Agustín
 description: Los hoteles en San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza. Encuentra hoteles, cabañas y más aquí. Léelo!
 category: hoteles
 tags: [turismo, hoteles]
-h1: Hoteles, hostales, cabañas y más para hospedarte en San Agustín
+h1: Hoteles, hostales, cabañas y más para hospedarte en San Agustín Huila
 img: img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp
 alt: Fotografía del hotel Akawanka en San Agustín Huila
 autor: Julian Franco
-date: 2021-05-17
+date: 2021-06-17
 copyright: Julian Andres Franco Bedoya
 json: false
 excerpt_separator: <!-- excerpt -->
@@ -44,6 +44,10 @@ Esta es la lista disponible:
 ### Hotel San Agustín Internacional
 
 {% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-400px.webp" alt="Fotografía del Hotel Internacional de San Agustín Huila" imgtitle="Foto del Hotel Internacional" texto="Hotel con arquitectura inspirada en diferentes países y en la Colombia precolombina, colonial, republicana y contemporánea." link="hotel-internacional-san-agustin-huila" logo1="img/iconos/mascotas-no.svg" alt-logo1="Hotel San Agustin Internacional no acepta mascotas" title-logo1="Logo mascotas no" logo2="img/iconos/wifi.svg" alt-logo2="Hotel San Agustin Internacional wifi" title-logo2="Logo wifi" logo3="img/iconos/tv.svg" alt-logo3="Hotel San Agustin Internacional tv" title-logo3="Logo tv" logo4="img/iconos/parqueadero.svg" alt-logo4="Hotel San Agustin Internacional parqueadero" title-logo4="Logo parqueadero" logo5="img/iconos/ducha.svg" alt-logo5="Hotel San Agustin Internacional ducha" title-logo5="Logo ducha" %}
+
+### Hotel Estorake San Agustín Huila
+
+{% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-huila-320px.webp" alt="Fotografía del Hotel Estorake de San Agustín Huila" imgtitle="Foto del Hotel Estorake" texto="El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante, con mucha calidad humana y en sus servicios." link="hotel-estorake-san-agustin" logo1="img/iconos/mascotas-no.svg" alt-logo1="Hotel San Agustin Estorake no acepta mascotas" title-logo1="Logo mascotas no" logo2="img/iconos/wifi.svg" alt-logo2="Hotel San Agustin Estorake wifi" title-logo2="Logo wifi" logo3="img/iconos/tv.svg" alt-logo3="Hotel San Agustin Estorake tv" title-logo3="Logo tv" logo4="img/iconos/parqueadero.svg" alt-logo4="Hotel San Agustin Estorake parqueadero" title-logo4="Logo parqueadero" logo5="img/iconos/ducha.svg" alt-logo5="Hotel San Agustin Estorake ducha" title-logo5="Logo ducha" %}
 
 ## Hostales en San Agustín Huila a tu medida
 

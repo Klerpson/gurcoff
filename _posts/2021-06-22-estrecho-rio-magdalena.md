@@ -4,11 +4,11 @@ title: Estrecho del Río Magdalena | GurCoff San Agustín
 description: El Estrecho del Magdalena es el punto más estrecho del majestuoso río Colombiano. Te decimos cómo llegar, sus misterios y recomendaciones para ti.
 category: turismo
 tags: [parque, turismo]
-h1: El Estrecho del Río Magdalena en San Agustín Huila
-img: img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp
+h1: El Estrecho del Magdalena en San Agustín Huila
+img: img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena-400px.webp
 alt: Vista aérea del estrecho del Magdalena cortesía de Adventure X Colombia
 autor: Julian Franco
-date: 2021-04-02
+date: 2021-06-22
 copyright: Julian Andres Franco Bedoya
 json: '{
   "@context" : "https://schema.org",
@@ -35,13 +35,13 @@ json: '{
       ],
       "name": "Estrecho del río Magdalena",
       "sameAs": "https://gurcoff.com/estrecho-rio-magdalena",
-      "image": "https://gurcoff.com/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp"
+      "image": "https://gurcoff.com/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp"
     }
   ]
 }'
 excerpt_separator: <!-- excerpt -->
 ---
-**El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2.20 metros**.
+**El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho**.
 <!-- excerpt -->
 
 {% include img.html img="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp" alt="Estrecho del río Magdalena en San Agustín Huila" title="Estrecho del río Magdalena en San Agustín" %}
@@ -70,14 +70,14 @@ Esta espectacular escena se puede contemplar en el municipio de [San Agustín Hu
 <iframe width='100%' height='360' src='https://roundme.com/embed/37271/90578' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 *Imagen del Estrecho del Magdalena tomada de roundme.com*
 
-Para llegar a este punto del río Magdalena, debes partir desde el casco urbano de San Agustín. Es un viaje de 9 kilómetros solamente. Y puede tomar entre 30 y 45 minutos, debido al mal estado de las vías.
+Para llegar a este punto del río Magdalena, debes partir desde el casco urbano de San Agustín. Es un viaje de 9 kilómetros solamente. Y puede tomar entre 30 y 45 minutos, debido al mal estado de las vías. Pero más allá de la vía, disfrutarás de una vista hermosa sobre el cañón del Magdalena.
 
 ## Cómo llegar al estrecho del río Magdalena
 
 {% include img.html img="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp" alt="Esquina donde se sale hacia el Estrecho del río Magdalena en San Agustín Huila" title="Calle que sale hacia el Estrecho del río Magdalena en San Agustín" %}
 *Imagen tomada de Google Maps - Salida hacia el Estrecho del Magdalena*
 
-A nuestra heladería llegan muchos turistas preguntando cuál es la salida hacia el estrecho, pues tiende a confundirse con la salida al [parque arqueológico,](https://gurcoff.com/parque-arqueologico-san-agustin-huila) que es por donde se encuentra nuestra heladería está ubicada (visita la sección de [contacto](https://gurcoff.com/contacto) para más información).
+A nuestra heladería llegan muchos turistas preguntando cuál es la salida hacia el estrecho, pues tiende a confundirse con la salida al [parque arqueológico,](https://gurcoff.com/parque-arqueologico-san-agustin-huila) que es por donde nuestra heladería está ubicada (visita la sección de [contacto](https://gurcoff.com/contacto) para más información).
 
 La salida hacia el estrecho del Magdalena es otra. Debes preguntar por la calle de las artesanías. Cuando llegas a la esquina de esta calle, estarás ubicado en la esquina que se conoce como la esquina de los moto-ratones. La dirección es carrera 14 con calle 5.
 
@@ -88,9 +88,9 @@ La salida hacia el estrecho del Magdalena es otra. Debes preguntar por la calle 
 
 Cuando llegas al estrecho del Magdalena, hay un gran letrero que te avisa. Por lo tanto, solo debes seguir sobre la vía hasta llegar al punto. Te dejamos una imagen por si acaso. Es tomada en el año {{ "now" | date:"%Y"}}.
 
-## Qué hacer en el Estrecho del río Magdalena
+## Qué hacer en el Estrecho del Magdalena
 
-Los vecinos de San Agustín han adaptado este punto de una manera muy atractiva. Al llegar encontrarás hermosos souvenirs y obras de arte comunes en la localidad.
+Los vecinos de San Agustín han organizado este punto de una manera muy atractiva. Al llegar encontrarás hermosos souvenirs y obras de arte comunes en la localidad.
 
 {% include img.html img="magazine/estrecho-rio-magdalena/artesanias-en-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/artesanias-en-estrecho-del-magdalena-400px.webp" alt="Artesanías en el Estrecho del río Magdalena en San Agustín Huila" title="Artesanías en el Estrecho del río Magdalena en San Agustín" %}
 *Algunas artesanías que puedes comprar en el Estrecho del Magdalena*
@@ -125,7 +125,7 @@ En esta antigua señalización los turistas han tenido la costumbre de dejar sus
 
 Sobre todo hay imágenes de lo que parecen ser clubes de moteros. Otras simplemente no tienen sentido. Así que si tienes un imagen que sea acorde, recuerda dejar tu estampa allí.
 
-#### Escaleras de acceso
+#### Escaleras de acceso al Estrecho del Magdalena
 
 {% include img.html img="magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/estrecho-del-magdalena-400px.webp" alt="Estrecho río Magdalena en San Agustín Huila" title="Estrecho río Magdalena en San Agustín" %}
 
@@ -137,9 +137,9 @@ La buena noticia es que llegas hasta el lugar en escaleras muy bonitas para una 
 
 ## Lo que no debes hacer en el Estrecho del Magdalena
 
-**En el estrecho del Magdalena es muy común que los más osados intenten pasar de un lado al otro saltando el caudal**. Sin embargo, estas personas incautas no tienen en cuenta estos factores importantes:
+En el estrecho del Magdalena es muy común que los más osados intenten pasar de un lado al otro saltando el caudal. Sin embargo, estas personas incautas no tienen en cuenta estos factores importantes:
 
-1. **Las rocas de los 2 lados del caudal normalmente están húmedas**. Recuerda que la zona es lluviosa. Además, como viste en un video anterio, el caudal crece y humedece estas piedras.
+1. **Las rocas de los 2 lados del caudal del Estrecho del Magdalena normalmente están húmedas**. Recuerda que la zona es lluviosa. Además, como viste en un video anterior, el caudal crece y humedece estas piedras.
 ![Estrecho del río Magdalena][img7]
 2. **La corriente en este punto es muy fuerte**. En este punto se reduce toda la corriente que trae desde la zona alta. Su fuerza lo hace un punto imposible para bañar en él.
 3. **El caudal que pasa por esta zona es muy peligroso**. Como te decía en el punto anterior, es un sector que no es apto para bañar. La fuerza del caudal hace que se formen remolinos profundos. Esto implica que quienes caen allí pueden perder la vida fácilmente. Lo que nos lleva al último punto.
@@ -153,4 +153,4 @@ Estamos seguros que pasarás un paseo relajante, muy bonito, rodeado de naturale
 
 ## ¿Te gustaría venir y tomar tus fotos allí?
 
-¿Te imaginabas que el Magdalena tuviera un punto así? ¿Qué te parece? **Cuéntame en los comentarios**.
+¿Te imaginabas que el Magdalena tuviera un punto así? ¿Qué te parece? **Comparte la información a quien también le guste estas formaciones hermosas de la naturaleza**.

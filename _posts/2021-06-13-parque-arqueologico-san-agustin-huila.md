@@ -8,7 +8,7 @@ h1: El Parque Arqueológico de San Agustín - Patrimonio de la Humanidad
 img: img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp
 alt: Parque arqueológico de San Agustín Huila sección mesita A
 autor: Julian Franco
-date: 2021-03-13
+date: 2021-06-13
 copyright: Julian Andres Franco Bedoya
 referencias:
   - Fotografías: https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn

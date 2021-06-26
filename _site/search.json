@@ -7,10 +7,28 @@
   "tags": "hoteles"
   } ,  
    {
+  "title": "Estrecho del Río Magdalena | GurCoff San Agustín",
+  "url": "/estrecho-rio-magdalena",
+  "category": "turismo",
+  "tags": "parque, turismo"
+  } ,  
+   {
+  "title": "Hoteles en San Agustín Huila | GurCoff San Agustín",
+  "url": "/hoteles-san-agustin-huila",
+  "category": "hoteles",
+  "tags": "turismo, hoteles"
+  } ,  
+   {
   "title": "Hotel Masaya - Increíbles vistas de San Agustín",
   "url": "/hoteles/hotel-masaya-san-agustin-huila",
   "category": "hoteles",
   "tags": "hoteles"
+  } ,  
+   {
+  "title": "Parque Arqueológico de San Agustín | GurCoff",
+  "url": "/parque-arqueologico-san-agustin-huila",
+  "category": "turismo",
+  "tags": "parque"
   } ,  
    {
   "title": "San Agustín Huila - Turismo y Naturaleza",
@@ -37,28 +55,10 @@
   "tags": "hoteles"
   } ,  
    {
-  "title": "Hoteles en San Agustín Huila | GurCoff San Agustín",
-  "url": "/hoteles-san-agustin-huila",
-  "category": "hoteles",
-  "tags": "turismo, hoteles"
-  } ,  
-   {
-  "title": "Estrecho del Río Magdalena | GurCoff San Agustín",
-  "url": "/estrecho-rio-magdalena",
-  "category": "turismo",
-  "tags": "parque, turismo"
-  } ,  
-   {
   "title": "Los restaurantes mejor calificados de San Agustín Huila",
   "url": "/mejores-restaurantes-san-agustin",
   "category": "restaurantes",
   "tags": "restaurantes, parque"
-  } ,  
-   {
-  "title": "Parque Arqueológico de San Agustín | GurCoff",
-  "url": "/parque-arqueologico-san-agustin-huila",
-  "category": "turismo",
-  "tags": "parque"
   } ,  
    {
   "title": "Los Tres Chorros - ¡Cascada Natural de San Agustín Huila!",

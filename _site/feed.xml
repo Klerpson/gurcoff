@@ -4,7 +4,7 @@
      <link href="https://gurcoff.comfeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://gurcoff.com" rel="alternate" type="text/html"/>
      <id>https://gurcoff.com</id>
-     <updated>2021-06-26T14:34:02-05:00</updated>
+     <updated>2021-06-26T14:48:11-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -21,11 +21,35 @@
  </entry>
  
  <entry>
+   <title>Estrecho del Río Magdalena | GurCoff San Agustín</title>
+   <link href="https://gurcoff.com/estrecho-rio-magdalena"/>
+   <id>https://gurcoff.com/estrecho-rio-magdalena</id>
+   <updated>2021-06-22T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp&quot; width=&quot;720&quot; height=&quot;360&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp&quot; width=&quot;320&quot; height=&quot;200&quot; alt=&quot;Estrecho del río Magdalena en San...</content>
+ </entry>
+ 
+ <entry>
+   <title>Hoteles en San Agustín Huila | GurCoff San Agustín</title>
+   <link href="https://gurcoff.com/hoteles-san-agustin-huila"/>
+   <id>https://gurcoff.com/hoteles-san-agustin-huila</id>
+   <updated>2021-06-17T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping. Todos estos lugares...</content>
+ </entry>
+ 
+ <entry>
    <title>Hotel Masaya - Increíbles vistas de San Agustín</title>
    <link href="https://gurcoff.com/hoteles/hotel-masaya-san-agustin-huila"/>
    <id>https://gurcoff.com/hoteles/hotel-masaya-san-agustin-huila</id>
    <updated>2021-06-15T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;El hotel Masaya es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena. El diseño del hotel es hermoso. Un adorno más del paisaje, pues está inspirado perfectamente con la naturaleza del lugar.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Sus construcciones se basan en las chozas de las culturales...</content>
+ </entry>
+ 
+ <entry>
+   <title>Parque Arqueológico de San Agustín | GurCoff</title>
+   <link href="https://gurcoff.com/parque-arqueologico-san-agustin-huila"/>
+   <id>https://gurcoff.com/parque-arqueologico-san-agustin-huila</id>
+   <updated>2021-06-13T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones. Te cuento todo lo que puedes disfrutar cuando vengas a visitarlo.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot; width=&quot;720&quot; height=&quot;360&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp&quot; width=&quot;320&quot; height=&quot;200&quot; alt=&quot;Parque Arqueológico de San Agustín...</content>
  </entry>
  
  <entry>
@@ -61,35 +85,11 @@
  </entry>
  
  <entry>
-   <title>Hoteles en San Agustín Huila | GurCoff San Agustín</title>
-   <link href="https://gurcoff.com/hoteles-san-agustin-huila"/>
-   <id>https://gurcoff.com/hoteles-san-agustin-huila</id>
-   <updated>2021-05-17T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping. Todos estos lugares...</content>
- </entry>
- 
- <entry>
-   <title>Estrecho del Río Magdalena | GurCoff San Agustín</title>
-   <link href="https://gurcoff.com/estrecho-rio-magdalena"/>
-   <id>https://gurcoff.com/estrecho-rio-magdalena</id>
-   <updated>2021-04-02T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2.20 metros&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp&quot; width=&quot;720&quot; height=&quot;360&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp&quot; width=&quot;320&quot; height=&quot;200&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot;...</content>
- </entry>
- 
- <entry>
    <title>Los restaurantes mejor calificados de San Agustín Huila</title>
    <link href="https://gurcoff.com/mejores-restaurantes-san-agustin"/>
    <id>https://gurcoff.com/mejores-restaurantes-san-agustin</id>
    <updated>2021-03-27T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;Aquí explicaremos cuáles son &lt;strong&gt;los mejores restaurantes de San Agustín Huila&lt;/strong&gt; y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos! &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#restaurantes-en-san-agustín-huila&quot; id=&quot;markdown-toc-restaurantes-en-san-agustín-huila&quot;&gt;Restaurantes en San Agustín Huila&lt;/a&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#restaurante-la-gata-parrilla-de-san-agustín&quot; id=&quot;markdown-toc-restaurante-la-gata-parrilla-de-san-agustín&quot;&gt;Restaurante La Gata Parrilla de San Agustín&lt;/a&gt;&lt;/li&gt;...</content>
- </entry>
- 
- <entry>
-   <title>Parque Arqueológico de San Agustín | GurCoff</title>
-   <link href="https://gurcoff.com/parque-arqueologico-san-agustin-huila"/>
-   <id>https://gurcoff.com/parque-arqueologico-san-agustin-huila</id>
-   <updated>2021-03-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones. Te cuento todo lo que puedes disfrutar cuando vengas a visitarlo.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot; width=&quot;720&quot; height=&quot;360&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp&quot; width=&quot;320&quot; height=&quot;200&quot; alt=&quot;Parque Arqueológico de San Agustín...</content>
  </entry>
  
 
