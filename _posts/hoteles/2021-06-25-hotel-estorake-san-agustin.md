@@ -114,9 +114,9 @@ Todas tienen camas amplias, televisión por cable y todos los muebles completos 
 
 ## Preguntas sobre el Hotel Estorake
 
-1. **¿Qué lugares puedo visitar cerca al Hotel Estorake?** El casco urbano está a 1 minuto a pie. Allí está el Museo Precolombino Villa Real, la calle de las artesanías, restaurantes y todo el comercio. El Parque Arqueológico de San Agustín está a unos 15 minutos a pie. A 2 minutos tienes una piscina de agua natural. Estos entre otros.
+1. **¿Qué lugares puedo visitar cerca al Hotel Estorake?** El casco urbano está a 1 minuto a pie. Allí está el Museo Precolombino Villa Real, la calle de las artesanías, restaurantes y todo el comercio. [El Parque Arqueológico de San Agustín]({{site.baseurl}}/parque-arqueologico-san-agustin-huila) está a unos 15 minutos a pie. A 2 minutos tienes una piscina de agua natural. Estos entre otros.
 
-2. **¿Hay restaurantes cerca del Hotel Estorake?** Sí. Hay muchos restaurantes cercanos y de muy buena calidad. El Hotel Estorake está en medio de la zona de los mejores restaurantes del pueblo.
+2. **¿Hay restaurantes cerca del Hotel Estorake?** Sí. Hay muchos restaurantes cercanos y de muy buena calidad. El Hotel Estorake está en medio de la zona de [los mejores restaurantes de San Agustín]({{site.baseurl}}/mejores-restaurantes-san-agustin).
 
 3. **¿Hablan inglés en el Hotel Estorake?** El personal habla inglés.
 

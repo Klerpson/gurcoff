@@ -15,6 +15,7 @@ excerpt_separator: <!-- excerpt -->
 referencias:
   - Elección de hoteles: https://www.miviajeporelmundo.com/como-elegir-un-buen-hotel-para-hospedarte
   - Beneficios de Viajar: https://psicologiaymente.com/psicologia/beneficios-psicologicos-viajar]
+published: no
 ---
 Datos como saber cuáles son los 5 mejores **hoteles en San Agustín Huila** te permitirá disfrutar de una genial escapada.
 <!-- excerpt -->
@@ -39,16 +40,18 @@ Iniciamos con uno de los 5 **mejores hoteles de San Agustín Huila**, ubicado en
 
 Sin embargo, también cuenta con lujos como lo son su restaurante muy bien valorado entre los visitantes. Adicionalmente podrás hospedarte con tus mascotas, que seguro también disfrutarán de los jardines.
 
-## Hotel Storake
+## Hotel Estorake
 
-![Hotel Storake de San Agustín Huila][img3]
-*Hotel Storake cerca al parque arqueológico*
+![Hotel Estorake de San Agustín Huila][img3]
+*Hotel Estorake cerca al parque arqueológico*
 
 Se trata de uno de **los mejores lugares para quedarse en San Agustín Huila**, principalmente porque está a menos de un kilómetro del [Parque Arqueológico](https://gurcoff.com/parque-arqueologico-san-agustin-huila).
 
 Al pagar tu estadía, estás accediendo al delicioso desayuno continental. Las habitaciones cuentan con WiFi, hermosas decoraciones de granito y servicio al cuarto. Y por si fuera poco, también podrás disfrutar de algunos tragos en el bar del hotel.
 
 Para que puedas hacerte una idea de la **calidad del servicio de este hotel**, puedes comenzar por saber que te recibe muy amablemente su propietario.
+
+Conoce más en el artículo que hicimos sobre [El Hotel Estorake.]({{site.baseurl}}/hoteles/hotel-estorake-san-agustin)
 
 ## Hotel Arqueológico San Agustín
 
@@ -75,6 +78,8 @@ Sus cuartos son casi que pequeños apartamentos ambientados con las diferentes c
 
 ¿Quieres llevarte un recuerdo de San Agustín? También puedes pasar por la tienda de regalos del alojamiento. Además, por su excelente ubicación cerca a la zona urbana, puedes pasar por la calle de las artesanías en el pueblo, o visitar los que consideramos son [los mejores restaurantes de San Agustín.](https://gurcoff.com/mejores-restaurantes-san-agustin)
 
+Conoce más en el artículo que hicimos sobre [El Hotel Internacional.]({{site.baseurl}}/hoteles/hotel-internacional-san-agustin-huila)
+
 ## Conoce más hoteles en San Agustín Huila
 
 Viajar a nuevos lugares  es una de las [mejores experiencias](#fuentes) que se pueden vivir, especialmente con personas valiosas para nosotros. No importa si se trata de tu familia, tu pareja o tu grupo de amigos, estos 5 **hoteles de San Agustín Huila** te harán vivir unos días increíbles.
@@ -87,5 +92,5 @@ Claro está, hay muchos más que están creciendo y desarrollando excelentes exp
 
 [img1]: {{ site.baseurl }}/{{page.img}} "Cascada de los Tres Chorros en San Agustín Huila"
 [img2]: {{ site.baseurl }}/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin.webp "Hotel Masaya San Agustín Huila"
-[img3]: {{ site.baseurl }}/img/magazine/hoteles-san-agustin/hotel-storake-san-agustin.webp "Hotel Storake San Agustín Huila"
+[img3]: {{ site.baseurl }}/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin.webp "Hotel Storake San Agustín Huila"
 [img4]: {{ site.baseurl }}/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin.webp "Uno de los edificios del hotel Internacional San Agustín Huila"
