@@ -208,14 +208,6 @@ footer a {
   box-shadow: var(--shadow);
 }
 
-/* pushnotifications */
-.boton-notificaciones{
-  justify-self: center;
-}
-
-
-
-
 #markdown-toc::before {
   content: "Contenido:";
   font-weight: bold;
@@ -489,6 +481,10 @@ footer a {
 }
 
 @media screen and (min-width:767px) {
+
+  header{
+    height: 35vh;
+  }
 
   .principal article:nth-child(3),
   .principal article:nth-child(5),

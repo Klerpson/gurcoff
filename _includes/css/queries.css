@@ -23,6 +23,10 @@
 
 @media screen and (min-width:767px) {
 
+  header{
+    height: 35vh;
+  }
+
   .principal article:nth-child(3),
   .principal article:nth-child(5),
   .principal article:nth-child(7) {
