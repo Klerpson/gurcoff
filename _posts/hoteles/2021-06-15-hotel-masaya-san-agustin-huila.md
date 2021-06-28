@@ -168,7 +168,7 @@ Es un hotel con más de 25 habitaciones y en crecimiento. El hotel mantiene los 
 
 ## Preguntas frecuentes sobre Masaya Hostel San Agustin
 
-* **¿Hay restaurantes cerca al hotel Masaya de San Agustin?** Sí. Te recomendamos Altos de Yerbabuena Café restaurante, La Gata Parrilla, Fonte Café y otrs más en el artículo [los mejores restaurantes de San Agustín]({{site.baseurl}}/los-5-mejores-hoteles-san-agustin-huila "Artículo sobre los mejores restaurantes de San Agustín").
+* **¿Hay restaurantes cerca al hotel Masaya de San Agustin?** Sí. Te recomendamos Altos de Yerbabuena Café restaurante, La Gata Parrilla, Fonte Café y otrs más en el artículo [los mejores restaurantes de San Agustín]({{site.baseurl}}/mejores-restaurantes-san-agustin "Artículo sobre los mejores restaurantes de San Agustín").
 
 * **¿El personal del hotel atiende en diferentes idiomas?** Sí. El personal habla inglés, español y francés.
 
