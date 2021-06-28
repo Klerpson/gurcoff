@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Términos y Condiciones de GurCoff San Agustin
+h1: Avisos legales del uso de GurCoff.com
 description: Condiciones de uso de la página de la heladería GurCoff
 noindex: true
 ---
