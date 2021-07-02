@@ -22,7 +22,7 @@ json: '
         "addressLocality": "San Agustín",
         "addressRegion": "Huila",
         "postalCode": "418060",
-        "streetAddress": "Vía al Parque Arqueológico, 500 metros más arriba de la piscina "Las Moyas""
+        "streetAddress": "Vía al Parque Arqueológico, 500 metros más arriba de la piscina Las Moyas"
     },
     "telephone": "+573214501377",
     "photo": "https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp",
