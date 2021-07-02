@@ -9,7 +9,7 @@ img: img/magazine/cascada-tres-chorros/cascada-tres-chorros-400px.webp
 alt: Cascada Los Tres Chorros de San Agustín Huila
 autor: Julian Franco
 date: 2021-01-31
-json: '{
+json: ' {
       "@context": "https://schema.org",
       "@graph":[
       {
@@ -45,8 +45,7 @@ json: '{
           "sameAs": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
           "image": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros.webp"
         }],
-      }
-      ],
+      },
       {
         "@type": "Organization",
         "@id": "https://gurcoff.com/#organization",
@@ -113,7 +112,7 @@ json: '{
               "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage"
             }
     }
-  }'
+  ]}'
 referencias:
   - Foto Masaya: https://www.masaya-experience.com/san-agustin/tours/cabalgata-arqueologica-circuito-corto/
   - Adventure X Colombia: https://adventurecolombia.co/
