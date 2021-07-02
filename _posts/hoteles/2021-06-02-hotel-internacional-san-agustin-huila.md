@@ -25,7 +25,7 @@ json: '
         "streetAddress": "Carrera 19 N 1A - 13"
     },
     "telephone": "+573124332510",
-    "photo": "{{site.baseurl}}/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp",
+    "photo": "https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp",
     "starRating": {
         "@type": "Rating",
         "ratingValue": "4.2"

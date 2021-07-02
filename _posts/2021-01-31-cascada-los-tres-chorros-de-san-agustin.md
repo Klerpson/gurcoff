@@ -92,14 +92,14 @@ json: '{
   },
   {
     "@type": "BlogPosting",
-    "headline": "{{page.title}}",
+    "headline": "Cascada Los Tres Chorros",
     "keywords": "Cascada Los Tres Chorros",
     "datePublished": "2021-01-31",
     "dateModified": "2021-01-31",
     "publisher": {
       "@id": "https://gurcoff.com#organization"
     },
-    "description": "{{page.description}}",
+    "description": "Los Tres Chorros es una espectacular cascada en San Agustín Huila. Esta artículo te guiará para que visites este pueblo adornado por el Magdalena.",
         "name": "Cascada Los Tres Chorros",
         "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#richSnippet",
         "isPartOf": {

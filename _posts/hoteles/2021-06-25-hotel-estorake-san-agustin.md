@@ -25,7 +25,7 @@ json: '
         "streetAddress": "Calle 5 No. 23-88, Km1 Via al Parque Arqueológico"
     },
     "telephone": "+573208039667",
-    "photo": "{{site.baseurl}}/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp",
+    "photo": "https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp",
     "starRating": {
         "@type": "Rating",
         "ratingValue": "4.7"

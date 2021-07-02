@@ -25,12 +25,12 @@ json: '
         "streetAddress": "Vereda El Tablón - kilómetro 1 - Vía Estrecho del Magdalena"
     },
     "telephone": "+573124187927",
-    "photo": "{{site.baseurl}}/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp",
+    "photo": "https://gurcoff.com//img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp",
     "starRating": {
         "@type": "Rating",
         "ratingValue": "4.6"
     },
-    "priceRange": "79000 - 250000",
+    "priceRange": "79000 - 250000"
 }'
 excerpt_separator: <!-- excerpt -->
 referencias:

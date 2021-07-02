@@ -25,7 +25,7 @@ json: '
         "streetAddress": "Vía al Parque Arqueológico, 500 metros más arriba de la piscina "Las Moyas""
     },
     "telephone": "+573214501377",
-    "photo": "{{site.baseurl}}/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp",
+    "photo": "https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp",
     "starRating": {
         "@type": "Rating",
         "ratingValue": "4.6"

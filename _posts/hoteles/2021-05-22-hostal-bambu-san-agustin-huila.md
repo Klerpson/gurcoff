@@ -25,7 +25,7 @@ json: '
         "streetAddress": "Carrera 13 No 6-78"
     },
     "telephone": "+573113606841",
-    "photo": "{{site.baseurl}}/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp",
+    "photo": "https://gurcoff.com/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp",
     "starRating": {
         "@type": "Rating",
         "ratingValue": "4.8"
