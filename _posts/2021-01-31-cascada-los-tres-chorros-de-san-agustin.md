@@ -44,7 +44,7 @@ json: ' {
           "name": "Cabalgata hasta la Cascada de los Tres Chorros",
           "sameAs": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
           "image": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros.webp"
-        }],
+        }]
       },
       {
         "@type": "Organization",
