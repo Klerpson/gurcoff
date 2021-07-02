@@ -1,12 +1,11 @@
 <!doctype html>
 <html lang="es-CO">
   <head>
-  <title>{{ page.title}}</title>
   <meta charset="utf-8">
-  <meta name="viewport"
-    content="width=device-width, initial-scale=1, minimum-scale-1, maximum-scale-1, user-scalable-no, minimal-ui">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale-1, maximum-scale-1, user-scalable-no, minimal-ui">
+  <title>{{ page.title}}</title>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
-  <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ "/feed.xml" | relative_url}}">
+  <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}">
   {% if page.noindex %}
   <meta name="robots" content="noindex, nofollow">
   {% else %}
@@ -378,16 +377,16 @@
   <link rel="stylesheet" href="{{site.baseurl}}/css/style.css">
   <link rel="preload" href="{{site.baseurl}}/css/fonts/style-fonts.css">
   <link rel="stylesheet" href="{{site.baseurl}}/css/fonts/style-fonts.css">
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-700.woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-700.woff2" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-regular.woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-regular.woff2" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/delius-v10-latin-regular.woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/delius-v10-latin-regular.woff2" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-700.woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-700.woff2" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-regular.woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-regular.woff2" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-700.woff" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-700.woff2" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-regular.woff" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-regular.woff2" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/delius-v10-latin-regular.woff" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/delius-v10-latin-regular.woff2" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-700.woff" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-700.woff2" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-regular.woff" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-regular.woff2" type="font/woff2" crossorigin>
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl}}/img/favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl}}/img/favicon/apple-icon-60x60.png">
