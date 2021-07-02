@@ -30,7 +30,7 @@ json: '
         "@type": "Rating",
         "ratingValue": "4.6"
     },
-    "priceRange": "79000 - 250000"
+    "priceRange": "79000 - 250000",
 }'
 excerpt_separator: <!-- excerpt -->
 referencias:
