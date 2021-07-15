@@ -41,11 +41,11 @@ json: '{
       },
       {
         "@type": "WebPage",
-        "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage",
-        "url": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
-        "name": "Cascada Los Tres Chorros",
-        "datePublished": "2021-01-31",
-        "dateModified": "2021-01-31",
+        "@id": "https://gurcoff.com/mejores-restaurantes-san-agustin#webpage",
+        "url": "https://gurcoff.com/mejores-restaurantes-san-agustin",
+        "name": "Los restaurantes mejor calificados de San Agustín Huila",
+        "datePublished": "2021-03-27",
+        "dateModified": "2021-03-27",
         "author": {
           "@id": "GurCoff Heladería San Agustín Huila"
         },
@@ -53,31 +53,31 @@ json: '{
           "@id": "https://gurcoff.com#website"
         },
         "primaryImageOfPage": {
-          "@id": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp"
+          "@id": "https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp"
         },
         "inLanguage": "es"
       },
       {
         "@type": "BlogPosting",
-        "headline": "Cascada Los Tres Chorros",
-        "keywords": "Cascada Los Tres Chorros",
-        "datePublished": "2021-01-31",
-        "dateModified": "2021-01-31",
+        "headline": "Los restaurantes mejor calificados de San Agustín Huila",
+        "keywords": "Los restaurantes mejor calificados de San Agustín Huila",
+        "datePublished": "2021-03-27",
+        "dateModified": "2021-03-27",
         "publisher": {
           "@id": "https://gurcoff.com#organization"
         },
-        "description": "Los Tres Chorros es una espectacular cascada en San Agustín Huila. Esta artículo te guiará para que visites este pueblo adornado por el Magdalena.",
-            "name": "Cascada Los Tres Chorros",
-            "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#richSnippet",
+        "description": "Los restaurantes en San Agustín Huila tienen mucha variedad de ofertas gastronómicas. Te contaremos de 5 de ellos con muy buenas calificaciones.",
+            "name": "Los restaurantes mejor calificados de San Agustín Huila",
+            "@id": "https://gurcoff.com/mejores-restaurantes-san-agustin#richSnippet",
             "isPartOf": {
-              "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage"
+              "@id": "https://gurcoff.com/mejores-restaurantes-san-agustin#webpage"
             },
             "image": {
-              "@id": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp"
+              "@id": "https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp"
             },
             "inLanguage": "es",
             "mainEntityOfPage": {
-              "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage"
+              "@id": "https://gurcoff.com/mejores-restaurantes-san-agustin#webpage"
             }
     }
   ]}'

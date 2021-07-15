@@ -20,43 +20,111 @@ referencias:
   - Wikilo Foto Alto de los ídolos: https://es.wikiloc.com/rutas-senderismo/san-agustin-a-alto-de-los-idolos-8819284
 excerpt_separator: <!-- excerpt -->
 json: '{
-  "@context": "https://schema.org",
-  "@type": "TouristDestination",
-  "name": "San Agustín Huila - Turismo y Naturaleza a tu alcance",
-  "description": "San Agustín Huila tiene los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer! Y podrás probar un delicioso helado en nuestra heladería GurCoff. Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.",
-  "url": "https://gurcoff.com/visita-san-agustin-huila",
-  "touristType": {
-    "@type": "Audience",
-    "audienceType": [
-      "Adventure",
-      "Culture",
-      "Natural tourism"
-    ]
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "1.8804269194334269",
-    "longitude": "-76.26894715166486"
-  },
-  "includesAttraction": [
-    {
-      "@type": [
+      "@context": "https://schema.org",
+      "@graph":[
+      {
+        "@type": "TouristDestination",
+        "name": "San Agustín Huila - Turismo y Naturaleza a tu alcance",
+        "description": "San Agustín Huila tiene los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer! Y podrás probar un delicioso helado en nuestra heladería GurCoff. Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.",
+        "url": "https://gurcoff.com/visita-san-agustin-huila",
+        "touristType": {
+          "@type": "Audience",
+          "audienceType": [
+            "Adventure",
+            "Culture",
+            "Natural tourism"
+          ]
+        },
+        "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "1.8804269194334269",
+        "longitude": "-76.26894715166486"
+        },
+        "includesAttraction": [
+        {
+        "@type": [
         "TouristAttraction"
-      ],
-      "name": "San Agustín Huila pueblo Turístico",
-      "sameAs": "https://gurcoff.com/visita-san-agustin-huila",
-      "image": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp"
-    },
-    {
-      "@type": [
-        "TouristAttraction"
-      ],
-      "name": "Arte urbano",
-      "sameAs": "https://gurcoff.com/visita-san-agustin-huila",
-      "image": "https://gurcoff.com/img/magazine/visita-san-agustin/murales-san-agustin-huila.webp"
+        ],
+        "name": "San Agustín Huila pueblo Turístico",
+        "sameAs": "https://gurcoff.com/visita-san-agustin-huila",
+        "image": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp"
+        },
+        {
+          "@type": [
+            "TouristAttraction"
+          ],
+          "name": "Arte urbano",
+          "sameAs": "https://gurcoff.com/visita-san-agustin-huila",
+          "image": "https://gurcoff.com/img/magazine/visita-san-agustin/murales-san-agustin-huila.webp"
+        }]
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://gurcoff.com/#organization",
+        "name": "GurCoff Heladería San Agustín Huila",
+        "url": "https://gurcoff.com"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://gurcoff.com/#website",
+        "url": "https://gurcoff.com",
+        "name": "GurCoff Heladería Blog de San Agustín",
+        "publisher": {
+          "@id": "https://gurcoff.com/#organization"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp",
+        "url": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp",
+        "width": "720",
+        "height": "360",
+        "caption": "San Agustín Huila - Turismo y Naturaleza",
+        "inLanguage": "es"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://gurcoff.com/visita-san-agustin-huila#webpage",
+        "url": "https://gurcoff.com/visita-san-agustin-huila",
+        "name": "San Agustín Huila - Turismo y Naturaleza",
+        "datePublished": "2021-06-07",
+        "dateModified": "2021-06-07",
+        "author": {
+          "@id": "GurCoff Heladería San Agustín Huila"
+        },
+        "isPartOf": {
+          "@id": "https://gurcoff.com#website"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Cascada Los Tres Chorros",
+        "keywords": "Cascada Los Tres Chorros",
+        "datePublished": "2021-06-07",
+        "dateModified": "2021-06-07",
+        "publisher": {
+          "@id": "https://gurcoff.com#organization"
+        },
+        "description": "San Agustín Huila tiene los hermosos paisajes del macizo colombiano. El turismo es perfecto por su ambiente y su exquisito café. ¡Ven a conocer!",
+            "name": "Cascada Los Tres Chorros",
+            "@id": "https://gurcoff.com/visita-san-agustin-huila#richSnippet",
+            "isPartOf": {
+              "@id": "https://gurcoff.com/visita-san-agustin-huila#webpage"
+            },
+            "image": {
+              "@id": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp"
+            },
+            "inLanguage": "es",
+            "mainEntityOfPage": {
+              "@id": "https://gurcoff.com/visita-san-agustin-huila#webpage"
+            }
     }
-  ]
-}'
+  ]}'
 ---
 **San Agustín Huila es especial para viajar y descansar. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal.**
 <!-- excerpt -->
@@ -113,7 +181,7 @@ Podremos encontrar el [Estrecho del Magdalena](https://gurcoff.com/estrecho-rio-
 
 #### Un tour de cascadas en San Agustín Huila y sus alrededores
 
-**El Salto de los Bordones**, una de las cascadas más altas de Colombia; **el Salto el Mortiño**, con su mirador de cristal y su culumpio al vacío; [la cascada Los Tres Chorros](https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin), un rincón preservado naturalmente por su ubicación; y numerosos caudales más, formando una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
+**El Salto de los Bordones**, una de las cascadas más altas de Colombia; **el Salto el Mortiño**, con su mirador de cristal y su culumpio al vacío; [la cascada Los Tres Chorros](https://gurcoff.com/visita-san-agustin-huila), un rincón preservado naturalmente por su ubicación; y numerosos caudales más, formando una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
 
 {% include img.html img="magazine/visita-san-agustin/salto-de-bordones-huila.webp" img-mini="magazine/visita-san-agustin/salto-de-bordones-huila-mini.webp" alt="Salto de Bordones en Isnos Huila" title="Cascada salto de Bordones" %}
 *Cascada el Salto de Bordones*
