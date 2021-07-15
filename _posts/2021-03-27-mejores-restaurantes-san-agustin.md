@@ -11,7 +11,76 @@ copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 autor: Julian Franco
 date: 2021-03-27
-json: false
+json: {
+      "@context": "https://schema.org",
+      "@graph":[
+      {
+        "@type": "Organization",
+        "@id": "https://gurcoff.com/#organization",
+        "name": "GurCoff Heladería San Agustín Huila",
+        "url": "https://gurcoff.com"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://gurcoff.com/#website",
+        "url": "https://gurcoff.com",
+        "name": "GurCoff Heladería Blog de San Agustín",
+        "publisher": {
+          "@id": "https://gurcoff.com/#organization"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp",
+        "url": "https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp",
+        "width": "720",
+        "height": "360",
+        "caption": "Cascada Los Tres Chorros de San Agustín Huila",
+        "inLanguage": "es"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage",
+        "url": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
+        "name": "Cascada Los Tres Chorros",
+        "datePublished": "2021-01-31",
+        "dateModified": "2021-01-31",
+        "author": {
+          "@id": "GurCoff Heladería San Agustín Huila"
+        },
+        "isPartOf": {
+          "@id": "https://gurcoff.com#website"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Cascada Los Tres Chorros",
+        "keywords": "Cascada Los Tres Chorros",
+        "datePublished": "2021-01-31",
+        "dateModified": "2021-01-31",
+        "publisher": {
+          "@id": "https://gurcoff.com#organization"
+        },
+        "description": "Los Tres Chorros es una espectacular cascada en San Agustín Huila. Esta artículo te guiará para que visites este pueblo adornado por el Magdalena.",
+            "name": "Cascada Los Tres Chorros",
+            "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#richSnippet",
+            "isPartOf": {
+              "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage"
+            },
+            "image": {
+              "@id": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp"
+            },
+            "inLanguage": "es",
+            "mainEntityOfPage": {
+              "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage"
+            }
+    }
+  ]}'
 referencias:
  - TripAdvisor Gata Parrilla: https://www.tripadvisor.co/Restaurant_Review-g445060-d16875100-Reviews-La_Gata_Parrilla-San_Agustin_Huila_Department.html
  - Guías San Agustín Huila: https://www.viajeros.com/guias/san-agustin-huila-magia-y-arqueologia-en-colombia

@@ -2,6 +2,5 @@ User-agent: *
 Allow: /
 User-Agent: AdsBot-Google-Mobile
 User-Agent: AdsBot-Google
-Disallow: /privacidad
-Disallow: /condiciones
+Disallow: /legal
 Sitemap: https://gurcoff.com/sitemap.xml
