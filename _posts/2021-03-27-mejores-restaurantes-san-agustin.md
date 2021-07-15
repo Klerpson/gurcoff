@@ -11,7 +11,7 @@ copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
 autor: Julian Franco
 date: 2021-03-27
-json: {
+json: '{
       "@context": "https://schema.org",
       "@graph":[
       {
@@ -36,7 +36,7 @@ json: {
         "url": "https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp",
         "width": "720",
         "height": "360",
-        "caption": "Cascada Los Tres Chorros de San Agustín Huila",
+        "caption": "Restaurante la Gata Parrila, uno de los mejores de San Agustín Huila",
         "inLanguage": "es"
       },
       {

@@ -1,18 +1,6 @@
 [
   
    {
-  "title": "",
-  "url": "/2021-03-27-mejores-restaurantes-san-agustin",
-  "category": "",
-  "tags": ""
-  } ,  
-   {
-  "title": "Hotel Estorake San Agustín Huila",
-  "url": "/hoteles/hotel-estorake-san-agustin-huila",
-  "category": "hoteles",
-  "tags": "hoteles"
-  } ,  
-   {
   "title": "Hotel Estorake San Agustín Huila",
   "url": "/hoteles/hotel-estorake-san-agustin-huila",
   "category": "hoteles",
@@ -65,6 +53,12 @@
   "url": "/hoteles/akawanka-lodge-san-agustin-huila",
   "category": "hoteles",
   "tags": "hoteles"
+  } ,  
+   {
+  "title": "Los restaurantes mejor calificados de San Agustín Huila",
+  "url": "/mejores-restaurantes-san-agustin",
+  "category": "restaurantes",
+  "tags": "restaurantes, parque"
   } ,  
    {
   "title": "Los Tres Chorros - ¡Cascada Natural de San Agustín Huila!",
