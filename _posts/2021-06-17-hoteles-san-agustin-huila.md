@@ -10,7 +10,76 @@ alt: Fotografía del hotel Akawanka en San Agustín Huila
 autor: Julian Franco
 date: 2021-06-17
 copyright: Julian Andres Franco Bedoya
-json: false
+json: '{
+      "@context": "https://schema.org",
+      "@graph":[
+      {
+        "@type": "Organization",
+        "@id": "https://gurcoff.com/#organization",
+        "name": "GurCoff Heladería San Agustín Huila",
+        "url": "https://gurcoff.com"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://gurcoff.com/#website",
+        "url": "https://gurcoff.com",
+        "name": "GurCoff Heladería Blog de San Agustín",
+        "publisher": {
+          "@id": "https://gurcoff.com/#organization"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp",
+        "url": "img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp",
+        "width": "720",
+        "height": "360",
+        "caption": "Hoteles en San Agustín Huila | GurCoff San Agustín",
+        "inLanguage": "es"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://gurcoff.com/hoteles-san-agustin-huila#webpage",
+        "url": "https://gurcoff.com/hoteles-san-agustin-huila",
+        "name": "Hoteles en San Agustín Huila | GurCoff San Agustín",
+        "datePublished": "2021-06-13",
+        "dateModified": "2021-06-13",
+        "author": {
+          "@id": "GurCoff Heladería San Agustín Huila"
+        },
+        "isPartOf": {
+          "@id": "https://gurcoff.com#website"
+        },
+        "primaryImageOfPage": {
+          "@id": "img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Hoteles en San Agustín Huila | GurCoff San Agustín",
+        "keywords": "Hoteles en San Agustín Huila | GurCoff San Agustín",
+        "datePublished": "2021-06-13",
+        "dateModified": "2021-06-13",
+        "publisher": {
+          "@id": "https://gurcoff.com#organization"
+        },
+        "description": "Los hoteles en San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza. Encuentra hoteles, cabañas y más aquí. Léelo!",
+            "name": "Hoteles en San Agustín Huila | GurCoff San Agustín",
+            "@id": "https://gurcoff.com/hoteles-san-agustin-huila#richSnippet",
+            "isPartOf": {
+              "@id": "https://gurcoff.com/hoteles-san-agustin-huila#webpage"
+            },
+            "image": {
+              "@id": "img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp"
+            },
+            "inLanguage": "es",
+            "mainEntityOfPage": {
+              "@id": "https://gurcoff.com/hoteles-san-agustin-huila#webpage"
+            }
+    }
+  ]}'
 excerpt_separator: <!-- excerpt -->
 ---
 Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza.
