@@ -1,37 +1,119 @@
 ---
 layout: articulo
-title: Hotel Estorake San Agustín Huila
-description: El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante. Es un hotel con mucha calidad humana y en sus servicios. ¡Conócelo!
+title: Tierra Activa - Finca agroturística de San Agustín Huila
+description: La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas. Su actividad principal es el agroturismo
 category: hoteles
-tags: [hoteles]
-h1: Hotel Estorake de San Agustín Huila
+tags: [hoteles, fincas]
+h1: Finca Agroturística Tierra Activa de San Agustín Huila
 img: img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp
 alt: Fotografía del hotel Estorake en San Agustín Huila
 autor: Julian Franco
 date: 2021-06-25
 copyright: Julian Andres Franco Bedoya
-json: '
-{
-    "@context": "https://schema.org",
-    "@type": "Hotel",
-    "name": "Hotel Estorake San Agustín Huila",
-    "description": "El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante. Es un hotel con mucha calidad humana y en sus servicios. ¡Conócelo!",
-    "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "Col",
-        "addressLocality": "San Agustín",
-        "addressRegion": "Huila",
-        "postalCode": "418060",
-        "streetAddress": "Calle 5 No. 23-88, Km1 Via al Parque Arqueológico"
-    },
-    "telephone": "+573208039667",
-    "photo": "https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp",
-    "starRating": {
-        "@type": "Rating",
-        "ratingValue": "4.7"
-    },
-    "priceRange": "190000 - 250000"
-}'
+json: ' {
+      "@context": "https://schema.org",
+      "@graph":[
+      {
+        "@type": "TouristDestination",
+        "name": "Cascada los Tres Chorros de San Agustín Huila",
+        "description": "Los Tres Chorros es una espectacular cascada en San Agustín Huila. Esta artículo te guiará para que visites este pueblo adornado por el Magdalena. Al visitarla, encontrarás una cascada que es parte del rio Mulales. La cascada de los Tres Chorros tiene una caída de cerca de 28 metros que forman tres chorros paralelos de muy buen caudal, haciendo que el efecto visual y la sensación al estar presentes sea intimidante, potente y digna de admiración.",
+        "url": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
+        "touristType": {
+        "@type": "Audience",
+        "audienceType": [
+          "Adventure",
+          "Natural tourism"]
+        },
+        "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "1.8906913505198162",
+        "longitude": "-76.3819676029056"
+        },
+        "includesAttraction": [
+        {
+          "@type": [
+            "TouristAttraction"
+          ],
+          "name": "Cascada Los Tres Chorros",
+          "sameAs": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
+          "image": "https://gurcoff.com/img/magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp"
+        },
+        {
+          "@type": [
+            "TouristAttraction"
+          ],
+          "name": "Cabalgata hasta la Cascada de los Tres Chorros",
+          "sameAs": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
+          "image": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros.webp"
+        }]
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://gurcoff.com/#organization",
+        "name": "GurCoff Heladería San Agustín Huila",
+        "url": "https://gurcoff.com"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://gurcoff.com/#website",
+        "url": "https://gurcoff.com",
+        "name": "GurCoff Heladería Blog de San Agustín",
+        "publisher": {
+          "@id": "https://gurcoff.com/#organization"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp",
+        "url": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp",
+        "width": "720",
+        "height": "360",
+        "caption": "Cascada Los Tres Chorros de San Agustín Huila",
+        "inLanguage": "es"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage",
+        "url": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin",
+        "name": "Cascada Los Tres Chorros",
+        "datePublished": "2021-01-31",
+        "dateModified": "2021-01-31",
+        "author": {
+          "@id": "GurCoff Heladería San Agustín Huila"
+        },
+        "isPartOf": {
+          "@id": "https://gurcoff.com#website"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Cascada Los Tres Chorros",
+        "keywords": "Cascada Los Tres Chorros",
+        "datePublished": "2021-01-31",
+        "dateModified": "2021-01-31",
+        "publisher": {
+          "@id": "https://gurcoff.com#organization"
+        },
+        "description": "Los Tres Chorros es una espectacular cascada en San Agustín Huila. Esta artículo te guiará para que visites este pueblo adornado por el Magdalena.",
+            "name": "Cascada Los Tres Chorros",
+            "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#richSnippet",
+            "isPartOf": {
+              "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage"
+            },
+            "image": {
+              "@id": "https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros.webp"
+            },
+            "inLanguage": "es",
+            "mainEntityOfPage": {
+              "@id": "https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin#webpage"
+            }
+    }
+  ]}'
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Hotel Estorake San Agustín Huila: http://www.booking.com/Share-Mt2TeD
@@ -41,7 +123,7 @@ referencias:
 permalink: /hoteles/hotel-estorake-san-agustin-huila
 published: no
 ---
-**El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante, con mucha calidad humana y en sus servicios**.
+**Tierra Activa**.
 
 <!-- excerpt -->
 

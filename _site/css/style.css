@@ -34,19 +34,23 @@ h3 {
 
  .change{right:0}.change .line-1{transform:rotateZ(-405deg) translate(-8px,6px)}.change .line-2{opacity:0}.change .line-3{transform:rotateZ(405deg) translate(-8px,-6px)}.nav-link:hover::before,.nav-link:hover::after{transform:scaleX(1)}
 
-.principal article:nth-child(3) img {
+.principal div article:nth-child(2) img {
+  background: var(--principal);
+}
+
+.principal div article:nth-child(3) img {
   background: var(--complemento2);
 }
 
-.principal article:nth-child(4) img {
+.principal div article:nth-child(4) img {
   background: var(--accion);
 }
 
-.principal article:nth-child(5) img {
+.principal div article:nth-child(5) img {
   background: var(--secundario);
 }
 
-.principal article:nth-child(6) img {
+.principal div article:nth-child(6) img {
   background: var(--principal);
 }
 
@@ -55,13 +59,13 @@ h3 {
   text-align: center;
   padding: 1rem;
   width: 100%;
+  height: 80vh;
 }
 
 .invitacion video {
   border-radius: 7px;
   box-shadow: var(--shadow);
   width: 100%;
-  height: auto;
 }
 
 .invitacion h2,
@@ -70,7 +74,7 @@ h3 {
 }
 
 .invitacion strong {
-  color: var(--accion );
+  color: var(--accion);
 }
 
 .blog-intro {
@@ -84,12 +88,12 @@ h3 {
   box-shadow: var(--shadow);
 }
 
-.blog-intro article ul{
+.blog-intro article ul {
   display: flex;
   justify-content: left;
 }
 
-.blog-intro article ul li{
+.blog-intro article ul li {
   list-style: none;
   text-transform: capitalize;
   margin: 0.7rem 1.2rem 0 0;
@@ -458,6 +462,10 @@ footer a {
 
 
 @media screen and (min-width:600px) {
+  .invitacion{
+    height: 60vh;
+  }
+
   .sugerencias {
     padding: 0;
   }
@@ -486,15 +494,17 @@ footer a {
     height: 35vh;
   }
 
-  .principal article:nth-child(3),
-  .principal article:nth-child(5),
-  .principal article:nth-child(7) {
+  .principal div article:nth-child(1),
+  .principal div article:nth-child(3),
+  .principal div article:nth-child(5),
+  .principal div article:nth-child(7) {
     grid-template-areas: "h3 img""p img";
   }
 
-  .principal article:nth-child(3) img,
-  .principal article:nth-child(5) img,
-  .principal article:nth-child(7) img {
+  .principal div article:nth-child(1) img,
+  .principal div article:nth-child(3) img,
+  .principal div article:nth-child(5) img,
+  .principal div article:nth-child(7) img {
     border-radius: 150px 0 75px 0;
   }
 
@@ -506,6 +516,7 @@ footer a {
     display: grid;
     grid-gap: 2rem;
     grid-template-columns: 1fr 2fr;
+    height: 50vh;
   }
 
   .invitacion video {
@@ -597,6 +608,7 @@ footer a {
 
   .invitacion {
     padding: 1rem 7rem;
+    height: 40vh;
   }
 
   #search-container {
