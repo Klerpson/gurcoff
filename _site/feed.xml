@@ -4,13 +4,21 @@
      <link href="https://gurcoff.comfeed.xml" rel="self" type="application/atom+xml"/>
      <link href="https://gurcoff.com" rel="alternate" type="text/html"/>
      <id>https://gurcoff.com</id>
-     <updated>2021-07-30T12:54:54-05:00</updated>
+     <updated>2021-08-05T12:36:05-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Tierra Activa - Finca agroturística de San Agustín Huila</title>
+   <link href="https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila"/>
+   <id>https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin</id>
+   <updated>2021-07-25T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;&lt;strong&gt;La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas&lt;/strong&gt;.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Su actividad principal es el agroturismo y actividades de autoconocimiento y conexión con la naturaleza, para alcanzar un descanso y una experiencia deliciosa y relajante.&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin.webp&quot; width=&quot;720&quot; height=&quot;360&quot; media=&quot;(min-width:...</content>
+ </entry>
  
  <entry>
    <title>Hotel Estorake San Agustín Huila</title>
@@ -82,14 +90,6 @@
    <id>https://gurcoff.com/hoteles/akawanka-lodge-san-agustin-huila</id>
    <updated>2021-05-22T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la naturaleza, el arte, el comfort y la seguridad que busca cualquier turista. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#hotel-akawanka-lodge-de-san-agustín&quot; id=&quot;markdown-toc-hotel-akawanka-lodge-de-san-agustín&quot;&gt;Hotel Akawanka Lodge de San Agustín&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cómo-llegar-al-hotel-akawanka-lodge-de-san-agustín&quot; id=&quot;markdown-toc-cómo-llegar-al-hotel-akawanka-lodge-de-san-agustín&quot;&gt;Cómo llegar al Hotel Akawanka Lodge de San Agustín&lt;/a&gt;...</content>
- </entry>
- 
- <entry>
-   <title>Los restaurantes mejor calificados de San Agustín Huila</title>
-   <link href="https://gurcoff.com/mejores-restaurantes-san-agustin"/>
-   <id>https://gurcoff.com/mejores-restaurantes-san-agustin</id>
-   <updated>2021-03-27T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Aquí explicaremos cuáles son &lt;strong&gt;los mejores restaurantes de San Agustín Huila&lt;/strong&gt; y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos! &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#restaurantes-en-san-agustín-huila&quot; id=&quot;markdown-toc-restaurantes-en-san-agustín-huila&quot;&gt;Restaurantes en San Agustín Huila&lt;/a&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#restaurante-la-gata-parrilla-de-san-agustín&quot; id=&quot;markdown-toc-restaurante-la-gata-parrilla-de-san-agustín&quot;&gt;Restaurante La Gata Parrilla de San Agustín&lt;/a&gt;&lt;/li&gt;...</content>
  </entry>
  
 

@@ -78,15 +78,15 @@ Una de sus políticas de servicio es evitar grandes grupos que causen incomodida
 
 {% include boton.html path="tel:+573208039667" title="Celular del Hotel Estorake de San Agustín Huila" texto="Llamar" %}
 
-### Redes sociales del Hotel San Agustín Internacional
+### Redes sociales del Hotel Estorake de San Agustín
 
-Para visitar los perfiles del Hotel Estorake en las redes sociales, solamente debes hacer clic en los siguiente botones:
+Para visitar los perfiles del Hotel Estorake en las redes sociales, solamente debes hacer clic en los siguientes botones:
 
 {% include boton.html path="https://www.facebook.com/Hotel-Estorake-San-Agustin-1821257588195088/" title="Facebook del Hotel San Agustín Internacional de San Agustín Huila" texto="Facebook" %}
 
 {% include boton.html path="https://www.instagram.com/hotelestorake_san_agustin/" title="Instagram del Hotel Estorake de San Agustín" texto="Instagram" %}
 
-## ¿Qué servicios ofrece el hotel Internacional de San Agustín?
+## ¿Qué servicios ofrece el hotel Estorake de San Agustín?
 
 | Servicio | Descripción |
 |---|---|
