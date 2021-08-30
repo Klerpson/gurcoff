@@ -1,6 +1,12 @@
 [
   
    {
+  "title": "Laguna del Magdalena en el macizo colombiano",
+  "url": "/laguna-del-magdalena",
+  "category": "turismo",
+  "tags": "parque, turismo"
+  } ,  
+   {
   "title": "Tierra Activa - Finca agroturística de San Agustín Huila",
   "url": "/hoteles/finca-tierra-activa-san-agustin-huila",
   "category": "hoteles",
@@ -13,7 +19,7 @@
   "tags": "hoteles"
   } ,  
    {
-  "title": "Estrecho del Río Magdalena | GurCoff San Agustín",
+  "title": "Estrecho del Río Magdalena | GurCoff San Agustín Huila",
   "url": "/estrecho-rio-magdalena",
   "category": "turismo",
   "tags": "parque, turismo"

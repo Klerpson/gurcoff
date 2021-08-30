@@ -1,6 +1,6 @@
 ---
 layout: articulo
-title: Estrecho del Río Magdalena | GurCoff San Agustín
+title: Estrecho del Río Magdalena | GurCoff San Agustín Huila
 description: El Estrecho del Magdalena es el punto más estrecho del majestuoso río Colombiano. Te decimos cómo llegar, sus misterios y recomendaciones para ti.
 category: turismo
 tags: [parque, turismo]
