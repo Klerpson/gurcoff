@@ -4,7 +4,7 @@ title: Hoteles en San Agustín Huila | GurCoff San Agustín
 description: Los hoteles en San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza. Encuentra hoteles, cabañas y más aquí. Léelo!
 category: hoteles
 tags: [turismo, hoteles]
-h1: Hoteles, hostales, cabañas y más para hospedarte en San Agustín Huila
+h1: Hoteles, hostales, glamping, cabañas y hospedajes en San Agustín Huila
 img: img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp
 alt: Fotografía del hotel Akawanka en San Agustín Huila
 autor: Julian Franco
@@ -85,22 +85,16 @@ excerpt_separator: <!-- excerpt -->
 Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza.
 <!-- excerpt -->
 
-**Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping. Todos estos lugares han verificado y actualizado sus datos para ti en esta página.**
+**Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping.** Todos estos lugares han verificado y actualizado sus datos para ti en esta página.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en San Agustín Huila en categorías.
-
-En cada hotel de San Agustín te contaré qué lo hace especial o diferente. Luego **haz clic en la ficha del hotel** para leer los detalles del que más te guste.
-
-NOTA: Si en alguna categoría se repite un hotel, es porque puede satisfacer cualquiera de las opciones que buscas.
+Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en San Agustín Huila en categorías, con las características que los hace especiales o diferentes. Luego puedes hacer en sus enlaces para ponerte en contacto y hacer tu reservación.
 
 ## Hoteles en San Agustín Huila para todos los gustos
 
-**Puedes contactar hoteles de San Agustín económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al [Parque Arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), hoteles cerca al [estrecho del Magdalena](https://gurcoff.com/estrecho-rio-magdalena), entre otros.**
-
-Esta es la lista disponible:
+**Puedes encontrar hoteles de San Agustín económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al [Parque Arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), hoteles cerca al [estrecho del Magdalena](https://gurcoff.com/estrecho-rio-magdalena), entre otros.**
 
 ### Hotel Masaya Lodge
 

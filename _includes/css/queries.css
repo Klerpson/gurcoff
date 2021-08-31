@@ -160,8 +160,24 @@
     grid-column: span 3;
   }
 
+  .articulo{
+    position: relative;
+    width: 70vw;
+    padding: 0 4rem;
+    justify-self: left;
+    justify-content: left;
+  }
+
+  .sugerencias{
+    position: fixed;
+    right: 0;
+    top: 0;
+    grid-template-columns: 1fr 1fr;
+    margin: 5rem 1rem 0 0;
+  }
+
   .sugerencias h3 {
-    grid-column: span 4
+    grid-column: span 2;
   }
 
   .comentarios {
@@ -178,10 +194,5 @@
 @media screen and (min-width:1200px) {
   #mc_embed_signup {
     width: 40vw
-  }
-
-  .sugerencias {
-    width: 70vw;
-    margin: 0 auto
   }
 }

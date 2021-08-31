@@ -2,34 +2,24 @@
 layout: default
 ---
 <main class="articulo">
+  <small>Por {{page.autor}} - {{ page.date | date_to_long_string }}</small>
   <h1>{{page.h1}}</h1>
   {{ content }}
   <div>
     <h4 id="fuentes">Fotografías, fuentes y referencias del artículo {{page.title}}</h4>
     {% include fuentes.html %}
   </div>
-  <h4>Autor:</h4>
-  <small>{{page.autor}} - {{ page.date | date_to_long_string }}</small>
+  <h2>Comparte este artículo</h2>
+  {% include share.html %}
 </main>
-
-<h2>Comparte este artículo</h2>
-{% include share.html %}
-
 <aside class="sugerencias">
-
-  <h3>Más sobre San Agustín Huila</h3>
-
+  <h3>Lee más sobre San Agustín Huila</h3>
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
-
-
   {% for post in site.posts %}
-
-
   {% assign sameTagCount = 0 %}
   {% assign commonTags = '' %}
-
   {% for tag in post.tags %}
   {% if post.url != page.url %}
   {% if page.tags contains tag %}
@@ -39,9 +29,7 @@ layout: default
   {% endif %}
   {% endif %}
   {% endfor %}
-
   {% if sameTagCount >= minCommonTags %}
-
   <a href="{{ site.baseurl }}{{ post.url }}" title="{{post.title}}">
     <div class="relacionados">
       {% if post.img %}
@@ -50,13 +38,11 @@ layout: default
       <h4> {{ post.h1 }}</h4>
     </div>
   </a>
-
   {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
   {% if maxRelatedCounter >= maxRelated %}
   {% break %}
   {% endif %}
   {% endif %}
   {% endfor %}
-
 </aside>
 {% include footer.html %}

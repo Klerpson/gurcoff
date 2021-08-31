@@ -76,6 +76,7 @@
 .sugerencias h3 {
   margin: 2rem 0 1rem 0;
   font-size: var(--sizeH3);
+  text-transform: inherit;
 }
 
 .relacionados {
