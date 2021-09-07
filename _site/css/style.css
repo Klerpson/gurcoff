@@ -242,23 +242,38 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 }
 
 .negocio{
+  position: relative;
   background-color: var(--complemento1);
-  border-radius: 5px;
-  box-shadow: var(--shadow);
   padding: 1rem;
   display: grid;
   gap: 1rem;
-  justify-items: center;
+  grid-template-areas: "titulo"
+  "parrafo"
+  "imagen"
+  "iconos"
+  "boton";
+  box-shadow: var(--shadow);
+  border-radius: 5px;
 }
 
 .negocio h3{
   margin: 0;
   text-align: center;
+  grid-area: titulo;
+}
+
+.negocio p {
+  grid-area: parrafo;
+}
+
+.negocio img{
+  grid-area: imagen;
 }
 
 .negocio ul{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  grid-area: iconos;
 }
 
 .negocio ul li{
@@ -267,12 +282,15 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 }
 
 .negocio a{
+  max-width: max-content;
+  justify-self: center;
   background-color: var(--principal);
   padding: 0.5rem 1rem;
   border-radius: 5px;
   box-shadow: var(--shadow);
   text-decoration: none;
-  color: white;
+  color: var(--blanco);
+  grid-area: boton;
 }
 
 #search-container {
@@ -550,15 +568,10 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
   }
 
   .negocio {
-    padding: 1rem;
-  }
-
-  .negocio a {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  .negocio a img {
-    max-width: 300px;
+    grid-template-areas: "titulo titulo"
+                         "imagen parrafo"
+                         "imagen iconos"
+                         "boton boton";
   }
 
   .magazine {
@@ -655,4 +668,12 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
     overflow: hidden;
     border-radius: 0.7rem 0 0 0.7rem;
   }
+
+  .negocio {
+    align-items: center;
+    grid-template-areas: "imagen titulo boton"
+                         "imagen parrafo boton"
+                         "imagen iconos boton";
+  }
+
 }

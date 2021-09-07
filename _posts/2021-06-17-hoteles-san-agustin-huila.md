@@ -101,22 +101,19 @@ Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en 
 
 <h3>{{hotel.nombre}}</h3>
 <p>{{hotel.intro}}</p>
-  <div>
-    <img src="{{site.baseurl}}/img/magazine/hoteles-san-agustin/{{hotel.img}}" alt="{{hotel.alt}}" width="100%" height="150" title="{{hotel.title}}">
-    <ul>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo1}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo2}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo3}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo4}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo5}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-    </ul>
-  </div>
-  {% if hotel.nofollow %}
-  <a href="{{hotel.link}}" rel="nofollow">Más información</a>
+<img src="{{site.baseurl}}/img/magazine/hoteles-san-agustin/{{hotel.img}}" alt="{{hotel.alt}}" width="100%" height="150" title="{{hotel.title}}">
+<ul>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo1}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo2}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo3}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo4}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo5}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
+</ul>
+{% if hotel.nofollow %}
+<a href="{{hotel.link}}" rel="nofollow">Más información</a>
   {% else %}
   <a href="{{hotel.link}}">Más información</a>
   {% endif %}
-  <a href="{{site.whatsapp}}" rel="nofollow">WhatsApp</a>
 </article>
 {% endfor %}
 
@@ -126,25 +123,21 @@ Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en 
 
 {% for hostal in site.data.hostales %}
 <article class="negocio">
-
 <h3>{{hostal.nombre}}</h3>
 <p>{{hostal.intro}}</p>
-  <div>
-    <img src="{{site.baseurl}}/img/magazine/hoteles-san-agustin/{{hostal.img}}" alt="{{hostal.alt}}" width="100%" height="150" title="{{hostal.title}}">
-    <ul>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo1}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo2}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo3}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo4}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo5}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-    </ul>
-  </div>
-  {% if hostal.nofollow %}
-  <a href="{{hostal.link}}" rel="nofollow">Más información</a>
+<img src="{{site.baseurl}}/img/magazine/hoteles-san-agustin/{{hostal.img}}" alt="{{hostal.alt}}" width="100%" height="150" title="{{hostal.title}}">
+<ul>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo1}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo2}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo3}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo4}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo5}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+</ul>
+{% if hostal.nofollow %}
+<a href="{{hostal.link}}" rel="nofollow">Más información</a>
   {% else %}
   <a href="{{hostal.link}}">Más información</a>
   {% endif %}
-  <a href="{{site.whatsapp}}" rel="nofollow">WhatsApp</a>
 </article>
 {% endfor %}
 

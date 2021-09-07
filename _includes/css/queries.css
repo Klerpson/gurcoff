@@ -95,15 +95,10 @@
   }
 
   .negocio {
-    padding: 1rem;
-  }
-
-  .negocio a {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  .negocio a img {
-    max-width: 300px;
+    grid-template-areas: "titulo titulo"
+                         "imagen parrafo"
+                         "imagen iconos"
+                         "boton boton";
   }
 
   .magazine {
@@ -200,4 +195,12 @@
     overflow: hidden;
     border-radius: 0.7rem 0 0 0.7rem;
   }
+
+  .negocio {
+    align-items: center;
+    grid-template-areas: "imagen titulo boton"
+                         "imagen parrafo boton"
+                         "imagen iconos boton";
+  }
+
 }
