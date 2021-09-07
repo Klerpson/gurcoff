@@ -120,21 +120,33 @@ Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en 
 </article>
 {% endfor %}
 
-### Hotel San Agustín Internacional
-
-<!-- {% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-400px.webp" alt="Fotografía del Hotel Internacional de San Agustín Huila" imgtitle="Foto del Hotel Internacional" texto="Hotel con arquitectura inspirada en diferentes países y en la Colombia precolombina, colonial, republicana y contemporánea." link="hotel-internacional-san-agustin-huila" logo1="img/iconos/mascotas-no.svg" alt-logo1="Hotel San Agustin Internacional no acepta mascotas" title-logo1="Logo mascotas no" logo2="img/iconos/wifi.svg" alt-logo2="Hotel San Agustin Internacional wifi" title-logo2="Logo wifi" logo3="img/iconos/tv.svg" alt-logo3="Hotel San Agustin Internacional tv" title-logo3="Logo tv" logo4="img/iconos/parqueadero.svg" alt-logo4="Hotel San Agustin Internacional parqueadero" title-logo4="Logo parqueadero" logo5="img/iconos/ducha.svg" alt-logo5="Hotel San Agustin Internacional ducha" title-logo5="Logo ducha" %} -->
-
-### Hotel Estorake San Agustín Huila
-
-<!-- {% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-huila-320px.webp" alt="Fotografía del Hotel Estorake de San Agustín Huila" imgtitle="Foto del Hotel Estorake" texto="El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante, con mucha calidad humana y en sus servicios." link="hotel-estorake-san-agustin-huila" logo1="img/iconos/mascotas-no.svg" alt-logo1="Hotel San Agustin Estorake no acepta mascotas" title-logo1="Logo mascotas no" logo2="img/iconos/wifi.svg" alt-logo2="Hotel San Agustin Estorake wifi" title-logo2="Logo wifi" logo3="img/iconos/tv.svg" alt-logo3="Hotel San Agustin Estorake tv" title-logo3="Logo tv" logo4="img/iconos/parqueadero.svg" alt-logo4="Hotel San Agustin Estorake parqueadero" title-logo4="Logo parqueadero" logo5="img/iconos/ducha.svg" alt-logo5="Hotel San Agustin Estorake ducha" title-logo5="Logo ducha" %} -->
-
 ## Hostales en San Agustín Huila a tu medida
 
 **Los hostales de San Agustín son opciones muy accesibles y cómodas**. Además, con decoraciones hermosas y dignas de llevar en tus recuerdos fotográficos. Mira estas opciones:
 
-### Hostal Bambú San Agustín
+{% for hostal in site.data.hostales %}
+<article class="negocio">
 
-<!-- {% include negocios.html src="img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin-400px.webp" alt="Fotografía del Hostal Bambú de San Agustín Huila" imgtitle="Foto del Hostal Bambú" texto="El Hostal Bambú de San Agustín Huila es un lugar hermoso con zonas comunes adecuadas para compartir experiencias." link="hostal-bambu-san-agustin-huila" logo1="img/iconos/mascotas-no.svg" alt-logo1="Hostal Bambú de San Agustín Huila no acepta mascotas" title-logo1="Logo mascotas no" logo2="img/iconos/wifi.svg" alt-logo2="Hostal Bambú de San Agustín Huila wifi" title-logo2="Logo wifi" logo3="img/iconos/dolar.svg" alt-logo3="Hostal Bambú de San Agustín Huila dolar" title-logo3="Logo dolar" logo4="img/iconos/bicicleta.svg" alt-logo4="Hostal Bambú de San Agustín Huila alquiler de bicicletas" title-logo4="Logo bicicleta" logo5="img/iconos/ducha.svg" alt-logo5="Hostal Bambú de San Agustín Huila ducha" title-logo5="Logo ducha" %} -->
+<h3>{{hostal.nombre}}</h3>
+<p>{{hostal.intro}}</p>
+  <div>
+    <img src="{{site.baseurl}}/img/magazine/hoteles-san-agustin/{{hostal.img}}" alt="{{hostal.alt}}" width="100%" height="150" title="{{hostal.title}}">
+    <ul>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo1}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo2}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo3}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo4}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo5}}" alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
+    </ul>
+  </div>
+  {% if hostal.nofollow %}
+  <a href="{{hostal.link}}" rel="nofollow">Más información</a>
+  {% else %}
+  <a href="{{hostal.link}}">Más información</a>
+  {% endif %}
+  <a href="{{site.whatsapp}}" rel="nofollow">WhatsApp</a>
+</article>
+{% endfor %}
 
 ## San Agustín Huila: hoteles, restaurantes y más
 

@@ -253,6 +253,7 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 
 .negocio h3{
   margin: 0;
+  text-align: center;
 }
 
 .negocio ul{
