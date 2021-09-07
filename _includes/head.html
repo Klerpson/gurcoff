@@ -113,6 +113,10 @@
       text-align: center;
     }
 
+    h3 {
+      font-size: clamp(18px, (1.2rem + 1vw) * 1.1, 1.8rem);
+    }
+
     h2,
     h3 {
       margin: 1.5rem 0;
@@ -126,7 +130,7 @@
 
     section,
     main {
-      width: 90vw;
+      width: 80vw;
       justify-self: center;
     }
 
@@ -308,12 +312,12 @@
 
     @media screen and (min-width:992px) {
       .publicidad img {
-        grid-area: img
+        grid-area: img;
       }
 
       .publicidad h3 {
         grid-area: h3;
-        text-align: center
+        text-align: center;
       }
 
       .publicidad p {
@@ -322,23 +326,15 @@
       }
 
       .publicidad a {
-        grid-area: enlace
+        grid-area: enlace;
       }
-    }
-
-    .f {
-      color: #284d9c
-    }
-
-    .i {
-      color: #5bd336;
     }
 
     @media screen and (min-width:600px) {
 
       section,
       main {
-        width: 70vw
+        width: 70vw;
       }
     }
 

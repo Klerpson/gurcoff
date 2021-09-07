@@ -193,22 +193,26 @@ footer a {
 }
 
 .sugerencias {
+  background-color: var(--principal);
+  color: var(--blanco);
   display: grid;
   grid-gap: 2rem;
-  justify-content: center;
+  place-content: center;
+  padding: 2rem;
+  box-shadow: var(--shadow);
 }
 
 .sugerencias h3 {
-  margin: 2rem 0 1rem 0;
-  font-size: var(--sizeH3);
   text-transform: inherit;
 }
 
-.relacionados {
-  width: 200px;
+.sugerencias a{
+  color: var(--blanco);
+  text-decoration-color: var(--complemento2);
 }
 
 .relacionados img {
+  max-width: fit-content;
   border-radius: 7px;
   box-shadow: var(--shadow);
 }
@@ -259,37 +263,8 @@ footer a {
 }
 
 .negocio{
-  padding: 0.7rem;
-  width: 100%;
-  margin-bottom: 2rem;
-  background: var(--complemento1);
-  box-shadow: var(--shadow);
-  border-radius: 7px;
-}
-
-.negocio a{
-  display: grid;
-  grid-gap: 1rem;
-  align-items: center;
-  justify-items: center;
-}
-
-.negocio img{
-  max-width: 100%;
-}
-
-.negocio div ul{
-  display: flex;
-  justify-content: space-around;
-}
-
-.negocio div ul li{
-  list-style: none;
-  margin: 1rem 0;
-}
-
-.negocio div ul li img{
-  box-shadow: none;
+  background-color: var(--complemento1);
+  border-radius: var(--radius);
 }
 
 #search-container {
@@ -401,9 +376,13 @@ footer a {
   transition: background-color 200ms linear;
 }
 
+.f {color: #1644a5;}
+
+.i {color: #5bd336;}
+
 .f:hover {
   color: #fff;
-  background-color: #284d9c;
+  background-color: #1644a5;
 }
 
 .i:hover {
@@ -462,17 +441,21 @@ footer a {
 
 
 @media screen and (min-width:600px) {
-  .invitacion{
+  .invitacion {
     height: 60vh;
   }
 
   .sugerencias {
-    padding: 0;
+    grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr));
   }
 
   .sugerencias h3 {
-    grid-column: span 2;
-    text-align: center
+    margin: 0;
+  }
+
+  .relacionados {
+    display: flex;
+    flex-direction: column;
   }
 
   .contacto ul {
@@ -490,7 +473,7 @@ footer a {
 
 @media screen and (min-width:767px) {
 
-  header{
+  header {
     height: 35vh;
   }
 
@@ -552,15 +535,18 @@ footer a {
     text-align: center;
   }
 
-  .negocio{
+  .sugerencias a{
+    width: 150px;
+  }
+  .negocio {
     padding: 1rem;
   }
 
-  .negocio a{
+  .negocio a {
     grid-template-columns: 1fr 1fr;
   }
 
-  .negocio a img{
+  .negocio a img {
     max-width: 300px;
   }
 
@@ -576,16 +562,6 @@ footer a {
     grid-column: span 2;
   }
 
-  .sugerencias h3 {
-    grid-column: span 3;
-    text-align: center;
-    margin: 2rem 0
-  }
-
-  .relacionados {
-    padding: 0
-  }
-
   #mc_embed_signup {
     width: 60vw
   }
@@ -593,6 +569,7 @@ footer a {
 }
 
 @media only screen and (min-width:992px) {
+
   .principal,
   .blog-intro,
   .magazine {
@@ -623,7 +600,7 @@ footer a {
     grid-column: span 3;
   }
 
-  .articulo{
+  .articulo {
     position: relative;
     width: 70vw;
     padding: 0 4rem;
@@ -631,16 +608,13 @@ footer a {
     justify-content: left;
   }
 
-  .sugerencias{
+  .sugerencias {
     position: fixed;
     right: 0;
     top: 0;
-    grid-template-columns: 1fr 1fr;
-    margin: 5rem 1rem 0 0;
-  }
-
-  .sugerencias h3 {
-    grid-column: span 2;
+    max-width: 30vw;
+    overflow: scroll;
+    margin: 0;
   }
 
   .comentarios {

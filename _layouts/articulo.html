@@ -2,8 +2,8 @@
 layout: default
 ---
 <main class="articulo">
-  <small>Por {{page.autor}} - {{ page.date | date_to_long_string }}</small>
   <h1>{{page.h1}}</h1>
+  <small>Por {{page.autor}} - {{ page.date | date_to_long_string }}</small>
   {{ content }}
   <div>
     <h4 id="fuentes">Fotografías, fuentes y referencias del artículo {{page.title}}</h4>

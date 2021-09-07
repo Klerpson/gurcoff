@@ -18,9 +18,13 @@
   transition: background-color 200ms linear;
 }
 
+.f {color: #1644a5;}
+
+.i {color: #5bd336;}
+
 .f:hover {
   color: #fff;
-  background-color: #284d9c;
+  background-color: #1644a5;
 }
 
 .i:hover {
