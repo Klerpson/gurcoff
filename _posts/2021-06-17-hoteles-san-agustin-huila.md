@@ -103,20 +103,15 @@ Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en 
 <p>{{hotel.intro}}</p>
   <div>
     <img src="{{site.baseurl}}/img/magazine/hoteles-san-agustin/{{hotel.img}}" alt="{{hotel.alt}}" width="100%" height="150" title="{{hotel.title}}">
-        <ul>
-            <li><img src="{{site.baseurl}}/{{include.logo1}}" alt="{{include.   alt-logo1}}" width="30" height="30"
-                    title="{{include.title-logo1}}"></li>
-            <li><img src="{{site.baseurl}}/{{include.logo2}}" alt="{{include.   alt-logo2}}" width="30" height="30"
-                    title="{{include.title-logo2}}"></li>
-            <li><img src="{{site.baseurl}}/{{include.logo3}}" alt="{{include.   alt-logo3}}" width="30" height="30"
-                    title="{{include.title-logo3}}"></li>
-            <li><img src="{{site.baseurl}}/{{include.logo4}}" alt="{{include.   alt-logo4}}" width="30" height="30"
-                    title="{{include.title-logo4}}"></li>
-            <li><img src="{{site.baseurl}}/{{include.logo5}}" alt="{{include.   alt-logo5}}" width="30" height="30"
-                    title="{{include.title-logo5}}"></li>
-        </ul>
-    </div>
-    <a href="{{site.baseurl}}/hoteles/{{include.link}}">Más información</a>
+    <ul>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo1}}" alt="{{include.alt-logo1}}" width="30" height="30" title="{{include.title-logo1}}"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo2}}" alt="{{include.   alt-logo2}}" width="30" height="30" title="{{include.title-logo2}}"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo3}}" alt="{{include.   alt-logo3}}" width="30" height="30" title="{{include.title-logo3}}"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo4}}" alt="{{include.   alt-logo4}}" width="30" height="30" title="{{include.title-logo4}}"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo5}}" alt="{{include.   alt-logo5}}" width="30" height="30" title="{{include.title-logo5}}"></li>
+    </ul>
+  </div>
+  <a href="{{hotel.link}}">Más información</a>
 </article>
 {% endfor %}
 
