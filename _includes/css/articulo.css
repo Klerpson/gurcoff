@@ -71,7 +71,7 @@
   background-color: var(--principal);
   color: var(--blanco);
   display: grid;
-  grid-gap: 2rem;
+  gap: 2rem;
   place-content: center;
   padding: 2rem;
   box-shadow: var(--shadow);

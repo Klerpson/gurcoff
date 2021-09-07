@@ -4,11 +4,12 @@
   }
 
   .sugerencias {
-    grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr));
   }
 
   .sugerencias h3 {
     margin: 0;
+    align-self: center;
   }
 
   .relacionados {
@@ -93,9 +94,6 @@
     text-align: center;
   }
 
-  .sugerencias a{
-    width: 150px;
-  }
   .negocio {
     padding: 1rem;
   }
@@ -170,9 +168,12 @@
     position: fixed;
     right: 0;
     top: 0;
+    height: 90vh;
     max-width: 30vw;
-    overflow: scroll;
     margin: 0;
+    padding: 1rem;
+    gap: 1.5rem;
+    overflow: auto;
   }
 
   .comentarios {
@@ -189,5 +190,14 @@
 @media screen and (min-width:1200px) {
   #mc_embed_signup {
     width: 40vw
+  }
+
+  .sugerencias {
+    height: 92vh;
+    max-width: 30vw;
+    padding: 1.2rem;
+    gap: 1rem;
+    overflow: hidden;
+    border-radius: 0.7rem 0 0 0.7rem;
   }
 }
