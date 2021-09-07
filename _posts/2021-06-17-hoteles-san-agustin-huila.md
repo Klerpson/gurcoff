@@ -104,22 +104,21 @@ Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en 
   <div>
     <img src="{{site.baseurl}}/img/magazine/hoteles-san-agustin/{{hotel.img}}" alt="{{hotel.alt}}" width="100%" height="150" title="{{hotel.title}}">
     <ul>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo1}}" alt="{{include.alt-logo1}}" width="30" height="30" title="{{include.title-logo1}}"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo2}}" alt="{{include.   alt-logo2}}" width="30" height="30" title="{{include.title-logo2}}"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo3}}" alt="{{include.   alt-logo3}}" width="30" height="30" title="{{include.title-logo3}}"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo4}}" alt="{{include.   alt-logo4}}" width="30" height="30" title="{{include.title-logo4}}"></li>
-      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo5}}" alt="{{include.   alt-logo5}}" width="30" height="30" title="{{include.title-logo5}}"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo1}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo2}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo3}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo4}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
+      <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo5}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
     </ul>
   </div>
+  {% if hotel.nofollow %}
+  <a href="{{hotel.link}}" rel="nofollow">Más información</a>
+  {% else %}
   <a href="{{hotel.link}}">Más información</a>
+  {% endif %}
+  <a href="{{site.whatsapp}}" rel="nofollow">WhatsApp</a>
 </article>
 {% endfor %}
-
-<!-- {% include negocios.html src="" alt="" imgtitle="" texto="" link="" logo1="img/iconos/mascotas.svg" alt-logo1="Hotel Masaya San Agustín acepta mascotas" title-logo1="Logo mascotas sí" logo2="img/iconos/wifi.svg" alt-logo2="Hotel Masaya San Agustín wifi" title-logo2="Logo wifi" logo3="img/iconos/lavanderia.svg" alt-logo3="Hotel Masaya San Agustín lavanderia" title-logo3="Logo lavanderia" logo4="img/iconos/parqueadero.svg" alt-logo4="Hotel Masaya San Agustín parqueadero" title-logo4="Logo parqueadero" logo5="img/iconos/ducha.svg" alt-logo5="Hotel Masaya San Agustín ducha" title-logo5="Logo ducha" %} -->
-
-### Hotel Akawanka Lodge
-
-<!-- {% include negocios.html src="img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila-400px.webp" alt="Fotografía del Hotel Akawanka de San Agustín Huila" imgtitle="Foto del Hotel Akawanka" texto="Hotel de lujo con hermosas eco lodge y servicios profesionales para liberar tu estrés." link="akawanka-lodge-san-agustin-huila" logo1="img/iconos/mascotas-no.svg" alt-logo1="Hotel Akawanka no acepta mascotas" title-logo1="Logo mascotas no" logo2="img/iconos/wifi.svg" alt-logo2="Hotel Akawanka wifi" title-logo2="Logo wifi" logo3="img/iconos/tv.svg" alt-logo3="Hotel Akawanka tv" title-logo3="Logo tv" logo4="img/iconos/parqueadero.svg" alt-logo4="Hotel Akawanka parqueadero" title-logo4="Logo parqueadero" logo5="img/iconos/ducha.svg" alt-logo5="Hotel Akawanka ducha" title-logo5="Logo ducha" %} -->
 
 ### Hotel San Agustín Internacional
 

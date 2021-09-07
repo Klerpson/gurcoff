@@ -8,4 +8,44 @@
   logo3: tv.svg
   logo4: ducha.svg
   logo5: parqueadero.svg
-  link: https://www.masaya-experience.com/san-agustin/
+  link: '/hoteles/hotel-masaya-san-agustin-huila'
+  nofollow: false
+
+- nombre: Hotel Akawanka Lodge
+  intro: Hotel de lujo con temática eco lodge y servicios profesionales para liberar tu estrés.
+  img: hotel-akawanka-san-agustin-huila-400px.webp
+  alt: Foto del Hotel Akawanka en San Agustín Huila
+  title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
+  logo1: mascotas-no.svg
+  logo2: wifi.svg
+  logo3: tv.svg
+  logo4: ducha.svg
+  logo5: parqueadero.svg
+  link: '/hoteles/akawanka-lodge-san-agustin-huila'
+  nofollow: false
+
+- nombre: Hotel San Agustín Internacional
+  intro: Hotel con arquitectura inspirada en diferentes países y en la Colombia precolombina, colonial, republicana y contemporánea.
+  img: hotel-internacional-san-agustin-400px.webp
+  alt: Fotografía del Hotel Internacional de San Agustín Huila
+  title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
+  logo1: mascotas-no.svg
+  logo2: wifi.svg
+  logo3: tv.svg
+  logo4: ducha.svg
+  logo5: parqueadero.svg
+  link: '/hoteles/hotel-internacional-san-agustin-huila'
+  nofollow: false
+
+- nombre: Hotel Estorake San Agustín Huila
+  intro: Hotel con arquitectura inspirada en diferentes países y en la Colombia precolombina, colonial, republicana y contemporánea.
+  img: hotel-internacional-san-agustin-400px.webp
+  alt: Fotografía del Hotel Internacional de San Agustín Huila
+  title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
+  logo1: mascotas-no.svg
+  logo2: wifi.svg
+  logo3: tv.svg
+  logo4: ducha.svg
+  logo5: parqueadero.svg
+  link: '/hoteles/hotel-internacional-san-agustin-huila'
+  nofollow: false
