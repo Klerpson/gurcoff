@@ -125,7 +125,7 @@ El correo electrónico del hostal es **bambuhostalsa@hotmail.com**.
 
 #### Video del Hostal Bambú de San Agustín Huila
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KBA-ZRxbs8A?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="auto" src="https://www.youtube.com/embed/KBA-ZRxbs8A?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Otros aspectos sobre el hotel Akawanka Lodge
 

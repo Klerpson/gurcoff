@@ -1,1 +1,20 @@
- .change{right:0}.change .line-1{transform:rotateZ(-405deg) translate(-8px,6px)}.change .line-2{opacity:0}.change .line-3{transform:rotateZ(405deg) translate(-8px,-6px)}.nav-link:hover::before,.nav-link:hover::after{transform:scaleX(1)}
+ .change {
+   right: 0
+ }
+
+ .change .line-1 {
+   transform: rotateZ(-405deg) translate(-8px, 6px)
+ }
+
+ .change .line-2 {
+   opacity: 0
+ }
+
+ .change .line-3 {
+   transform: rotateZ(405deg) translate(-8px, -6px)
+ }
+
+ .nav-link:hover::before,
+ .nav-link:hover::after {
+   transform: scaleX(1)
+ }

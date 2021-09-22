@@ -6,6 +6,7 @@ category: hoteles
 tags: [hoteles, fincas]
 h1: Finca Agroturística Tierra Activa de San Agustín Huila
 img: img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp
+jpg: img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.jpg
 alt: Fotografía del Hotel Finca Tierra Activa en San Agustín Huila
 autor: Julian Franco
 date: 2021-07-25

@@ -32,7 +32,26 @@ h3 {
   display: none;
 }
 
- .change{right:0}.change .line-1{transform:rotateZ(-405deg) translate(-8px,6px)}.change .line-2{opacity:0}.change .line-3{transform:rotateZ(405deg) translate(-8px,-6px)}.nav-link:hover::before,.nav-link:hover::after{transform:scaleX(1)}
+ .change {
+   right: 0
+ }
+
+ .change .line-1 {
+   transform: rotateZ(-405deg) translate(-8px, 6px)
+ }
+
+ .change .line-2 {
+   opacity: 0
+ }
+
+ .change .line-3 {
+   transform: rotateZ(405deg) translate(-8px, -6px)
+ }
+
+ .nav-link:hover::before,
+ .nav-link:hover::after {
+   transform: scaleX(1)
+ }
 
 .principal div article:nth-child(2) img {
   background: var(--principal);
@@ -103,18 +122,17 @@ h3 {
 footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:center;text-align:center;background:linear-gradient(rgba(224,251,252,1),rgba(250,250,250,.4))}footer a,footer p{display:inline-block;font-family:var(--fuenteTitulos)}footer a{color:var(--principal);margin:1rem .5rem;font-weight:700}
 
 .articulo{
-  display: grid;
-  justify-items: center;
-  grid-gap: 1.5rem;
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  padding-top: 7rem;
 }
 
-.articulo h1 {
-  margin-top: 7rem;
-  text-align: center;
-}
-
-.articulo picture{
-  max-width: 100%;
+.articulo h1,
+.articulo h3,
+.articulo h4,
+.articulo h2{
+  width: 100%;
 }
 
 .articulo img {
@@ -132,24 +150,21 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
   margin-left: 1rem;
 }
 
-.articulo table{width: 100%;}
-
 .articulo table tr{
   display: flex;
-  align-items: center;
   border-bottom: 1px solid var(--secundario);
-  padding: 0.5rem 0;
+  padding: 0.3rem 0;
 }
 
 .articulo table th {
   background: var(--secundario);
   padding: 0.3rem 0.5rem;
-  text-align: center;
+  justify-content: left;
   width: 100%;
 }
 
 .articulo table td{
-  padding: 1rem;
+  padding: 0 .3rem;
 }
 
 .articulo blockquote {
@@ -166,17 +181,16 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 
 .articulo iframe{
   width: 100%;
-  justify-self: center;
   box-shadow: var(--shadow);
   border-radius: 7px;
 }
 
 .sugerencias {
-  background-color: var(--principal);
-  color: var(--blanco);
+  background-color: rgba(136, 51, 255, .3);
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
   display: grid;
   gap: 2rem;
-  place-content: center;
+  justify-content: center;
   padding: 2rem;
   box-shadow: var(--shadow);
 }
@@ -186,7 +200,7 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 }
 
 .sugerencias a{
-  color: var(--blanco);
+  color: var(--grisTextos);
   text-decoration-color: var(--complemento2);
 }
 
@@ -476,8 +490,12 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
     height: 60vh;
   }
 
+  .articulo iframe{
+    height: 360px;
+  }
+
   .sugerencias {
-    grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 150px), 1fr));
   }
 
   .sugerencias h3 {
@@ -569,9 +587,9 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 
   .negocio {
     grid-template-areas: "titulo titulo"
-                         "imagen parrafo"
-                         "imagen iconos"
-                         "boton boton";
+      "imagen parrafo"
+      "imagen iconos"
+      "boton boton";
   }
 
   .magazine {
@@ -593,6 +611,11 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 }
 
 @media only screen and (min-width:992px) {
+
+  .hamburguer-menu {
+    top: 1rem;
+    bottom: unset;
+  }
 
   .principal,
   .blog-intro,
@@ -626,22 +649,26 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 
   .articulo {
     position: relative;
-    width: 70vw;
-    padding: 0 4rem;
+    width: 720px;
+    margin-left: 10rem;
+    padding: 7rem 0;
     justify-self: left;
     justify-content: left;
+  }
+
+  .articulo iframe{
+    height: 520px;
   }
 
   .sugerencias {
     position: fixed;
     right: 0;
     top: 0;
-    height: 90vh;
-    max-width: 30vw;
+    bottom: 0;
+    max-width: 25vw;
     margin: 0;
-    padding: 1rem;
-    gap: 1.5rem;
-    overflow: auto;
+    padding: 1.5rem;
+    gap: 1rem;
   }
 
   .comentarios {
@@ -660,20 +687,11 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
     width: 40vw
   }
 
-  .sugerencias {
-    height: 92vh;
-    max-width: 30vw;
-    padding: 1.2rem;
-    gap: 1rem;
-    overflow: hidden;
-    border-radius: 0.7rem 0 0 0.7rem;
-  }
-
   .negocio {
     align-items: center;
     grid-template-areas: "imagen titulo boton"
-                         "imagen parrafo boton"
-                         "imagen iconos boton";
+      "imagen parrafo boton"
+      "imagen iconos boton";
   }
 
 }

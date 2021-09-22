@@ -6,6 +6,7 @@ category: restaurantes
 tags: [restaurantes, parque]
 h1: Los restaurantes de San Agustín Huila bien recomendados
 img: img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp
+jpg: img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.jpg
 alt: Plato preparado en la Gata Parrilla de San Agustín Huila
 copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->

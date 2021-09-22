@@ -140,6 +140,8 @@ Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila:
 
 ## ¿Qué hacer en San Agustín Huila?
 
+**En San Agustín Huila hay una gran variedad de planes llenos de aventura, naturaleza y descanso total**. Para que puedas planear tu itinerario, mira lo que puedes hacer aquí.
+
 ### Turismo arqueológico en San Agustín Huila
 
 **San Agustín de Huila** conserva muchas esculturas con parte de su historia y cultura. Sus espacios están llenos de **artesanía, arqueología e historia.** Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas talladas en piedras, todas elaboradas por los artesanos de esta comunidad, con las formas y figuras que se encuentran en museos y parques.
@@ -181,7 +183,7 @@ Podremos encontrar el [Estrecho del Magdalena](https://gurcoff.com/estrecho-rio-
 
 #### Un tour de cascadas en San Agustín Huila y sus alrededores
 
-**El Salto de los Bordones**, una de las cascadas más altas de Colombia; **el Salto el Mortiño**, con su mirador de cristal y su culumpio al vacío; [la cascada Los Tres Chorros](https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin0), un rincón preservado naturalmente por su ubicación; y numerosos caudales más, formando una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
+**El Salto de los Bordones**, una de las cascadas más altas de Colombia; **el Salto el Mortiño**, con su mirador de cristal y su culumpio al vacío; [la cascada Los Tres Chorros](https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin), un rincón preservado naturalmente por su ubicación; y numerosos caudales más, formando una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
 
 {% include img.html img="magazine/visita-san-agustin/salto-de-bordones-huila.webp" img-mini="magazine/visita-san-agustin/salto-de-bordones-huila-mini.webp" alt="Salto de Bordones en Isnos Huila" title="Cascada salto de Bordones" %}
 *Cascada el Salto de Bordones*
@@ -212,6 +214,8 @@ Si vienes por Popayán, te bajas en el cruce de entrada a San Agustín, después
 Por supuesto, también puedes venir en tu carro particular. Estas son las **distancias en kilómetros hasta San Agustín y el tiempo de duración de cada viaje**.
 
 #### Distancias hasta San Agustín Huila y peajes
+
+En la siguiente tabla puedes ver **las distancias entre San Agustín Huila y Bogotá, Cali, Neiva, Popayán y Mocoa**.
 
 | Punto de partida | Kilómetro | Tiempo | Peajes |
 | --- | --- | --- | --- |
