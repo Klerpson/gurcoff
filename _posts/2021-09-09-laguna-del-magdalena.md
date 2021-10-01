@@ -161,7 +161,7 @@ Por el clima de páramo, estará en medio del reino de los frailejones y la brum
 {% include img.html img="magazine/laguna-magdalena/laguna-magdalena.webp" img-mini="magazine/laguna-magdalena/laguna-magdalena-paramo.webp" alt="Paisaje de la Laguna del río Magdalena" title="Paisaje de la Laguna del Magdalena" %}
 *Paisaje de la Laguna del Magdalena*
 
-Su paisaje apacible, tranquilo y fresco se encuentra dentro del perímetro del Parque Nacional Natural Puracé, en límite sur entre los departamentos de Huila y Cauca. Esto te brinda la posibilidad de terminar tu ruta con otros destinos como [el estrecho del magdalena]({{site.baseurl}}/estrecho-rio-magdalena), [la cascada de los tres chorros]({{site.baseurl}}/cascada-los-tres-chorros-san-agustin), el pueblo de [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila), los termales de Coconuco, el nacimiento de los ríos antes mecionados, etc.
+Su paisaje apacible, tranquilo y fresco se encuentra dentro del perímetro del Parque Nacional Natural Puracé, en límite sur entre los departamentos de Huila y Cauca. Esto te brinda la posibilidad de terminar tu ruta con otros destinos como [el estrecho del magdalena]({{site.baseurl}}/estrecho-rio-magdalena), [la cascada de los tres chorros]({{site.baseurl}}/cascada-los-tres-chorros-de-san-agustin), el pueblo de [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila), los termales de Coconuco, el nacimiento de los ríos antes mecionados, etc.
 
 Todo dependerá de tu tiempo. Aunque si estás por visitar este lugar, seguramente dispones de un buen tiempo para disfrutar con tranquilidad del lugar y su majestuosidad.
 
