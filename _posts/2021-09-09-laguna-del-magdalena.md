@@ -81,8 +81,9 @@ json: '{
             }
     }
   ]}'
+referencias:
+  - Imágen letrero páramo: https://commons.wikimedia.org/wiki/File:Laguna_de_la_Magdalena_aviso.JPG
 excerpt_separator: <!-- excerpt -->
-published: no
 ---
 **La Laguna del Magdalena es el origen o la fuente del gran Río Magdalena**, la mayor fuente del agua dulce para la producción colombiana. Aquí te contamos porqué debes venir a conocerla.
 
@@ -115,7 +116,7 @@ Para llegar desde San Agustín hasta la Laguna del Magdalena, primero debes viaj
 {% include img.html img="magazine/laguna-magdalena/cabalgata-laguna-del-magdalena.webp" img-mini="magazine/laguna-magdalena/cabalgata-laguna-del-magdalena-san-agustin.webp" alt="Cabalgata hacia la Laguna del río Magdalena" title="Cabalgando hacia la Laguna del Magdalena, en el páramo de las papas" %}
 *Cabalgata hacia la Laguna del Magdalena, ruta desde San Agustín Huila*
 
-Cualquiera de las opciones te ayudarán a llegar hasta la vereda Villa Fátima, ubicada a 30 kilómetros de San Agustín. Desde este punto comenzarás una aventura natural en una muy extensa caminata, o contratando los servicios de transporte a caballo.
+Cualquiera de las opciones te ayudarán a **llegar hasta la vereda Villa Fátima, ubicada a 30 kilómetros de San Agustín**. Desde este punto comenzarás una aventura natural en una muy extensa caminata, o contratando los servicios de transporte a caballo.
 
 #### El camino de las papas
 
@@ -132,151 +133,54 @@ Esta hermosa aventura se realiza en dos dias normalmente. La primera noche la pa
 
 Tu caminata continuará hasta un punto llamado "La Ye". Es un punto donde el recorrido se divide en el camino antiguo y una camino más reciente. Ambos te llevan al mismo destino. La diferencia radica en que el camino nuevo es más fácil, pasa por el Páramo de las Papas, cerca de la Laguna del Magdalena.
 
-## Importancia de la Laguna del Magdalena
+Caminar toda la reserva completa puede tomar entre 10 y 15 días.
 
-Es la fuente de la mayor parte de la producción económica colombiana, con el 70 por ciento de la hidroelectricidad, el 95 por ciento de la electricidad y el 70 por ciento de la producción agrícola del país, así como el 50 por ciento de la pesca de agua dulce del país.
+## Importancia de la Laguna del Magdalena y el río que origina
 
-Pocos pensarían que el 80 por ciento del país necesita del agua que se origina en ese pequeño espejo lagunar de 7 hectáreas. El páramo divide a Cauca y Huila.
+{% include img.html img="magazine/laguna-magdalena/letrero-laguna-magdalena-paramo.webp" img-mini="magazine/laguna-magdalena/letrero-laguna-magdalena.webp" alt="Letrero del bienvenida al páramo de la Laguna del río Magdalena" title="Páramo de la Laguna del Magdalena" %}
+*Bienvenida al páramo*
 
-Del agua que brota desde ese punto depende el 80 por ciento del PIB, el 70 por ciento de la energía hidráulica, el 95 por ciento de termoelectricidad, el 70 por ciento de la producción agrícola del país y el 50 por ciento de la pesca de agua dulce.
+**El río Magdalena es el río más importante de Colombia para la vida, la conservación de la naturaleza, la economía, la comunicación de pueblos, etc.** Piensa en estos datos:
 
-Puracé es un ecosistema estratégico. En 1979 fue declarado como Reserva de la Biosfera del Cinturón Andino por la Unesco por su biodiversidad. Comprende una extensión de 83.000 hectáreas, con alturas entre los 2.500 y 4.700 metros, en Cauca y Huila.
+1. Más del 70% de la producción hidroeléctrica colombiana se realiza con las aguas del río Magdalena
+2. Más del 70% de la producción agrícola del país se abastese de sus aguas
+3. Más de la mitad de la pesca de agua dulce del país se efectúa en este río
+4. Más del 75% del territorio nacional se beneficia de este gran río
+5. Las aguas del río Magdalena benefician a más del 80% de Producto Interno Bruto de Colombia
 
-Pumas, tigrillos, venados, cusumbos, coatíes, cotorras montañeras, tucanes andinos, azulejos, pericos de páramo y águilas de copete,
+Tan importante es este río y su nacimiento, que en 1979 fue declarado Reserva de la Biosfera del Cinturón Andino por la Unesco. Así se vigila y protege la vida de pumas, tigrillos, venados, cusumbos, coatíes, osos, dantas, cotorras montañeras, tucanes andinos, azulejos, pericos de páramo y águilas de copete, entre otros.
 
-Caminar el parque entero, se demoraría entre 10 y 12 días. Allí, en el macizo, también conocido como el Nudo de Almaguer, se desprende la cordillera Oriental de la Central y se forma la estrella fluvial donde nacen los ríos Magdalena y Cauca que van al norte del país; el Patía hacia el occidente, y el Caquetá hacia el oriente amazónico.
+Por otra perte, este nacimiento es parte de lo que se conoce como la principal estrella fluvial colombiana del Macizo Colombiano. Desde aquí se originan los rios Magdalena, Caquetá, Patía, Cauca y sus afluentes.
 
-El Macizo Colombiano es considerada como la principal estrella fluvial colombiana, origen de los rios Magdalena, Caqueta, Patia, Cauca y mucho de sus afluentes.
+## Turismo en la Laguna del Magdalena
 
-Esta ruta, de gran riqueza paisajistica, ecologica y arqueologica, resulta de gran interes para quienes practican el turismo de naturaleza en sus diferentes expreciones.
+El turismo de la Laguna del Magdalena es de aventura y naturaleza, la mayoría intacta a los daños que causa el hombre. Encontrarás paisajes hermosos y únicos. La variedad del ecosistema es hermosa. Y el toque de misterio de la arqueología encontrada en el lugar es un complemento perfecto.
 
-Laguna del Río Magdalena, en aquel punto en donde la Cordillera de Los Andes se desprenden de las tres cordilleras colombianas y a 3.327 metros de altura, en el reino de los frailejones y la bruma, brota de la Madre Tierra, la Laguna de la Magdalena.
+Por el clima de páramo, estará en medio del reino de los frailejones y la bruma. Si haces tu viaje en la época de florecimiento, este paisaje es más hermoso. ¡Parece un bosque de película de fantasía!
 
-Es el génesis del Magdalena, el río más importante del país y que en otra fuera una de sus principales vías de transporte, motor de la economía nacional. El caudaloso Magdalena, luego de recorrer casi la totalidad del territorio nacional a lo largo de 1.540 kilómetros, muere gigante vertiendo al mar Caribe, en Bocas de Ceniza.
+{% include img.html img="magazine/laguna-magdalena/laguna-magdalena.webp" img-mini="magazine/laguna-magdalena/laguna-magdalena-paramo.webp" alt="Paisaje de la Laguna del río Magdalena" title="Paisaje de la Laguna del Magdalena" %}
+*Paisaje de la Laguna del Magdalena*
 
-Pero aquí en la laguna es decididamente otro. Apacible, tranquilo, fresco se encuentra dentro del perímetro del Parque Nacional Natural Puracé, en límite sur entre los departamentos de Huila y Cauca.
+Su paisaje apacible, tranquilo y fresco se encuentra dentro del perímetro del Parque Nacional Natural Puracé, en límite sur entre los departamentos de Huila y Cauca. Esto te brinda la posibilidad de terminar tu ruta con otros destinos como [el estrecho del magdalena]({{site.baseurl}}/estrecho-rio-magdalena), [la cascada de los tres chorros]({{site.baseurl}}/cascada-los-tres-chorros-san-agustin), el pueblo de [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila), los termales de Coconuco, el nacimiento de los ríos antes mecionados, etc.
 
-Es un lugar privilegiado para Colombia porque allí nacen, además del Magdalena, otros tres importantes ríos: Cauca, Caquetá y Patía. Otros nombres recibe la región que alberga a la laguna madre: Nudo de Paramillo –en donde se dividen Los Andes- o Macizo Colombiano o Páramo de las Papas.
+Todo dependerá de tu tiempo. Aunque si estás por visitar este lugar, seguramente dispones de un buen tiempo para disfrutar con tranquilidad del lugar y su majestuosidad.
 
-Laguna cusiyaco 
+### Actividades de turismo en la laguna del Magdalena
 
-Nuestro río Magdalena es la vía principal del país y lo recorre de sur a norte.Hay dos formas de llegar a la laguna donde nace el río: una, por el Cauca; desde Popayán salen los buses que llevan a Valencia, pueblo ubicado a menos de siete kilómetros de la laguna. Esta vía es la más fácil pero la menos atractiva porque la zona oriental del Páramo de las Papas está muy deforestada. La otra vía, la más hermosa, de belleza sin igual, parte de San Agustín, Huila.
+* Cabalgatas de excursión y senderos
+* Senderismo
+* Escaladas
+* Hospedaje en viviendas campesina
+* Observación de fauna y flora silvestre
+* Paisajismo
 
-Helecho de bosques de cordillera
+Recuerda tomar las siguientes precauciones en tu viaje:
 
-El Páramo de las Papas, donde nace Yuma, como llamaban los indios al Magdalena, pertenece al Parque Nacional del Puracé, cuyo sector norte está dominado por los volcanes Puracé, Coconucos, Pan de Azúcar y Sotará, y el sector sur corresponde al Páramo de las Papas y a numerosas lagunas de páramo.
+* Es obligatorio utilizar calzado de botas de caucho. El tipo de camino arruinará tu viaje si utilizas otra clase de calzado
+* Pregunta por las chivas que van desde San Agustín hasta Quinchana. Normalmente sale una en al medio día.
+* En Quinchana el hospedaje es rudimentario y llegando a acuerdos con los habitantes locales
+* Llueve constantemente. Recuerda que es un páramo. Utiliza ropa para la lluvia. Y protege tu equipaje con implementos para la lluvia.
+* El hospedaje y la comida a mitad de camino no son económicos. Pero son precios muy razonables si tienes en cuenta el aislamiento. Además, casi siempre tendrás truchas criadas en las aguas potables del hospedaje
 
-Este parque arropa la estrella fluvial colombiana porque en sus dominios nacen cuatro ríos medulares de la patria: el Magdalena, el Caquetá, el Cauca y el Patía; los dos primeros nacen a tres kilómetros de distancia.
-
-Desde San Agustín rumbo a Quinchana, pequeño caserío donde se inicia el camino de dos días que lleva a la laguna. Primero un fuerte ascenso, luego un descenso largo para caer al río Magdalena, correntoso allí y todavía adolescente, y enseguida una larga subida, sostenida hasta llegar a la posada de Palechor donde pasamos la primera noche. Son seis horas de camino, duras, a pesar de que dos bestias cargan nuestros morrales.
-
-El camino avanza entre bosques, la mayoría intactos, como en el primer día del Génesis y entre potreros hermosos.
-
-El Magdalena se desprende de su laguna
-
-Después de otras seis horas llegamos a la explanada de la laguna situada a 3.600 metros y sin detenernos continuamos hacia La Oyola, del lado del Cauca, descendiendo un poco, hasta llegar a la casa de unos campesinos amigos, donde siempre nos hemos alojado y que sería nuestra base de operaciones.
-
-Al otro día madrugamos para darle la vuelta completa a la mítica laguna que se encuentra en un alto valle cubierto de vegetación paramuna en la que sobresalen los frailejones que estaban florecidos.
-
-El sitio exacto por donde el río se desprende de la laguna mide apenas un metro de anchura. ¿Quién lo creyera? ¡Es el mismo río que al desembocar en Barranquilla tiene más de 100 metros de anchura!
-
-Para admirar la laguna de Cusiyaco debimos trepar por un empinado potrero que luego se convierte en bosque cerrado, lleno de musgos, epífitas y quiches. Parecía un bosque encantado como los de las películas.
-
-El pico al que llegamos estaba enrojecido con centenares de plantas insectívoras parecidas a la rosa y llamada por los científicos “Befaria Resinosa”. Desde arriba el espectáculo de la laguna de Cusiyaco acunada en un hueco 120 metros más abajo es soberbio. En la laguna de Santiago, ubicada apenas a 500 metros de la del Magdalena, nace el primer afluente del Yuma. Para llegar a ella debemos también subir una cuesta empinada.
-
-Igual que la de Cusiyaco, se encuentra rodeada de altísimos paredones. Nos quedaba la más lejana, la de San Patricio. Debemos subir laderas empinadas hasta llegar a los 4.000 metros de altura sobre el nivel del mar. Allí el viento es helado y cortante. Igual que las otras, la de San Patricio se esconde en un inmenso hueco. Al regreso un osezno y su madre corrieron delante de nosotros. Es el oso de anteojos, el único oso suramericano.
-
-También queríamos conocer la cuna del río Caquetá.
-No nace como el Yuma de una laguna sino que recoge aguas de un enorme cuenco de laderas densamente cubiertas de matorrales y se despeña por una cascada y transita en dirección norte por un valle de frailejones; luego tuerce hacia el occidente y al llegar al pueblo de Valencia toma la dirección sur para mucho más adelante girar hacia el oriente en busca del lejanísimo río Amazonas, al cual verterá sus aguas con el nombre de Yapurá, en territorio brasileño.
-
-LAGUNA DE LA MAGDALENA - PARQUE NACIONAL NATURAL PURACÉ
-
-La Laguna del Magdalena, se encuentra situada en el nudo de las papas a 3.327 metros de altura, también llamado nudo de Paramillo, más exactamente en el Parque Nacional Natural Puracé. En esta zona también nacen los rí­os Cauca, Caquetá y Patí; estos y otros nacimientos convierten al macizo en la Estrella Fluvial o Estrella Hidrográfica de Colombia.
-
-La experiencia de ver discurrir el Rio Magdalena desde su laguna es impactante, en su nacimiento no se dimensionan los 1.540 kilómetros que recorrerán el rio a lo largo del país y el tamaño descomunal que alcanzará al bajar del macizo nudo de las papas.
-
-El paisaje de la Laguna del Magdalena es propio de la zona de páramo, en medio de la espesa bruma y rodeada de frailejones, musgo y encenillos. Esta zona es habitada por el imponente cóndor de los andes, ave que puede llegar a medir 3 metros de una punta del ala a la otra.
-
-## Actividades de turismo
-
-Incluye
-Visitas guiadas del PNN Puracé, durante la cabalgata o la excursión.
-
-Excursiones y actividades descritas en la programación del viaje.
-
-Transporte en camioneta San Agustín-Quinchana-San Agustín. Quinchana.
-
-Ingreso al PNN Puracé.
-
-3 noches de hospedaje en viviendas campesinas.
-
-2 noches en hospedaje en San Agustín.
-
-Póliza de viaje.
-
-3 desayunos, 4 almuerzos, 3 cenas y refresco en el camino.
-
-Un caballo de carga.
-
-Características Técnicas
-Duración:                  4 días - 3 Noches
-
-Altitud:                     2.400 – 3.327 m.s.n.m.
-
-Temperatura:            5 - 25 ºC
-
-Dificultad:                 Grado 4/6 (Un poco difícil)
-
-Solo recomendable para personas entrenadas y dispuestas a caminar mucho. Es posible que en algún tramo sea necesario usar las manos para abordar pasos y obstáculos considerables.
-
-Itinerario
-Día 1.
-
-San Agustín - Quinchana -San Antonio
-
-Se parte de San Agustín muy temprano en la mañana, en vehículo hasta Alto Quinchana.
-
-Duración: 2 horas.
-
-Se inicia el recorrido a pie o a caballo hasta la vereda San Antonio.
-
-Duración: 5 horas.
-
-Día 2.
-
-Páramo de las Papas
-
-Partiendo muy temprano de San Antonio se llega al mediodía al mirador del Páramo de las Papas, con la posibilidad de llegar al mirador de la Laguna de Santiago, para observar, el impresionante panorama del Páramo de las Papas en el departamento del Huila, y el valle de las Papas del departamento del Cauca.
-
-Se continúa el recorrido hasta el hospedaje del sitio denominado La Hoyola en el departamento del Cauca.
-
-Día 3.
-
-La Hoyola -Laguna de la Magdalena - San Antonio
-
-El camino nos lleva al nacimiento del río Magdalena.
-
-Se atraviesa el páramo para continuar hasta la vereda San Antonio en donde saborearemos un delicioso sancocho de gallina campesina.
-
-Día 4.
-
-San Antonio – Quinchana - San Agustín
-
-Se regresa en caballo o a pie hasta Alto Quinchana, y luego en vehículo hasta San Agustín.
-
-Contiene 362 cuerpos lagunares en la Alta Montaña, 13 páramos y ecosistemas ricos en flora y fauna. Sobresalen los páramos de Cutanga, el Letrero, las Papas, el Apio, el Buey, Hermosas y los Volcanes nevados de Sotará, Huila y Puracé.
-
-El Macizo Colombiano ha sido catalogado por parte de la Unesco como reserva de la biósfera por ser, entre otras, una de las regiones que alberga las mayores reservas hídricas del planeta en zonas ecuatoriales.
-
-La Corona del macizo, territorio ancestral y sagrado, está poblada por comunidades indígenas Yanaconas y campesinas (guardianes de las lagunas y los páramos).
-
-Algunas precisiones :
-
-- Hay que Llevar botas de caucho , si o si. con zapatos de senderismo NO! aunque esten altos
-- de San agustin , preguntar por las chivas que van a Quinchana , hay hasta las 2 de la tarde desde san agustin creo, no me acuerdo bien.
-- no conseguimos hospedaje "official" en Quinchana, que nosotros pasamos la noche Alli. Creo que hay , habria que averiguar, encima que se esta creciendo el turismo en este zona
-- Mucha agua , mucha lluvia en este recorrido. Botas como dicho antes, mas ropa de lluvia mas que requerido.
-
-- El hospedaje EL CEDRO esta a mitad de Camino , muy bien con comida y cama a precios resonables por el aislamiento. y tienen truchas por lo general! el agua es potable al hospedaje.
-
-- secundo dia mas duro que el primero, nos fuimos del CEDRO a las 7 de la manana y llegamos a las 5 de la tarde en el pueblo de VALENCIA.
+{% include img.html img="magazine/laguna-magdalena/laguna-magdalena-macizo-colombiano.webp" img-mini="magazine/laguna-magdalena/laguna-magdalena-macizo.webp" alt="Paisaje de la Laguna del río Magdalena" title="Paisaje de la Laguna del Magdalena" %}
+*La gran Laguna del Magdalena*
