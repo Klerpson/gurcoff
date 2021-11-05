@@ -7,7 +7,7 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
   <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}">
   {% if page.noindex %}
-  <meta name="robots" content="noindex, nofollow">
+  <meta name="robots" content="nofollow">
   {% else %}
   <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
   {% endif %}
