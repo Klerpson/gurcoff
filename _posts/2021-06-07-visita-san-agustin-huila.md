@@ -4,7 +4,7 @@ title: San Agustín Huila - Turismo y Naturaleza
 description: San Agustín Huila tiene los hermosos paisajes del macizo colombiano. El turismo es perfecto por su ambiente y su exquisito café. ¡Ven a conocer!
 category: turismo
 tags: [turismo, parque]
-h1: San Agustín Huila es un destino lleno de experiencias
+h1: San Agustín Huila destino lleno de experiencias
 img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp
 alt: Entrada a San Agustín Huila
 autor: Julian Franco
@@ -126,7 +126,7 @@ json: '{
     }
   ]}'
 ---
-**San Agustín Huila es especial para viajar y descansar. Está rodeado por los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco es una invitación a quedarse y tomarse un rico café en la plaza principal.**
+**San Agustín Huila es especial para viajar y descansar. Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.**
 <!-- excerpt -->
 
 {% include img.html img="magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila.webp" img-mini="magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp" alt="Entrada a San Agustín Huila" title="Señal de tránsito que indica la llegada a San Agustín Huila" %}
@@ -142,9 +142,9 @@ Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila:
 
 **En San Agustín Huila hay una gran variedad de planes llenos de aventura, naturaleza y descanso total**. Para que puedas planear tu itinerario, mira lo que puedes hacer aquí.
 
-### Turismo arqueológico en San Agustín Huila
+### El turismo arqueológico en San Agustín Huila
 
-**San Agustín de Huila** conserva muchas esculturas con parte de su historia y cultura. Sus espacios están llenos de **artesanía, arqueología e historia.** Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas talladas en piedras, todas elaboradas por los artesanos de esta comunidad, con las formas y figuras que se encuentran en museos y parques.
+**San Agustín Huila** conserva muchas esculturas con parte de su historia y cultura. Sus espacios están llenos de **artesanía, arqueología e historia.** Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas talladas en piedras, todas elaboradas por los artesanos de esta comunidad.
 
 Estas zonas arqueológicas componen un complejo que abarca 2 municipios, desde San Agustín Huila hasta Isnos. Es un paseo lleno de datos muy interesantes y reveladores.
 

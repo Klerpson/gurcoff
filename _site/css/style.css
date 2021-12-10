@@ -31,7 +31,6 @@ h3 {
 [hidden] {
   display: none;
 }
-
  .change {
    right: 0
  }
@@ -52,7 +51,6 @@ h3 {
  .nav-link:hover::after {
    transform: scaleX(1)
  }
-
 .principal div article:nth-child(2) img {
   background: var(--principal);
 }
@@ -118,9 +116,7 @@ h3 {
   margin: 0.7rem 1.2rem 0 0;
   color: var(--complemento2);
 }
-
 footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:center;text-align:center;background:linear-gradient(rgba(224,251,252,1),rgba(250,250,250,.4))}footer a,footer p{display:inline-block;font-family:var(--fuenteTitulos)}footer a{color:var(--principal);margin:1rem .5rem;font-weight:700}
-
 .articulo{
   display: flex;
   gap: 1.5rem;
@@ -209,7 +205,6 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
   border-radius: 7px;
   box-shadow: var(--shadow);
 }
-
 #markdown-toc::before {
   content: "Contenido:";
   font-weight: bold;
@@ -231,7 +226,6 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 #markdown-toc ul li a{
   text-decoration: none;
 }
-
 .magazine{
   display: grid;
   grid-gap: 2rem;
@@ -254,7 +248,6 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
   border-radius: 5px;
   box-shadow: var(--shadow);
 }
-
 .negocio{
   position: relative;
   background-color: var(--complemento1);
@@ -306,7 +299,6 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
   color: var(--blanco);
   grid-area: boton;
 }
-
 #search-container {
   position: relative;
   padding: 0.5rem 1rem;
@@ -338,64 +330,6 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
   font-family: var(--fuenteTexto);
   color: var(--secundario);
 }
-
- .publicidad {
-   width: 100%;
-   background: var(--secundario);
-   padding: 1rem;
-   margin: 2rem 0;
-   display: grid;
-   grid-gap: 1rem;
-   justify-content: center;
-   align-items: center;
-   box-shadow: var(--shadow);
-   border-radius: 7px
- }
-
- .publicidad img {
-   max-width: 100%;
-   margin: 0
- }
-
- .publicidad h3 {
-   font-size: var(--sizeH2);
-   margin: 0;
-   font-family: var(--fuentesTitulos)
- }
-
- .publicidad p {
-   margin: 0
- }
-
- .publicidad a {
-   color: var(--principal);
-   font-weight: 700;
-   font-size: var(--sizeH3);
-   cursor: pointer;
-   text-decoration: underline;
-   -webkit-text-decoration-color: var(--blanco);
-   text-decoration-color: var(--blanco);
-   text-decoration-thickness: .15rem
- }
-
- .publicidad a::before {
-   content: '>'
- }
-
- @media only screen and (min-width:600px) {
-   .publicidad {
-     padding: 2rem
-   }
- }
-
- @media screen and (min-width:992px) {
-   .publicidad {
-     grid-template-areas: "h3 texto""img texto""img enlace";
-     grid-gap: 2rem
-   }
-
- }
-
 .share-box {
   display: flex;
   flex-wrap: wrap;
@@ -441,7 +375,6 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
     margin: 0 auto;
   }
 }
-
 .contacto li {
   list-style: none;
 }
@@ -483,7 +416,6 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
   font-family: var(--fuenteTitulos);
   color: var(--complemento2);
 }
-
 
 @media screen and (min-width:600px) {
   .invitacion {
