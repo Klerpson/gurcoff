@@ -134,9 +134,9 @@ El parque arqueológico de San Agustín Huila es un destino obligado para tus va
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-El parque arqueológico de San Agustín tiene un inmenso legado de gran importancia para el país, y para toda latinoamérica. Al terminar este artículo, estoy seguro que tendrás un nuevo destino por visitar en tu próximo viaje.
+**El parque arqueológico de San Agustín tiene un inmenso legado de gran importancia para Colombia y todas las civilaciones del mundo**. Al terminar este artículo, estoy seguro que tendrás un nuevo destino por visitar en tu próximo viaje.
 
-Por otra parte, puedes mirar todos los demás artículos del [blog de GurCoff](https://gurcoff.com/blog "El blog de San Agustín Huila") para escoger tus hoteles, guías, restaurantes y demás.
+Por otra parte, te dejamoss los demás artículos del [blog de GurCoff](https://gurcoff.com/blog "El blog de San Agustín Huila") para que hagas tus planes y puedas escoger tus hoteles, guías, restaurantes y demás.
 
 ## Cómo llegar al parque arqueológico de San Agustín Huila
 
@@ -146,7 +146,7 @@ Debes tener claros 2 destinos. El primero es el municipio de **Pitalito Huila**.
 
 **Puede servirte como punto de referencia llegar a nuestra [heladería GurCoff](https://gurcoff.com/contacto "Página de contacto de la heladería GurCoff"). Desde allí, solo sigue derecho 1,5 kilómetros.**
 
-Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles](https://gurcoff.com/hoteles-san-agustin-huila "Artículo sobre los hoteles de San Agustín Huila"), restaurantes con comida típica y comidas rápidas, entre otros.
+Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles](https://gurcoff.com/hoteles-san-agustin-huila "Artículo sobre los hoteles de San Agustín Huila"), [restaurantes]({{site.baseurl}}/mejores-restaurantes-san-agustin) con comida típica y comidas rápidas, entre otros.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86a5f6df7270d34c!2sParque%20Arqueol%C3%B3gico%20de%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1621033727764!5m2!1ses-419!2sco" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 *Ubicación del parque arqueológico en google maps*
@@ -155,29 +155,35 @@ Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hote
 
 Para **llegar al parque arqueológico de San Agustín desde Bogotá** puedes utilizar el transporte terrestre desde Bogotá (9 horas aproximadamente) hasta Pitalito. Desde allí viajarás hasta San Agustín (30 minutos).
 
-También, puedes tomar vuelos domésticos desde Bogotá. El aeropuerto más cercano está ubicado en Pitalito, justo en la vía entre Pitalito y San Agustín. Por otra parte, están los aeropuertos de Florencia Caquetá y Puerto Asís o Villa Garzón Putumayo. Claro, estos últimos están un poco más retirados de tu destino. Pero igual te ahorrarán un gran trayecto.
+También, puedes tomar vuelos domésticos desde Bogotá. **El aeropuerto más cercano está ubicado en Pitalito, justo en la vía entre Pitalito y San Agustín.** Por otra parte, están los aeropuertos de Florencia Caquetá y Puerto Asís o Villa Garzón Putumayo. Claro, estos últimos están un poco más retirados de tu destino. Pero igual te ahorrarán mucho tiempo.
 
-En el artículo ["Visita San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila "Artículo sobre San Agustín Huila"), encontrarás más información sobre cómo llegar hasta San Agustín
+>En el artículo ["Visita San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila "Artículo sobre San Agustín Huila"), encontrarás más información sobre cómo llegar hasta San Agustín
 
 ### ¿Cómo llegar al parque arqueológico desde Neiva?
 
-La ruta al **parque arqueológico desde Neiva es más corta**. Es de 4 horas aproximadamente, pero es la misma. Esto se debe a que la ciudad de Neiva está entre la ruta Bogotá - San Agustín.
+La ruta al **parque arqueológico desde Neiva es más corta, de 4 horas aproximadamente**, pero es la misma. Esto se debe a que la ciudad de Neiva está entre la ruta Bogotá - San Agustín.
+
+Por lo tanto, desde Neiva, la ruta para llegar es Neiva - Pitalito - San Agustín.
 
 ### Cómo legar al parque arqueológico de San Agustín desde Popayán o Mocoa
 
-**La ruta desde el sur del país es llegar primero hasta la ciudad de Mocoa, luego hasta Pitalito, y finalmente hasta San Agustín. Son 5 horas aproximadamente.** Esta es la misma ruta que recorres si tomas un vuelo hasta los aeropuertos del Putumayo. Luego viajarás por una difícil vía hasta el municipio de Pitalito.
+**La ruta desde el sur del país es llegar primero hasta la ciudad de Mocoa, luego hasta Pitalito, y finalmente hasta San Agustín.** Son 5 horas aproximadamente.
+
+Esta es la misma ruta que recorres si tomas un vuelo hasta los aeropuertos del Putumayo. Luego viajarás por una difícil vía hasta el municipio de Pitalito.
 
 **La vía que viene desde Popayán Cauca, por el páramo, hasta San Agustín Huila, tiene un largo trayecto sin pavimentar. Son aproximadamente 4 horas.**
 
-Es importante saber que si vienes desde Popayán hasta San Agustín, no es necesario que vayas hasta Pitalito, pues encontrarás primero el municipio de San Agustín en esta ruta.
+Es importante saber que si vienes desde Popayán hasta San Agustín, *no es necesario que vayas hasta Pitalito*, pues encontrarás primero el municipio de San Agustín en esta ruta.
 
-### ¿Cuánto vale la entrada al parque arqueológico de San Agustín?
+## ¿Cuánto vale la entrada al parque arqueológico de San Agustín?
 
 Según la resolución 070 de 27 de marzo de 2017 se debe cancelar un pasaporte para entrar al parque. Cómpralo solamente en las taquilla de entrada de los parques. No la compres en otra parte a revendedores.
 
-Según esa resolución, **este pasaporte te sirve para las 3 sedes del Parque Arqueológico: Mesitas, Alto de los ídolos y Alto de las Piedras**. Este pasaporte tiene una validez de 2 días para que disfrutes de los parque sin afanes.
+Según la misma resolución, **este pasaporte te sirve para las 3 sedes del Parque Arqueológico: Mesitas, Alto de los ídolos y Alto de las Piedras**. El pasaporte tiene una validez de 2 días para que disfrutes de los parque sin afanes.
 
-Hasta diciembre de 2020, las tarifas son:
+Según la temporada, el precio puede variar. Normalmente, las tarifas son las siguientes:
+
+### Precios del pasaporte para el parque arqueológico de San Agustín
 
 * Adultos: 35.000 mil pesos.
 * Estudiantes con carné vigente: 15.000 mil pesos.
@@ -190,13 +196,15 @@ Ahora bien, hay excepciones para no pagar y entrar gratis. Son las siguientes:
 * Personas oriundas de la región
 * Comunidades indígenas
 
-Recuerda que si cumples alguna de estas condiciones, entras gratis. Por ejemplo, si eres del municipio de San Agustín o de Isnos, puedes ir y conocer el tesoro que tienes en tu ciudad.
+**Recuerda que si cumples alguna de estas condiciones, entras gratis**. Por ejemplo, si eres del municipio de San Agustín o de Isnos, puedes ir y conocer el tesoro que tienes en tu localidad.
 
 ## Información sobre el Parque Arqueológico de San Agustín
 
 **El Parque Arqueológico de San Agustín Huila es una amplia zona del valle alto del río Magdalena, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos.**
 
-Muchas de los monumentos fueron restaurados para después del año de 1857. Para esa época hubo un temblor muy fuerte en la zona que destruyó gran parte de los tesoros arqueológicos del lugar. Ya para el año de 1931 se hizo la restauración de los lugares para conservarlos. Y en la actulidad es un hermoso parque para el turismo.
+Muchas de los monumentos fueron restaurados para después del año de 1857. Para esa época hubo un temblor muy fuerte en la zona que destruyó gran parte de los tesoros arqueológicos del lugar.
+
+Ya para el año de 1931 se hizo la restauración de los lugares para conservarlos. Y en la actulidad es un hermoso parque para el turismo.
 
 <!-- Imágenes AMP -->
 {% include img.html img="magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico.webp" img-mini="magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico-400px.webp" alt="Mapa del Parque Arqueológico de San Agustín Huila" title="Mapa parque arqueológico de San Agustín" %}
@@ -204,23 +212,45 @@ Muchas de los monumentos fueron restaurados para después del año de 1857. Para
 
 ## El parque de San Agustín Huila y los hallazgos arqueológicos
 
-**El parque arqueológico de San Agustín es la zon con más allazgos arqueológicos de la época conocida como América Precolombina**. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social. Consta de 78 hectáreas pertenecientes a los campesinos de la región y que fueron vendidas al gobierno con el tiempo. Desde 1935 se creó oficialmente el Parque Arqueológico de San Agustín para el público en general.
+**El parque arqueológico de San Agustín es la zon con más allazgos arqueológicos de la época conocida como América Precolombina**. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social.
 
-En cuanto al patrimonio cultural, tiene una gran cantidad de hallazgos. Esta cultura, además de trabajar la parte lítica (que era el fuerte de ellos: trabajar la piedra) trabajaba también la cerámica, la madera y conocía la orfebrería. Trabajaban el oro con mucha calidad en sus terminados. Los pocos elementos o accesorios de oro que se encontraron están expuestos en el Museo del Oro de Bogotá.
+Consta de 78 hectáreas pertenecientes a los campesinos de la región y que fueron vendidas al gobierno con el tiempo. Desde 1935 se creó oficialmente el Parque Arqueológico de San Agustín para el público en general.
+
+En cuanto al patrimonio cultural, tiene una gran cantidad de hallazgos. Esta cultura, además de trabajar la parte lítica (que era el fuerte de ellos: trabajar la piedra) trabajaba también la cerámica, la madera y conocía la orfebrería.
+
+Trabajaban el oro con mucha calidad en sus terminados. Los pocos elementos o accesorios de oro que se encontraron están expuestos en el Museo del Oro de Bogotá.
 
 ## Las zonas del parque arqueológico de San Agustín Huila
 
-El parque arqueológico de San Agustín actualmente está conformado por:
+Como te decíamos, el parque arqueológico de San Agustín es complejo que abarca 2 municipios. Se divide en amplias secciones con características especiales. Te contaremos cómo se organizó esta exhibición fascinante.
+
+<!-- Imágenes AMP -->
+{% include img.html img="magazine/parque-arqueologico-san-agustin/informacion-parque-arqueologico.webp" img-mini="magazine/parque-arqueologico-san-agustin/informacion-parque-arqueologico-400px.webp" alt="Mapa de las zonas del Parque Arqueológico de San Agustín Huila" title="Zonas del parque arqueológico de San Agustín" %}
+*Información de la necrópolis durante el recorrido*
+
+### El Tablón
+
+El sector de El Tablón debe su nombre posiblemente al arroyo que lo recorre. Esta zona contiene 5 litoesculturas muy grandes y diferentes entre ellas. Parece que fueron ubicadas en zonas cercanas y se agruparon después en este lugar.
+
+### La Chaquira
+
+Es parte del reservorio arqueológico regional y se encuentra a un lado del río Magdalena. Este es un mirador natural magnífico con figuras talladas en sus rocas, algunas en alto relieve. Parece que tales imágenes tienen relación con registros astrológicos.
+
+Es un balcón espectacular para ver los amaneceres y atardeceres pintorescos del cañón del Magdalena.
+
+### La Pelota
+
+Esta zona del parque está ubicada en el cerro que lleva ese mismo nombre, *La Pelota*. Tienes 3 esculturas, 2 con representaciones antroporzoomorfas y 1  zoomorfa conocida como el búho. Al parecer, en la Mesita B, del parque de las Mesitas, hay una figura de búho igual.
+
+### El Purutal
+
+En este sitio del parque arqueológico de San Agustín hay 2 templos dolménicos (estos son momumentos megalíticos con una losa grande horizontal que se apoya sobre grandes piedras verticales). Lo interesante en este lugar es que sus figuras tienen colores.
 
 * La casa museo Luis Duque Gómez
 * Las estatuas de madera
 * Las mesitas A, B, y C
 * La fuente ceremonial del lavapatas
 * El alto de las lavapatas
-
-<!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/informacion-parque-arqueologico.webp" img-mini="magazine/parque-arqueologico-san-agustin/informacion-parque-arqueologico-400px.webp" alt="Mapa de las zonas del Parque Arqueológico de San Agustín Huila" title="Zonas del parque arqueológico de San Agustín" %}
-*Información de la necrópolis durante el recorrido*
 
 Las concentraciones de los hallazgos arqueológicos son tan grandes que del **Parque Arqueológico Nacional de San Agustín** se dividió en 3 áreas turísticas: Mesitas, en el municipio de San Agustín y Alto de los Ídolos y Alto de las Piedras, en Isnos.
 
@@ -259,19 +289,23 @@ En la antigüedad las zonas altas de las montañas eran lugares importantes y es
 
 ### La zona de "Las Mesitas"
 
-En estos sitios se encuentran lugares funerarios como tumbas y montículos artificiales. También, se encuentran las esculturas más famosas del parque, como el águila y el Dios del sol. Las tumbas fueron trazadas según las clases sociales, jerarquías políticas y religiosas, que siempre han existido en los grupos humanos.
+Muchas de estas esculturas megalíticas revelan un culto hacia la muerte y los aspectos funerarios de quienes habitaron el lugar. *Hay varios sectores del parque que se formaron a manera de dolmen.* Esto significa que son momumentos en forma de mesas.
+
+Así que al recorrer el parque, verás que hay exhibiciones que se identifican como mesas. Como puedes notar en la siguiente fotografía, son hacían 2 guardianes a los lados y el protector a la mitad, con una cubierta sobre los 3. Así formaban lo que aparentan mesitas.
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/tumba-parque-arqueologico-san-agustin.webp" img-mini="magazine/parque-arqueologico-san-agustin/tumba-parque-arqueologico-san-agustin-400px.webp" alt="Tumbas del Parque Arqueológico de San Agustín Huila" title="Tumbas parque arqueológico de San Agustín" %}
-*Hallazgos de tumbas en el parque arqueológico*
+{% include img.html img="magazine/parque-arqueologico-san-agustin/alto-idolos-parque-arqueologico-san-agustin.webp" img-mini="magazine/parque-arqueologico-san-agustin/alto-idolos-parque-arqueologico-san-agustin-400px.webp" alt="Alto de los ídolos del Parque Arqueológico de San Agustín Huila" title="Alto ídolos parque arqueológico de San Agustín" %}
+*Alto de los ídolos*
+
+En estos sitios se encuentran lugares funerarios como tumbas y montículos artificiales. También, se encuentran las esculturas más famosas del parque, como el águila y el Dios del sol. Las tumbas fueron trazadas según las clases sociales, jerarquías políticas y religiosas, que siempre han existido en los grupos humanos.
 
 Las culturas nativas sabían de arquitectura, de matemáticas y de astronomía. Así nos dejaron un mensaje con el que nos transmiten su pensamiento mitológico, su forma de ver e interpretar el mundo, mensajes muy profundos en un lenguaje silencioso.
 
 ### El Alto de los Ídolos
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/parque-arqueologico-san-agustin/alto-idolos-parque-arqueologico-san-agustin.webp" img-mini="magazine/parque-arqueologico-san-agustin/alto-idolos-parque-arqueologico-san-agustin-400px.webp" alt="Alto de los ídolos del Parque Arqueológico de San Agustín Huila" title="Alto ídolos parque arqueológico de San Agustín" %}
-*Alto de los ídolos*
+{% include img.html img="magazine/parque-arqueologico-san-agustin/tumba-parque-arqueologico-san-agustin.webp" img-mini="magazine/parque-arqueologico-san-agustin/tumba-parque-arqueologico-san-agustin-400px.webp" alt="Tumbas del Parque Arqueológico de San Agustín Huila" title="Tumbas parque arqueológico de San Agustín" %}
+*Hallazgos de tumbas en el parque arqueológico*
 
 El Alto de los Ídolos es un sitio arqueolgico muy importante para la región. **Se encuentra en el municipio de San Jos de Isnos, a tan solo 20 minutos desde San Agustín**. Recuerda que con el mismo pasaporte que pagas en San Agustín, puedes entrar a este importante lugar.
 

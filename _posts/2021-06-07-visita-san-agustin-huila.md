@@ -144,18 +144,22 @@ Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila:
 
 ### El turismo arqueológico en San Agustín Huila
 
-**San Agustín Huila** conserva muchas esculturas con parte de su historia y cultura. Sus espacios están llenos de **artesanía, arqueología e historia.** Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas talladas en piedras, todas elaboradas por los artesanos de esta comunidad.
+**San Agustín Huila** es muy reconocido por el *parque arqueológico*, donde se conserva muchas esculturas con parte de su historia y cultura. Sus espacios están llenos de **artesanía, arqueología e historia.**
 
-Estas zonas arqueológicas componen un complejo que abarca 2 municipios, desde San Agustín Huila hasta Isnos. Es un paseo lleno de datos muy interesantes y reveladores.
+Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas talladas en piedras, todas elaboradas por los artesanos de esta comunidad. Y sobre todo, **las piedras originales de la cultura ancestral de San Agustín**.
+
+Estas zonas arqueológicas componen un complejo parque que abarca 2 municipios, desde San Agustín Huila hasta Isnos. Es un paseo lleno de datos muy interesantes y reveladores.
 
 #### El parque arqueológico de San Agustín Huila
 
 {% include img.html img="magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp" img-mini="magazine/visita-san-agustin/parque-arqueologico-san-agustin-mini.webp" alt="Piedras talladas en el parque arqueológico de San Agustín Huila" title="Piedras talladas en el parque arqueológico de San Agustín Huila" %}
 *Parque arqueológico de San Agustín Huila*
 
-**San Agustín Huila es principalmente conocido por sus esculturas arqueológica**. Aquí podrás visitar [el parque arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), el más importante de Colombia.
+**San Agustín Huila es principalmente conocido por sus esculturas arqueológicas**. Todas están exhibidas y conservadas en [el parque arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), el más importante parque arqueológico de Colombia.
 
-**Sus esculturas arqueológicas fueron declaradas Patrimonio de la Humanidad por la Unesco**. Están distribuidas en sitios cercanos a donde se encontraron originalmente. Podrás realizar las caminatas programadas, que son toda una aventura: son largas, en subida y con algunos caminos angostos.
+**Estas esculturas arqueológicas fueron declaradas Patrimonio de la Humanidad por la Unesco**. Están distribuidas en sitios cercanos a donde se encontraron originalmente. Puedes hacer el recorrido del parque en caminatas programadas
+
+Si deseas, te recomendamos adquirir los servicios de los guías del parque, quienes se encargarán de ayudarte a disfrutar plenamente del tour. Así podrás entender mejor la distribución y exhibición de las estatuas, que te explicamos un poco a continuación.
 
 #### El Alto de los ídolos
 
