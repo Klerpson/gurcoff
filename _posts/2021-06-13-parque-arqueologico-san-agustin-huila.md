@@ -240,7 +240,7 @@ Es un balcón espectacular para ver los amaneceres y atardeceres pintorescos del
 
 ### La Pelota
 
-Esta zona del parque está ubicada en el cerro que lleva ese mismo nombre, *La Pelota*. Tienes 3 esculturas, 2 con representaciones antroporzoomorfas y 1  zoomorfa conocida como el búho. Al parecer, en la Mesita B, del parque de las Mesitas, hay una figura de búho igual.
+Esta zona del parque está ubicada en el cerro que lleva ese mismo nombre, *La Pelota*. Tienes 3 esculturas, 2 con representaciones antroporzoomorfas y 1 zoomorfa conocida como el búho. Al parecer, en la Mesita B, del parque de las Mesitas, hay una figura de búho igual.
 
 ### El Purutal
 
