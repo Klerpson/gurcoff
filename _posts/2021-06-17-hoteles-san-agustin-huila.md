@@ -11,75 +11,76 @@ autor: Julian Franco
 date: 2021-06-17
 copyright: Julian Andres Franco Bedoya
 json: '{
-      "@context": "https://schema.org",
-      "@graph":[
+   "@context":"https://schema.org",
+   "@graph":[
       {
-        "@type": "Organization",
-        "@id": "https://gurcoff.com/#organization",
-        "name": "GurCoff Heladería San Agustín Huila",
-        "url": "https://gurcoff.com"
+         "@type":"Organization",
+         "@id":"https://gurcoff.com/#organization",
+         "name":"GurCoff Heladería San Agustín Huila",
+         "url":"https://gurcoff.com"
       },
       {
-        "@type": "WebSite",
-        "@id": "https://gurcoff.com/#website",
-        "url": "https://gurcoff.com",
-        "name": "GurCoff Heladería Blog de San Agustín",
-        "publisher": {
-          "@id": "https://gurcoff.com/#organization"
-        },
-        "inLanguage": "es"
+         "@type":"WebSite",
+         "@id":"https://gurcoff.com/#website",
+         "url":"https://gurcoff.com",
+         "name":"GurCoff Heladería Blog de San Agustín",
+         "publisher":{
+            "@id":"https://gurcoff.com/#organization"
+         },
+         "inLanguage":"es"
       },
       {
-        "@type": "ImageObject",
-        "@id": "img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp",
-        "url": "img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp",
-        "width": "720",
-        "height": "360",
-        "caption": "Hoteles en San Agustín Huila | GurCoff San Agustín",
-        "inLanguage": "es"
+         "@type":"ImageObject",
+         "@id":"img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp",
+         "url":"img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp",
+         "width":"720",
+         "height":"360",
+         "caption":"Hoteles en San Agustín Huila | GurCoff San Agustín",
+         "inLanguage":"es"
       },
       {
-        "@type": "WebPage",
-        "@id": "https://gurcoff.com/hoteles-san-agustin-huila#webpage",
-        "url": "https://gurcoff.com/hoteles-san-agustin-huila",
-        "name": "Hoteles en San Agustín Huila | GurCoff San Agustín",
-        "datePublished": "2021-06-13",
-        "dateModified": "2021-06-13",
-        "author": {
-          "@id": "GurCoff Heladería San Agustín Huila"
-        },
-        "isPartOf": {
-          "@id": "https://gurcoff.com#website"
-        },
-        "primaryImageOfPage": {
-          "@id": "img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp"
-        },
-        "inLanguage": "es"
+         "@type":"WebPage",
+         "@id":"https://gurcoff.com/hoteles-san-agustin-huila#webpage",
+         "url":"https://gurcoff.com/hoteles-san-agustin-huila",
+         "name":"Hoteles en San Agustín Huila | GurCoff San Agustín",
+         "datePublished":"2021-06-13",
+         "dateModified":"2021-06-13",
+         "author":{
+            "@id":"GurCoff Heladería San Agustín Huila"
+         },
+         "isPartOf":{
+            "@id":"https://gurcoff.com#website"
+         },
+         "primaryImageOfPage":{
+            "@id":"img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp"
+         },
+         "inLanguage":"es"
       },
       {
-        "@type": "BlogPosting",
-        "headline": "Hoteles en San Agustín Huila | GurCoff San Agustín",
-        "keywords": "Hoteles en San Agustín Huila | GurCoff San Agustín",
-        "datePublished": "2021-06-13",
-        "dateModified": "2021-06-13",
-        "publisher": {
-          "@id": "https://gurcoff.com#organization"
-        },
-        "description": "Los hoteles en San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza. Encuentra hoteles, cabañas y más aquí. Léelo!",
-            "name": "Hoteles en San Agustín Huila | GurCoff San Agustín",
-            "@id": "https://gurcoff.com/hoteles-san-agustin-huila#richSnippet",
-            "isPartOf": {
-              "@id": "https://gurcoff.com/hoteles-san-agustin-huila#webpage"
-            },
-            "image": {
-              "@id": "img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp"
-            },
-            "inLanguage": "es",
-            "mainEntityOfPage": {
-              "@id": "https://gurcoff.com/hoteles-san-agustin-huila#webpage"
-            }
-    }
-  ]}'
+         "@type":"BlogPosting",
+         "headline":"Hoteles en San Agustín Huila | GurCoff San Agustín",
+         "keywords":"Hoteles en San Agustín Huila | GurCoff San Agustín",
+         "datePublished":"2021-06-13",
+         "dateModified":"2021-06-13",
+         "publisher":{
+            "@id":"https://gurcoff.com#organization"
+         },
+         "description":"Los hoteles en San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza. Encuentra hoteles, cabañas y más aquí. Léelo!",
+         "name":"Hoteles en San Agustín Huila | GurCoff San Agustín",
+         "@id":"https://gurcoff.com/hoteles-san-agustin-huila#richSnippet",
+         "isPartOf":{
+            "@id":"https://gurcoff.com/hoteles-san-agustin-huila#webpage"
+         },
+         "image":{
+            "@id":"img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp"
+         },
+         "inLanguage":"es",
+         "mainEntityOfPage":{
+            "@id":"https://gurcoff.com/hoteles-san-agustin-huila#webpage"
+         }
+      }
+   ]
+}'
 excerpt_separator: <!-- excerpt -->
 ---
 Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza.
@@ -95,6 +96,10 @@ Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en 
 ## Hoteles en San Agustín Huila para todos los gustos
 
 **Puedes encontrar hoteles de San Agustín económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al [Parque Arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), hoteles cerca al [estrecho del Magdalena](https://gurcoff.com/estrecho-rio-magdalena), entre otros.**
+
+Vamos nutriendo esta lista con los hoteles de San Agustín que nosotros mismos conocemos.
+
+>Nuestro recomendado por sobre todos es el "Hospedaje Casa Bonita"
 
 {% for hotel in site.data.hoteles %}
 <article class="negocio">
