@@ -252,7 +252,9 @@ En este sitio del parque arqueológico de San Agustín hay 2 templos dolménicos
 * La fuente ceremonial del lavapatas
 * El alto de las lavapatas
 
-Las concentraciones de los hallazgos arqueológicos son tan grandes que del **Parque Arqueológico Nacional de San Agustín** se dividió en 3 áreas turísticas: Mesitas, en el municipio de San Agustín y Alto de los Ídolos y Alto de las Piedras, en Isnos.
+## Atractivos principales del Parque arqueológico de San Agustín para el turista
+
+Las concentraciones de los hallazgos arqueológicos son tan grandes que del **Parque Arqueológico Nacional de San Agustín** se dividió en 3 áreas turísticas principales: Mesitas, en el municipio de San Agustín y Alto de los Ídolos y Alto de las Piedras, en Isnos.
 
 La zona más grande se conoce como **Mesitas de San Agustín**. Cubre cerca de 80 hectáreas y se ubica a unos 2 kilómetros del centro del municipio. Hacia esta zona encontrarás la mayoría de los servicios hoteleros, de hostelería y de turismo de la región.
 
