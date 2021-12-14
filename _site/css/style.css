@@ -582,7 +582,7 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
   .articulo {
     position: relative;
     width: 720px;
-    margin-left: 10rem;
+    margin-left: 2rem;
     padding: 7rem 0;
     justify-self: left;
     justify-content: left;
@@ -624,6 +624,10 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
     grid-template-areas: "imagen titulo boton"
       "imagen parrafo boton"
       "imagen iconos boton";
+  }
+
+  .articulo {
+    margin-left: 7rem;
   }
 
 }
