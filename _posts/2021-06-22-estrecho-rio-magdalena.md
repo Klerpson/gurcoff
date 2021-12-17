@@ -84,6 +84,8 @@ La salida hacia el estrecho del Magdalena es otra. Debes preguntar por la calle 
 {% include img.html img="magazine/estrecho-rio-magdalena/entrada-al-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/entrada-al-estrecho-del-magdalena-400px.webp" alt="Entrada al Estrecho del río Magdalena en San Agustín Huila" title="Entrada a la llegada del Estrecho del río Magdalena en San Agustín" %}
 *Esta es la entrada al Estrecho del Magdalena*
 
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 **Para salir hacia el estrecho del Magdalena debes seguir por la carrera 14. Es la calle que viene desde la iglesia del parque central de San Agustín Huila. Así que cuando estés subiendo por la carrera 14, no te desvíes hacia el parque arqueológico. Solo sigue derecho.**
 
 Cuando llegas al estrecho del Magdalena, hay un gran letrero que te avisa. Por lo tanto, solo debes seguir sobre la vía hasta llegar al punto. Te dejamos una imagen por si acaso. Es tomada en el año {{ "now" | date:"%Y"}}.
@@ -100,6 +102,8 @@ Adicionalmente, las aguas del río anteriores y posteriores al estrecho son punt
 Por obvias razones, en sus orillas no es recomendado hacer camping. Pero muy cerca encuentras zonas donde podrás disfrutar de esta actividad.
 
 Además, unos 2 kilómetros más arriba de este punto, está el museo de Obando. Un interesante lugar para conocer más de la cultura que habitó el lugar.
+
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ### Video del estrecho del Magdalena
 
@@ -146,6 +150,8 @@ En el estrecho del Magdalena es muy común que los más osados intenten pasar de
 4. **Cuántas personas han muerto en el estrecho del Magdalena**. Muchas son las personas que por no acatar las recomendaciones han perdido la vida. Normalmente, personas con muy buen estado físico. Desde personas que practicaban deportes, hasta militares.
 
 *Por favor, acata las recomendaciones y **no intentes saltar en el estrecho del Magdalena***
+
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ## Visita el Estrecho del Río Magdalena
 

@@ -141,6 +141,8 @@ Su ubicación es privilegiada. Está en medio de un exuberante paisaje de bosque
 
 *Ubicación de los Tres Chorros*
 
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 ## ¿Cómo llego a la cascada los Tres Chorros?
 
 Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila). **Debes llegar hasta una vereda de San Agustín (zona rural del municipio) llamada La Pradera**. La vía es una carretera de 20 kilómetros aproximadamente.
@@ -169,6 +171,8 @@ Ahora bien, puedes contratar la compañía de guías turísticos. O sencillament
 <!-- Imágenes AMP -->
 {% include img.html img="magazine/cascada-tres-chorros/tour-tres-chorros-bicicleta.webp" img-mini="magazine/cascada-tres-chorros/tour-tres-chorros-bicicleta-400px.webp" alt="Fotografía del tour en bicicleta hasta la cascada de los Tres Chorros - Tomada por Adventure X Colombia" title="Tour en bicicleta hasta los Tres Chorros" %}
 *Has tu viaje hasta la cascada Tres Chorros en bicicleta*
+
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ¿Quieres una aventura diferente?  Pues tienes estas opciones para llegar a esta cascada de San Agustín Huila:
 
@@ -207,6 +211,8 @@ Tendrás el marco apropiado para la meditación. Y luego, en tu viaje de regreso
 **Al terminar tu visita a la cascada de Los Tres Chorros, te recomendamos visitar el sitio llamado Las Tapias**. Según la cultura local, es en este lugar donde se fundó el municipio de San Agustín Huila por primera vez. Tiene un impresionante paisaje con bosques de roble.
 
 Además, podrás hacer una **caminata por un sendero precolombino**, con fondos llenos de terrazas artificiales, hechas por los antiguos pobladores para sus cultivos y sus viviendas. Quizá este sea el motivo de su nombre. Sus ruinas y paisajes te llevará a la época en que los antepasados transitaron y habitaron este lugar.
+
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 Por otra parte, en Las Tapias los visitantes pueden disfrutar de otro ratico de baño en sus aguas. También se puede **practicar la pesca de la trucha**, pez típico de la zona.
 

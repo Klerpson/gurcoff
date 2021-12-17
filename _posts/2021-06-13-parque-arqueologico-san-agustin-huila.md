@@ -142,6 +142,8 @@ Por otra parte, te dejamoss los demás artículos del [blog de GurCoff](https://
 
 Debes tener claros 2 destinos. El primero es el municipio de **Pitalito Huila**. El segundo es el municipio de **San Agustín Huila**. Después de llegar a San Agustín, te diriges hasta la plaza principal.
 
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 **Desde el parque principal de San Agustin Huila, a 3 kilómetros, llegarás al Parque Arqueológico de San Agustín Huila**, reserva natural con aproximadamente 2.000 Km2 de extensión.
 
 **Puede servirte como punto de referencia llegar a nuestra [heladería GurCoff](https://gurcoff.com/contacto "Página de contacto de la heladería GurCoff"). Desde allí, solo sigue derecho 1,5 kilómetros.**
@@ -198,6 +200,8 @@ Ahora bien, hay excepciones para no pagar y entrar gratis. Son las siguientes:
 
 **Recuerda que si cumples alguna de estas condiciones, entras gratis**. Por ejemplo, si eres del municipio de San Agustín o de Isnos, puedes ir y conocer el tesoro que tienes en tu localidad.
 
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 ## Información sobre el Parque Arqueológico de San Agustín
 
 **El Parque Arqueológico de San Agustín Huila es una amplia zona del valle alto del río Magdalena, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos.**
@@ -251,6 +255,8 @@ En este sitio del parque arqueológico de San Agustín hay 2 templos dolménicos
 * Las mesitas A, B, y C
 * La fuente ceremonial del lavapatas
 * El alto de las lavapatas
+
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ## Atractivos principales del Parque arqueológico de San Agustín para el turista
 
