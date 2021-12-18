@@ -138,7 +138,7 @@ Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila:
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## ¿Qué hacer en San Agustín Huila?
+## ¿Qué puedes hacer en San Agustín Huila?
 
 **En San Agustín Huila hay una gran variedad de planes llenos de aventura, naturaleza y descanso total**. Para que puedas planear tu itinerario, mira lo que puedes hacer aquí.
 
@@ -181,6 +181,8 @@ La más grande de las casas del lugar es una choza con techo en paja. Esta choza
 
 **En San Agustín Huila destaca su vegetación y fauna silvestre**, que son el pilar principal de su belleza. Es atravezado por muchas fuentes hídricas. Se dice que desde San Agustín Huila nacen los 4 ríos más importantes de Colombia: El río Magdalena, el río Cauca, el río Caquetá y el río Patía.
 
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 #### El estrecho del río Magdalena
 
 Podremos encontrar el [Estrecho del Magdalena](https://gurcoff.com/estrecho-rio-magdalena). Desde aquí nace el afluente más grande del país, que abastece al 80% de la población. ¡Y en este punto se reduce su paso a solo 2 metros de ancho!
@@ -217,6 +219,8 @@ Si vienes por Popayán, te bajas en el cruce de entrada a San Agustín, después
 
 Por supuesto, también puedes venir en tu carro particular. Estas son las **distancias en kilómetros hasta San Agustín y el tiempo de duración de cada viaje**.
 
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 #### Distancias hasta San Agustín Huila y peajes
 
 En la siguiente tabla puedes ver **las distancias entre San Agustín Huila y Bogotá, Cali, Neiva, Popayán y Mocoa**.
@@ -250,6 +254,8 @@ Serían una buena opción para comenzar una aventura desde estos municipios hast
 *Hotel Masaya en San Agustín Huila*
 
 Ahora hablemos de tu estadía en [San Agustín Huila](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila)). Y, por supuesto, encontramos lugares extraordinarios para hospedarse. Son muchas las posibilidades entre **hoteles campestres hasta fincas, hostales y apartamentos de alquiler.** La mayoría de ellos se emplazan en medio de la naturaleza con vistas espectaculares. Así que tienes aseguradas unas relajantes vacaciones.
+
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 O si deseas podrías quedarte en las prácticas **posadas de San Agustín Huila** en el centro urbano. La gran ventaja es que a pesar de que es un lugar turístico, los precios para todos los presupuestos: encuentras **hoteles baratos, hostales económicos, hoteles cómodos y de lujo. Hasta hoteles con piscina!**.
 
@@ -314,6 +320,8 @@ No podíamos despedirnos del pueblo sin antes probar los helados más famosos de
 #### ¿Dónde se hospedaron?
 
 San Agustín tiene muy buenos hoteles familiares donde hospedarse, el elegido por nosotros fue el [Hotel Internacional de San Agustín Huila]({{site.baseurl}}/hoteles/hotel-internacional-san-agustin-huila) porque contaba con todas las comodidades como recepción 24 horas, parqueadero gratis, [Wifi](https://selectra.com.co/internet-hogar/inalambrico-fijo "Link de la empresa Selectra proveedora de WiFi") con buena conexión, guardería, parqueadero, entre otros. A su vez, otro punto a favor es que estaba comprometido con el medio ambiente al ser un hotel sostenible, un factor de importancia para nuestra familia.
+
+>¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 #### ¿Cómo te pareció la gente local?
 

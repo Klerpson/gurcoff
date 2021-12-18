@@ -321,7 +321,7 @@ El Alto de los Ídolos es una llanura artificial en forma de U**, en la que exis
 
 Hay muchos hallazgos de tumbas simples, tumbas de pozo, tumbas con cámaras laterales de formas variadas, pintadas o acompañadas de un sarcófago monolítico. **Lo interesante es que se encontraron los cadaveres en muchas posiciones: de pie, tumbado, en posición fetal, etc. Hasta se encontraron funerales colectivos.**
 
-## Visita el parque arqueológico de San Agustín Huila
+## Visita las ruinas del parque arqueológico de San Agustín Huila
 
 <!-- Imágenes AMP -->
 {% include img.html img="magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin.webp" img-mini="magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin-400px.webp" alt="Fotografías del Parque Arqueológico de San Agustín Huila" title="Fotografías del parque arqueológico de San Agustín" %}
@@ -349,6 +349,6 @@ En este video del parque arqueológico de San Agustín tienes un pequeño adelan
 
 Estamos seguros de que la guía turística de la región es interminable, aventúrate a conocer el Parque Arqueológico de San Agustín y una cantidad de atractivos locales, aún desconocidos para muchos.
 
-## ¿Te gustaría visitar el parque arqueológico de San Agustín?
+## ¿Te gustaría conocer las ruinas del parque arqueológico de San Agustín?
 
 Te invitamos a conocer este lugar. Mientras tanto, cuéntame en los comentarios: **¿qué te gustó más de la información del parque arqueológico de San Agustín? ¿Qué te gustaría hacer en este lugar? ¿Haz visitado un lugar igual?**
