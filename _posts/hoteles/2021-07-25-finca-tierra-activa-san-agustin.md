@@ -148,6 +148,8 @@ Te contamos porqué Tierra Activa de San Agustín es una estupenda opción de tu
 
 {% include boton.html path="https://ul.waze.com/ul?place=ChIJRaAaLHd7JY4RCDun_OBB8bc&ll=1.90586560%2C-76.30315880&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel Finca Tierra Activa de San Agustín Huila en Waze" texto="Waze" %}
 
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 ### WhatsApp del Hotel Finca Tierra Activa
 
 **Los números de whatsapp del Hotel Finca Tierra Activa de San Agustín son +573124762181 y +573104652426.** Haz clic en los botones para escribirles:
@@ -171,6 +173,8 @@ Para visitar los perfiles del Hotel Finca Tierra Activa en las redes sociales, s
 {% include boton.html path="https://www.twitter.com/tierra_sas/" title="Twitter del Hotel San Agustín Internacional de San Agustín Huila" texto="Twitter" %}
 
 {% include boton.html path="https://www.instagram.com/tierraactivaturismoconsciente/" title="Instagram del Hotel Finca Tierra Activa de San Agustín" texto="Instagram" %}
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ## ¿Qué servicios ofrece el Hotel Finca Tierra Activa de San Agustín?
 
@@ -229,6 +233,8 @@ Se realiza un recorrido por los senderos temáticos y se hace ejercicios de resp
 Es una experiencia basada en el café que está siendo cultivado de manera orgánica y saludable en la Finca Agroturística Tierra Activa en el municipio de San Agustín, en la Vereda El Purutal, en el sur del Departamento del Huila. De manera instructiva y pedagógica hacen conocer a los visitantes el proceso integral de la producción del café, iniciando desde la semilla y terminando en la degustación de una excelente taza.
 
 {% include boton.html path="https://wa.me/573124762181" title="whatsapp 1 del Hotel Finca Tierra Activa de San Agustín Huila" texto="Preguntar por esta experiencia" %}
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ## Preguntas sobre el Hotel Finca Tierra Activa
 

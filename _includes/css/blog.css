@@ -20,3 +20,11 @@
   border-radius: 5px;
   box-shadow: var(--shadow);
 }
+
+.blog-footer ul li{
+list-style: none;
+}
+
+.blog-footer p{
+  margin: 1rem 0;
+}

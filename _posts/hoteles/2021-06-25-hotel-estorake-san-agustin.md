@@ -53,6 +53,8 @@ Al ser un hotel con mucho lujos y pequeño, se posiciona como uno de los lugares
 
 El Hotel Estorake es una construcción lujosa con muchas ventajas sobre las demás ofertas hoteleras. Además, tiene un personal muy bien capacitado en los servicios hoteleros.
 
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 Una de sus políticas de servicio es evitar grandes grupos que causen incomodidad a los demás. Y los comentarios sobre el lugar siempre destacan la tranquilidad y la comodidad del hotel.
 
 {% include img.html img="magazine/hoteles-san-agustin/hotel-estorake-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp" alt="Fotografías del hotel Estorake de San Agustín Huila" title="Hotel Estorake de San Agustín Huila" %}
@@ -77,6 +79,8 @@ Una de sus políticas de servicio es evitar grandes grupos que causen incomodida
 **El número de celular del Hotel Estorake en San Agustín Huila es +573208039667**. Puedes llamarlos haciendo el clic en el siguiente botón:
 
 {% include boton.html path="tel:+573208039667" title="Celular del Hotel Estorake de San Agustín Huila" texto="Llamar" %}
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ### Redes sociales del Hotel Estorake de San Agustín
 
@@ -112,6 +116,8 @@ Ahora tiene 2 cómodas suites con amplios balcones. Están ubicadas en la segund
 
 Todas tienen camas amplias, televisión por cable y todos los muebles completos para tu comodidad. La suite tiene caja fuerte, mini bar y sala de estar.
 
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 ## Preguntas sobre el Hotel Estorake
 
 1. **¿Qué lugares puedo visitar cerca al Hotel Estorake?** El casco urbano está a 1 minuto a pie. Allí está el Museo Precolombino Villa Real, la calle de las artesanías, restaurantes y todo el comercio. [El Parque Arqueológico de San Agustín]({{site.baseurl}}/parque-arqueologico-san-agustin-huila) está a unos 15 minutos a pie. A 2 minutos tienes una piscina de agua natural. Estos entre otros.
@@ -134,6 +140,8 @@ También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cgmfvOqOro8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Hotel Estorake San Agustín - Créditos al canal Estorake HOTEL SAN AGUSTÍN HUILA*
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ### Otros aspectos sobre el hotel Estorake
 

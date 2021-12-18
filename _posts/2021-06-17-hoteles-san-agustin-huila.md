@@ -99,7 +99,7 @@ Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en 
 
 Vamos nutriendo esta lista con los hoteles de San Agustín que nosotros mismos conocemos.
 
->Nuestro recomendado por sobre todos es el "Hospedaje Casa Bonita"
+>Nuestro recomendado por sobre todos es el ["Hospedaje Casa Bonita"](https://hospedajecasabonita.com)
 
 {% for hotel in site.data.hoteles %}
 <article class="negocio">
@@ -121,6 +121,8 @@ Vamos nutriendo esta lista con los hoteles de San Agustín que nosotros mismos c
   {% endif %}
 </article>
 {% endfor %}
+
+>Nuestro recomendado por sobre todos es el ["Hospedaje Casa Bonita"](https://hospedajecasabonita.com)
 
 ## Hostales en San Agustín Huila a tu medida
 
@@ -145,6 +147,8 @@ Vamos nutriendo esta lista con los hoteles de San Agustín que nosotros mismos c
   {% endif %}
 </article>
 {% endfor %}
+
+>Nuestro recomendado por sobre todos es el ["Hospedaje Casa Bonita"](https://hospedajecasabonita.com)
 
 ## San Agustín Huila: hoteles, restaurantes y más
 

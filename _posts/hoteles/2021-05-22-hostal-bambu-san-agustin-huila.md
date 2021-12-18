@@ -56,6 +56,8 @@ permalink: /hoteles/hostal-bambu-san-agustin-huila
 
 Los administradores de la casa de huéspedes son tres jóvenes mochileros con una gran experiencia mochilera en todo el mundo. Se esfuerzan a conciencia por ayudarte a sacar el máximo provecho de tu estancia en su hostal.
 
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 ## Cómo llegar al Hostal Bambú de San Agustín
 
 **La dirección del Hostal Bambú es Carrera 13 No. 6-78**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
@@ -81,6 +83,8 @@ El número de celular del hostal Bambú es **+573113606841**.
 El correo electrónico del hostal es **bambuhostalsa@hotmail.com**.
 
 {% include boton.html path="mailto:bambuhostalsa@hotmail.com" title="Email del Hostal Bambú de San Agustín Huila" texto="E-mail" %}
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ### ¿Qué servicios te ofrece el hotel Akawanka?
 
@@ -130,6 +134,8 @@ El correo electrónico del hostal es **bambuhostalsa@hotmail.com**.
 ### Otros aspectos sobre el hotel Akawanka Lodge
 
 1. Es una muy bien calificada y de excelente calidad, a pesar de ser económico. La ausencia de otros servicios de lujos se pueden encontrar en el comercio cercano.
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ## Opiniones del Hostal Bambú de San Agustín
 

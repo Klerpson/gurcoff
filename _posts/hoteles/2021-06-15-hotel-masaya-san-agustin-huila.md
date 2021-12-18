@@ -59,6 +59,8 @@ El hotel Masaya es una propiedad enorme. Su ubición te brinda unas vistas hermo
 {% include img.html img="magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila.webp" img-mini="magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp" alt="Fotografías del hotel Masaya de San Agustín Huila" title="Hotel Masaya en San Agustín Huila" %}
 *Hotel Masaya en San Agustín Huila*
 
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 ## Cómo llegar al Hotel Masaya de San Agustín
 
 **La dirección del Hotel Masaya es en la vereda El Tablón, kilómetro 1, en la vía del Estrecho del Magdalena**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
@@ -78,6 +80,8 @@ Puedes contactarlos y preguntar por los paquetes de turismo que ofrece el mismo 
 {% include boton.html path="tel:+573124187927" title="Celular del Hotel Masaya de San Agustín Huila" texto="Llamar al 3124187927" %}
 
 {% include boton.html path="tel:+573233630528" title="Celular 2 del Hotel Masaya de San Agustín Huila" texto="Llamar al 3233630528" %}
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ### WhatsApp del Hotel Masaya de San Agustín
 
@@ -126,6 +130,8 @@ El hotel Masaya te ofrece las siguientes actividades para amenizar tu estadía e
 * Sala de juegos de meza para la familia
 
 Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila "Artículo sobre San Agustín Huila"); a 10 minutos el [Parque Arqueológico de San Agustín]({{site.baseurl}}/parque-arqueologico-san-agustin-huila "Artículo sobre el parque arqueológico de San Agustín Huila"); a 20 minutos [el estrecho del Magdalena]({{site.baseurl}}/estrecho-rio-magdalena "Artículo sobre el Estrecho del Magdalena") y a 30 minutos, y caminando, el sitio arqueológico la Chaquira.
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ## ¿Por qué escoger el hotel Masaya?
 

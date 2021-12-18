@@ -60,6 +60,8 @@ Es predominante el ambiente artístico en su decoración. Las pinturas de las pa
 
 ## ¿Cómo llegar al hotel Internacional de San Agustín Huila?
 
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 **La dirección del Hotel San Agustín Internacional es carrera 19 N 1A - 13, barrio Primero de Mayo**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
 
 {% include boton.html path="https://goo.gl/maps/Swmrwrqeuqdp6ca28" title="Ubicación del Hotel Internacional de San Agustín Huila en Google Maps" texto="Google Maps" %}
@@ -81,6 +83,8 @@ El número de celular del Hotel San Agustín Internacional es **+573114452615**.
 El segundo número de celular del Hotel San Agustín Internacional es **+573112644839**.
 
 {% include boton.html path="tel:+573112644839" title="Celular del Hotel San Agustín Internacional de San Agustín Huila" texto="Llamar" %}
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ### Redes sociales del Hotel San Agustín Internacional
 
@@ -117,6 +121,8 @@ El segundo número de celular del Hotel San Agustín Internacional es **+5731126
 {% include img.html img="magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp" alt="Miniaturas del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka Lodge de San Agustín Huila" %}
 
 Las instalaciones tienen 77 habitaciones en total, 27 de ellos son para no fumadores. Todas muy bien equipadas para que recibas un servicio de mucha calidad. Además, el hotel Internacional hace disponible la limpieza de habitaciones y una zona de lavandería.
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ### Habitaciones del hotel Internacional de San Agustín
 

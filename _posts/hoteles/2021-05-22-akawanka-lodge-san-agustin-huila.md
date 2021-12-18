@@ -56,6 +56,8 @@ El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la
 
 **El hotel Akawanka ofrece una temática Eco Logde**. Se enfoca en guardar un equilibrio entre presentar y conservar indentidad cultural ancestral de San Agustín, al tiempo que respeta la historia natural del ambiente local y la conservación de los ecosistemas.
 
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 ## Cómo llegar al Hotel Akawanka Lodge de San Agustín
 
 **La dirección del Hotel Akawanka Lodge es vía al Parque Arqueológico, 500 metros más arriba de la piscina "Las Moyas"**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
@@ -104,6 +106,8 @@ El correo electrónico del hostal es **akawankalodge@gmail.com**.
 <!-- IMG -->
 {% include img.html img="magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp" alt="Miniaturas del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka Lodge de San Agustín Huila" %}
 
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
 ### ¿Por qué escoger el hotel Akawanka?
 
 1. El hotel Akawanka Lodge está rodeado paisajes hermosos y relajantes.
@@ -122,6 +126,8 @@ El correo electrónico del hostal es **akawankalodge@gmail.com**.
 1. Si tienes mascotas, este no es el hotel que buscas, pues no se admiten.
 2. Si buscas un hotel económico en San Agustín Huila, escoge otro. Su calidad y profesionalidad requieren de costos moderados y altos, según el servicio.
 3. Para llegar a este alojamiento hay que pasar por un camino sin asfaltar. Sin embargo, es un trayecto corto.
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
 ## Opiniones del hotel Akawanka de San Agustín
 
