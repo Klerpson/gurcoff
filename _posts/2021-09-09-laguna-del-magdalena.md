@@ -35,7 +35,7 @@ json: '{
         "@id": "img/magazine/laguna-magdalena/laguna-del-magdalena.webp",
         "url": "img/magazine/laguna-magdalena/laguna-del-magdalena.webp",
         "width": "720",
-        "height": "450",
+        "height": "540",
         "caption": "Fotografía de la Laguna del río Magdalena, fuente del gran río Magdalena",
         "inLanguage": "es"
       },
@@ -99,7 +99,7 @@ Este es un lugar adornado por los frailejones que abundan en el Páramo de las p
 
 ## La laguna del Magdalena, ¿dónde queda?
 
-Para llegar a la Laguna del Magdalena debes transitar un sendero montañoso lleno de aventura. Y puedes llegar desde 2 lugares diferentes: desde [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila) o desde Popayán.
+Para llegar a la Laguna del Magdalena debes transitar un sendero montañoso lleno de aventura. **Y puedes llegar desde 2 lugares diferentes: desde [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila) o desde Popayán.**
 
 ### Cómo llegar desde Popayán Cauca a la Laguna del Magdalena
 
@@ -109,7 +109,7 @@ Después, harás una caminta de 3 horas a través del Parque Nacional Natural Pu
 
 ### Cómo llegar desde San Agustín Huila a la Laguna del Magdalena
 
-Esta es la ruta favorita de muchos. El motivo es la aventura y la cantidad de paisajes que ofrece el macizo colombiano desde este punto de origen.
+Esta es la ruta favorita de muchos. **El motivo es la aventura y la cantidad de paisajes** que ofrece el macizo colombiano desde este punto de origen.
 
 Para llegar desde San Agustín hasta la Laguna del Magdalena, primero debes viajar en auto. Encuentras opciones como camperos y camionetas privadas. También, puedes tomar la ruta de la "[Chiva](https://es.wikipedia.org/wiki/Chiva_(veh%C3%ADculo))" desde San Agustín.
 
@@ -124,18 +124,18 @@ Ahora comenzarás el recorrido de un sendero conocido como El Camino Nacional o 
 
 Cuando lleguen a la vereda El Canelo, pasarás por otro lugar conocido como El Crucero, luego por el puente de Barandillas sobre el Rio Magdalena, y después hasta la vereda San Antonio.
 
-Cuando llegues a San Antonio, podrás contratar hospedaje y alimentacion con los lugareños de la montaña. Es una oportunidad especial de alimentar tu viaje con las mejores historias y experiencias de tus anfitriones.
+**Cuando llegues a San Antonio, podrás contratar hospedaje y alimentacion con los lugareños de la montaña**. Es una oportunidad especial de alimentar tu viaje con las mejores historias y experiencias de tus anfitriones.
 
 {% include img.html img="magazine/laguna-magdalena/camino-paramo-de-las-papas-hacia-laguna-del-magdalena.webp" img-mini="magazine/laguna-magdalena/camino-paramo-de-las-papas-hacia-laguna-del-magdalena-san-agustin.webp" alt="Camino de las papas hacia la Laguna del río Magdalena" title="Camino de las papas hacia la Laguna del Magdalena" %}
 *Camino de las papas, o camino nacional, hacia la Laguna del Magdalena*
 
-Esta hermosa aventura se realiza en dos dias normalmente. La primera noche la pasas en el hospedaje de la vereda San Antonio. En el recorrido del segundo día llegarás al Parque Purace. Luego, podrás observar caídas de agua, hermosos paisajes y naturaleza silvestre.
+Esta hermosa aventura se realiza en dos dias normalmente. **La primera noche la pasas en el hospedaje de la vereda San Antonio. En el recorrido del segundo día llegarás al Parque Purace**. Luego, podrás observar caídas de agua, hermosos paisajes y naturaleza silvestre.
 
-Tu caminata continuará hasta un punto llamado "La Ye". Es un punto donde el recorrido se divide en el camino antiguo y una camino más reciente. Ambos te llevan al mismo destino. La diferencia radica en que el camino nuevo es más fácil, pasa por el Páramo de las Papas, cerca de la Laguna del Magdalena.
+Tu caminata continuará hasta un punto llamado "La Ye". Es un punto donde el recorrido se divide en el camino antiguo y una camino más reciente. Ambos te llevan al mismo destino. **La diferencia radica en que el camino nuevo es más fácil, pasa por el Páramo de las Papas, cerca de la Laguna del Magdalena.**
 
-Caminar toda la reserva completa puede tomar entre 10 y 15 días.
+>Caminar toda la reserva completa puede tomar entre 10 y 15 días.
 
-## Importancia de la Laguna del Magdalena y el río que origina
+## Importancia de la Laguna del Magdalena y del río Magdalena
 
 {% include img.html img="magazine/laguna-magdalena/letrero-laguna-magdalena-paramo.webp" img-mini="magazine/laguna-magdalena/letrero-laguna-magdalena.webp" alt="Letrero del bienvenida al páramo de la Laguna del río Magdalena" title="Páramo de la Laguna del Magdalena" %}
 *Bienvenida al páramo*
@@ -148,13 +148,15 @@ Caminar toda la reserva completa puede tomar entre 10 y 15 días.
 4. Más del 75% del territorio nacional se beneficia de este gran río
 5. Las aguas del río Magdalena benefician a más del 80% de Producto Interno Bruto de Colombia
 
-Tan importante es este río y su nacimiento, que en 1979 fue declarado Reserva de la Biosfera del Cinturón Andino por la Unesco. Así se vigila y protege la vida de pumas, tigrillos, venados, cusumbos, coatíes, osos, dantas, cotorras montañeras, tucanes andinos, azulejos, pericos de páramo y águilas de copete, entre otros.
+Tan importante es este río y su nacimiento, que **en 1979 fue declarado Reserva de la Biosfera del Cinturón Andino por la Unesco**. Así se vigila y protege la vida de pumas, tigrillos, venados, cusumbos, coatíes, osos, dantas, cotorras montañeras, tucanes andinos, azulejos, pericos de páramo y águilas de copete, entre otros.
 
-Por otra perte, este nacimiento es parte de lo que se conoce como la principal estrella fluvial colombiana del Macizo Colombiano. Desde aquí se originan los rios Magdalena, Caquetá, Patía, Cauca y sus afluentes.
+Por otra perte, este nacimiento es parte de lo que se conoce como la principal estrella fluvial colombiana del Macizo Colombiano. **Desde aquí se originan los rios Magdalena, Caquetá, Patía, Cauca y sus afluentes.**
 
 ## Turismo en la Laguna del Magdalena
 
 El turismo de la Laguna del Magdalena es de aventura y naturaleza, la mayoría intacta a los daños que causa el hombre. Encontrarás paisajes hermosos y únicos. La variedad del ecosistema es hermosa. Y el toque de misterio de la arqueología encontrada en el lugar es un complemento perfecto.
+
+Para visitar este lugar, **los precios varían entre los $70000 COP, hasta los $700000 COP.** Depende si contratas a un guía local que cobra solamente el día de trabajo, y con el que pagaría por aparte los servicios como la cabalgata (que cobran en promedio $75000 COP por día que utilices el caballo), la alimentación y el hospedaje. El precio más costoso, es cuando contratas una agencia que ya tienen todo incluido.
 
 Por el clima de páramo, estará en medio del reino de los frailejones y la bruma. Si haces tu viaje en la época de florecimiento, este paisaje es más hermoso. ¡Parece un bosque de película de fantasía!
 
@@ -184,3 +186,9 @@ Recuerda tomar las siguientes precauciones en tu viaje:
 
 {% include img.html img="magazine/laguna-magdalena/laguna-magdalena-macizo-colombiano.webp" img-mini="magazine/laguna-magdalena/laguna-magdalena-macizo.webp" alt="Paisaje de la Laguna del río Magdalena" title="Paisaje de la Laguna del Magdalena" %}
 *La gran Laguna del Magdalena*
+
+## Visita la laguna del Magdalena
+
+¿Y cuándo te gustaría venir? Este es uno de esos viajes que por todo lo que ofrecen, seguramente lo recordarás por mucho tiempo. **Te invitamos a planear tu viaje y ahorrar para que vivas la experiencia**. No es la excursión más económica, pero sí una de las mejores de Colombia.
+
+Si desea más información, mira nuestra [página de contacto]({{site.baseurl}}/contacto) y escríbenos. Y por supuesto, **cuando pases por San Agustín, recuerda agendar tu visita a tu heladería GurCoff. ¡Te esperamos!**

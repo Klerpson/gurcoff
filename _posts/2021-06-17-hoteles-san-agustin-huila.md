@@ -93,6 +93,8 @@ Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar
 
 Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en San Agustín Huila en categorías, con las características que los hace especiales o diferentes. Luego puedes hacer en sus enlaces para ponerte en contacto y hacer tu reservación.
 
+Cada uno de estos hoteles están siempre en procesos de mejorarmiento, y adoptando las tendencias más atractivos del mercado hotelero. Por ejemplo, ya puedes encontrar opciones de Glamping en San Agustín. La oferta para el turismo rural es muy fuerte. Y algunos hoteles ya ofrecen planes con experiencias muy interesantes. Veamos algunos de ellos.
+
 ## Hoteles en San Agustín Huila para todos los gustos
 
 **Puedes encontrar hoteles de San Agustín económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al [Parque Arqueológico de San Agustín](https://gurcoff.com/parque-arqueologico-san-agustin-huila), hoteles cerca al [estrecho del Magdalena](https://gurcoff.com/estrecho-rio-magdalena), entre otros.**
@@ -126,7 +128,9 @@ Vamos nutriendo esta lista con los hoteles de San Agustín que nosotros mismos c
 
 ## Hostales en San Agustín Huila a tu medida
 
-**Los hostales de San Agustín son opciones muy accesibles y cómodas**. Además, con decoraciones hermosas y dignas de llevar en tus recuerdos fotográficos. Mira estas opciones:
+**Los hostales de San Agustín son opciones muy accesibles y cómodas**. Además, con decoraciones hermosas y dignas de llevar en tus recuerdos fotográficos.
+
+Algunos de estos **hostales de San Agustín te ofrecen la opción de prestar un servicio de voluntariado**. Es especialmente importante para quienes recorren nuestro país o nuestro continente como caminantes o en rutas de bicicletas, o quizá en la experiencia de su vida. Mira estas opciones:
 
 {% for hostal in site.data.hostales %}
 <article class="negocio">
@@ -154,4 +158,4 @@ Vamos nutriendo esta lista con los hoteles de San Agustín que nosotros mismos c
 
 Toda esta lista de hoteles te enviará a un artículo en el que te damos toda la información completa: teléfono, cómo llegar, servicios, calificaciones, entre otros.
 
-Si también deseas saber **qué puedes hacer al venir a San Agustín Huila, puedes leer el artículo titulado ["Visita San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila).**
+Si también deseas saber **qué puedes hacer al venir a San Agustín Huila, puedes leer el artículo titulado ["Visita San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila) o mira nuestro [blog]({{site.baseurl}}/blog), el blog de San Agustín.**
