@@ -1,5 +1,6 @@
 baseurl: ''
 url: 'https://gurcoff.com'
+repository : “Klerpson/gurcoff"
 name: Heladería GurCoff San Agustín Huila
 author: Julian Franco
 # email: info@enpitalito.com

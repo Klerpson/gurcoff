@@ -18,6 +18,7 @@
   </script>
   {% endif %}
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
+  <meta http-equiv='content-language' content='es_CO'>
   <meta name="language" content="es_CO" />
   <meta name="country" content="CO" />
   <meta name="geo.region" content="CO-HUI" />
@@ -76,9 +77,9 @@
     :root {
       --principal: #8833ff;
       --secundario: #fd8ac2;
-      --accion: #f7dd39;
-      --complemento1: #cefdff;
-      --complemento2: #58eb66;
+      --accion: #ffeb6a;
+      --complemento1: #a1e6e9;
+      --complemento2: #63e9c1;
       --gris1: rgba(191, 191, 191, 1);
       --gris2: rgba(140, 140, 140, 1);
       --gris3: rgba(89, 89, 89, 1);
@@ -99,6 +100,11 @@
       text-decoration-thickness: 0.2rem;
       font-family: var(--fuenteTexto);
       color: var(--principal);
+    }
+
+    a:active {
+    position: relative;
+    top: 1px;
     }
 
     h1 {
@@ -407,37 +413,37 @@
     }
   </style>
   <!-- PRELOADS AND LINKS -->
-  <link rel="preload" href="{{site.baseurl}}/css/style.css">
-  <link rel="stylesheet" href="{{site.baseurl}}/css/style.css">
-  <link rel="preload" href="{{site.baseurl}}/css/fonts/style-fonts.css">
-  <link rel="stylesheet" href="{{site.baseurl}}/css/fonts/style-fonts.css">
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-700.woff" type="font/woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-700.woff2" type="font/woff2" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-regular.woff" type="font/woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/arvo-v14-latin-regular.woff2" type="font/woff2" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/delius-v10-latin-regular.woff" type="font/woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/delius-v10-latin-regular.woff2" type="font/woff2" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-700.woff" type="font/woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-700.woff2" type="font/woff2" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-regular.woff" type="font/woff" crossorigin>
-  <link rel="preload" as="font" href="{{site.baseurl}}/css/fonts/martel-v5-latin-regular.woff2" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ 'css/style.css' | relative_url}}">
+  <link rel="stylesheet" href="{{ 'css/style.css' | relative_url}}">
+  <link rel="preload" href="{{ 'css/fonts/style-fonts.css' | relative_url}}">
+  <link rel="stylesheet" href="{{ 'css/fonts/style-fonts.css' | relative_url}}">
+  <link rel="preload" as="font" href="{{ '/css/fonts/arvo-v14-latin-700.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ '/css/fonts/arvo-v14-latin-700.woff2' | relative_url }}" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{ '/css/fonts/arvo-v14-latin-regular.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ '/css/fonts/arvo-v14-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{ '/css/fonts/delius-v10-latin-regular.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ '/css/fonts/delius-v10-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{ '/css/fonts/martel-v5-latin-700.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ '/css/fonts/martel-v5-latin-700.woff2' | relative_url }}" type="font/woff2" crossorigin>
+  <link rel="preload" as="font" href="{{ '/css/fonts/martel-v5-latin-regular.woff' | relative_url }}" type="font/woff" crossorigin>
+  <link rel="preload" as="font" href="{{ '/css/fonts/martel-v5-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
   <!-- Favicon -->
-  <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl}}/img/favicon/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl}}/img/favicon/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl}}/img/favicon/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl}}/img/favicon/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl}}/img/favicon/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl}}/img/favicon/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl}}/img/favicon/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl}}/img/favicon/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl}}/img/favicon/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl}}/img/favicon/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl}}/img/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="{{ site.baseurl}}/img/favicon/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl}}/img/favicon/favicon-16x16.png">
-  <link rel="manifest" href="{{ site.baseurl}}/js/manifest.json">
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ 'img/favicon/apple-icon-57x57.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="60x60" href="{{ 'img/favicon/apple-icon-60x60.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ 'img/favicon/apple-icon-72x72.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ 'img/favicon/apple-icon-76x76.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ 'img/favicon/apple-icon-114x114.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ 'img/favicon/apple-icon-120x120.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ 'img/favicon/apple-icon-144x144.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ 'img/favicon/apple-icon-152x152.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'img/favicon/apple-icon-180x180.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ 'img/favicon/android-icon-192x192.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ 'img/favicon/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="96x96" href="{{ 'img/favicon/favicon-96x96.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ 'img/favicon/favicon-16x16.png' | relative_url }}">
+  <link rel="manifest" href="{{ 'js/manifest.json' | relative_url }}">
   <meta name="msapplication-TileColor" content="#8833ff">
-  <meta name="msapplication-TileImage" content="{{ site.baseurl}}/img/favicon/ms-icon-144x144.png">
+  <meta name="msapplication-TileImage" content="{{ 'img/favicon/ms-icon-144x144.png' | relative_url }}">
   <meta name="theme-color" content="#8833ff">
   <!-- DNS-PREFETCH -->
   <link rel="dns-prefetch" href="//ajax.googleapis.com">
