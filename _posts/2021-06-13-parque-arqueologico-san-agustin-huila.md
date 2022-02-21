@@ -208,7 +208,7 @@ Ahora bien, hay excepciones para no pagar y entrar gratis. Son las siguientes:
 
 Muchas de los monumentos fueron restaurados para después del año de 1857. Para esa época hubo un temblor muy fuerte en la zona que destruyó gran parte de los tesoros arqueológicos del lugar.
 
-Ya para el año de 1931 se hizo la restauración de los lugares para conservarlos. Y en la actulidad es un hermoso parque para el turismo.
+Ya para el año de 1931 se hizo la restauración de los lugares para conservarlos. Y en la actulidad es un hermoso parque arqueológico con casi 300 estatuas muy bien conservadas para el turismo.
 
 <!-- Imágenes AMP -->
 {% include img.html img="magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico.webp" img-mini="magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico-400px.webp" alt="Mapa del Parque Arqueológico de San Agustín Huila" title="Mapa parque arqueológico de San Agustín" %}
@@ -216,7 +216,7 @@ Ya para el año de 1931 se hizo la restauración de los lugares para conservarlo
 
 ## El parque de San Agustín Huila y los hallazgos arqueológicos
 
-**El parque arqueológico de San Agustín es la zon con más allazgos arqueológicos de la época conocida como América Precolombina**. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social.
+**El parque arqueológico de San Agustín es la zona con más allazgos arqueológicos de la época conocida como América Precolombina**. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social, encargados de crear la que se cree es *la necrópolis más grande de Suramérica*.
 
 Consta de 78 hectáreas pertenecientes a los campesinos de la región y que fueron vendidas al gobierno con el tiempo. Desde 1935 se creó oficialmente el Parque Arqueológico de San Agustín para el público en general.
 
