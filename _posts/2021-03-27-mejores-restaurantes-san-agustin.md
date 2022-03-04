@@ -178,11 +178,11 @@ La excelente atención del lugar es siempre recomendada por lugareños y turista
 
 Aquí encontrarás **pizzas y comidas rápidas con muy buenas bebidas, y un toque especial de las verduras deshidratadas que utilizan en sus recetas.**
 
-## Ya tienes dónde comer en San Agustín Huila
+## La variedad y la comodidad de los restaurantes en San Agustín Huila
 
 No pierdas la oportunidad de conocer este hermoso pueblo colonial y visitar todos sus deliciosas opciones gastronómicas. Aquí solo te mencioné algunos de los que he podido visitar. Pero hay muchas delicias más por venir a probar.
 
-Por ejemplo, las deliciosas recetas que tenemos de helado suave para ti. Seguro que será una tarde deliciosa si nos visitas. Mira [nuestra carta](#fuentes "link al catálogo de WhatsApp con el menú de la heladería GurCoff") para antojarte un poco más. ¡Te esperamos!
+Por ejemplo, las deliciosas recetas que tenemos de helado suave para ti. Seguro que será una tarde deliciosa si nos visitas. Mira [nuestra carta](https://bit.ly/domicilios-gurcoff "link al catálogo de WhatsApp con el menú de la heladería GurCoff") para antojarte un poco más. ¡Te esperamos!
 
 Ven y diviértete en un pueblo colonial que es muy acogedor. Tiene un cálido ambiente campestre.
 
