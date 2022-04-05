@@ -210,6 +210,10 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
   border-radius: 7px;
   box-shadow: var(--shadow);
 }
+
+#layout{
+  padding: 1rem;
+}
 #markdown-toc::before {
   content: "Contenido:";
   font-weight: bold;

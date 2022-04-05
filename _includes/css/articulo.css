@@ -91,3 +91,7 @@
   border-radius: 7px;
   box-shadow: var(--shadow);
 }
+
+#layout{
+  padding: 1rem;
+}
