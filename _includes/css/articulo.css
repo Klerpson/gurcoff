@@ -48,12 +48,17 @@
   position: relative;
   display: grid;
   background: var(--secundario);
-  padding: 2rem;
+  padding: 4rem 2rem;
+  margin: 3rem 0;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
   color: var(--blanco);
   font-weight: 700;
-  font-size: var(--sizeH3);
+  font-size: clamp(18px, (1.2rem + 1vw) * 1.2, 1.5rem);
+  font-family: var(--fuenteTitulos);
+  text-shadow: var(--shadow);
+  width: 100%;
+  text-align: center;
 }
 
 .articulo iframe{
