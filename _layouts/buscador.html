@@ -4,9 +4,9 @@ layout: default
 {{content}}
 {% include footer.html %}
 <!-- Script pointing to search-script.js -->
-<script src="{{ 'js/search-script.js' | relative_url }}"></script>
+<script src="{{ 'js/search-script.js' | relative_url }}" defer></script>
 <!-- Buscador -->
-<script>
+<script defer>
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
