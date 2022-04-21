@@ -4,13 +4,21 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-04-21T11:16:37-05:00</updated>
+     <updated>2022-04-21T11:51:30-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Museo de Obando en San Agustín Huila</title>
+   <link href="http://localhost:4000/museo-obando-san-agustin-huila"/>
+   <id>http://localhost:4000/museo-obando-san-agustin-huila</id>
+   <updated>2022-03-04T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico&lt;/strong&gt;. Se encuentra a 248 km de Neiva y a 20 minutos de la zona urbana de San Agustín.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;San Agustín Huila es la capital arqueológico del departamento de Huila. Está lleno de...</content>
+ </entry>
  
  <entry>
    <title>Laguna del Magdalena, donde nace el río Magdalena</title>
@@ -82,14 +90,6 @@
    <id>http://localhost:4000/hoteles/hotel-internacional-san-agustin-huila</id>
    <updated>2021-06-02T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;El Hotel Internacional de San Agustín Huila está ubicado en medio de un paisaje natural hermoso. Es perfecto para descansar, disfrutar del entorno y recargarte de energía.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#hotel-san-agustín-internacional&quot; id=&quot;markdown-toc-hotel-san-agustín-internacional&quot;&gt;Hotel San Agustín Internacional&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cómo-llegar-al-hotel-internacional-de-san-agustín-huila&quot; id=&quot;markdown-toc-cómo-llegar-al-hotel-internacional-de-san-agustín-huila&quot;&gt;¿Cómo llegar al hotel Internacional de San Agustín Huila?&lt;/a&gt; &lt;ul&gt;...</content>
- </entry>
- 
- <entry>
-   <title>Hostal Bambú de San Agustín - Descanso y Diversión</title>
-   <link href="http://localhost:4000/hoteles/hostal-bambu-san-agustin-huila"/>
-   <id>http://localhost:4000/hoteles/hostal-bambu-san-agustin-huila</id>
-   <updated>2021-05-25T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El Hostal Bambú de San Agustín Huila se define como un lugar para socializar con otros viajeros&lt;/strong&gt;. Tienen en sus instalaciones muchas zonas comunes adecuadas para compartir las experiencias de sus viajes. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#hostal-bambú-san-agustín&quot; id=&quot;markdown-toc-hostal-bambú-san-agustín&quot;&gt;Hostal Bambú San Agustín&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cómo-llegar-al-hostal-bambú-de-san-agustín&quot; id=&quot;markdown-toc-cómo-llegar-al-hostal-bambú-de-san-agustín&quot;&gt;Cómo llegar al Hostal Bambú...</content>
  </entry>
  
 
