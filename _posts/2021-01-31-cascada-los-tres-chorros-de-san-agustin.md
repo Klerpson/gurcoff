@@ -118,6 +118,7 @@ referencias:
   - Foto Masaya: https://www.masaya-experience.com/san-agustin/tours/cabalgata-arqueologica-circuito-corto/
   - Adventure X Colombia: https://adventurecolombia.co/
 excerpt_separator: <!-- excerpt -->
+redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/cascada-tres-chorros-san-agustin/" />
 ---
 La cascada Los Tres Chorros es un hermoso rincón natural de San Agustín Huila. Centro de muchas fotografías hermosas en un paseo inolvidable. Una conservación muy bien guardada por la misma naturaleza.
 <!-- excerpt -->
