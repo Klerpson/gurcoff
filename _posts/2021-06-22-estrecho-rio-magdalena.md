@@ -40,6 +40,7 @@ json: '{
   ]
 }'
 excerpt_separator: <!-- excerpt -->
+redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/estrecho-rio-magdalena/" />
 ---
 **El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho**.
 <!-- excerpt -->
