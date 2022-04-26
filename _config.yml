@@ -29,3 +29,6 @@ compress_html:
     blanklines: false
     profile: false
     startings: []
+
+plugins:
+  - jekyll-redirect-from

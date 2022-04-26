@@ -89,7 +89,9 @@ referencias:
  - Página restaurante El Tomate: https://restaurante-tomate.negocio.site/
  - Página restaurante Tingo Tango: https://tingo-tango-pub.negocio.site/
  - Catálogo de WhatsApp con la carta de GurCoff: https://wa.me/c/573115245225
-redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/restaurantes/restaurantes-san-agustin-huila/" />
+redirect_to:
+  - https://ensanagustinhuila.site/restaurantes/restaurantes-san-agustin-huila/
+permalink: /jekyll-redirect/
 ---
 Aquí explicaremos cuáles son **los mejores restaurantes de San Agustín Huila** y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos!
 <!-- excerpt -->

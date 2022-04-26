@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-04-26T11:56:49-05:00</updated>
+     <updated>2022-04-26T12:13:08-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -14,18 +14,20 @@
  
  <entry>
    <title>Museo de Obando en San Agustín Huila</title>
-   <link href="http://localhost:4000/museo-obando-san-agustin-huila"/>
+   <link href="http://localhost:4000/jekyll-redirect/"/>
    <id>http://localhost:4000/museo-obando-san-agustin-huila</id>
    <updated>2022-03-04T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico&lt;/strong&gt;. Se encuentra a 248 km de Neiva y a 20 minutos de la zona urbana de San Agustín.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;San Agustín Huila es la capital arqueológico del departamento de Huila. Está lleno de...</content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
    <title>Laguna del Magdalena, donde nace el río Magdalena</title>
-   <link href="http://localhost:4000/laguna-del-magdalena"/>
+   <link href="http://localhost:4000/jekyll-redirect/"/>
    <id>http://localhost:4000/laguna-del-magdalena</id>
    <updated>2021-09-09T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La Laguna del Magdalena es el origen o la fuente del gran Río Magdalena&lt;/strong&gt;, la mayor fuente del agua dulce para la producción colombiana. Aquí te contamos porqué debes venir a conocerla.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Este es un lugar adornado por los frailejones que abundan en el Páramo de las...</content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
@@ -46,10 +48,11 @@
  
  <entry>
    <title>Estrecho del Río Magdalena | GurCoff San Agustín Huila</title>
-   <link href="http://localhost:4000/estrecho-rio-magdalena"/>
+   <link href="http://localhost:4000/jekyll-redirect/"/>
    <id>http://localhost:4000/estrecho-rio-magdalena</id>
    <updated>2021-06-22T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot; title=&quot;Estrecho del...</content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
@@ -70,18 +73,20 @@
  
  <entry>
    <title>Parque Arqueológico de San Agustín | GurCoff</title>
-   <link href="http://localhost:4000/parque-arqueologico-san-agustin-huila"/>
+   <link href="http://localhost:4000/jekyll-redirect/"/>
    <id>http://localhost:4000/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-06-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones. Te cuento todo lo que puedes disfrutar cuando vengas a visitarlo.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp&quot; alt=&quot;Parque Arqueológico de San Agustín Huila - Mesita A&quot;...</content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
    <title>San Agustín Huila - Turismo y Naturaleza</title>
-   <link href="http://localhost:4000/visita-san-agustin-huila"/>
+   <link href="http://localhost:4000/jekyll-redirect/"/>
    <id>http://localhost:4000/visita-san-agustin-huila</id>
    <updated>2021-06-07T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;San Agustín Huila es especial para viajar y descansar. Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.&lt;/strong&gt; &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp&quot; alt=&quot;Entrada a San Agustín...</content>
+   <content type="html">
+</content>
  </entry>
  
  <entry>
