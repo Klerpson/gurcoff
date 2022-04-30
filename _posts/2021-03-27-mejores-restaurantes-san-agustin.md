@@ -92,6 +92,7 @@ referencias:
 redirect_to:
   - https://ensanagustinhuila.site/restaurantes/restaurantes-san-agustin-huila/
 permalink: /jekyll-redirect/
+redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/restaurantes/restaurantes-san-agustin-huila/" />
 ---
 Aquí explicaremos cuáles son **los mejores restaurantes de San Agustín Huila** y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos!
 <!-- excerpt -->

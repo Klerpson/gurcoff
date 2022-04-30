@@ -87,6 +87,7 @@ referencias:
 redirect_to:
   - https://ensanagustinhuila.site/turismo/museo-obando-san-agustin-huila/
 permalink: /jekyll-redirect/
+redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/museo-obando-san-agustin-huila/" />
 ---
 **Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico**. Se encuentra a 248 km de Neiva y a 20 minutos de la zona urbana de San Agustín.
 

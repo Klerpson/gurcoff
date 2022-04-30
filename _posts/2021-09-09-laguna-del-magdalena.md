@@ -87,6 +87,7 @@ excerpt_separator: <!-- excerpt -->
 redirect_to:
   - https://ensanagustinhuila.site/turismo/laguna-del-magdalena/
 permalink: /jekyll-redirect/
+redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/laguna-del-magdalena/" />
 ---
 **La Laguna del Magdalena es el origen o la fuente del gran Río Magdalena**, la mayor fuente del agua dulce para la producción colombiana. Aquí te contamos porqué debes venir a conocerla.
 
