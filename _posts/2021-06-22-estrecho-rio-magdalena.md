@@ -42,7 +42,7 @@ json: '{
 excerpt_separator: <!-- excerpt -->
 redirect_to:
   - https://ensanagustinhuila.site/turismo/estrecho-rio-magdalena/
-permalink: /jekyll-redirect/
+permalink: /estrecho-rio-magdalena/
 redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/estrecho-rio-magdalena/" />
 
 ---

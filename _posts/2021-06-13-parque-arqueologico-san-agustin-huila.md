@@ -124,7 +124,7 @@ json: '{
   ]}'
 redirect_to:
   - https://ensanagustinhuila.site/turismo/parque-arqueologico-san-agustin/
-permalink: /jekyll-redirect/
+permalink: /parque-arqueologico-san-agustin-huila/
 redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/parque-arqueologico-san-agustin/" />
 
 ---

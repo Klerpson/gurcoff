@@ -91,7 +91,7 @@ referencias:
  - Catálogo de WhatsApp con la carta de GurCoff: https://wa.me/c/573115245225
 redirect_to:
   - https://ensanagustinhuila.site/restaurantes/restaurantes-san-agustin-huila/
-permalink: /jekyll-redirect/
+permalink: /mejores-restaurantes-san-agustin/
 redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/restaurantes/restaurantes-san-agustin-huila/" />
 ---
 Aquí explicaremos cuáles son **los mejores restaurantes de San Agustín Huila** y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos!

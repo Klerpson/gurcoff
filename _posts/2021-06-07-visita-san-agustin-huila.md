@@ -127,7 +127,7 @@ json: '{
   ]}'
 redirect_to:
   - https://ensanagustinhuila.site/turismo/san-agustin-huila/
-permalink: /jekyll-redirect/
+permalink: /visita-san-agustin-huila/
 redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/san-agustin-huila/" />
 
 ---

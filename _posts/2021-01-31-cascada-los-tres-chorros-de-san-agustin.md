@@ -119,7 +119,7 @@ referencias:
   - Adventure X Colombia: https://adventurecolombia.co/
 redirect_to:
   - https://ensanagustinhuila.site/turismo/cascada-tres-chorros-san-agustin/
-permalink: /jekyll-redirect/
+permalink: /cascada-los-tres-chorros-de-san-agustin/
 excerpt_separator: <!-- excerpt -->
 redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/cascada-tres-chorros-san-agustin/" />
 ---
