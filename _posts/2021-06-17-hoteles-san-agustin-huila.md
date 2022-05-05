@@ -81,7 +81,10 @@ json: '{
       }
    ]
 }'
-excerpt_separator: <!-- excerpt -->
+excerpt_separator: <!-- excerphotelesct_to:
+  - https://ensanagustinhuila.site/hoteles/hoteles-san-agustin-huila/
+permalink: /hoteles-san-agustin-huila/
+redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/hoteles/hoteles-san-agustin-huila/" />
 ---
 Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza.
 <!-- excerpt -->
