@@ -122,11 +122,7 @@ referencias:
   - TripAdvisor Hotel Finca Tierra Activa San Agustín Huila: https://www.tripadvisor.co/UserReviewEdit-g445060-d23337945-Tierra_Activa-San_Agustin_Huila_Department.html
   - Fotos Hotel Hotel Finca Tierra Activa: https://www.google.com/maps/place/Hotel+Tierra+Activa+San+Agust%C3%ADn/@1.9058656,-76.3031588,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNRs79LC92WChUusonb0XgR3zfDvqxboiCDRRtL!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNRs79LC92WChUusonb0XgR3zfDvqxboiCDRRtL%3Dw224-h298-k-no!7i3096!8i4128!4m10!3m9!1s0x8e257b772c1aa045:0xb7f141e0fca73b08!5m2!4m1!1i2!8m2!3d1.9058656!4d-76.3031588!14m1!1BCgIgAQ
 permalink: /hoteles/finca-tierra-activa-san-agustin-huila
-redirect_to:
-  - https://ensanagustinhuila.site/hoteles/agroturismo-tierra-activa-san-agustin-huila/
-permalink: /jekyll-redirect/
 excerpt_separator: <!-- excerpt -->
-redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/hoteles/agroturismo-tierra-activa-san-agustin-huila/" />
 ---
 **La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas**.
 

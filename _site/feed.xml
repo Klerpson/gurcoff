@@ -4,13 +4,21 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-04-30T22:26:12-05:00</updated>
+     <updated>2022-05-30T13:50:30-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title></title>
+   <link href="http://localhost:4000/2021-06-17-hoteles-san-agustin-huila"/>
+   <id>http://localhost:4000/2021-06-17-hoteles-san-agustin-huila</id>
+   <updated>2022-05-30T13:50:30-05:00</updated>
+   <content type="html">&lt;p&gt;Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping.&lt;/strong&gt; Todos estos lugares...</content>
+ </entry>
  
  <entry>
    <title>Museo de Obando en San Agustín Huila</title>
@@ -54,14 +62,6 @@
    <updated>2021-06-22T00:00:00-05:00</updated>
    <content type="html">
 </content>
- </entry>
- 
- <entry>
-   <title>Hoteles en San Agustín Huila | GurCoff San Agustín</title>
-   <link href="http://localhost:4000/hoteles-san-agustin-huila"/>
-   <id>http://localhost:4000/hoteles-san-agustin-huila</id>
-   <updated>2021-06-17T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping.&lt;/strong&gt; Todos estos lugares...</content>
  </entry>
  
  <entry>

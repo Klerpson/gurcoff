@@ -125,11 +125,6 @@ json: '{
             }
     }
   ]}'
-redirect_to:
-  - https://ensanagustinhuila.site/turismo/san-agustin-huila/
-permalink: /visita-san-agustin-huila/
-redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/san-agustin-huila/" />
-
 ---
 **San Agustín Huila es especial para viajar y descansar. Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.**
 <!-- excerpt -->

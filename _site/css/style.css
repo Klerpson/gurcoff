@@ -1,3 +1,80 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  line-height: 1.5;
+  scroll-behavior: auto;
+}
+
+body {
+  display: grid;
+  grid-gap: 3rem;
+  background-color: var(--blanco);
+  color: var(--grisFuentes);
+  font-family: var(--fuenteTexto);
+}
+
+:root {
+  --principal: #8833ff;
+  --secundario: #fd8ac2;
+  --accion: #ffeb6a;
+  --complemento1: #a1e6e9;
+  --complemento2: #63e9c1;
+  --gris1: rgba(191, 191, 191, 1);
+  --gris2: rgba(140, 140, 140, 1);
+  --gris3: rgba(89, 89, 89, 1);
+  --gris4: rgba(64, 64, 64, 1);
+  --grisFuentes: #181818;
+  --shadow: 0 2px 5px rgba(24, 24, 24, .3);
+  --blanco: rgb(253, 253, 253);
+  --blancoRGBA: rgba(249, 249, 255, .7);
+  --fuenteTitulos: 'Sacramento', cursive;
+  --fuenteTexto: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: underline;
+  -webkit-text-decoration-color: var(--principal);
+  text-decoration-color: var(--principal);
+  text-decoration-thickness: 0.2rem;
+  font-family: var(--fuenteTexto);
+  color: var(--principal);
+}
+
+a:active {
+position: relative;
+top: 1px;
+}
+
+h1 {
+  font-size: clamp(22px, (1.5rem + 1vw) * 1.25, 2.2rem);
+  font-family: var(--fuenteTitulos);
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: clamp(20px, (1.3rem + 1vw) * 1.2, 2rem);
+  text-align: center;
+}
+
+h3 {
+  font-size: clamp(18px, (1.2rem + 1vw) * 1.1, 1.8rem);
+}
+
+h2,
+h3 {
+  margin: 1.5rem 0;
+  font-family: var(--fuenteTitulos);
+  text-transform: capitalize;
+}
+
+img {
+  border-style: none;
+}
+
 b,
 strong {
   font-weight: 700;

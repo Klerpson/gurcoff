@@ -87,60 +87,68 @@ referencias:
 published: no
 ---
 
+Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico. Se encuentra a 248 km de Neiva y a 20 minutos de la zona urbana de San Agustín.
 
-te imaginas poder caminar a 210 metros
-de altura teniendo bajo tus pies una de
-las maravillas naturales del sur de
-colombia este paseo cargado de
-adrenalina y belleza ahora es posible en
-el único puente de cristal que se
-estrena en el municipio de isnos
-departamento del huila se trata del ojo
-del halcón un puente de vidrio ubicado
-justo en el punto donde se desprenden la
-cascada del salto del martillo en ese
-lugar el agua se precipita al vacío
-hasta llegar al fondo 210 metros más
-abajo en su camino los chorros forman
-majestuosos arcoiris y la brisa que
-suben desde el cañón refresca a los
-visitantes
-este puente fue construido con piso de
-vidrio de alto calibre para resistir
-cada paso de los turistas que están
-ansiosos de caminar sobre la nueva
-atracción la cual será uno de los
-lugares más recomendados para visitar en
-la región esta estructura se utilizó
-como un sueño desde hace ocho años fue
-carolina vargas quien junto a su esposo
-william bedoya pensaron en el desarrollo
-turístico del salto del martino primero
-crearon el columpio más grande del huila
-conocido como el vuelo del halcón y
-ahora están a punto de inaugurar el
-primer puente de vidrio de estas
-características en colombia
-el mirador de cristal ojo del halcón
-sale 12 metros al vacío se debe subir
-sin zapatos para caminar sobre el vidrio
-y así poder apreciar la cascada bajo sus
-pies
-y esta obra fue realizada por la empresa
-de ingeniería lado llana metálicas muñoz
-quienes realizaron junto a
-experimentados topógrafos la prueba
-técnica de carga de la estructura la
-cual se realizó con bultos de arena
-demostrando que el puente puede soportar
-hasta 11 personas de 80 kilogramos y
-cada una sin embargo por las medidas de
-bioseguridad sólo se permitirá el acceso
-en grupos de seis quienes deseen ir a
-disfrutar de esta nueva atracción puede
-llegar hasta la vereda el mortiño vía
-pitalito isnos nos pueden seguir en
-facebook como el vuelo del halcón y
-empezar a disfrutar de una experiencia
-inolvidable al tener la sensación de
-caminar por el aire sobre una cascada
+San Agustín Huila es la capital arqueológico del departamento de Huila. Está lleno de lugares únicos y que se pueden visitar. Y hoy te recomendamos el Parque Arqueológico de Obando.
+
+Es un pequeño lugar frío, acogedor, muy pintoresco y agradable para pasar una tarde de relajación, cultura y para tomar un buen cafecito con los vecinos del lugar.
+
+
+Plaza del museo de Obando en San Agustín
+Plaza de Obando en San Agustín
+Contenido del artículo	
+Obando en San Agustín y su museo arqueológico
+¿Cómo llegar hasta Obando?
+El museo arqueológico de Obando
+Un paseo de relajación y cultura
+El museo de Obando y el turismo de San Agustín
+Obando en San Agustín y su museo arqueológico
+En la ciudad de San Agustín, al lado del viejo encaje del río Magdalena y frente a la ventana geográfica de las soledades serranas, hay un Parque y Museo Arqueológico donde puedes conocer y disfrutar de la vida de los habitantes prehispánicos y coloniales del altiboqui del río Magdalena.
+
+El parque y el museo de Obando es un ascenso vertiginoso al pasado. Los restos arqueológicos hallados en este hermoso caserío se deben visitar a más no poder, especialmente si su interes es el mundo pre-Clásico y sus obras artísticas y tecnológicas. O quizás solo quieres tener una parada más en un tour muy conocido en San Agustín, llamado el anillo turístico. Obando es una de sus paradas.
+
+¿Cómo llegar hasta Obando?
+Primero te compartimos el mapa para que puedas pedir las indicaciones a Google maps.
+
+
+Las indicaciones son las siguientes:
+
+Primero, debes tomar la ruta hacia el Estrecho del Magdalena.
+Segundo, al llegar al punto donde está el Estrecho del Magdalena, continúa por la vía sin desviarte.
+Ahora vas a continuar subiendo por la carretera cerca de unos 10 minutos.
+Y eso es todo, ya estarás en el hermoso pueblito de Obando en San Agustín.
+
+El museo arqueológico de Obando
+El museo arqueológico es interesante porque se va dando una idea de lo que fue la cosmovisión de los pueblos prehispánicos, el museo tiene reconstrucción de diversas estructuras religiosas y políticas de los distintos pueblos.
+
+Debes visitarlo. Obando en San Agustín es un lugar privilegiado para la admiración y aprecio. Es rico en su patrimonio arqueológico indígena colombiano. Da a conocer la grandiosidad del pasado de nuestros ancestros, transmitiendo vitalidad y argumento cultural.
+
+
+Obando de San Agustín
+Museo de Obando en San Agustín Huila
+Este parque y museo arqueológico tiene todo lo que usted necesita para un día memorable: plazas, descanso y recorridos naturales en sus zonas veredales.
+
+Inaugurado en el año 2011, es un museo arqueológico que cuenta con pinturas rupestres, visitas guiadas y un parque famoso por sus tumbas. Un museo que requiera tanto trabajo y esfuerzo no podía menos que ser un acontecimiento para el pueblo huilense.
+
+Esta belleza arquitectónica fue construida a través de las donaciones de las familias del mismo municipio, la colaboración del arte local, pastores y gobernadores con el fin de describir y preservar la historia del departamento de Huila, en un tiempo en el cual los viajes eran muchas veces costosos.
+
+El Parque y Museo Arqueológico de Obando en San Agustín, es la antigua hacienda La Concepción debido a que fue allí donde se comenzó a explotar la extraña piedra semicircular.
+
+En el museo de Obando puede observar varias piezas tibetanas, samburíes, antigüedades prehispánicas y de época colonial.
+
+Un paseo de relajación y cultura
+Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. Si quieres relajarte y pasar un buen momento tanto familiar como amigos, debes visitar San Agustín. El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa ubicado en San Agustín.
+
+Es un lugar que ofrece a los turistas la oportunidad de conocer la historia natural y cultural, así como disfrutar los ecosistemas nacionales. Es un paseo que te llevará a la época Medieval Colombiana, en donde se vivía y pensaba, se obtenían artes del esfuerzo y el trabajo. Deberás visitarlo para conocer mejor nuestra cultura, e identificarte con nuestros valores.
+
+El lugar es bello y completamente seguro. Se recomienda ir con un guía, puesto que los sitios están expuestos y no están numerados.
+
+
+Vista del río Magdalena desde Obando
+Vista del Magdalena desde Obando en San Agustín Huila
+Si escoges suficiente tiempo para realizar un recorrido completo, incluyendo el museo y alguna actividad física, como ir en carreta o paseando en montaña; ten por seguro que pasarás un par de horas bien invertidas junto a los nativos san agustineros. Además, el anillo turístico te lleva a más actividades como conocer el Salto del Mortiño con el culumpio más arriesgado del país.
+
+Obando es un lugar rústico. Sin embargo, tiene un encanto muy hermoso. Lo puedes visitar en cualquier época del año, sobre todo a mitad de año, por las fiestas culturales del San Pedro, o para fin de año en las fiestas de diciembre. Es completamente distinto, pero muy especial.
+
+El museo de Obando y el turismo de San Agustín
+Te recomendamos visitar el parque y museo de Obando. Tienes que visitarlo para entender porqué Unesco lo declara Patrimonio Cultural de la Humanidad. Y además, para que tu paseo a San Agustín Huila esté más lleno de recuerdos pintorescos e interesantes.

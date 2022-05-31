@@ -122,11 +122,6 @@ json: '{
             }
     }
   ]}'
-redirect_to:
-  - https://ensanagustinhuila.site/turismo/parque-arqueologico-san-agustin/
-permalink: /parque-arqueologico-san-agustin-huila/
-redireccion: <meta http-equiv="refresh" content="0; url=https://ensanagustinhuila.site/turismo/parque-arqueologico-san-agustin/" />
-
 ---
 El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones. Te cuento todo lo que puedes disfrutar cuando vengas a visitarlo.
 
