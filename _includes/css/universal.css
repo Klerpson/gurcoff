@@ -1,3 +1,16 @@
+
+:root {
+  --principal: #8833ff;
+  --secundario: #fd74b6;
+  --accion: #1ef8b6;
+  --grisFuentes: #161519;
+  --shadow: 0 8px 5px rgba(24, 24, 24, 0.302);
+  --blanco: #f6f6f6;
+  --blancoRGBA: rgba(249, 249, 255, .7);
+  --fuenteTitulos: 'Sacramento', cursive;
+  --fuenteTextos: 'Open Sans', sans-serif;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -10,38 +23,17 @@ html {
 }
 
 body {
-  display: grid;
-  grid-gap: 3rem;
-  background-color: var(--blanco);
   color: var(--grisFuentes);
-  font-family: var(--fuenteTexto);
-}
-
-:root {
-  --principal: #8833ff;
-  --secundario: #fd8ac2;
-  --accion: #ffeb6a;
-  --complemento1: #a1e6e9;
-  --complemento2: #63e9c1;
-  --gris1: rgba(191, 191, 191, 1);
-  --gris2: rgba(140, 140, 140, 1);
-  --gris3: rgba(89, 89, 89, 1);
-  --gris4: rgba(64, 64, 64, 1);
-  --grisFuentes: #181818;
-  --shadow: 0 2px 5px rgba(24, 24, 24, .3);
-  --blanco: rgb(253, 253, 253);
-  --blancoRGBA: rgba(249, 249, 255, .7);
-  --fuenteTitulos: 'Sacramento', cursive;
-  --fuenteTexto: 'Open Sans', sans-serif;
+  font-family: var(--fuenteTextos);
+  background-color: var(--blanco);
 }
 
 a {
   text-decoration: underline;
-  -webkit-text-decoration-color: var(--principal);
-  text-decoration-color: var(--principal);
+  -webkit-text-decoration-color: var(--accion);
+  text-decoration-color: var(--accion);
   text-decoration-thickness: 0.2rem;
-  font-family: var(--fuenteTexto);
-  color: var(--principal);
+  color: var(--accion);
 }
 
 a:active {
@@ -49,30 +41,26 @@ position: relative;
 top: 1px;
 }
 
-h1 {
-  font-size: clamp(22px, (1.5rem + 1vw) * 1.25, 2.2rem);
+h1, h2, h3{
   font-family: var(--fuenteTitulos);
+}
+
+h1 {
+  font-size: clamp(22px, (1.5rem + 1vw) * 1.25, 3em);
   text-transform: uppercase;
 }
 
 h2 {
   font-size: clamp(20px, (1.3rem + 1vw) * 1.2, 2rem);
-  text-align: center;
 }
 
 h3 {
   font-size: clamp(18px, (1.2rem + 1vw) * 1.1, 1.8rem);
 }
 
-h2,
-h3 {
-  margin: 1.5rem 0;
-  font-family: var(--fuenteTitulos);
-  text-transform: capitalize;
-}
-
 img {
   border-style: none;
+  width: 100%;
 }
 
 b,
@@ -82,29 +70,14 @@ strong {
 
 span {
   font-weight: 700;
-  margin: 0;
-  padding: 0;
 }
 
-h3 {
-  font-size: clamp(18px, (1.2rem + 1vw) * 1.2, 1.5rem);
-}
-
-.botones:hover {
-  background: transparent;
-}
-
-.botones:hover::before {
-  top: 0;
-  left: 0;
-}
-
-.fade {
-  height: 1px;
-  color: var(--complemento2);
-  background-image: linear-gradient(90deg, rgba(255, 0, 0, 0), var(--complemento2) 50%, rgba(255, 0, 0, 0) 100%);
-}
-
-[hidden] {
-  display: none;
+header{
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: center;
 }

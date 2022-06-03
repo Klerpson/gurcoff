@@ -1,9 +1,11 @@
 ---
 layout: default
 title: San Agustín Huila tiene su heladería favorita | GurCoff
-h1: GurCoff, la heladería favorita de San Agustín Huila
-description: San Agustín Huila tiene un dulce lugar para relajarte, para descansar, para charlar y para comer un helado suave bien rico. Bienvenidos a GurCoff
-boton: true
+h1: El mejor lugar de San Agustín para comer y pasarla bien
+description: En San Agustín Huila somos el punto comidas y descanso mejor calificado de la zona de restaurantes. ¡Tienes que venir y probarlo tú mismo!
+intro: En San Agustín somos el punto principal para comer algo delicioso. <br>Cuando pruebes nuestras recetas de helado suave, solo desearás cumplir nuevamente tu antojito de venir a GurCoff.
+background-header: var(--principal)
+hero: logo.svg
 json: '{
     "@context": "http://www.schema.org",
     "@type": "IceCreamShop",
@@ -50,117 +52,3 @@ json: '{
     }
   }'
 ---
-{% include header.html %}
-<section class="principal">
-  <h2>Los helados favoritos de San Agustín Huila</h2>
-  <p>Somos el <strong>punto de encuentro favorito de turistas y habitantes propios de San Agustín</strong>. Y es que venir a GurCoff es relajarte mientras ves un hermoso atardecer. Es disfrutar de una conversación tranquila mientras terminas tu helado suave favorito. Es regalarle una tarde especial a tu familia. Es decir te amo con detalle muy rico. <strong>Cuando vienes a San Agustín, no puedes dejar de venir a nuetra heladería GurCoff</strong> </p>
-<h2>San Agustín ya tiene sus favoritos GurCoff. ¡Conócelos!</h2>
-<div>
-  {% for galeria in site.data.principal %}
-  <article>
-    <h3>{{ galeria.title }}</h3>
-    <img src="{{ site.baseurl }}{{ galeria.img }}" loading="lazy" alt="{{ galeria.alt }}">
-    <p>{{galeria.description}}</p>
-  </article>
-  {% endfor %}
-</div>
-  <a class="botones" href="https://wa.me/c/573115245225" title="Carta de la Heladería GurCoff" target="_blank" rel="nofollow">Mirar la carta</a>
-</section>
-
-<section class="invitacion">
-  <video autoplay loop muted playsinline width="320" height="240">
-    <source src="{{site-baseurl}}/img/san-agustin-huila-heladeria-gurcoff.mp4" type="video/mp4">
-    <source src="{{site-baseurl}}/img/san-agustin-huila-heladeria-gurcoff.webm" type="video/webm">
-  Your browser does not support the video tag.
-  </video>
-  <h2>Deliciosas tardes en San Agustín Huila</h2>
-  <p>Visítanos y regala una alegre y deliciosa tarde a tus seres amados. Ven y enamórate del <strong>mejor helado suave de San Agustín Huila</strong>, el centro del turismo arqueológico de Colombia.</p>
-</section>
-
-<a class="botones" href="https://gurcoff.com/contacto" title="Página de contacto de la Heladería GurCoff de San Agustín Huila" target="_blank">¿Cómo llegar a GurCoff en San Agustín?</a>
-
-<h2>San Agustín Huila. Hermoso destino turístico</h2>
-<p style="text-align: center; width: clamp(320px, 90%, 48rem); justify-self: center;">¿Te gustaría saber <strong>qué puedes hacer en San Agustín Huila</strong> después de comerte un delicioso helado? Nuestra heladería ha preparado el que llamamos <strong>El Blog de San Agustín Huila</strong>. Lee sobre los lugares que puedes visitar, hoteles, restaurantes y todo lo que San Agustín te ofrece.</p>
-<p style="text-align: center; width: clamp(320px, 90%, 48rem); justify-self: center;"><b>Haz clic en tu tema favorito o en el botón de abajo titulado <i>"Conoce San Agustín Huila"</i>.</b></p>
-<section class="blog-intro">
-  <article>
-    {% assign nuevo = site.posts[0] %}
-    <img src="{{site.baseurl}}/{{nuevo.img}}" width="300" height="150" alt="{{nuevo.alt}}" loading="lazy">
-    <h3>
-    <a href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.h1 }}</a>
-    </h3>
-    <p>{{nuevo.excerpt}}</p>
-    <ul>
-      {% for tag in nuevo.tags %}
-      <li>{{tag}}</li>
-      {% endfor %}
-    </ul>
-  </article>
-  <article>
-    {% assign nuevo = site.posts[1] %}
-    <img src="{{site.baseurl}}/{{nuevo.img}}" width="300" height="150" alt="{{nuevo.alt}}" loading="lazy">
-    <h3>
-    <a href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.h1 }}</a>
-    </h3>
-    <p>{{nuevo.excerpt}}</p>
-    <ul>
-      {% for tag in nuevo.tags %}
-      <li>{{tag}}</li>
-      {% endfor %}
-    </ul>
-  </article>
-  <article>
-    {% assign nuevo = site.posts[2] %}
-    <img src="{{site.baseurl}}/{{nuevo.img}}" width="300" height="150" alt="{{nuevo.alt}}" loading="lazy">
-    <h3>
-    <a href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.h1 }}</a>
-    </h3>
-    <p>{{nuevo.excerpt}}</p>
-    <ul>
-      {% for tag in nuevo.tags %}
-      <li>{{tag}}</li>
-      {% endfor %}
-    </ul>
-  </article>
-  <article>
-    {% assign nuevo = site.posts[3] %}
-    <img src="{{site.baseurl}}/{{nuevo.img}}" width="300" height="150" alt="{{nuevo.alt}}" loading="lazy">
-    <h3>
-    <a href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.h1 }}</a>
-    </h3>
-    <p>{{nuevo.excerpt}}</p>
-    <ul>
-      {% for tag in nuevo.tags %}
-      <li>{{tag}}</li>
-      {% endfor %}
-    </ul>
-  </article>
-  <article>
-    {% assign nuevo = site.posts[4] %}
-    <img src="{{site.baseurl}}/{{nuevo.img}}" width="300" height="150" alt="{{nuevo.alt}}" loading="lazy">
-    <h3>
-    <a href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.h1 }}</a>
-    </h3>
-    <p>{{nuevo.excerpt}}</p>
-    <ul>
-      {% for tag in nuevo.tags %}
-      <li>{{tag}}</li>
-      {% endfor %}
-    </ul>
-  </article>
-  <article>
-    {% assign nuevo = site.posts[5] %}
-    <img src="{{site.baseurl}}/{{nuevo.img}}" width="300" height="150" alt="{{nuevo.alt}}" loading="lazy">
-    <h3>
-    <a href="{{ nuevo.url }}" title="{{ nuevo.title }}">{{ nuevo.h1 }}</a>
-    </h3>
-    <p>{{nuevo.excerpt}}</p>
-    <ul>
-      {% for tag in nuevo.tags %}
-      <li>{{tag}}</li>
-      {% endfor %}
-    </ul>
-  </article>
-</section>
-<a class="botones" href="https://gurcoff.com/blog" title="Página del blog de la Heladería GurCoff de San Agustín Huila">Conoce San Agustín Huila</a>
-{% include footer.html %}

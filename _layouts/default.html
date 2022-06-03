@@ -2,13 +2,16 @@
 layout: compress
 ---
 {% include head.html %}
-
 <body>
+  <header style="background-color: {{page.background-header}};">
+    <img src="{{site.baseurl}}/img/{{page.hero}}" alt="">
+    <h1>{{page.h1}}</h1>
+    {% if page.intro %}
+    <p>{{page.intro}}</p>
+    {% endif %}
+  </header>
   {% include nav.html %}
-  {% include logo.html %}
   {{ content }}
-  <!-- nav -->
-  <script src="{{ 'js/app.js' | relative_url }}" defer></script>
 </body>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JQ0EGSYDTF" defer></script>
@@ -59,6 +62,4 @@ layout: compress
 <!-- End Google Tag Manager (noscript) -->
 
 <script defer>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"a11a055d8d9feee453481f347a31f2e2"})});</script>
-<!-- CRISP CHATBOT -->
-<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="724390ec-3995-4a8b-854d-b83e82eff77f";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </html>
