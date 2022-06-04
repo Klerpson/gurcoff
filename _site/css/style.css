@@ -1,19 +1,20 @@
-
 :root {
   --principal: #8833ff;
   --oficial: #A875EF;
   --secundario: #f393cf;
-  --accion: #48E5C2;
+  --accion: #88fde4;
   --rojo: #A31621;
 
   --grisFuentes: #161519;
-  --shadow: 0 8px 12px rgba(24, 24, 24, 0.302);
+  --shadow: 0 4px 12px rgba(24, 24, 24, 0.302);
   --blanco: #fcf7f8;
   --fuenteTitulos: 'Sacramento', cursive;
   --fuenteTextos: 'Open Sans', sans-serif;
 }
 
-* {
+*,
+::before,
+::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -35,16 +36,18 @@ a {
   text-decoration: underline;
   -webkit-text-decoration-color: var(--accion);
   text-decoration-color: var(--accion);
-  text-decoration-thickness: 0.2rem;
+  text-decoration-thickness: 0.15rem;
   color: var(--accion);
 }
 
 a:active {
-position: relative;
-top: 1px;
+  position: relative;
+  top: 1px;
 }
 
-h1, h2, h3{
+h1,
+h2,
+h3 {
   font-family: var(--fuenteTitulos);
 }
 
@@ -57,7 +60,10 @@ h1 {
 }
 
 h2 {
-  font-size: clamp(20px, (1.3rem + 1vw) * 1.2, 2rem);
+  font-size: clamp(2.5rem, 4vw, 4rem);
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 1.5px;
 }
 
 h3 {
@@ -79,10 +85,9 @@ span {
   font-weight: 700;
 }
 
-header{
+header {
   position: relative;
   width: 100%;
-  padding: 3em clamp(2rem, 7vw, 5rem);
   display: flex;
   flex-direction: column;
   gap: 2rem;
@@ -91,12 +96,12 @@ header{
   color: white;
 }
 
-header .titulo-home{
+header .titulo-home {
   color: var(--accion);
   text-shadow: var(--shadow);
 }
 
-header img{
+header img {
   width: min(70vw, 360px);
 }
 
@@ -104,10 +109,18 @@ header p {
   text-align: center;
   width: min(80vw, 720px);
 }
+
+/* Compartidos */
+
+header,
+.home-hello {
+  padding: 5em clamp(2rem, 7vw, 5rem);
+}
 .home-intro {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 50vh 50vh;
+  box-shadow: var(--shadow);
 }
 
 .home-intro div {
@@ -118,7 +131,7 @@ header p {
 }
 
 .home-intro div:nth-child(1) {
-  background-color: var(--blanco);
+  background-color: white;
 }
 
 .home-intro div:nth-child(2) {
@@ -133,6 +146,61 @@ header p {
   object-fit: cover;
   object-position: bottom center;
   filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.302));
+}
+
+.home-hello{
+  display: grid;
+  gap: 4rem;
+  place-content: center;
+}
+
+.hello-header {
+  width: min(90vw, 1128px);
+  padding: clamp(1.5rem, 5vw, 3rem);
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 400px), 1fr));
+  align-items: center;
+  background-color: var(--principal);
+  border-radius: 8px;
+  color: white;
+}
+
+.hello-header h2{
+  color: var(--secundario);
+}
+
+.hello-header p{
+  margin: 2rem 0;
+}
+
+.hello-header img{
+  max-width: 360px;
+}
+
+.hello-header a {
+  font-weight: 700;
+}
+
+.hello-gallery {
+  width: 100%;
+  margin: 7rem auto;
+  display: grid;
+  gap: 2rem;
+  grid-auto-flow: row;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 250px), 1fr));
+  justify-content: center;
+  text-align: center;
+}
+
+.hello-gallery article{
+  background-color: var(--oficial);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.hello-gallery article img{
+  max-width: 100%;
 }
 #floating-button {
   width: 55px;
