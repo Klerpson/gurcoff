@@ -3,9 +3,13 @@ layout: compress
 ---
 {% include head.html %}
 <body>
-  <header style="background-color: {{page.background-header}};">
-    <img src="{{site.baseurl}}/img/{{page.hero}}" alt="">
+  <header style="background-color: {{page.background-header}}; background-image: url('{{site.baseurl}}/img/brick-wall.png');">
+    {% if page.url == "/" %}
+    <h1 class="titulo-home">{{page.h1}}</h1>
+    {% else %}
     <h1>{{page.h1}}</h1>
+    {% endif %}
+    <img src="{{site.baseurl}}/img/{{page.hero}}" alt="">
     {% if page.intro %}
     <p>{{page.intro}}</p>
     {% endif %}
