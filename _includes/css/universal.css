@@ -67,11 +67,14 @@ h2 {
 }
 
 h3 {
-  font-size: clamp(18px, (1.2rem + 1vw) * 1.1, 1.8rem);
+  font-size: clamp(2rem, 3vw, 2.5rem);
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 1.5px;
 }
 
 p {
-  font-size: clamp(1.2em, 4vw, 1.5rem);
+  font-size: clamp(1.1em, 2vw, 1.2rem);
   letter-spacing: -.4px;
   line-height: 1.3;
 }
