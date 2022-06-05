@@ -4,9 +4,9 @@
   --secundario: #f393cf;
   --accion: #88fde4;
   --rojo: #A31621;
-
+  --grisClaro: #aeaeae;
   --grisFuentes: #161519;
-  --shadow: 0 4px 12px rgba(24, 24, 24, 0.302);
+  --shadow: 0 4px 8px rgba(24, 24, 24, 0.302);
   --blanco: #fcf7f8;
   --fuenteTitulos: 'Sacramento', cursive;
   --fuenteTextos: 'Open Sans', sans-serif;
@@ -36,13 +36,8 @@ a {
   text-decoration: underline;
   -webkit-text-decoration-color: var(--accion);
   text-decoration-color: var(--accion);
-  text-decoration-thickness: 0.15rem;
+  text-decoration-thickness: 0.18rem;
   color: var(--accion);
-}
-
-a:active {
-  position: relative;
-  top: 1px;
 }
 
 h1,
@@ -111,6 +106,24 @@ header img {
 header p {
   text-align: center;
   width: min(80vw, 720px);
+}
+
+.boton-main {
+  display: inline-block;
+  background-color: var(--accion);
+  color: var(--principal);
+  border: 1px solid var(--principal);
+  padding: 1rem 3rem;
+  border-radius: 8px;
+  transition: all .4s ease;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.boton-main:hover{
+  background-color: white;
+  border: 1px solid var(--accion);
+  text-shadow: var(--shadow);
 }
 
 /* Compartidos */

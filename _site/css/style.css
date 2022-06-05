@@ -4,9 +4,9 @@
   --secundario: #f393cf;
   --accion: #88fde4;
   --rojo: #A31621;
-
+  --grisClaro: #aeaeae;
   --grisFuentes: #161519;
-  --shadow: 0 4px 12px rgba(24, 24, 24, 0.302);
+  --shadow: 0 4px 8px rgba(24, 24, 24, 0.302);
   --blanco: #fcf7f8;
   --fuenteTitulos: 'Sacramento', cursive;
   --fuenteTextos: 'Open Sans', sans-serif;
@@ -36,13 +36,8 @@ a {
   text-decoration: underline;
   -webkit-text-decoration-color: var(--accion);
   text-decoration-color: var(--accion);
-  text-decoration-thickness: 0.15rem;
+  text-decoration-thickness: 0.18rem;
   color: var(--accion);
-}
-
-a:active {
-  position: relative;
-  top: 1px;
 }
 
 h1,
@@ -113,6 +108,24 @@ header p {
   width: min(80vw, 720px);
 }
 
+.boton-main {
+  display: inline-block;
+  background-color: var(--accion);
+  color: var(--principal);
+  border: 1px solid var(--principal);
+  padding: 1rem 3rem;
+  border-radius: 8px;
+  transition: all .4s ease;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.boton-main:hover{
+  background-color: white;
+  border: 1px solid var(--accion);
+  text-shadow: var(--shadow);
+}
+
 /* Compartidos */
 
 header,
@@ -145,13 +158,13 @@ header,
   background-color: var(--oficial);
 }
 
-.home-intro div img{
+.home-intro div img {
   object-fit: cover;
   object-position: bottom center;
   filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.302));
 }
 
-.home-hello{
+.home-hello {
   display: grid;
   gap: 4rem;
   place-content: center;
@@ -159,30 +172,34 @@ header,
 
 .hello-header {
   width: min(90vw, 1128px);
-  padding: clamp(1.5rem, 5vw, 3rem);
   display: grid;
   gap: 2rem;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
   align-items: center;
+  justify-items: center;
   background-color: var(--principal);
   border-radius: 8px;
   color: white;
+  background-color: white;
+  border: 1px solid var(--grisClaro);
 }
 
-.hello-header h2{
+.hello-header div {
+  background-color: var(--principal);
+  padding: clamp(1.5rem, 5vw, 3rem);
+  border-radius: 0 0 34% 0;
+}
+
+.hello-header h2 {
   color: var(--secundario);
 }
 
-.hello-header p{
+.hello-header p {
   margin: 2rem 0;
 }
 
-.hello-header img{
+.hello-header img {
   max-width: 360px;
-}
-
-.hello-header a {
-  font-weight: 700;
 }
 
 .hello-gallery {
@@ -195,13 +212,21 @@ header,
   text-align: center;
 }
 
-.hello-gallery article{
+.hello-gallery article {
   background-color: var(--oficial);
   border-radius: 8px;
   padding: 1rem;
+  transition: transform .3s ease-out;
+  color: var(--grisFuentes);
 }
 
-.hello-gallery article img{
+.hello-gallery article:hover {
+  transform: scale(1.04);
+  box-shadow: var(--shadow);
+}
+
+.hello-gallery article img {
+  width: min-content;
   max-width: 100%;
 }
 #floating-button {
