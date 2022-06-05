@@ -159,12 +159,16 @@ header,
 }
 
 .home-intro div img {
+  -o-object-fit: cover;
   object-fit: cover;
+  -o-object-position: bottom center;
   object-position: bottom center;
+  -webkit-filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.302));
   filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.302));
 }
 
 .home-hello {
+  background-image: linear-gradient(180deg, var(--blanco) 80%, var(--secundario) 20%);
   display: grid;
   gap: 4rem;
   place-content: center;
@@ -185,13 +189,13 @@ header,
 }
 
 .hello-header div {
-  background-color: var(--principal);
+  background-color: var(--secundario);
   padding: clamp(1.5rem, 5vw, 3rem);
-  border-radius: 0 0 34% 0;
+  border-radius: 8px 0 34% 8px;
 }
 
 .hello-header h2 {
-  color: var(--secundario);
+  color: var(--principal);
 }
 
 .hello-header p {
@@ -212,12 +216,16 @@ header,
   text-align: center;
 }
 
+.hello-gallery a{
+  text-decoration: none;
+}
+
 .hello-gallery article {
   background-color: var(--oficial);
   border-radius: 8px;
   padding: 1rem;
   transition: transform .3s ease-out;
-  color: var(--grisFuentes);
+  color: var(--blanco);
 }
 
 .hello-gallery article:hover {
@@ -226,9 +234,12 @@ header,
 }
 
 .hello-gallery article img {
+  width: -webkit-min-content;
+  width: -moz-min-content;
   width: min-content;
   max-width: 100%;
 }
+
 #floating-button {
   width: 55px;
   height: 55px;
