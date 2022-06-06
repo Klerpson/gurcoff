@@ -8,7 +8,7 @@ footer {
 }
 
 .restaurant-guru {
-  width: min(100%, 50vw);
+  width: min(100%, 300px);
   display: grid;
   place-content: center;
   align-items: center;

@@ -40,9 +40,9 @@ referencias:
   - Página web de Akawanka: https://akawankalodge.com
 permalink: /hoteles/akawanka-lodge-san-agustin-huila
 background-header: var(--oficial)
-
+intro: El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la naturaleza, el arte, el comfort y la seguridad que busca cualquier turista.
 ---
-El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la naturaleza, el arte, el comfort y la seguridad que busca cualquier turista.
+
 <!-- excerpt -->
 
 * Do not remove this line (it will not be displayed)
