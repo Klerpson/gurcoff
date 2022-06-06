@@ -129,6 +129,9 @@ header p {
 /* Compartidos */
 
 header,
-.home-hello {
+.home-hello,
+.testimonials,
+.blog,
+.final {
   padding: 5em clamp(2rem, 7vw, 5rem);
 }

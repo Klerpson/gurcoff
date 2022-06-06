@@ -26,7 +26,7 @@
   font-family: 'Roboto';
   font-weight: 300;
   -webkit-animation: plus-out 0.3s;
-          animation: plus-out 0.3s;
+  animation: plus-out 0.3s;
   transition: all 0.3s;
 }
 
@@ -47,9 +47,9 @@
 
 #container-floating:hover .plus {
   -webkit-animation: plus-in 0.15s linear;
-          animation: plus-in 0.15s linear;
+  animation: plus-in 0.15s linear;
   -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
 }
 
 .edit {
@@ -67,7 +67,7 @@
   transform: rotateZ(-70deg);
   transition: all 0.3s;
   -webkit-animation: edit-out 0.3s;
-          animation: edit-out 0.3s;
+  animation: edit-out 0.3s;
   width: 100%;
 }
 
@@ -89,11 +89,11 @@
 
 #container-floating:hover .edit {
   -webkit-animation: edit-in 0.2s;
-          animation: edit-in 0.2s;
+  animation: edit-in 0.2s;
   -webkit-animation-delay: 0.1s;
-          animation-delay: 0.1s;
+  animation-delay: 0.1s;
   -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
 }
 
 @-webkit-keyframes edit-in {
@@ -210,48 +210,48 @@
   right: 40px;
   bottom: 120px;
   -webkit-animation-delay: 0.2s;
-          animation-delay: 0.2s;
+  animation-delay: 0.2s;
   -webkit-animation: bounce-out-nds 0.3s linear;
-          animation: bounce-out-nds 0.3s linear;
+  animation: bounce-out-nds 0.3s linear;
   -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
 }
 
 .nd3 {
   right: 40px;
   bottom: 180px;
   -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  animation-delay: 0.15s;
   -webkit-animation: bounce-out-nds 0.15s linear;
-          animation: bounce-out-nds 0.15s linear;
+  animation: bounce-out-nds 0.15s linear;
   -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
 }
 
 .nd4 {
   right: 40px;
   bottom: 240px;
   -webkit-animation-delay: 0.1s;
-          animation-delay: 0.1s;
+  animation-delay: 0.1s;
   -webkit-animation: bounce-out-nds 0.1s linear;
-          animation: bounce-out-nds 0.1s linear;
+  animation: bounce-out-nds 0.1s linear;
   -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
 }
 
 .nd5 {
-  background-image: url({{site.baseurl}}/img/favicon/android-icon-48x48.png);
-  background-size: 110%;
+  background-image: url({{site.baseurl}}/img/favicon/apple-touch-icon.png);
+  background-size: 70%;
   background-position: center center;
   background-repeat: no-repeat;
   right: 40px;
   bottom: 300px;
   -webkit-animation-delay: 0.08s;
-          animation-delay: 0.08s;
+  animation-delay: 0.08s;
   -webkit-animation: bounce-out-nds 0.1s linear;
-          animation: bounce-out-nds 0.1s linear;
+  animation: bounce-out-nds 0.1s linear;
   -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
 }
 
 @-webkit-keyframes bounce-nds {
@@ -302,24 +302,24 @@
 
 #container-floating:hover .nds {
   -webkit-animation: bounce-nds 0.1s linear;
-          animation: bounce-nds 0.1s linear;
+  animation: bounce-nds 0.1s linear;
   -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
 }
 
 #container-floating:hover .nd3 {
   -webkit-animation-delay: 0.08s;
-          animation-delay: 0.08s;
+  animation-delay: 0.08s;
 }
 
 #container-floating:hover .nd4 {
   -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  animation-delay: 0.15s;
 }
 
 #container-floating:hover .nd5 {
   -webkit-animation-delay: 0.2s;
-          animation-delay: 0.2s;
+  animation-delay: 0.2s;
 }
 
 .letter {
@@ -338,7 +338,7 @@
 
 .reminder {
   -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
+  filter: grayscale(100%);
   height: 50%;
   position: absolute;
   left: 0;
