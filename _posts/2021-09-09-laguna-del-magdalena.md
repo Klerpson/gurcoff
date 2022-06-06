@@ -3,12 +3,11 @@ layout: articulo
 title: Laguna del Magdalena, donde nace el río Magdalena
 description: La Laguna del Magdalena es el lugar donde nace el gran río Magdalena, el principal río de Colombia. Mira cómo llegar hasta este hermoso lugar.
 category: turismo
-tags: [magdalena, turismo]
-h1: La Laguna del Magdalena, el origen del río Magdalena
+h1: Laguna del Magdalena origen del río Magdalena
 img: img/magazine/laguna-magdalena/laguna-del-magdalena.webp
 jpg: img/magazine/laguna-magdalena/laguna-del-magdalena.jpg
 alt: Fotografía de la Laguna del río Magdalena, fuente del gran río Magdalena
-autor: Julian Franco
+background-header: 'var(--oficial)'
 date: 2021-09-09
 copyright: Julian Andres Franco Bedoya
 json: '{
@@ -84,12 +83,10 @@ json: '{
 referencias:
   - Imágen letrero páramo: https://commons.wikimedia.org/wiki/File:Laguna_de_la_Magdalena_aviso.JPG
 excerpt_separator: <!-- excerpt -->
+intro: La Laguna del Magdalena es el origen o la fuente del gran Río Magdalena, la mayor fuente del agua dulce para la producción colombiana. Aquí te contamos porqué debes venir a conocerla.
 ---
-**La Laguna del Magdalena es el origen o la fuente del gran Río Magdalena**, la mayor fuente del agua dulce para la producción colombiana. Aquí te contamos porqué debes venir a conocerla.
-
-<!-- excerpt -->
-
 Este es un lugar adornado por los frailejones que abundan en el Páramo de las papas, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conozcamos más de la Laguna del Magdalena
+<!-- excerpt -->
 
 {% include img.html img="magazine/laguna-magdalena/laguna-del-magdalena.webp" img-mini="magazine/laguna-magdalena/laguna-del-magdalena-huila.webp" alt="Laguna del Magdalena, origen del río Magdalena" title="Laguna del Magdalena, en el páramo de las papas" %}
 *Laguna del Magdalena, origen del gran río Magdalena*

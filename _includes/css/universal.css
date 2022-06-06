@@ -140,14 +140,16 @@ footer {
 .nosotros,
 .contacto,
 .magazine,
-.blog-footer {
+.blog-footer,
+.articulo {
   margin: 7rem auto;
   width: min(90vw, 960px);
 }
 
 .nosotros h2,
 .contacto h2,
-.blog-footer h2{
+.blog-footer h2,
+.articulo h2{
   margin: 3rem 0;
   color: var(--principal);
   width: min(80vw, 100%);

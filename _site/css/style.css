@@ -140,14 +140,16 @@ footer {
 .nosotros,
 .contacto,
 .magazine,
-.blog-footer {
+.blog-footer,
+.articulo {
   margin: 7rem auto;
   width: min(90vw, 960px);
 }
 
 .nosotros h2,
 .contacto h2,
-.blog-footer h2{
+.blog-footer h2,
+.articulo h2{
   margin: 3rem 0;
   color: var(--principal);
   width: min(80vw, 100%);
@@ -805,13 +807,12 @@ footer {
 }
 
 .restaurant-guru {
-  width: min(100%, 300px);
-  display: grid;
-  place-content: center;
+  width: min(100%, 600px);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
-  justify-items: center;
   gap: 1.5rem;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
 }
 
 .restaurant-guru div,
@@ -848,28 +849,37 @@ footer {
   gap: 1.5rem;
   flex-wrap: wrap;
   padding-top: 7rem;
+  align-items: center;
+  justify-content: center;
 }
 
-.articulo h1,
 .articulo h3,
-.articulo h4,
 .articulo h2{
-  width: 100%;
+  font-family: var(--fuenteTextos);
+}
+
+.articulo h3{
+  text-align: left;
 }
 
 .articulo img {
-  border-radius: 7px;
+  border-radius: 8px;
   box-shadow: var(--shadow);
   max-width: 100%;
+  margin-top: 4rem;
 }
 
 .articulo em {
-  font-family: var(--fuenteTitulos);
+  font-weight: 700;
   line-height: 1.2;
+  flex: 1;
 }
 
 .articulo li {
-  margin-left: 1rem;
+  margin: 0 0 1.5rem 1.5rem;
+  font-size: clamp(1.1em, 2vw, 1.2rem);
+  letter-spacing: -.4px;
+  line-height: 1.3;
 }
 
 .articulo table tr{
@@ -911,35 +921,6 @@ footer {
   box-shadow: var(--shadow);
   border-radius: 7px;
 }
-
-.sugerencias {
-  background-color: rgba(136, 51, 255, .3);
-  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
-  display: grid;
-  gap: 2rem;
-  justify-content: center;
-  padding: 2rem;
-  box-shadow: var(--shadow);
-}
-
-.sugerencias h3 {
-  text-transform: inherit;
-}
-
-.sugerencias a{
-  color: var(--grisTextos);
-  text-decoration-color: var(--complemento2);
-}
-
-.relacionados img {
-  max-width: fit-content;
-  border-radius: 7px;
-  box-shadow: var(--shadow);
-}
-
-#layout{
-  padding: 1rem;
-}
 #markdown-toc::before {
   content: "Contenido:";
   font-weight: bold;
@@ -963,6 +944,10 @@ footer {
 }
 .blog h3{
   margin: 2rem auto;
+}
+
+.magazine p{
+  margin: 0 0 2rem;
 }
 
 .blog-footer ul li{

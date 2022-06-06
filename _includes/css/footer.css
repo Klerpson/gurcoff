@@ -8,13 +8,12 @@ footer {
 }
 
 .restaurant-guru {
-  width: min(100%, 300px);
-  display: grid;
-  place-content: center;
+  width: min(100%, 600px);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
-  justify-items: center;
   gap: 1.5rem;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
 }
 
 .restaurant-guru div,
