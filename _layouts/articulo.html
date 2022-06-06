@@ -2,8 +2,7 @@
 layout: default
 ---
 <main class="articulo">
-  <h1>{{page.h1}}</h1>
-  <small>Por {{page.autor}} - {{ page.date | date_to_long_string }}</small>
+  {% include breadcrumbs.html %}
   {{ content }}
   <div>
     <h4 id="fuentes">Fotografías, fuentes y referencias del artículo {{page.title}}</h4>
