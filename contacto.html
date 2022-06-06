@@ -1,88 +1,66 @@
 ---
 layout: default
+hero: contacto.webp
 title: La heladería de San Agustín Huila
-h1: ¿Estas en San Agustín Huila? Visítanos
+h1: ¿Estas en San Agustín? Ven o escríbenos
 description: GurCoff es el punto de encuentro favorito y más delicioso en San Agustín Huila. Conoce los horarios y datos de contacto de la heladería GurCoff.
+intro: false
+background-header: var(--secundario)
 ---
+<main class="nosotros">
+  <h2>GurCoff San Agustín</h2>
+  <img src="{{site.baseurl}}/img/nosotros/helado-gurcoff.webp" loading="lazy" title="Helados con receta GurCoff" alt="Niño de San Agustín comiéndose un helado GurCoff" width="300" height="300">
+  <p>Nuestra heladería es el resultado de un esfuerzo familiar por tener una heladería muy llamativa y agradable. Logramos <strong>un lugar en San Agustín donde te sientes feliz y te puedes relajar; te atienden como lo mereces; y te enamoras de las deliciosas preparaciones y recetas de nuestros helados.</strong>
+  </p>
+  <p>Como todo buen proyecto, tuvo sus retos. Intentamos ubicarnos en un local que nos permitiera recibir con comodidad a los amantes del buen helado. Queríamos que el lugar provocara esa sensación de pasarla rico en familia o amigos.</p>
+  <p>Por esto, GurCoff se convirtió en el punto de encuentro para cuando terminas tu jornada laboral o estudiantil, es <strong>el lugar donde quieres ir y desestresarte, relajarte y comer bien rico.</strong></p>
+  <img src="{{site.baseurl}}/img/nosotros/gurcoff-san-agustin-huila.webp" loading="lazy" width="300" height="225" title="Heladería GurCoff de San Agustín Huila" alt="Local comercial de la heladería GurCoff ubicada en San Agustín Huila">
+  <p>Para comenzar con pie derecho y establecernos firmemente en San Agustín, decidimos atenderte nosotros mismos. Era más trabajo, pero nos permitió algo muy importante: <strong>conocer de primera mano los gustos, intereses y expectativas de nuestra clientela.</strong></p>
+
+  <h3>Nuestra Misión en San Agustín Huila</h3>
+  <p>Así fue como logramos descubrir nuestra misión como empresa:</p>
+  <q>GurCoff es el lugar favorito de San Agustín para pasar una tarde deliciosa</q>
+  <p>Es el lugar para que disfrutes los atardeceres, una charla vespertina tranquila, y para <strong>todos los que aman
+      un helado con mucha calidad y con sabores bien cuidados.</strong></p>
+</main>
 <section class="contacto">
   <h2>Horarios y datos de contacto de la Heladería GurCoff</h2>
   <h3>Dirección</h3>
-  <p>San Agustín, calle 5 17-02, via al parque arqueológico</p>
+  <p><strong>San Agustín, calle 5 17-02. Pregunta la salida hacia el parque arqueológico.</strong> Cuando llegues a la escuela "Pastrana", justo allí, en la esquina colorida y hermosa de GurCoff, nos encontrarás fácilmente. Es clic en el mapa y activa las indicaciones para llegar.</p>
   <div class="mapa">
-    <iframe src="{{ site.maps }}" width="100%" height="450" frameborder="0"
-      style="border:0; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5); margin: 1.5rem 0 1rem 0;"></iframe>
+    <iframe src="{{ site.maps }}" width="450" height="450" frameborder="0"></iframe>
   </div>
   <h2>Horarios de servicio</h2>
-  <ul>
-    <li><b>Lunes</b> de 1pm a 6:30pm</li>
-    <li><b>Martes</b> de 1pm a 6:30pm</li>
-    <li><b>Miércoles</b>: <b>¡Descansamos!</b></li>
-    <li><b>Jueves</b> de 1pm a 6:30pm</li>
-    <li><b>Viernes</b> de 1pm a 6:30pm</li>
-    <li><b>Sábado</b> de 1pm a 7pm</li>
-    <li><b>Domingo</b> de 1pm a 7pm</li>
-  </ul>
-  <h3>Datos de contacto</h3>
-  <ul>
-    <li><a href="{{ site.tel }}" class="botones" title="Teléfono de GurCoff en San Agustín Huila" target="_blank" rel="nofollow">Reservas (+57 3124489392)</a></li>
-    <li><a href="{{ site.whatsapp }}" class="botones" title="WhatsApp de GurCoff San Agustín" target="_blank" rel="nofollow">Escribir a WhatsApp</a></li>
-  </ul>
-  
-  <h3>Búscanos en redes como @GurCoff</h3>
+
+  <div class="home-intro">
+    <div>
+    <img src="{{site.baseurl}}/img/nosotros/atardecer-en-san-agustin.webp" loading="lazy" title="Atardecer en GurCoff" alt="Foto de un atardecer desde la heladería GurCoff" width="300" height="169">
+  </div>
+    <div>
+    <ul>
+      <li><b>Lunes</b> de 1pm a 6:30pm.</li>
+      <li><b>Martes</b> de 1pm a 6:30pm.</li>
+      <li style="color: var(--rojo)"><b>Miércoles</b>: <b>¡Descansamos!</b></li>
+      <li><b>Jueves</b> de 1pm a 6:30pm.</li>
+      <li><b>Viernes</b> de 1pm a 6:30pm.</li>
+      <li><b>Sábado</b> de 1pm a 7pm.</li>
+      <li><b>Domingo</b> de 1pm a 7pm.</li>
+    </ul>
+  </div>
+  <div class="contacto-telefono">
+      <h3>Datos de contacto</h3>
+      <a href="{{ site.tel }}" class="boton-main" title="Teléfono de GurCoff en San Agustín Huila" target="_blank" rel="nofollow">Reservas (+57 3124489392)</a>
+      <a href="{{ site.whatsapp }}" class="boton-main" title="WhatsApp de GurCoff San Agustín" target="_blank" rel="nofollow">Escribir a WhatsApp</a>
+    </div>
+    <div>
+      <img src="{{ 'img/logotipo.svg' | relative_url }}" alt="">
+    </div>
+  </div>
 
   {% include instagram.html username="gurcoff" %}
-  <ul>
-    <li><a href="{{ site.minegocio }}" class="botones" title="Perfil Google de GurCoff San Agustín"> Google</a></li>
-    <li><a href="{{ site.facebook }}" class="botones" title="Perfil en Meta Facebook de GurCoff San Agustín" target="_blank" rel="nofollow"> Facebook</a></li>
-    <li><a href="{{ site.instagram }}" class="botones" title="Perfil en Meta Instagram de GurCoff San Agustín" target="_blank" rel="nofollow"> Instagram</a></li>
-  </ul>
-  <h3>Haz tus pedidos desde nuestra app</h3>
-  <p>Ahora puedes hacer tus pedidos con más agilidad y seguridad, desde nuestra aplicación. Esperamos que te sea muy fácil de usar. Haz clic en el siguiente enlace.</p>
-  <a href="https://gurcoff.glideapp.io/" class="botones" title="App de GurCoff San Agustín" style="display: block; margin: 4rem auto; width: max-content;" target="_blank" rel="nofollow"> Aplicación de GurCoff para domicilios</a>
+    <ul class="enlaces-perfiles">
+      <li><a href="{{ site.minegocio }}" class="boton-main" title="Perfil Google de GurCoff San Agustín"> Google</a></li>
+      <li><a href="{{ site.facebook }}" class="boton-main" title="Perfil en Meta Facebook de GurCoff San Agustín" target="_blank" rel="nofollow"> Facebook</a></li>
+      <li><a href="{{ site.instagram }}" class="boton-main" title="Perfil en Meta Instagram de GurCoff San Agustín" target="_blank" rel="nofollow"> Instagram</a></li>
+    </ul>
 </section>
-<main class="nosotros">
-  <a href="{{ site.instagram }}" target="_blank" rel="nofollow">
-    <figure>
-      <img src="{{site.baseurl}}/img/nosotros/helado-gurcoff.webp" loading="lazy" title="Helados con receta GurCoff"
-        alt="Niño de San Agustín comiéndose un helado GurCoff">
-      <figcaption>Súper cliente GurCoff</figcaption>
-    </figure>
-  </a>
-  <h2>GurCoff San Agustín</h2>
-  <p>Nuestra heladería es el resultado de un esfuerzo familiar por tener una heladería muy llamativa y agradable.
-    Logramos <strong>un lugar en San Agustín donde te sientes feliz y te puedes relajar; te atienden como lo mereces; y
-      te enamoras de las deliciosas preparaciones y recetas de nuestros helados.</strong>
-  </p>
-  <p>Como todo buen proyecto, tuvo sus retos. Intentamos ubicarnos en un local que nos permitiera recibir con comodidad
-    a los amantes del buen helado. Queríamos que el lugar provocara esa sensación de pasarla rico en familia o amigos.
-  </p>
-  <p>Por esto, GurCoff se convirtió en el punto de encuentro para cuando terminas tu jornada laboral o estudiantil, es
-    <strong>el lugar donde quieres ir y desestresarte, relajarte y comer bien rico.</strong></p>
-  <a href="{{ site.instagram }}" target="_blank" rel="nofollow">
-    <figure>
-      <img src="{{site.baseurl}}/img/nosotros/gurcoff-san-agustin-huila.webp" loading="lazy"
-        title="Heladería GurCoff de San Agustín Huila"
-        alt="Local comercial de la heladería GurCoff ubicada en San Agustín Huila">
-      <figcaption>Nuestra heladería en San Agustín</figcaption>
-    </figure>
-  </a>
-  <p>Para comenzar con pie derecho y establecernos firmemente en San Agustín, decidimos atenderte nosotros mismos. Era
-    más trabajo, pero nos permitió algo muy importante: <strong>conocer de primera mano los gustos, intereses y
-      expectativas de nuestra clientela.</strong></p>
-
-  <h2>Nuestra Misión en San Agustín Huila</h2>
-  <p>Así fue como logramos descubrir nuestra misión como empresa:</p>
-  <q>GurCoff es el punto de encuentro para pasar una tarde deliciosa</q>
-  <p>Es el lugar para que disfrutes los atardeceres, una charla vespertina tranquila, y para <strong>todos los que aman
-      un helado de mucha calidad y con sabores bien cuidados.</strong></p>
-  <a href="{{ site.instagram }}" target="_blank" rel="nofollow">
-    <figure>
-      <img src="{{site.baseurl}}/img/nosotros/atardecer-en-san-agustin.webp" loading="lazy" title="Atardecer en GurCoff"
-        alt="Foto de un atardecer desde la heladería GurCoff">
-      <figcaption>Un delicioso atardecer de San Agustín en GurCoff</figcaption>
-    </figure>
-  </a>
-   
-</main>
-
-{% include footer.html %}

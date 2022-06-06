@@ -34,10 +34,11 @@ body {
 
 a {
   text-decoration: underline;
-  -webkit-text-decoration-color: var(--accion);
-  text-decoration-color: var(--accion);
+  -webkit-text-decoration-color: var(--oficial);
+  text-decoration-color: var(--oficial);
   text-decoration-thickness: 0.18rem;
-  color: var(--accion);
+  color: var(--oficial);
+  font-weight: 700;
 }
 
 h1,
@@ -61,7 +62,7 @@ h2 {
   letter-spacing: 1.5px;
 }
 
-h3 {
+h3, q {
   font-size: clamp(2rem, 3vw, 2.5rem);
   line-height: 1.2;
   text-align: center;
@@ -132,6 +133,22 @@ header,
 .home-hello,
 .testimonials,
 .blog,
-.final {
-  padding: 5em clamp(2rem, 7vw, 5rem);
+footer {
+  padding: 5rem clamp(2rem, 7vw, 5rem);
+}
+
+.nosotros,
+.contacto,
+.magazine,
+.blog-footer {
+  margin: 7rem auto;
+  width: min(90vw, 960px);
+}
+
+.nosotros h2,
+.contacto h2,
+.blog-footer h2{
+  margin: 3rem 0;
+  color: var(--principal);
+  width: min(80vw, 100%);
 }

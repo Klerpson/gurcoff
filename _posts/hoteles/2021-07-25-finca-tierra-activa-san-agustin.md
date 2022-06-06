@@ -4,7 +4,7 @@ title: Tierra Activa - Finca agroturística de San Agustín Huila
 description: La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas. Su actividad principal es el agroturismo.
 category: hoteles
 tags: [hoteles, fincas]
-h1: Finca Agroturística Tierra Activa de San Agustín Huila
+h1: Finca Agroturística Tierra Activa
 img: img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp
 jpg: img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.jpg
 alt: Fotografía del Hotel Finca Tierra Activa en San Agustín Huila

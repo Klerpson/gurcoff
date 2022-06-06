@@ -1,37 +1,70 @@
+
+
+.nosotros p,
+.contacto p,
+.blog-footer p {
+  margin: 0 0 2rem;
+}
+
+.nosotros img,
+.contacto img {
+  float: left;
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  margin-right: 2rem;
+}
+
+.nosotros q {
+  display: inline-block;
+  font-family: var(--fuenteTitulos);
+  margin: 3rem auto;
+  text-align: center;
+}
+
 .contacto li {
   list-style: none;
 }
 
-.contacto h2{
-  margin: 2.5rem 0;
-}
-
 .contacto h3 {
-  margin: 2.5rem 0;
-  margin-bottom: 1.5rem;
-}
-
-.nosotros p,
-.nosotros q,
-.nosotros figure {
-  margin: 1.5rem 0;
-}
-
-.nosotros h2 {
   margin: 2rem 0;
+  text-align: left;
 }
 
-.nosotros figure {
+.contacto iframe {
+  border: 0;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+  float: left;
+}
+
+.contacto .home-intro ul{
+  padding: 2rem;
+}
+
+.contacto .home-intro ul li b{
+  text-transform: uppercase;
+}
+
+.contacto .home-intro img{
+  box-shadow: none;
+}
+
+.contacto-telefono{
   text-align: center;
+  color: white;
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  align-items: center;
 }
 
-.nosotros figure img {
-  max-width: 100%;
-  border-radius: 5px;
-  box-shadow: var(--shadow);
+.contacto .instagram h2{
+  color: white;
 }
 
-.nosotros q {
-  font-family: var(--fuenteTitulos);
-  color: var(--complemento2);
+.enlaces-perfiles{
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin: 4rem 0;
 }

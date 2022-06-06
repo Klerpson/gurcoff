@@ -34,10 +34,11 @@ body {
 
 a {
   text-decoration: underline;
-  -webkit-text-decoration-color: var(--accion);
-  text-decoration-color: var(--accion);
+  -webkit-text-decoration-color: var(--oficial);
+  text-decoration-color: var(--oficial);
   text-decoration-thickness: 0.18rem;
-  color: var(--accion);
+  color: var(--oficial);
+  font-weight: 700;
 }
 
 h1,
@@ -61,7 +62,7 @@ h2 {
   letter-spacing: 1.5px;
 }
 
-h3 {
+h3, q {
   font-size: clamp(2rem, 3vw, 2.5rem);
   line-height: 1.2;
   text-align: center;
@@ -132,8 +133,24 @@ header,
 .home-hello,
 .testimonials,
 .blog,
-.final {
-  padding: 5em clamp(2rem, 7vw, 5rem);
+footer {
+  padding: 5rem clamp(2rem, 7vw, 5rem);
+}
+
+.nosotros,
+.contacto,
+.magazine,
+.blog-footer {
+  margin: 7rem auto;
+  width: min(90vw, 960px);
+}
+
+.nosotros h2,
+.contacto h2,
+.blog-footer h2{
+  margin: 3rem 0;
+  color: var(--principal);
+  width: min(80vw, 100%);
 }
 .home-intro {
   display: grid;
@@ -207,12 +224,6 @@ header,
 
 .hello-header img {
   max-width: 360px;
-}
-
-.restaurant-guru {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .hello-gallery {
@@ -315,12 +326,40 @@ header,
   list-style: none;
 }
 
-#instafeed{
-  background-color: var(--oficial);
-  padding-top: 1rem;
+.instagram {
+  position: relative;
+  padding-top: 5rem;
 }
 
-.blog {
+.instagram h2 {
+  margin: 0 auto 4rem;
+  width: min(100%, 720px);
+}
+
+#instafeed {
+  overflow: auto;
+  margin: 0 0 0 -1%;
+}
+
+#instafeed li {
+  float: left;
+  display: block;
+  margin: 0 0 1% 1%;
+  width: 19%;
+  padding-bottom: 19%;
+  position: relative;
+}
+
+#instafeed li img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  position: absolute;
+}
+
+.blog,
+.instagram {
   background-color: var(--principal);
   background-image: url('/img/brick-wall.png');
   color: white;
@@ -377,25 +416,24 @@ header,
   font-size: 1rem;
 }
 
-.final {
-  display: flex;
-  flex-direction: column;
-  gap: 4rem;
-  align-items: center;
+.mapa {
+  display: grid;
+  gap: 1.5rem;
+  justify-items: center;
   text-align: center;
+  padding: clamp(1.5rem, 4vw, 4rem);
 }
 
-.final img{
-  width: min(300px, 720px);
+.mapa iframe {
+  display: block;
+  border: 0;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  width: min(100%, 580px);
 }
 
-.final h2{
-  color: var(--principal);
-}
-
-.final h2, 
-.final p{
-  width: min(100%, 720px);
+.mapa em{
+  width: min(100%, 580px);
 }
 #floating-button {
   width: 55px;
@@ -435,7 +473,7 @@ header,
   height: 70px;
   bottom: 30px;
   right: 30px;
-  z-index: 50px;
+  z-index: 50;
 }
 
 #container-floating:hover {
@@ -757,7 +795,53 @@ header,
   margin: auto;
   right: 20px;
 }
-footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:center;text-align:center;background:linear-gradient(rgba(224,251,252,1),rgba(250,250,250,.4))}footer a,footer p{display:inline-block;font-family:var(--fuenteTitulos)}footer a{color:var(--principal);margin:1rem .5rem;font-weight:700}
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(rgba(224, 251, 252, 1), rgba(250, 250, 250, .4))
+}
+
+.restaurant-guru {
+  width: min(100%, 50vw);
+  display: grid;
+  place-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
+}
+
+.restaurant-guru div,
+.restaurant-guru div ul {
+  width: min(100%, 300px);
+}
+
+.footer-links{
+  padding: 2rem;
+  display: flex;
+  gap: 1.5rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.footer-links a{
+  color: var(--oficial);
+  text-decoration: none;
+  transition: all .5s ease;
+}
+
+.footer-links a:hover{
+  font-weight: 700;
+  color: var(--principal);
+}
+
+.register{
+  width: 100%;
+  padding: 2rem 0 0;
+}
 .articulo{
   display: flex;
   gap: 1.5rem;
@@ -876,35 +960,15 @@ footer{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:cent
 #markdown-toc ul li a{
   text-decoration: none;
 }
-.magazine{
-  display: grid;
-  grid-gap: 2rem;
-  place-content: center;
-}
-.magazine p,
-.magazine h2{
-  width: 100%;
-  margin-bottom: 2rem;
-  text-align: center;
-}
-
-.magazine article {
-  width: 300px;
-  justify-self: center;
-}
-
-.magazine article a img {
-  margin: 0.5rem 0;
-  border-radius: 5px;
-  box-shadow: var(--shadow);
+.blog h3{
+  margin: 2rem auto;
 }
 
 .blog-footer ul li{
-list-style: none;
-}
-
-.blog-footer p{
-  margin: 1rem 0;
+  margin: 2rem 0 2rem 2rem;
+  font-size: clamp(1.1em, 2vw, 1.2rem);
+  letter-spacing: -.4px;
+  line-height: 1.3;
 }
 .negocio{
   position: relative;
@@ -1033,44 +1097,76 @@ list-style: none;
     margin: 0 auto;
   }
 }
+
+
+.nosotros p,
+.contacto p,
+.blog-footer p {
+  margin: 0 0 2rem;
+}
+
+.nosotros img,
+.contacto img {
+  float: left;
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  margin-right: 2rem;
+}
+
+.nosotros q {
+  display: inline-block;
+  font-family: var(--fuenteTitulos);
+  margin: 3rem auto;
+  text-align: center;
+}
+
 .contacto li {
   list-style: none;
 }
 
-.contacto h2{
-  margin: 2.5rem 0;
-}
-
 .contacto h3 {
-  margin: 2.5rem 0;
-  margin-bottom: 1.5rem;
-}
-
-.nosotros p,
-.nosotros q,
-.nosotros figure {
-  margin: 1.5rem 0;
-}
-
-.nosotros h2 {
   margin: 2rem 0;
+  text-align: left;
 }
 
-.nosotros figure {
+.contacto iframe {
+  border: 0;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+  float: left;
+}
+
+.contacto .home-intro ul{
+  padding: 2rem;
+}
+
+.contacto .home-intro ul li b{
+  text-transform: uppercase;
+}
+
+.contacto .home-intro img{
+  box-shadow: none;
+}
+
+.contacto-telefono{
   text-align: center;
+  color: white;
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  align-items: center;
 }
 
-.nosotros figure img {
-  max-width: 100%;
-  border-radius: 5px;
-  box-shadow: var(--shadow);
+.contacto .instagram h2{
+  color: white;
 }
 
-.nosotros q {
-  font-family: var(--fuenteTitulos);
-  color: var(--complemento2);
+.enlaces-perfiles{
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin: 4rem 0;
 }
-
 @media screen and (min-width:600px) {
   
 }
