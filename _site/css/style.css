@@ -150,7 +150,8 @@ footer {
 .contacto,
 .magazine,
 .blog-footer,
-.articulo {
+.articulo,
+.legal {
   margin: 7rem auto;
   width: min(90vw, 960px);
 }
@@ -929,6 +930,21 @@ footer {
   width: 100%;
   box-shadow: var(--shadow);
   border-radius: 7px;
+}
+
+.legal{
+  display: grid;
+  gap: 2rem;
+}
+
+.legal h2{
+  color: var(--oficial);
+  font-family: var(--fuenteTextos);
+}
+
+.legal h3{
+  text-align: left;
+  color: var(--secundario);
 }
 #markdown-toc::before {
   content: "Contenido:";

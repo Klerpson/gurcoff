@@ -150,7 +150,8 @@ footer {
 .contacto,
 .magazine,
 .blog-footer,
-.articulo {
+.articulo,
+.legal {
   margin: 7rem auto;
   width: min(90vw, 960px);
 }

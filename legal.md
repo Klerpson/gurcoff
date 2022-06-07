@@ -2,8 +2,10 @@
 layout: default
 title: Términos y Condiciones de GurCoff San Agustin
 h1: Avisos legales del uso de GurCoff.com
-description: Condiciones de uso de la página de la heladería GurCoff
+description: Condiciones de uso, privacidad y términos y condiciones de la página de la heladería GurCoff
+background-header: var(--secundario)
 ---
+{% include breadcrumbs.html %}
 ## Aviso legal para sitio web de Colombia
 
 En esta página se detallan las instrucciones legales que se aplican a todos los usuarios de Internet que visiten este Sitio (www.gurcoff.com) propiedad de Heladería GurCoff, con domicilio San Agustín Huila, Calle 5 17 - 02. Al acceder y navegar por este sitio, usted se compromete a respetar estas instrucciones sin ningún tipo de excepción. Es por ello que le aconsejamos que consulte estas instrucciones cada cierto tiempo, ya que podrían modificarse de forma periódica y sin previo aviso por parte de la Heladería GurCoff. Si usted no desea aceptar o cumplir las condiciones aquí descritas, deberá abandonar este sitio web inmediatamente.
@@ -88,11 +90,11 @@ Este Sitio y su contenido se rigen por la legislación de Colombia. Todo posible
 
 ## Cliente, Proveedor y Colaborador
 
-## PROTECCION DE DATOS PERSONALES
+### Protección de datos personales
 
 La Ley 1581 de 2012 y sus Decretos Reglamentarios, pretenden regular el manejo de datos personales en Colombia, con el fin de proteger el derecho fundamental al habeas data o a la identidad informática. Teniendo en cuenta que la Heladería GurCoff, cuenta actualmente con bases de datos en las que reposan datos personales que han sido suministrados por usted en el pasado, en cumplimiento de lo establecido en las normas mencionadas, nos permitimos solicitar su autorización para continuar con el tratamiento de sus datos.
 
-## AUTORIZACION PARA EL TRATAMIENTO DE DATOS PERSONALES Y SENSIBLES
+### Autorización para el tratamiento de datos personales y sensibles
 
 – En mi calidad de TITULAR declaro de manera libre, voluntaria, expresa, inequívoca que se me ha informado de manera clara y comprensible que tengo derecho a conocer, actualizar y rectificar los datos personales y sensibles proporcionados a la Heladería GurCoff, a solicitar prueba de esta autorización, a solicitar información sobre el uso que se le ha dado a mis datos personales, a presentar quejas ante la Superintendencia de Industria y Comercio por el uso indebido de mis datos personales, a revocar esta autorización o solicitar la supresión de los datos personales suministrados y a acceder de forma gratuita a los mismos.
 
@@ -157,5 +159,3 @@ Otorgo mi consentimiento a la Heladería GurCoff para tratar mi información per
 Autorizo a la Heladería GurCoff a modificar o actualizar su contenido, a fin de atender reformas legislativas, políticas internas o nuevos requerimientos para la prestación u ofrecimiento de servicios, dando aviso previo por medio de la página web de la compañía, y/o correo electrónico.
 
 En caso en que usted no desee que nuestra Heladería acceda, procese y en general use la información que usted nos suministre, sírvase enviar por este mismo medio y dentro de los cinco (5) días siguientes al uso de este sitio web, o del recibo de nuestros correos electrónicos y mensajes de texto de suscripción y registros de sus datos, una comunicación en la que se nos indique que no se autoriza ni el acceso ni el almacenamiento, proceso y uso de dicha información sabiendo que ello ocurrirá conforme a lo recién descrito.
-
-{% include footer.html %}
