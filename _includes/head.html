@@ -17,11 +17,125 @@
   <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
   {% endif %}
   <!-- Codigo json para google en los articulos -->
-  {% if page.json %}
   <script type="application/ld+json">
-    {{page.json}}
-  </script>
+
+  {% if page.url == "/" %}
+  {
+    "@context": "http://www.schema.org",
+    "@type": "IceCreamShop",
+    "name": "Heladería GurCoff de San Agustín Huila",
+    "url": "https://gurcoff.com/",
+    "logo": "https://gurcoff.com/img/logo.png",
+    "image": "https://gurcoff.com/img/milkshake-especial-gurcoff.webp",
+    "telephone": "+573124489392",
+    "servesCuisine": "Colombiana",
+    "priceRange": "$4000 - $24000 COP",
+    "description": "San Agustín Huila tiene un dulce lugar para relajarte, para descansar, para charlar y para comer un helado suave bien rico. Bienvenidos a GurCoff Heladería, el punto de encuentro favorito de quienes visitan este hermoso pueblo turístico. Tienes que vivir tú mismo la experiencia GurCoff",
+    "menu": "http://wa.me/c/573124489392",
+    "acceptsReservations": "True",
+    "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Calle 5 17 02",
+    "addressLocality": "San Agustín",
+    "addressRegion": "Huila",
+    "postalCode": "418060",
+    "addressCountry": "Colombia"
+    },
+    "review": {
+    "@type": "Review",
+    "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.8",
+    "bestRating": "5"
+    },
+    "author": {
+    "@type": "Person",
+    "name": "Maria Paula Bonilla Jimenez"
+    }},
+    "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 1.8853571,
+    "longitude": ,-76.2768909
+    },
+    "openingHours": "Mo, Tu, Th, Fr 13:30-19:00 Sa, Su 13:30-19:30",
+    "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "573124489392",
+    "contactType": "Atención al Cliente"
+    }}
+{% else %}
+    {
+      "@context": "https://schema.org",
+      "@graph":[
+      {
+        "@type": "Organization",
+        "@id": "{{site.url}}/#organization",
+        "name": "{{site.name}}",
+        "url": "{{site.url}}"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{site.url}}/#website",
+        "url": "{{site.url}}",
+        "name": "{{site.name}}",
+        "publisher": {
+          "@id": "{{site.url}}/#organization"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "{{ site.baseurl }}/{{ page.img }}",
+        "url": "{{ site.baseurl }}/{{ page.img }}",
+        "width": "720",
+        "height": "540",
+        "caption": "{{ page.alt }}",
+        "inLanguage": "es"
+      },
+      {
+        "@type": "WebPage",
+        "@id": "{{page.url}}#webpage",
+        "url": "{{page.url}}",
+        "name": "{{page.h1}}",
+        "datePublished": "{{page.date}}",
+        "dateModified": "{{ page.date }}",
+        "author": {
+          "@id": "{{ site.name }}"
+        },
+        "isPartOf": {
+          "@id": "{{site.url}}#website"
+        },
+        "primaryImageOfPage": {
+          "@id": "{{ site.baseurl }}/{{ page.img }}"
+        },
+        "inLanguage": "es"
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "{{ page.title }}",
+        "keywords": "{{ page.title }}",
+        "datePublished": "{{ page.date }}",
+        "dateModified": "{{ page.date }}",
+        "publisher": {
+          "@id": "{{site.url}}#organization"
+        },
+        "description": "{{ page.description }}",
+            "name": "{{ page.title }}",
+            "@id": "{{page.url}}#richSnippet",
+            "isPartOf": {
+              "@id": "{{page.url}}#webpage"
+            },
+            "image": {
+              "@id": "{{ site.baseurl }}/{{ page.img }}"
+            },
+            "inLanguage": "es",
+            "mainEntityOfPage": {
+              "@id": "{{page.url}}#webpage"
+            }
+    }
+  ]}
   {% endif %}
+</script>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
   <meta http-equiv='content-language' content='es_CO'>
   <meta name="language" content="es_CO" />

@@ -53,10 +53,12 @@ h1 {
   width: min(80vw, 720px);
   text-align: center;
   letter-spacing: 1.5px;
+  color: var(--accion);
+  text-shadow: var(--shadow);
 }
 
 h2 {
-  font-size: clamp(2.5rem, 4vw, 4rem);
+  font-size: clamp(2.5rem, 4vw, 3.2rem);
   line-height: 1.2;
   text-align: center;
   letter-spacing: 1.5px;
@@ -66,6 +68,13 @@ h3, q {
   font-size: clamp(2rem, 3vw, 2.5rem);
   line-height: 1.2;
   text-align: center;
+  letter-spacing: 1.5px;
+}
+
+h4 {
+  font-size: clamp(1.5rem, 2vw, 2rem);
+  line-height: 1.2;
+  text-align: left;
   letter-spacing: 1.5px;
 }
 

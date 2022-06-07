@@ -19,7 +19,7 @@ background-header: var(--secundario)
   <h2>El Blog de San Agustín Huila</h2>
   {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  <h3 id="{{ category_name}}">{{ category_name | capitalize}} en San Agustín Huila
+  <h3 id="{{ category_name}}" class="title-category">{{ category_name | capitalize}} en San Agustín Huila
   </h3>
   <div>
     {% for post in site.categories[category_name] %}

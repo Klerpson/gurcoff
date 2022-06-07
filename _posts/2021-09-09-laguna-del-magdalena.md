@@ -1,85 +1,15 @@
 ---
 layout: articulo
 title: Laguna del Magdalena, donde nace el río Magdalena
-description: La Laguna del Magdalena es el lugar donde nace el gran río Magdalena, el principal río de Colombia. Mira cómo llegar hasta este hermoso lugar.
+description: La Laguna del Magdalena es el lugar donde nace el gran río Magdalena, el principal río de Colombia. Te enseñamos cómo llegar hasta este hermoso lugar.
 category: turismo
-h1: Laguna del Magdalena origen del río Magdalena
+h1: La laguna del Magdalena
 img: img/magazine/laguna-magdalena/laguna-del-magdalena.webp
 jpg: img/magazine/laguna-magdalena/laguna-del-magdalena.jpg
 alt: Fotografía de la Laguna del río Magdalena, fuente del gran río Magdalena
 background-header: 'var(--oficial)'
 date: 2021-09-09
 copyright: Julian Andres Franco Bedoya
-json: '{
-      "@context": "https://schema.org",
-      "@graph":[
-      {
-        "@type": "Organization",
-        "@id": "https://gurcoff.com/#organization",
-        "name": "GurCoff Heladería San Agustín Huila",
-        "url": "https://gurcoff.com"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://gurcoff.com/#website",
-        "url": "https://gurcoff.com",
-        "name": "GurCoff Heladería | Blog de San Agustín",
-        "publisher": {
-          "@id": "https://gurcoff.com/#organization"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "ImageObject",
-        "@id": "img/magazine/laguna-magdalena/laguna-del-magdalena.webp",
-        "url": "img/magazine/laguna-magdalena/laguna-del-magdalena.webp",
-        "width": "720",
-        "height": "540",
-        "caption": "Fotografía de la Laguna del río Magdalena, fuente del gran río Magdalena",
-        "inLanguage": "es"
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://gurcoff.com/laguna-del-magdalena#webpage",
-        "url": "https://gurcoff.com/laguna-del-magdalena",
-        "name": "La Laguna del Magdalena, el origen del río Magdalena",
-        "datePublished": "2021-09-09",
-        "dateModified": "2021-09-09",
-        "author": {
-          "@id": "GurCoff Heladería San Agustín Huila"
-        },
-        "isPartOf": {
-          "@id": "https://gurcoff.com#website"
-        },
-        "primaryImageOfPage": {
-          "@id": "img/magazine/laguna-magdalena/laguna-del-magdalena.webp"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "BlogPosting",
-        "headline": "La Laguna del Magdalena, el origen del río Magdalena",
-        "keywords": "La Laguna del Magdalena, el origen del río Magdalena",
-        "datePublished": "2021-09-09",
-        "dateModified": "2021-09-09",
-        "publisher": {
-          "@id": "https://gurcoff.com#organization"
-        },
-        "description": "La Laguna del Magdalena es el lugar donde nace el gran río Magdalena, el principal río de Colombia. Mira cómo llegar hasta este hermoso lugar",
-            "name": "La Laguna del Magdalena, el origen del río Magdalena",
-            "@id": "https://gurcoff.com/laguna-del-magdalena#richSnippet",
-            "isPartOf": {
-              "@id": "https://gurcoff.com/laguna-del-magdalena#webpage"
-            },
-            "image": {
-              "@id": "img/magazine/laguna-magdalena/laguna-del-magdalena.webp"
-            },
-            "inLanguage": "es",
-            "mainEntityOfPage": {
-              "@id": "https://gurcoff.com/laguna-del-magdalena#webpage"
-            }
-    }
-  ]}'
 referencias:
   - Imágen letrero páramo: https://commons.wikimedia.org/wiki/File:Laguna_de_la_Magdalena_aviso.JPG
 excerpt_separator: <!-- excerpt -->
