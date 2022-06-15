@@ -1,6 +1,6 @@
 #markdown-toc::before {
   content: "Contenido:";
-  font-weight: bold;
+  font-weight: 700;
 }
 
 #markdown-toc ul {
@@ -16,6 +16,10 @@
   list-style: decimal;
 }
 
-#markdown-toc ul li a{
+#markdown-toc a,
+#markdown-toc ul li ul li{
   text-decoration: none;
+  font-size: 1.2rem;
+  letter-spacing: -.4px;
+  line-height: 1.3;
 }
