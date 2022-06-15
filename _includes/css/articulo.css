@@ -7,9 +7,9 @@
   justify-content: center;
 }
 
-.articulo h3,
-.articulo h2{
-  font-family: var(--fuenteTextos);
+.articulo h2,
+.articulo h3{
+  color: var(--principal);
 }
 
 .articulo h3{

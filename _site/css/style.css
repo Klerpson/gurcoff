@@ -48,7 +48,7 @@ h3 {
 }
 
 h1 {
-  font-size: clamp(4rem, 7vw, 8rem);
+  font-size: clamp(3.5rem, 7vw, 5rem);
   line-height: 1;
   width: min(80vw, 720px);
   text-align: center;
@@ -72,10 +72,11 @@ h3, q {
 }
 
 h4 {
-  font-size: clamp(1.5rem, 2vw, 2rem);
+  font-size: clamp(1.2rem, 2vw, 1.5rem);
   line-height: 1.2;
   text-align: left;
   letter-spacing: 1.5px;
+  margin-bottom: 1.5rem;
 }
 
 p {
@@ -863,9 +864,9 @@ footer {
   justify-content: center;
 }
 
-.articulo h3,
-.articulo h2{
-  font-family: var(--fuenteTextos);
+.articulo h2,
+.articulo h3{
+  color: var(--principal);
 }
 
 .articulo h3{
@@ -1116,8 +1117,6 @@ footer {
     margin: 0 auto;
   }
 }
-
-
 .nosotros p,
 .contacto p,
 .blog-footer p {
@@ -1131,6 +1130,7 @@ footer {
   border-radius: 8px;
   box-shadow: var(--shadow);
   margin-right: 2rem;
+  margin-bottom: 2rem;
 }
 
 .nosotros q {
@@ -1144,9 +1144,11 @@ footer {
   list-style: none;
 }
 
+.nosotros h3,
 .contacto h3 {
   margin: 2rem 0;
   text-align: left;
+  color: var(--oficial);
 }
 
 .contacto iframe {
@@ -1165,6 +1167,7 @@ footer {
 
 .contacto .home-intro img{
   box-shadow: none;
+  max-width: 100%;
 }
 
 .contacto-telefono{
@@ -1185,4 +1188,5 @@ footer {
   gap: 2rem;
   justify-content: center;
   margin: 4rem 0;
+  flex-wrap: wrap;
 }

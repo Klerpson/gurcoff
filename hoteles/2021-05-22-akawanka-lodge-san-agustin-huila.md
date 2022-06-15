@@ -5,33 +5,9 @@ description: El hotel Akawanka Lodge de San Agustín Huila es uno de los mejores
 category: hoteles
 tags: [hoteles]
 h1: Hotel Akawanka Lodge de San Agustín Huila
-hero: img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp
+hero: img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp
 alt: Fotografía del hotel Akawanka en San Agustín Huila
-autor: Julian Franco
 date: 2021-05-22
-copyright: Julian Andres Franco Bedoya
-json: '
-{
-    "@context": "https://schema.org",
-    "@type": "Hotel",
-    "name": "Hotel Akawanka Lodge San Agustín",
-    "description": "El hotel Akawanka Lodge de San Agustín Huila es uno de los mejores calificados por los turistas. Es un hotel de lujo para relajarte totalmente.",
-    "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "Col",
-        "addressLocality": "San Agustín",
-        "addressRegion": "Huila",
-        "postalCode": "418060",
-        "streetAddress": "Vía al Parque Arqueológico, 500 metros más arriba de la piscina Las Moyas"
-    },
-    "telephone": "+573214501377",
-    "photo": "https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp",
-    "starRating": {
-        "@type": "Rating",
-        "ratingValue": "4.6"
-    },
-    "priceRange": "380000 - 1000000"
-}'
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Akawanka San Agustín Huila: https://www.booking.com/hotel/co/akawanka-lodge.es.html

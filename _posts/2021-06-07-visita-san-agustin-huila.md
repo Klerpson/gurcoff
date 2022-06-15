@@ -1,5 +1,4 @@
 ---
-layout: articulo
 title: San Agustín Huila - Turismo y Naturaleza
 description: San Agustín Huila tiene los hermosos paisajes del macizo colombiano. El turismo es perfecto por su ambiente y su exquisito café. ¡Ven a conocer!
 category: turismo
@@ -7,9 +6,7 @@ tags: [turismo, parque]
 h1: San Agustín Huila destino lleno de experiencias
 img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp
 alt: Entrada a San Agustín Huila
-autor: Julian Franco
 date: 2021-06-07
-copyright: Julian Andres Franco Bedoya
 referencias:
   - Fotografías: https://commons.wikimedia.org/wiki/Main_Page
   - Foto Achiras: https://www.colombia.com/gastronomia/recetas-colombianas/achira-r233
@@ -19,119 +16,13 @@ referencias:
   - Adventure X Colombia: https://adventurecolombia.co/
   - Wikilo Foto Alto de los ídolos: https://es.wikiloc.com/rutas-senderismo/san-agustin-a-alto-de-los-idolos-8819284
 excerpt_separator: <!-- excerpt -->
-json: '{
-      "@context": "https://schema.org",
-      "@graph":[
-      {
-        "@type": "TouristDestination",
-        "name": "San Agustín Huila - Turismo y Naturaleza a tu alcance",
-        "description": "San Agustín Huila tiene los hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Un exquisito café en la plaza. ¡Ven a conocer! Y podrás probar un delicioso helado en nuestra heladería GurCoff. Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.",
-        "url": "https://gurcoff.com/visita-san-agustin-huila",
-        "touristType": {
-          "@type": "Audience",
-          "audienceType": [
-            "Adventure",
-            "Culture",
-            "Natural tourism"
-          ]
-        },
-        "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "1.8804269194334269",
-        "longitude": "-76.26894715166486"
-        },
-        "includesAttraction": [
-        {
-        "@type": [
-        "TouristAttraction"
-        ],
-        "name": "San Agustín Huila pueblo Turístico",
-        "sameAs": "https://gurcoff.com/visita-san-agustin-huila",
-        "image": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp"
-        },
-        {
-          "@type": [
-            "TouristAttraction"
-          ],
-          "name": "Arte urbano",
-          "sameAs": "https://gurcoff.com/visita-san-agustin-huila",
-          "image": "https://gurcoff.com/img/magazine/visita-san-agustin/murales-san-agustin-huila.webp"
-        }]
-      },
-      {
-        "@type": "Organization",
-        "@id": "https://gurcoff.com/#organization",
-        "name": "GurCoff Heladería San Agustín Huila",
-        "url": "https://gurcoff.com"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://gurcoff.com/#website",
-        "url": "https://gurcoff.com",
-        "name": "GurCoff Heladería Blog de San Agustín",
-        "publisher": {
-          "@id": "https://gurcoff.com/#organization"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "ImageObject",
-        "@id": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp",
-        "url": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp",
-        "width": "720",
-        "height": "360",
-        "caption": "San Agustín Huila - Turismo y Naturaleza",
-        "inLanguage": "es"
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://gurcoff.com/visita-san-agustin-huila#webpage",
-        "url": "https://gurcoff.com/visita-san-agustin-huila",
-        "name": "San Agustín Huila - Turismo y Naturaleza",
-        "datePublished": "2021-06-07",
-        "dateModified": "2021-06-07",
-        "author": {
-          "@id": "GurCoff Heladería San Agustín Huila"
-        },
-        "isPartOf": {
-          "@id": "https://gurcoff.com#website"
-        },
-        "primaryImageOfPage": {
-          "@id": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "BlogPosting",
-        "headline": "San Agustín Huila - Turismo y naturaleza",
-        "keywords": "San Agustín Huila - Turismo y naturaleza",
-        "datePublished": "2021-06-07",
-        "dateModified": "2021-06-07",
-        "publisher": {
-          "@id": "https://gurcoff.com#organization"
-        },
-        "description": "San Agustín Huila tiene los hermosos paisajes del macizo colombiano. El turismo es perfecto por su ambiente y su exquisito café. ¡Ven a conocer!",
-            "name": "San Agustín Huila - Turismo y naturaleza",
-            "@id": "https://gurcoff.com/visita-san-agustin-huila#richSnippet",
-            "isPartOf": {
-              "@id": "https://gurcoff.com/visita-san-agustin-huila#webpage"
-            },
-            "image": {
-              "@id": "https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin.webp"
-            },
-            "inLanguage": "es",
-            "mainEntityOfPage": {
-              "@id": "https://gurcoff.com/visita-san-agustin-huila#webpage"
-            }
-    }
-  ]}'
+background-header: var(--oficial)
+intro: En San Agustín Huila tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.
 ---
 **San Agustín Huila es especial para viajar y descansar. Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.**
 <!-- excerpt -->
 
 {% include img.html img="magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila.webp" img-mini="magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp" alt="Entrada a San Agustín Huila" title="Señal de tránsito que indica la llegada a San Agustín Huila" %}
-
-Tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.
 
 Te vamos a contar todo lo que vas a disfrutar en tu visita a San Agustín Huila: **qué hacer, dónde quedarte, qué puedes disfrutar de su gastronomía** y mucho más. ¡Empecemos!
 

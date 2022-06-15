@@ -1,5 +1,4 @@
 ---
-layout: articulo
 title: Museo de Obando en San Agustín Huila
 description: El museo de Obando es una parada obligada para cuando visitas San Agustín Huila. Es parte del tour conocido como El Anillo Turístico. Conócelo.
 category: turismo
@@ -8,84 +7,14 @@ h1: Visita el museo de Obando en San Agustín
 img: img/magazine/obando/obando-san-agustin-huila.webp
 jpg: img/magazine/obando/obando-san-agustin-huila.jpg
 alt: Plaza de Obando en San Agustín Huila
-autor: Julian Franco
 date: 2022-03-04
-copyright: Julian Andres Franco Bedoya
-json: '{
-      "@context": "https://schema.org",
-      "@graph":[
-      {
-        "@type": "Organization",
-        "@id": "https://gurcoff.com/#organization",
-        "name": "GurCoff Heladería San Agustín Huila",
-        "url": "https://gurcoff.com"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://gurcoff.com/#website",
-        "url": "https://gurcoff.com",
-        "name": "GurCoff Heladería | Blog de San Agustín",
-        "publisher": {
-          "@id": "https://gurcoff.com/#organization"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "ImageObject",
-        "@id": "img/magazine/obando/obando-san-agustin-huila.jpg",
-        "url": "img/magazine/obando/obando-san-agustin-huila.jpg",
-        "width": "720",
-        "height": "400",
-        "caption": "Fotografía de la Plaza de Obando en San Agustín Huila",
-        "inLanguage": "es"
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://gurcoff.com/museo-obando-san-agustin-huila#webpage",
-        "url": "https://gurcoff.com/museo-obando-san-agustin-huila",
-        "name": "Visita el museo de Obando en San Agustín",
-        "datePublished": "2022-03-05",
-        "dateModified": "2022-03-05",
-        "author": {
-          "@id": "GurCoff Heladería San Agustín Huila"
-        },
-        "isPartOf": {
-          "@id": "https://gurcoff.com#website"
-        },
-        "primaryImageOfPage": {
-          "@id": "img/magazine/obando/obando-san-agustin-huila.jpg"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "BlogPosting",
-        "headline": "Visita el museo de Obando en San Agustín",
-        "keywords": "Visita el museo de Obando en San Agustín",
-        "datePublished": "2022-03-05",
-        "dateModified": "2022-03-05",
-        "publisher": {
-          "@id": "https://gurcoff.com#organization"
-        },
-        "description": "El museo de Obando es una parada obligada para cuando visitas San Agustín Huila. Es parte del tour conocido como El Anillo Turístico. Conócelo.",
-            "name": "Visita el museo de Obando en San Agustín",
-            "@id": "https://gurcoff.com/museo-obando-san-agustin-huila#richSnippet",
-            "isPartOf": {
-              "@id": "https://gurcoff.com/museo-obando-san-agustin-huila#webpage"
-            },
-            "image": {
-              "@id": "img/magazine/obando/obando-san-agustin-huila.jpg"
-            },
-            "inLanguage": "es",
-            "mainEntityOfPage": {
-              "@id": "https://gurcoff.com/museo-obando-san-agustin-huila#webpage"
-            }
-    }
-  ]}'
+background-header: var(--oficial)
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Foto Google maps: https://www.google.com/maps/place/Museo+arqueol%C3%B3gico+de+Obando/@1.939533,-76.2981777,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL%3Dw216-h100-k-no!7i4056!8i1872!4m15!1m7!3m6!1s0x8e256536e36cb58b:0x37850a0804fbcf29!2sObando,+San+Agust%C3%ADn,+Huila,+Colombia!3b1!8m2!3d1.9400639!4d-76.2983514!3m6!1s0x8e2565376da5dab1:0x3880cb8707e22466!8m2!3d1.939533!4d-76.2981777!14m1!1BCgIgAQ?hl=es-ES
+intro: Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico.
 ---
-**Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico**. Se encuentra a 248 km de Neiva y a 20 minutos de la zona urbana de San Agustín.
+Obando y su museo se encuentra en uno de los corregimientos de San Agustín Huila, a 20 minutos, y a 248 kilómetros de Neiva.
 
 <!-- excerpt -->
 
@@ -94,7 +23,7 @@ San Agustín Huila es la capital arqueológico del departamento de Huila. Está 
 Es un pequeño lugar frío, acogedor, muy pintoresco y agradable para pasar una tarde de relajación, cultura y para tomar un buen cafecito con los vecinos del lugar.
 
 {% include img.html img="magazine/obando/obando-san-agustin.webp" img-mini="magazine/obando/obando-san-agustin-huila.webp" alt="Plaza de Obando en San Agustín Huila" title="Plaza arqueológica de Obando" %}
-*Plaza de Obando San Agustín Huila*
+*Fotografía de la plaza de Obando, corregimiento de San Agustín Huila*
 
 * Do not remove this line (it will not be displayed)
 {:toc}
@@ -107,7 +36,7 @@ En la ciudad de San Agustín, al lado del viejo encaje del río Magdalena y fren
 
 ## ¿Cómo llegar hasta Obando?
 
-Primero te compartimos el mapa para que puedas pedir las indicaciones a Google maps.
+Primero te compartimos el mapa para que puedas pedir las indicaciones a Google maps. Solo debes tocarlo y luego activar la opción de indicaciones.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31900.773296100146!2d-76.30442889657694!3d1.9121407607769978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2565376da5dab1%3A0x3880cb8707e22466!2sMuseo%20arqueol%C3%B3gico%20de%20Obando!5e0!3m2!1ses!2sco!4v1650558254863!5m2!1ses!2sco" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

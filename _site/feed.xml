@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-07T13:50:31-05:00</updated>
+     <updated>2022-06-15T17:22:31-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -17,7 +17,7 @@
    <link href="http://localhost:4000/museo-obando-san-agustin-huila"/>
    <id>http://localhost:4000/museo-obando-san-agustin-huila</id>
    <updated>2022-03-04T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico&lt;/strong&gt;. Se encuentra a 248 km de Neiva y a 20 minutos de la zona urbana de San Agustín.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;San Agustín Huila es la capital arqueológico del departamento de Huila. Está lleno de...</content>
+   <content type="html">&lt;p&gt;Obando y su museo se encuentra a 248 km de Neiva y a 20 minutos de la zona urbana de San Agustín.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;San Agustín Huila es la capital arqueológico del departamento de Huila. Está lleno de lugares únicos y que se pueden visitar. Y hoy te recomendamos...</content>
  </entry>
  
  <entry>
@@ -29,43 +29,11 @@
  </entry>
  
  <entry>
-   <title>Tierra Activa - Finca agroturística</title>
-   <link href="http://localhost:4000/hoteles/finca-tierra-activa-san-agustin-huila"/>
-   <id>http://localhost:4000/hoteles/finca-tierra-activa-san-agustin</id>
-   <updated>2021-07-25T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas&lt;/strong&gt;.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Su actividad principal es el agroturismo y actividades de autoconocimiento y conexión con la naturaleza, para alcanzar un descanso y una experiencia deliciosa y relajante.&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt;...</content>
- </entry>
- 
- <entry>
-   <title>Hotel Estorake San Agustín Huila</title>
-   <link href="http://localhost:4000/hoteles/hotel-estorake-san-agustin-huila"/>
-   <id>http://localhost:4000/hoteles/hotel-estorake-san-agustin</id>
-   <updated>2021-06-25T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante, con mucha calidad humana y en sus servicios&lt;/strong&gt;.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Al ser un hotel con mucho lujos y pequeño, se posiciona como uno de los lugares más acogedores de San Agustín Huila. Aquí te contamos todo lo...</content>
- </entry>
- 
- <entry>
    <title>Estrecho del Río Magdalena | GurCoff San Agustín Huila</title>
    <link href="http://localhost:4000/estrecho-rio-magdalena"/>
    <id>http://localhost:4000/estrecho-rio-magdalena</id>
    <updated>2021-06-22T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot; title=&quot;Estrecho del...</content>
- </entry>
- 
- <entry>
-   <title>Hoteles en San Agustín Huila | GurCoff San Agustín</title>
-   <link href="http://localhost:4000/hoteles-san-agustin-huila"/>
-   <id>http://localhost:4000/hoteles-san-agustin-huila</id>
-   <updated>2021-06-17T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping.&lt;/strong&gt; Todos estos lugares...</content>
- </entry>
- 
- <entry>
-   <title>Hotel Masaya - Increíbles vistas de San Agustín</title>
-   <link href="http://localhost:4000/hoteles/hotel-masaya-san-agustin-huila"/>
-   <id>http://localhost:4000/hoteles/hotel-masaya-san-agustin-huila</id>
-   <updated>2021-06-15T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El hotel Masaya es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena. El diseño del hotel es hermoso. Un adorno más del paisaje, pues está inspirado perfectamente con la naturaleza del lugar.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Sus construcciones se basan en las chozas de las culturales...</content>
  </entry>
  
  <entry>
@@ -85,11 +53,19 @@
  </entry>
  
  <entry>
-   <title>Hotel San Agustín Internacional - Lujo y confort</title>
-   <link href="http://localhost:4000/hoteles/hotel-internacional-san-agustin-huila"/>
-   <id>http://localhost:4000/hoteles/hotel-internacional-san-agustin-huila</id>
-   <updated>2021-06-02T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El Hotel Internacional de San Agustín Huila está ubicado en medio de un paisaje natural hermoso. Es perfecto para descansar, disfrutar del entorno y recargarte de energía.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#hotel-san-agustín-internacional&quot; id=&quot;markdown-toc-hotel-san-agustín-internacional&quot;&gt;Hotel San Agustín Internacional&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cómo-llegar-al-hotel-internacional-de-san-agustín-huila&quot; id=&quot;markdown-toc-cómo-llegar-al-hotel-internacional-de-san-agustín-huila&quot;&gt;¿Cómo llegar al hotel Internacional de San Agustín Huila?&lt;/a&gt; &lt;ul&gt;...</content>
+   <title>Los restaurantes mejor calificados de San Agustín Huila</title>
+   <link href="http://localhost:4000/mejores-restaurantes-san-agustin"/>
+   <id>http://localhost:4000/mejores-restaurantes-san-agustin</id>
+   <updated>2021-03-27T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Aquí explicaremos cuáles son &lt;strong&gt;los mejores restaurantes de San Agustín Huila&lt;/strong&gt; y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos! &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#restaurantes-en-san-agustín-huila&quot; id=&quot;markdown-toc-restaurantes-en-san-agustín-huila&quot;&gt;Restaurantes en San Agustín Huila&lt;/a&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#restaurante-la-gata-parrilla-de-san-agustín&quot; id=&quot;markdown-toc-restaurante-la-gata-parrilla-de-san-agustín&quot;&gt;Restaurante La Gata Parrilla de San Agustín&lt;/a&gt;&lt;/li&gt;...</content>
+ </entry>
+ 
+ <entry>
+   <title>Los Tres Chorros - ¡Cascada Natural de San Agustín Huila!</title>
+   <link href="http://localhost:4000/cascada-los-tres-chorros-de-san-agustin"/>
+   <id>http://localhost:4000/cascada-los-tres-chorros-de-san-agustin</id>
+   <updated>2021-01-31T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Muchas de los visitantes de este lugar lo describen como “una de las maravillas naturales de Colombia”. Otros dicen que es un “lugar mágico”. Realmente es espectacular.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/cascada-tres-chorros/tres-chorros-san-agustin-400px.webp&quot; alt=&quot;Cascada de los Tres Chorros de San...</content>
  </entry>
  
 

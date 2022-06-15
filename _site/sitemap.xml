@@ -2,32 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://gurcoff.com/</loc>
-    <lastmod>2022-05-16</lastmod>
+    <lastmod>2022-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
-        <image:loc>https://gurcoff.com/img/galeria/copa-achocolatada-san-agustin.webp</image:loc>
-        <image:title>Copa Achocolatada de la heladería GurCoff de San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/logotipo-blanco.svg</image:loc>
+        <image:title></image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/galeria/affogato-san-agustin.webp</image:loc>
-        <image:title>Affogato, helado con café orgánico de San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/milkshake-especial-gurcoff-san-agustin.webp</image:loc>
+        <image:title>Foto de la malteada especial de GurCoff</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/galeria/milkshake-especial-san-agustin.webp</image:loc>
-        <image:title>La primera malteada súper especial de San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/brownie-gurcoff-san-agustin-huila.webp</image:loc>
+        <image:title>Torta de Brownie GurCoff</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/galeria/copa-maracuya-san-agustin.webp</image:loc>
-        <image:title>Copa con maracuyá de la heladería GurCoff de San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/logo-blanco.webp</image:loc>
+        <image:title>Logo de GurCoff</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/galeria/brownie-especial-san-agustin.webp</image:loc>
-        <image:title>Brownie para calentar con helado de la heladería GurCoff.</image:title>
+        <image:loc>https://gurcoff.com/img/ensalada-frutas-gurcoff-san-agustin-huila.webp</image:loc>
+        <image:title>Ensalada de frutas de GurCoff</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/galeria/ensalada-frutas-san-agustin.webp</image:loc>
-        <image:title>Ensalada de frutas con helado de la heladería GurCoff.</image:title>
+        <image:loc>https://gurcoff.com/img/milkshake-san-agustin-huila.svg</image:loc>
+        <image:title>Ensalada de frutas de GurCoff</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/copas-doble-helado-gurcoff.webp</image:loc>
+        <image:title>Copas con doble porción de helado suave GurCoff</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/vaso-helado-suave-gurcoff.webp</image:loc>
+        <image:title>Vasitos con helado GurCoff</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/ensadala-frutas-helado-gurcoff.webp</image:loc>
+        <image:title>Ensalada de frutas de GurCoff</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/milkshake-especial-gurcoff.webp</image:loc>
+        <image:title>Ensalada de frutas de GurCoff</image:title>
       </image:image>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/obando/obando-san-agustin-huila.webp</image:loc>
@@ -41,26 +57,16 @@
         <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp</image:loc>
         <image:title>Fotografía del Hotel Finca Tierra Activa en San Agustín Huila</image:title>
       </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Estorake en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena-400px.webp</image:loc>
-        <image:title>Vista aérea del estrecho del Magdalena cortesía de Adventure X Colombia</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/estrecho-rio-magdalena/</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://gurcoff.com/contacto</loc>
-    <lastmod>2022-05-16</lastmod>
+    <lastmod>2022-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/contacto.webp</image:loc>
+        <image:title></image:title>
+      </image:image>
       <image:image>
         <image:loc>https://gurcoff.com/img/nosotros/helado-gurcoff.webp</image:loc>
         <image:title>Niño de San Agustín comiéndose un helado GurCoff</image:title>
@@ -73,18 +79,186 @@
         <image:loc>https://gurcoff.com/img/nosotros/atardecer-en-san-agustin.webp</image:loc>
         <image:title>Foto de un atardecer desde la heladería GurCoff</image:title>
       </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/logotipo.svg</image:loc>
+        <image:title></image:title>
+      </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/jekyll-redirect/</loc>
-    <lastmod>2022-05-16</lastmod>
+    <loc>https://gurcoff.com/blog</loc>
+    <lastmod>2022-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/blog-gurcoff.svg</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/obando/obando-san-agustin-huila.webp</image:loc>
+        <image:title>Plaza de Obando en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/laguna-magdalena/laguna-del-magdalena.webp</image:loc>
+        <image:title>Fotografía de la Laguna del río Magdalena, fuente del gran río Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena-400px.webp</image:loc>
+        <image:title>Vista aérea del estrecho del Magdalena cortesía de Adventure X Colombia</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp</image:loc>
+        <image:title>Parque arqueológico de San Agustín Huila sección mesita A</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp</image:loc>
+        <image:title>Entrada a San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros-400px.webp</image:loc>
+        <image:title>Cascada Los Tres Chorros de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp</image:loc>
+        <image:title>Plato preparado en la Gata Parrilla de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp</image:loc>
+        <image:title>Fotografía del Hotel Finca Tierra Activa en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp</image:loc>
+        <image:title>Fotografía del hotel Estorake en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp</image:loc>
+        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp</image:loc>
+        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp</image:loc>
+        <image:title>Fotografía del hotel Internacional en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp</image:loc>
+        <image:title>Fotografía del hotal bambú en San Agustín Huila</image:title>
+      </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/2021-06-17-hoteles-san-agustin-huila</loc>
-    <lastmod>2022-05-16</lastmod>
+    <loc>https://gurcoff.com/laguna-del-magdalena</loc>
+    <lastmod>2022-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/laguna-magdalena/laguna-del-magdalena-huila.webp</image:loc>
+        <image:title>Laguna del Magdalena, origen del río Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/laguna-magdalena/cabalgata-laguna-del-magdalena-san-agustin.webp</image:loc>
+        <image:title>Cabalgata hacia la Laguna del río Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/laguna-magdalena/camino-paramo-de-las-papas-hacia-laguna-del-magdalena-san-agustin.webp</image:loc>
+        <image:title>Camino de las papas hacia la Laguna del río Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/laguna-magdalena/letrero-laguna-magdalena.webp</image:loc>
+        <image:title>Letrero del bienvenida al páramo de la Laguna del río Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/laguna-magdalena/laguna-magdalena-paramo.webp</image:loc>
+        <image:title>Paisaje de la Laguna del río Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/laguna-magdalena/laguna-magdalena-macizo.webp</image:loc>
+        <image:title>Paisaje de la Laguna del río Magdalena</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/museo-obando-san-agustin-huila</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/obando/obando-san-agustin-huila.webp</image:loc>
+        <image:title>Plaza de Obando en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/museo-obando/museo-obando-san-agustin-huila.webp</image:loc>
+        <image:title>Museo de Obando en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/museo-obando/obando-san-agustin-huila.webp</image:loc>
+        <image:title>Obando en San Agustín Huila</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/mejores-restaurantes-san-agustin</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin-400px.webp</image:loc>
+        <image:title>Plato a la carta con asados del restaurante la Gata Parrilla de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-pepenero-san-agustin-400px.webp</image:loc>
+        <image:title>Postre en el restaurante Pepenero de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-tomate-san-agustin-400px.webp</image:loc>
+        <image:title>Plato especial del restaurante El Tomate de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-tingo-tango-san-agustin-400px.webp</image:loc>
+        <image:title>Comida rápida en el restaurante Tingo Tango Pub de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-ambrosia-faro-san-agustin-400px.webp</image:loc>
+        <image:title>Pizza en el restaurante Ambrosía el Faro en San Agustín Huila</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/hoteles/hotel-masaya-san-agustin-huila</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp</image:loc>
+        <image:title>Fotografías del hotel Masaya de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-de-san-agustin-400px.webp</image:loc>
+        <image:title>Miniaturas del hotel Masaya de San Agustín Huila</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/hoteles/akawanka-lodge-san-agustin-huila</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila-400px.webp</image:loc>
+        <image:title>Fotografías del hotel Akawanka de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp</image:loc>
+        <image:title>Miniaturas del hotel Akawanka de San Agustín Huila</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/img/</loc>
+    <lastmod>2022-06-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/hoteles-san-agustin-huila</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-casa-bonita-san-agustin-huila.webp</image:loc>
         <image:title>Fotografía del Hospedaje Casa Bonita en San Agustín Huila</image:title>
@@ -147,158 +321,64 @@
       </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/museo-obando-san-agustin-huila/</loc>
-    <lastmod>2022-05-16</lastmod>
+    <loc>https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin</loc>
+    <lastmod>2022-06-07</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/blog</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/obando/obando-san-agustin-huila.webp</image:loc>
-        <image:title>Plaza de Obando en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/laguna-magdalena/laguna-del-magdalena.webp</image:loc>
-        <image:title>Fotografía de la Laguna del río Magdalena, fuente del gran río Magdalena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena-400px.webp</image:loc>
-        <image:title>Vista aérea del estrecho del Magdalena cortesía de Adventure X Colombia</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp</image:loc>
-        <image:title>Parque arqueológico de San Agustín Huila sección mesita A</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp</image:loc>
-        <image:title>Entrada a San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros/tres-chorros-san-agustin-400px.webp</image:loc>
+        <image:title>Cascada de los Tres Chorros de San Agustín Huila</image:title>
       </image:image>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros/cascada-tres-chorros-400px.webp</image:loc>
-        <image:title>Cascada Los Tres Chorros de San Agustín Huila</image:title>
+        <image:title>Cascada de los Tres Chorros de San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp</image:loc>
-        <image:title>Plato preparado en la Gata Parrilla de San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros/tour-tres-chorros-bicicleta-400px.webp</image:loc>
+        <image:title>Fotografía del tour en bicicleta hasta la cascada de los Tres Chorros - Tomada por Adventure X Colombia</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp</image:loc>
-        <image:title>Fotografía del Hotel Finca Tierra Activa en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros-400px.webp</image:loc>
+        <image:title>Cabalgata hasta la cascada de los Tres Chorros de San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Estorake en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros/llegada-tres-chorros-huila-400px.webp</image:loc>
+        <image:title>Llegada a la cascada de los Tres Chorros de San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Internacional en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp</image:loc>
-        <image:title>Fotografía del hotal bambú en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros/brownie-con-helado-gurcoff-400px.webp</image:loc>
+        <image:title>Brownie con helado de la heladería GurCoff de San Agustín Huila</image:title>
       </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/hoteles/hotel-estorake-san-agustin-huila</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografías del hotel Estorake de San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-huila-320px.webp</image:loc>
-        <image:title>Fotografías de los alrededores del hotel Estorake de San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp</image:loc>
-        <image:title>Fotografía del Hotel Finca Tierra Activa en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Internacional en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp</image:loc>
-        <image:title>Fotografía del hotal bambú en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/laguna-del-magdalena/</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/mejores-restaurantes-san-agustin</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin/</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/hoteles/hotel-masaya-san-agustin-huila</loc>
-    <lastmod>2022-05-16</lastmod>
+    <loc>https://gurcoff.com/estrecho-rio-magdalena</loc>
+    <lastmod>2022-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografías del hotel Masaya de San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp</image:loc>
+        <image:title>Estrecho del río Magdalena en San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-de-san-agustin-400px.webp</image:loc>
-        <image:title>Miniaturas del hotel Masaya de San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena/entrada-al-estrecho-del-magdalena-400px.webp</image:loc>
+        <image:title>Entrada al Estrecho del río Magdalena en San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp</image:loc>
-        <image:title>Fotografía del Hotel Finca Tierra Activa en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena/artesanias-en-estrecho-del-magdalena-400px.webp</image:loc>
+        <image:title>Artesanías en el Estrecho del río Magdalena en San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Estorake en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena/letrero-estrecho-del-magdalena-400px.webp</image:loc>
+        <image:title>Letrero en el Estrecho del río Magdalena en San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Internacional en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp</image:loc>
-        <image:title>Fotografía del hotal bambú en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena-400px.webp</image:loc>
+        <image:title>Estrecho río Magdalena en San Agustín Huila</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://gurcoff.com/hoteles/hostal-bambu-san-agustin-huila</loc>
-    <lastmod>2022-05-16</lastmod>
+    <lastmod>2022-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -309,30 +389,100 @@
         <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin-400px.webp</image:loc>
         <image:title>Miniaturas del hotel Akawanka de San Agustín Huila</image:title>
       </image:image>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/visita-san-agustin-huila</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp</image:loc>
-        <image:title>Fotografía del Hotel Finca Tierra Activa en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp</image:loc>
+        <image:title>Entrada a San Agustín Huila</image:title>
       </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/parque-arqueologico-san-agustin-mini.webp</image:loc>
+        <image:title>Piedras talladas en el parque arqueológico de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/alto-de-los-idolos-san-agustin-mini.webp</image:loc>
+        <image:title>Alto de los ídolos en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/museo-de-obando-san-agustin-huila-mini.webp</image:loc>
+        <image:title>Museo de Obando en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/salto-de-bordones-huila-mini.webp</image:loc>
+        <image:title>Salto de Bordones en Isnos Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/murales-san-agustin-huila-mini.webp</image:loc>
+        <image:title>Murales en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-400px.webp</image:loc>
+        <image:title>Hotel Masaya en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/achiras-huilenses-mini.webp</image:loc>
+        <image:title>Achiras Huilenses</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/visita-san-agustin/affogato-san-agustin-huila-mini.webp</image:loc>
+        <image:title>Affogato GurCoff - café orgánico con helado de vainilla GurCoff</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/hoteles/hotel-estorake-san-agustin-huila</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Estorake en San Agustín Huila</image:title>
+        <image:title>Fotografías del hotel Estorake de San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-huila-320px.webp</image:loc>
+        <image:title>Fotografías de los alrededores del hotel Estorake de San Agustín Huila</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/parque-arqueologico-san-agustin-huila</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp</image:loc>
+        <image:title>Parque Arqueológico de San Agustín Huila - Mesita A</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Internacional en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/mapa-san-agustin-isnos-parque-arqueologico-400px.webp</image:loc>
+        <image:title>Mapa del Parque Arqueológico de San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/informacion-parque-arqueologico-400px.webp</image:loc>
+        <image:title>Mapa de las zonas del Parque Arqueológico de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/fuente-lavapatas-parque-arqueologico-san-agustin-400px.webp</image:loc>
+        <image:title>Fuente lavapatas del Parque Arqueológico de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/alto-idolos-parque-arqueologico-san-agustin-400px.webp</image:loc>
+        <image:title>Alto de los ídolos del Parque Arqueológico de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/tumba-parque-arqueologico-san-agustin-400px.webp</image:loc>
+        <image:title>Tumbas del Parque Arqueológico de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/estatuas-parque-arquelogico-san-agustin-400px.webp</image:loc>
+        <image:title>Fotografías del Parque Arqueológico de San Agustín Huila</image:title>
       </image:image>
   </url>
   <url>
     <loc>https://gurcoff.com/hoteles/hotel-internacional-san-agustin-huila</loc>
-    <lastmod>2022-05-16</lastmod>
+    <lastmod>2022-06-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -343,120 +493,40 @@
         <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp</image:loc>
         <image:title>Miniaturas del hotel Akawanka de San Agustín Huila</image:title>
       </image:image>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp</image:loc>
-        <image:title>Fotografía del Hotel Finca Tierra Activa en San Agustín Huila</image:title>
+        <image:title>Fotografías de un visitante estelar del Hotel Finca Tierra Activa de San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Estorake en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/finca-tierra-activa-san-agustin-huila.webp</image:loc>
+        <image:title>Fotografías de los alrededores del Hotel Finca Tierra Activa de San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp</image:loc>
-        <image:title>Fotografía del hotal bambú en San Agustín Huila</image:title>
+        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila-experiencia-cafe.webp</image:loc>
+        <image:title>Fotografías de la experiencia campesina del Hotel Finca Tierra Activa de San Agustín Huila</image:title>
       </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/parque-arqueologico-san-agustin-huila/</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/mejores-restaurantes-san-agustin/</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/hoteles/akawanka-lodge-san-agustin-huila</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografías del hotel Akawanka de San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp</image:loc>
-        <image:title>Miniaturas del hotel Akawanka de San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp</image:loc>
-        <image:title>Fotografía del Hotel Finca Tierra Activa en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-estorake-san-agustin-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Estorake en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Akawanka en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp</image:loc>
-        <image:title>Fotografía del hotel Internacional en San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp</image:loc>
-        <image:title>Fotografía del hotal bambú en San Agustín Huila</image:title>
-      </image:image>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/visita-san-agustin-huila/</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/estrecho-rio-magdalena</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/visita-san-agustin-huila</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/parque-arqueologico-san-agustin-huila</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://gurcoff.com/parque-arqueologico-san-agustin-huila/</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://gurcoff.com/estrecho-rio-magdalena/</loc>
-    <lastmod>2022-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://gurcoff.com/visita-san-agustin-huila/</loc>
-    <lastmod>2022-05-16</lastmod>
+    <loc>https://gurcoff.com/hoteles/</loc>
+    <lastmod>2022-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://gurcoff.com/cdn-cgi/l/email-protection</loc>
-    <lastmod>2022-05-16</lastmod>
+    <lastmod>2022-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://gurcoff.com/mejores-restaurantes-san-agustin/</loc>
-    <lastmod>2022-05-16</lastmod>
+    <loc>https://gurcoff.com/img/img/magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp</loc>
+    <lastmod>2022-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

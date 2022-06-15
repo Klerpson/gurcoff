@@ -1,5 +1,4 @@
 ---
-layout: articulo
 title: Estrecho del Río Magdalena | GurCoff San Agustín Huila
 description: El Estrecho del Magdalena es el punto más estrecho del majestuoso río Colombiano. Te decimos cómo llegar, sus misterios y recomendaciones para ti.
 category: turismo
@@ -7,38 +6,9 @@ tags: [parque, turismo]
 h1: El Estrecho del Magdalena en San Agustín Huila
 img: img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena-400px.webp
 alt: Vista aérea del estrecho del Magdalena cortesía de Adventure X Colombia
-autor: Julian Franco
 date: 2021-06-22
-copyright: Julian Andres Franco Bedoya
-json: '{
-  "@context" : "https://schema.org",
-  "@type" : "TouristDestination",
-  "name" : "El Estrecho del Río Magdalena",
-  "description" : "El estrecho del río Magdalena es impactante por solo tener 2 metros de ancho. Si no has leído algo sobre el Río Magdalena, o río Yuma como también se le conoce, puede que no te parezca nada impresionante. Pero cuando sabes que este río en sus partes más anchas puede superar los 1.000 metros, entonces sí llama la atención.",
-  "url": "https://gurcoff.com/estrecho-rio-magdalena",
-  "touristType": {
-    "@type": "Audience",
-    "audienceType": [
-      "Adventure",
-      "Natural tourism"
-    ]
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "1.930120452590474",
-    "longitude": "-76.29382482332004"
-  },
-  "includesAttraction": [
-    {
-      "@type": [
-        "TouristAttraction"
-      ],
-      "name": "Estrecho del río Magdalena",
-      "sameAs": "https://gurcoff.com/estrecho-rio-magdalena",
-      "image": "https://gurcoff.com/img/magazine/estrecho-rio-magdalena/estrecho-del-magdalena.webp"
-    }
-  ]
-}'
+background-header: var(--oficial)
+intro: ¿Te imaginas un río como el Magdalena pasar por un espacio de casi 2 metros? Ese es el Estrecho del Magdalena.
 excerpt_separator: <!-- excerpt -->
 ---
 **El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho**.
@@ -47,7 +17,7 @@ excerpt_separator: <!-- excerpt -->
 {% include img.html img="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp" img-mini="magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp" alt="Estrecho del río Magdalena en San Agustín Huila" title="Estrecho del río Magdalena en San Agustín" %}
 *Estrecho del río Magdalena en San Agustín Huila - cortesía de Adventure X Colombia*
 
-Si no has leído algo sobre el [Río Magdalena](https://es.wikipedia.org/wiki/R%C3%ADo_Magdalena), o río Yuma como también se le conoce, puede que no te parezca nada impresionante. Pero cuando sabes que este río en sus partes más anchas puede superar los 1.000 metros, entonces sí llama la atención.
+Si no has leído algo sobre el [Río Magdalena](https://es.wikipedia.org/wiki/R%C3%ADo_Magdalena){:rel="nofollow" target="_blank"}, o río Yuma como también se le conoce, puede que no te parezca nada impresionante. Pero cuando sabes que este río en sus partes más anchas puede superar los 1.000 metros, entonces sí llama la atención.
 
 * Do not remove this line (it will not be displayed)
 {:toc}

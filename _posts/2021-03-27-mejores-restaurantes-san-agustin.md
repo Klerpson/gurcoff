@@ -1,5 +1,4 @@
 ---
-layout: articulo
 title: Los restaurantes mejor calificados de San Agustín Huila
 description: Los restaurantes en San Agustín Huila tienen mucha variedad de ofertas gastronómicas. Te contaremos de 5 de ellos con muy buenas calificaciones.
 category: restaurantes
@@ -8,80 +7,10 @@ h1: Los restaurantes de San Agustín Huila bien recomendados
 img: img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp
 jpg: img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.jpg
 alt: Plato preparado en la Gata Parrilla de San Agustín Huila
-copyright: Julian Andres Franco Bedoya
 excerpt_separator: <!-- excerpt -->
-autor: Julian Franco
 date: 2021-03-27
-json: '{
-      "@context": "https://schema.org",
-      "@graph":[
-      {
-        "@type": "Organization",
-        "@id": "https://gurcoff.com/#organization",
-        "name": "GurCoff Heladería San Agustín Huila",
-        "url": "https://gurcoff.com"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://gurcoff.com/#website",
-        "url": "https://gurcoff.com",
-        "name": "GurCoff Heladería Blog de San Agustín",
-        "publisher": {
-          "@id": "https://gurcoff.com/#organization"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "ImageObject",
-        "@id": "https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp",
-        "url": "https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp",
-        "width": "720",
-        "height": "360",
-        "caption": "Restaurante la Gata Parrila, uno de los mejores de San Agustín Huila",
-        "inLanguage": "es"
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://gurcoff.com/mejores-restaurantes-san-agustin#webpage",
-        "url": "https://gurcoff.com/mejores-restaurantes-san-agustin",
-        "name": "Los restaurantes mejor calificados de San Agustín Huila",
-        "datePublished": "2021-03-27",
-        "dateModified": "2021-03-27",
-        "author": {
-          "@id": "GurCoff Heladería San Agustín Huila"
-        },
-        "isPartOf": {
-          "@id": "https://gurcoff.com#website"
-        },
-        "primaryImageOfPage": {
-          "@id": "https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "BlogPosting",
-        "headline": "Los restaurantes mejor calificados de San Agustín Huila",
-        "keywords": "Los restaurantes mejor calificados de San Agustín Huila",
-        "datePublished": "2021-03-27",
-        "dateModified": "2021-03-27",
-        "publisher": {
-          "@id": "https://gurcoff.com#organization"
-        },
-        "description": "Los restaurantes en San Agustín Huila tienen mucha variedad de ofertas gastronómicas. Te contaremos de 5 de ellos con muy buenas calificaciones.",
-            "name": "Los restaurantes mejor calificados de San Agustín Huila",
-            "@id": "https://gurcoff.com/mejores-restaurantes-san-agustin#richSnippet",
-            "isPartOf": {
-              "@id": "https://gurcoff.com/mejores-restaurantes-san-agustin#webpage"
-            },
-            "image": {
-              "@id": "https://gurcoff.com/img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp"
-            },
-            "inLanguage": "es",
-            "mainEntityOfPage": {
-              "@id": "https://gurcoff.com/mejores-restaurantes-san-agustin#webpage"
-            }
-    }
-  ]}'
+background-header: var(--oficial)
+intro: Si vas de paseo o de vacaciones a San Agustín Huila y deseas degustar algún rico almuerzo, o una cena inolvidable, no te puedes perder la diversidad gastronómica de sus restaurantes.
 referencias:
  - TripAdvisor Gata Parrilla: https://www.tripadvisor.co/Restaurant_Review-g445060-d16875100-Reviews-La_Gata_Parrilla-San_Agustin_Huila_Department.html
  - Guías San Agustín Huila: https://www.viajeros.com/guias/san-agustin-huila-magia-y-arqueologia-en-colombia
@@ -97,8 +26,6 @@ Aquí explicaremos cuáles son **los mejores restaurantes de San Agustín Huila*
 {:toc}
 
 ## Restaurantes en San Agustín Huila
-
-Si vas de paseo o de vacaciones a San Agustín Huila y deseas degustar algún rico almuerzo, o una cena inolvidable, no te puedes perder la diversidad gastronómica de sus restaurantes.
 
 Además, San Agustín tiene una variedad deliciosa de productos autóctonos que son muy bien aprovechados en estos restaurantes. Y por supuesto, también encontrarás los clásicos platos con deliciosas técnicas de preparación.
 

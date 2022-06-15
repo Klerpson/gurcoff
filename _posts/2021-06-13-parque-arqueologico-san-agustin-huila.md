@@ -1,5 +1,4 @@
 ---
-layout: articulo
 title: Parque Arqueológico de San Agustín | GurCoff
 description: El parque arqueológico de San Agustín es un destino lleno de descubrimientos, historia y aprendizaje. Ven a conocer el parque patrimonio colombiano.
 category: turismo
@@ -7,121 +6,15 @@ tags: [parque]
 h1: El Parque Arqueológico de San Agustín - Patrimonio de la Humanidad
 img: img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp
 alt: Parque arqueológico de San Agustín Huila sección mesita A
-autor: Julian Franco
 date: 2021-06-13
-copyright: Julian Andres Franco Bedoya
 referencias:
   - Fotografías: https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn
   - Parque arquelógico San Agustín: https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/
   - Colombia Travel: https://colombia.travel/es/san-agustin
   - Wikimedia: https://commons.wikimedia.org
 excerpt_separator: <!-- excerpt -->
-json: '{
-      "@context": "https://schema.org",
-      "@graph":[
-      {
-        "@type": "TouristDestination",
-  "name": "Parque Arqueológico de San Agustín Huila",
-  "description": "El Parque Arqueológico de San Agustín Huila es una amplia zona del valle alto del río Magdalena, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos. El parque arqueológico consta de 78 hectáreas pertenecientes a los campesinos de la región y que fueron vendidas al gobierno con el tiempo. Desde 1935 se creó oficialmente el Parque Arqueológico de San Agustín, que actualmente está conformado por la casa museo Luis Duque Gómez, las estatuas de madera, las mesas A, B, y C, la fuente ceremonial de las lavapatas y el alto de las lavapatas",
-  "url": "https://gurcoff.com/parque-arqueologico-san-agustin-huila",
-  "touristType": {
-    "@type": "Audience",
-    "audienceType": [
-      "Aventura",
-      "Turismo Arqueológico"
-    ]
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "1.8875191121066097",
-    "longitude": "-76.29458614761889"
-  },
-  "includesAttraction": [
-    {
-      "@type": [
-        "TouristAttraction"
-      ],
-      "name": "Caminata por senderos naturales",
-      "sameAs": "https://gurcoff.com/parque-arqueologico-san-agustin-huila",
-      "image": "https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp"
-    },
-    {
-      "@type": [
-        "TouristAttraction"
-      ],
-      "name": "Arqueología con hallazgos desde 3000 A.C.",
-      "sameAs": "https://gurcoff.com/parque-arqueologico-san-agustin-huila",
-      "image": "https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/estatuas-parque-arqueologico-san-agustin.webp"
-    }
-  ]
-},
-      {
-        "@type": "Organization",
-        "@id": "https://gurcoff.com/#organization",
-        "name": "GurCoff Heladería San Agustín Huila",
-        "url": "https://gurcoff.com"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://gurcoff.com/#website",
-        "url": "https://gurcoff.com",
-        "name": "GurCoff Heladería Blog de San Agustín",
-        "publisher": {
-          "@id": "https://gurcoff.com/#organization"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "ImageObject",
-        "@id": "https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/estatuas-parque-arqueologico-san-agustin.webp",
-        "url": "https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/estatuas-parque-arqueologico-san-agustin.webp",
-        "width": "720",
-        "height": "360",
-        "caption": "Parque Arqueológico de San Agustín | GurCoff",
-        "inLanguage": "es"
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://gurcoff.com/parque-arqueologico-san-agustin-huila#webpage",
-        "url": "https://gurcoff.com/parque-arqueologico-san-agustin-huila",
-        "name": "Parque Arqueológico de San Agustín | GurCoff",
-        "datePublished": "2021-06-13",
-        "dateModified": "2021-06-13",
-        "author": {
-          "@id": "GurCoff Heladería San Agustín Huila"
-        },
-        "isPartOf": {
-          "@id": "https://gurcoff.com#website"
-        },
-        "primaryImageOfPage": {
-          "@id": "https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/estatuas-parque-arqueologico-san-agustin.webp"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "BlogPosting",
-        "headline": "Parque Arqueológico de San Agustín | GurCoff",
-        "keywords": "Parque Arqueológico de San Agustín | GurCoff",
-        "datePublished": "2021-06-13",
-        "dateModified": "2021-06-13",
-        "publisher": {
-          "@id": "https://gurcoff.com#organization"
-        },
-        "description": "El parque arqueológico de San Agustín es un destino lleno de descubrimientos, historia y aprendizaje. Ven a conocer el parque patrimonio colombiano.",
-            "name": "Parque Arqueológico de San Agustín | GurCoff",
-            "@id": "https://gurcoff.com/parque-arqueologico-san-agustin-huila#richSnippet",
-            "isPartOf": {
-              "@id": "https://gurcoff.com/parque-arqueologico-san-agustin-huila#webpage"
-            },
-            "image": {
-              "@id": "https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin/estatuas-parque-arqueologico-san-agustin.webp"
-            },
-            "inLanguage": "es",
-            "mainEntityOfPage": {
-              "@id": "https://gurcoff.com/parque-arqueologico-san-agustin-huila#webpage"
-            }
-    }
-  ]}'
+background-header: var(--oficial)
+intro: El parque arqueológico de San Agustín es complejo muy grande y atractivo. Abarca 2 municipios, San Agustín e Isnos. Se divide en amplias secciones con características especiales. Conócelo.
 ---
 El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones. Te cuento todo lo que puedes disfrutar cuando vengas a visitarlo.
 

@@ -3,8 +3,8 @@ layout: buscador
 title: ¿Buscas qué hacer en San Agustín Huila?
 h1: ¿Qué hacer en San Agustín?
 description: Conoce los lugares turísticos, los hoteles y las experiencias que ofrece San Agustín Huila. Todo desde las vivencias de tu heladería favorita.
-intro: false
-hero: blog-gurcoff.svg
+intro: Este blog es una invitación con toda la información completa sobre San Agustín Huila
+img: blog-gurcoff.svg
 background-header: var(--secundario)
 ---
 <section class="magazine">
@@ -19,12 +19,12 @@ background-header: var(--secundario)
   <h2>El Blog de San Agustín Huila</h2>
   {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  <h3 id="{{ category_name}}" class="title-category">{{ category_name | capitalize}} en San Agustín Huila
+  <h3 id="{{ category_name}}" class="title-category">{{ category_name | capitalize }} en San Agustín Huila
   </h3>
   <div>
     {% for post in site.categories[category_name] %}
     <article>
-      <a href="{{site.baseurl}}{{ post.url }}" target="_blank">
+      <a href="{{site.baseurl}}{{ post.url }}">
         <img src="{{ site.baseurl }}/{{ post.img }}" width="100%" height="auto" alt="{{ post.alt }}" loading="lazy">
         <h4>{{ post.h1 }}</h4>
       </a>
@@ -32,6 +32,16 @@ background-header: var(--secundario)
     {% endfor %}
   </div>
   {% endfor %}
+  <h3 id="#hoteles" class="title-category">Hoteles en San Agustín Huila
+  </h3>
+  <div>
+    <article>
+      <a href="{{site.baseurl}}/hoteles">
+        <img src="{{ site.baseurl }}/{{ post.img }}" width="100%" height="auto" alt="Hotel de San Agustín Huila" loading="lazy">
+        <h4>Visita nuestra sección con la mejor selección de hoteles en San Agustín</h4>
+      </a>
+    </article>
+  </div>
 </div>
 <section class="blog-footer">
   <h2>Tienes mucho por hacer en San Agustín</h2>

@@ -1,5 +1,3 @@
-
-
 .nosotros p,
 .contacto p,
 .blog-footer p {
@@ -13,6 +11,7 @@
   border-radius: 8px;
   box-shadow: var(--shadow);
   margin-right: 2rem;
+  margin-bottom: 2rem;
 }
 
 .nosotros q {
@@ -26,9 +25,11 @@
   list-style: none;
 }
 
+.nosotros h3,
 .contacto h3 {
   margin: 2rem 0;
   text-align: left;
+  color: var(--oficial);
 }
 
 .contacto iframe {
@@ -47,6 +48,7 @@
 
 .contacto .home-intro img{
   box-shadow: none;
+  max-width: 100%;
 }
 
 .contacto-telefono{
@@ -67,4 +69,5 @@
   gap: 2rem;
   justify-content: center;
   margin: 4rem 0;
+  flex-wrap: wrap;
 }

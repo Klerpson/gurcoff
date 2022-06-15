@@ -2,119 +2,13 @@
 layout: articulo
 title: Tierra Activa - Finca agroturística
 description: La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas. Su actividad principal es el agroturismo.
-category: hoteles
+category: hotel
 tags: [hoteles, fincas]
 h1: Finca Agroturística Tierra Activa
 img: img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp
 jpg: img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.jpg
 alt: Fotografía del Hotel Finca Tierra Activa en San Agustín Huila
-autor: Julian Franco
 date: 2021-07-25
-copyright: Julian Andres Franco Bedoya
-json: ' {
-      "@context": "https://schema.org",
-      "@graph":[
-      {
-        "@type": "TouristDestination",
-        "name": "Finca Agroturística Tierra Activa de San Agustín Huila",
-        "description": "La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas. Su actividad principal es el agroturismo.",
-        "url": "https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila",
-        "touristType": {
-        "@type": "Audience",
-        "audienceType": [
-          "Adventure",
-          "Natural tourism"]
-        },
-        "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "1.9058656",
-        "longitude": "-76.3053475"
-        },
-        "includesAttraction": [
-        {
-          "@type": [
-            "TouristAttraction"
-          ],
-          "name": "Tortas y pan artesanal",
-          "sameAs": "https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila",
-          "image": "https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin.webp"
-        },
-        {
-          "@type": [
-            "TouristAttraction"
-          ],
-          "name": "Experiencia campesina",
-          "sameAs": "https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila",
-          "image": "https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin-experiencia-cafe.webp"
-        }]
-      },
-      {
-        "@type": "Organization",
-        "@id": "https://gurcoff.com/#organization",
-        "name": "GurCoff Heladería San Agustín Huila",
-        "url": "https://gurcoff.com"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://gurcoff.com/#website",
-        "url": "https://gurcoff.com",
-        "name": "GurCoff Heladería Blog de San Agustín",
-        "publisher": {
-          "@id": "https://gurcoff.com/#organization"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "ImageObject",
-        "@id": "https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin.webp",
-        "url": "https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin.webp",
-        "width": "720",
-        "height": "360",
-        "caption": "Finca Agroturísitca Tierra Activa - San Agustín Huila",
-        "inLanguage": "es"
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila#webpage",
-        "url": "https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila",
-        "name": "Finca Agroturísitca Tierra Activa - San Agustín Huila",
-        "datePublished": "2021-07-25",
-        "dateModified": "2021-07-25",
-        "author": {
-          "@id": "GurCoff Heladería San Agustín Huila"
-        },
-        "isPartOf": {
-          "@id": "https://gurcoff.com#website"
-        },
-        "primaryImageOfPage": {
-          "@id": "https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin.webp"
-        },
-        "inLanguage": "es"
-      },
-      {
-        "@type": "BlogPosting",
-        "headline": "Finca Agroturísitca Tierra Activa - San Agustín Huila",
-        "keywords": "Finca Agroturísitca Tierra Activa - San Agustín Huila",
-        "datePublished": "2021-07-25",
-        "dateModified": "2021-07-25",
-        "publisher": {
-          "@id": "https://gurcoff.com#organization"
-        },
-        "description": "La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas. Su actividad principal es el agroturismo.",
-            "name": "Finca Agroturísitca Tierra Activa - San Agustín Huila",
-            "@id": "https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila#richSnippet",
-            "isPartOf": {
-              "@id": "https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila#webpage"
-            },
-            "image": {
-              "@id": "https://gurcoff.com/img/magazine/hoteles-san-agustin/tierra-activa-san-agustin.webp"
-            },
-            "inLanguage": "es",
-            "mainEntityOfPage": {
-              "@id": "https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila#webpage"
-            }
-    }
-  ]}'
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Pagina web: www.tierraactiva.com.co
