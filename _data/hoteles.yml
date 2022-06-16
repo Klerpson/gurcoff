@@ -1,64 +1,52 @@
-- nombre: Hospedaje Casa Bonita
-  intro: Un hospedaje con atención personalizada ofrecido directamente por sus propietarios.
-  img: hotel-casa-bonita-san-agustin-huila.webp
-  alt: Fotografía del Hospedaje Casa Bonita en San Agustín Huila
-  title: Foto del Hospedaje Casa Bonita de San Agustín Huila
-  logo1: desayuno.svg
-  logo2: wifi.svg
-  logo3: mascotas.svg
-  logo4: ducha.svg
-  logo5: parqueadero.svg
-  link: 'https://hospedajecasabonita.com'
-  nofollow: false
+Hoteles de San Agustín:
+  - nombre: Hospedaje Casa Bonita
+    img: hotel-casa-bonita-san-agustin-huila.webp
+    alt: Fotografía del Hospedaje Casa Bonita en San Agustín Huila
+    title: Foto del Hospedaje Casa Bonita
+    puntos: 4.9
+    perfil: https://www.google.com/travel/hotels/s/fFvxNLTKbs9m7AwGA
+    link: 'https://hospedajecasabonita.com'
+    servicios:
+      - Atendido por sus propietarios
+      - Parqueadero vigilado
+      - Incluyen desayuno
+      - Habitaciones desde 55000
+      - Cerca al Estrecho y la Chaquira
+  - nombre: Hotel Masaya Lodge
+    img: hotel-masaya-san-agustin-huila-400px.webp
+    alt: Fotografía del hotel Masaya San Agustín en San Agustín Huila
+    title: Foto del Hotel Masaya de San Agustín Huila
+    puntos: 4.6
+    perfil: https://www.google.com/travel/hotels/s/hKDE8MnX6pY4NhZo9
+    link: '/hoteles/hotel-masaya-san-agustin-huila'
+    servicios:
+      - Restaurante
+      - Parqueadero vigilado
+      - Vista al cañón del Magdalena
+      - Cerca al Estrecho y la Chaquira
+  - nombre: Hotel Akawanka Lodge
+    intro: Hotel de lujo con temática eco lodge y servicios profesionales para liberar tu estrés.
+    img: hotel-akawanka-san-agustin-huila-400px.webp
+    alt: Foto del Hotel Akawanka en San Agustín Huila
+    title: Fotografía del Hotel Akawanka Lodge de Sa  n Agustín Huila
+    link: '/hoteles/akawanka-lodge-san-agustin-huila'
+  - nombre: Hotel San Agustín Internacional
+    intro: Hotel con arquitectura inspirada en diferentes países y en la Colombia precolombina, colonial, republicana y contemporánea.
+    img: hotel-internacional-san-agustin-400px.webp
+    alt: Fotografía del Hotel Internacional de San Agustín Huila
+    title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
+    link: '/hoteles/hotel-internacional-san-agustin-huila'
+  - nombre: Hotel Estorake San Agustín Huila
+    intro: El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante, con mucha calidad humana y en sus servicios.
+    img: hotel-estorake-san-agustin-huila-320px.webp
+    alt: Fotografía del Hotel Estorake de San Agustín Huila
+    title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
+    link: '/hoteles/hotel-estorake-san-agustin-huila'
 
-- nombre: Hotel Masaya Lodge
-  intro: Ecolodge perfectamente ubicado sobre el cañón del río Magdalena y de arquitectura hermosa.
-  img: hotel-masaya-san-agustin-huila-400px.webp
-  alt: Fotografía del hotel Masaya San Agustín en San Agustín Huila
-  title: Foto del Hotel Masaya de San Agustín Huila
-  logo1: desayuno.svg
-  logo2: wifi.svg
-  logo3: tv.svg
-  logo4: ducha.svg
-  logo5: parqueadero.svg
-  link: '/hoteles/hotel-masaya-san-agustin-huila'
-  nofollow: false
-
-- nombre: Hotel Akawanka Lodge
-  intro: Hotel de lujo con temática eco lodge y servicios profesionales para liberar tu estrés.
-  img: hotel-akawanka-san-agustin-huila-400px.webp
-  alt: Foto del Hotel Akawanka en San Agustín Huila
-  title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
-  logo1: mascotas-no.svg
-  logo2: wifi.svg
-  logo3: tv.svg
-  logo4: ducha.svg
-  logo5: parqueadero.svg
-  link: '/hoteles/akawanka-lodge-san-agustin-huila'
-  nofollow: false
-
-- nombre: Hotel San Agustín Internacional
-  intro: Hotel con arquitectura inspirada en diferentes países y en la Colombia precolombina, colonial, republicana y contemporánea.
-  img: hotel-internacional-san-agustin-400px.webp
-  alt: Fotografía del Hotel Internacional de San Agustín Huila
-  title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
-  logo1: mascotas-no.svg
-  logo2: wifi.svg
-  logo3: tv.svg
-  logo4: ducha.svg
-  logo5: parqueadero.svg
-  link: '/hoteles/hotel-internacional-san-agustin-huila'
-  nofollow: false
-
-- nombre: Hotel Estorake San Agustín Huila
-  intro: El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante, con mucha calidad humana y en sus servicios.
-  img: hotel-estorake-san-agustin-huila-320px.webp
-  alt: Fotografía del Hotel Estorake de San Agustín Huila
-  title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
-  logo1: mascotas-no.svg
-  logo2: wifi.svg
-  logo3: desayuno.svg
-  logo4: ducha.svg
-  logo5: parqueadero.svg
-  link: '/hoteles/hotel-estorake-san-agustin-huila'
-  nofollow: false
+Hostales de San Agustín:
+  - nombre: Hostal Bambú San Agustín
+    intro: El Hostal Bambú de San Agustín Huila es un lugar hermoso con zonas comunes adecuadas para compartir experiencias.
+    img: hostal-bambu-san-agustin-400px.webp
+    alt: Fotografía del Hostal Bambú de San Agustín Huila
+    title: Foto del Hostal Bambú
+    link: '/hoteles/hostal-bambu-san-agustin-huila'

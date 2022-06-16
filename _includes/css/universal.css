@@ -165,3 +165,7 @@ footer {
   color: var(--principal);
   width: min(80vw, 100%);
 }
+
+#breadcrumbs {
+  margin: 0 0 2rem;
+}

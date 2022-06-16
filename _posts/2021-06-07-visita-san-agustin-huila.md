@@ -15,7 +15,6 @@ referencias:
   - Coomotor: https://coomotor.com.co/
   - Adventure X Colombia: https://adventurecolombia.co/
   - Wikilo Foto Alto de los ídolos: https://es.wikiloc.com/rutas-senderismo/san-agustin-a-alto-de-los-idolos-8819284
-excerpt_separator: <!-- excerpt -->
 background-header: var(--oficial)
 intro: En San Agustín Huila tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.
 ---

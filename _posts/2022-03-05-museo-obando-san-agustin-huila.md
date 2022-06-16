@@ -9,7 +9,6 @@ jpg: img/magazine/obando/obando-san-agustin-huila.jpg
 alt: Plaza de Obando en San Agustín Huila
 date: 2022-03-04
 background-header: var(--oficial)
-excerpt_separator: <!-- excerpt -->
 referencias:
   - Foto Google maps: https://www.google.com/maps/place/Museo+arqueol%C3%B3gico+de+Obando/@1.939533,-76.2981777,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL%3Dw216-h100-k-no!7i4056!8i1872!4m15!1m7!3m6!1s0x8e256536e36cb58b:0x37850a0804fbcf29!2sObando,+San+Agust%C3%ADn,+Huila,+Colombia!3b1!8m2!3d1.9400639!4d-76.2983514!3m6!1s0x8e2565376da5dab1:0x3880cb8707e22466!8m2!3d1.939533!4d-76.2981777!14m1!1BCgIgAQ?hl=es-ES
 intro: Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico.

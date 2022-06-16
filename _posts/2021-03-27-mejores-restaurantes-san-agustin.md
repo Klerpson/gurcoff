@@ -7,7 +7,6 @@ h1: Los restaurantes de San Agustín Huila bien recomendados
 img: img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp
 jpg: img/magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.jpg
 alt: Plato preparado en la Gata Parrilla de San Agustín Huila
-excerpt_separator: <!-- excerpt -->
 date: 2021-03-27
 background-header: var(--oficial)
 intro: Si vas de paseo o de vacaciones a San Agustín Huila y deseas degustar algún rico almuerzo, o una cena inolvidable, no te puedes perder la diversidad gastronómica de sus restaurantes.

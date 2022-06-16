@@ -1,3 +1,7 @@
+.magazine h2{
+  color: var(--principal);
+  margin-bottom: 2rem;
+}
 .magazine p{
   margin: 0 0 2rem;
 }
@@ -18,4 +22,3 @@
   letter-spacing: -.4px;
   line-height: 1.3;
 }
-

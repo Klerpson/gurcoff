@@ -11,7 +11,6 @@ date: 2021-09-09
 copyright: Julian Andres Franco Bedoya
 referencias:
   - Imágen letrero páramo: https://commons.wikimedia.org/wiki/File:Laguna_de_la_Magdalena_aviso.JPG
-excerpt_separator: <!-- excerpt -->
 intro: La Laguna del Magdalena es el origen o la fuente del gran Río Magdalena, la mayor fuente del agua dulce para la producción colombiana. Aquí te contamos porqué debes venir a conocerla.
 ---
 Este es un lugar adornado por los frailejones que abundan en el Páramo de las papas, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conozcamos más de la Laguna del Magdalena

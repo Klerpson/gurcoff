@@ -12,7 +12,6 @@ referencias:
   - Parque arquelógico San Agustín: https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/
   - Colombia Travel: https://colombia.travel/es/san-agustin
   - Wikimedia: https://commons.wikimedia.org
-excerpt_separator: <!-- excerpt -->
 background-header: var(--oficial)
 intro: El parque arqueológico de San Agustín es complejo muy grande y atractivo. Abarca 2 municipios, San Agustín e Isnos. Se divide en amplias secciones con características especiales. Conócelo.
 ---

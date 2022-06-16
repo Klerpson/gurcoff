@@ -165,6 +165,10 @@ footer {
   color: var(--principal);
   width: min(80vw, 100%);
 }
+
+#breadcrumbs {
+  margin: 0 0 2rem;
+}
 .home-intro {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -859,7 +863,7 @@ footer {
   display: flex;
   gap: 1.5rem;
   flex-wrap: wrap;
-  padding-top: 7rem;
+  padding-top: 5rem;
   align-items: center;
   justify-content: center;
 }
@@ -947,6 +951,7 @@ footer {
   text-align: left;
   color: var(--secundario);
 }
+
 #markdown-toc::before {
   content: "Contenido:";
   font-weight: 700;
@@ -959,10 +964,11 @@ footer {
 #markdown-toc {
   border: 1px solid #aaa;
   padding: 1.5em;
-  margin: 1.5rem 0;
+  margin: 0 0 1.5rem;
   border-radius: 7px;
   box-shadow: var(--shadow);
   list-style: decimal;
+  background-color: white;
 }
 
 #markdown-toc a,
@@ -971,6 +977,10 @@ footer {
   font-size: 1.2rem;
   letter-spacing: -.4px;
   line-height: 1.3;
+}
+.magazine h2{
+  color: var(--principal);
+  margin-bottom: 2rem;
 }
 .magazine p{
   margin: 0 0 2rem;
@@ -993,57 +1003,55 @@ footer {
   line-height: 1.3;
 }
 
+.hoteles div{
+  color: var(--grisFuentes);
+}
 
-.negocio{
+.hoteles div article{
   position: relative;
-  background-color: var(--complemento1);
-  padding: 1rem;
+  background-color: white;
+  width: min(100%, 320px);
   display: grid;
-  gap: 1rem;
-  grid-template-areas: "titulo"
-  "parrafo"
-  "imagen"
-  "iconos"
-  "boton";
-  box-shadow: var(--shadow);
-  border-radius: 5px;
+  justify-content: left;
+  overflow: hidden;
 }
 
-.negocio h3{
-  margin: 0;
-  text-align: center;
-  grid-area: titulo;
-}
-
-.negocio p {
-  grid-area: parrafo;
-}
-
-.negocio img{
-  grid-area: imagen;
-}
-
-.negocio ul{
+.hoteles div article span{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: .5rem;
+  background-color: rgba(255, 255, 255, 0.7);
   display: flex;
-  justify-content: space-between;
-  grid-area: iconos;
-}
-
-.negocio ul li{
-  list-style: none;
   margin: 0;
+  box-shadow: ;
 }
 
-.negocio a{
-  max-width: max-content;
-  justify-self: center;
-  background-color: var(--principal);
-  padding: 0.5rem 1rem;
-  border-radius: 5px;
-  box-shadow: var(--shadow);
-  text-decoration: none;
-  color: var(--blanco);
-  grid-area: boton;
+.hoteles div article span a{
+  margin: 0 0.5rem 0;
+  padding: 0;
+}
+
+.hoteles div article h3{
+  font-size: 16px;
+  color: var(--principal);
+  font-family: var(--fuenteTextos);
+  text-align: left;
+  letter-spacing: 0;
+  padding: 1rem 1rem 0.5rem;
+}
+
+.hoteles div article ul li{
+  font-size: 14px;
+  padding: 0 1rem;
+  list-style: none;
+}
+
+.hoteles div article a{
+  display: block;
+  padding: 0 1rem 1rem;
+  text-align: right;
 }
 #search-container {
   position: relative;

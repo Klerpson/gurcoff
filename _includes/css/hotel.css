@@ -1,51 +1,50 @@
-.negocio{
+.hoteles div{
+  color: var(--grisFuentes);
+}
+
+.hoteles div article{
   position: relative;
-  background-color: var(--complemento1);
-  padding: 1rem;
+  background-color: white;
+  width: min(100%, 320px);
   display: grid;
-  gap: 1rem;
-  grid-template-areas: "titulo"
-  "parrafo"
-  "imagen"
-  "iconos"
-  "boton";
-  box-shadow: var(--shadow);
-  border-radius: 5px;
+  justify-content: left;
+  overflow: hidden;
 }
 
-.negocio h3{
-  margin: 0;
-  text-align: center;
-  grid-area: titulo;
-}
-
-.negocio p {
-  grid-area: parrafo;
-}
-
-.negocio img{
-  grid-area: imagen;
-}
-
-.negocio ul{
+.hoteles div article span{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: .5rem;
+  background-color: rgba(255, 255, 255, 0.7);
   display: flex;
-  justify-content: space-between;
-  grid-area: iconos;
-}
-
-.negocio ul li{
-  list-style: none;
   margin: 0;
+  box-shadow: ;
 }
 
-.negocio a{
-  max-width: max-content;
-  justify-self: center;
-  background-color: var(--principal);
-  padding: 0.5rem 1rem;
-  border-radius: 5px;
-  box-shadow: var(--shadow);
-  text-decoration: none;
-  color: var(--blanco);
-  grid-area: boton;
+.hoteles div article span a{
+  margin: 0 0.5rem 0;
+  padding: 0;
+}
+
+.hoteles div article h3{
+  font-size: 16px;
+  color: var(--principal);
+  font-family: var(--fuenteTextos);
+  text-align: left;
+  letter-spacing: 0;
+  padding: 1rem 1rem 0.5rem;
+}
+
+.hoteles div article ul li{
+  font-size: 14px;
+  padding: 0 1rem;
+  list-style: none;
+}
+
+.hoteles div article a{
+  display: block;
+  padding: 0 1rem 1rem;
+  text-align: right;
 }

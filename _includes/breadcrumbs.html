@@ -1,7 +1,6 @@
 <div id="breadcrumbs">
-  <h5>🤓 Ahora estás en esta parte del blog de San Agustín:</h5>
   {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-  {% if page.url contains "legal" %}
+  {% if page.url contains "legal" or page.url contains "hoteles" %}
   <a href="/">Inicio</a>
   {% else %}
   <a href="/">Inicio</a> / <a href="/blog">Blog</a>

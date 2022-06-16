@@ -29,9 +29,6 @@ compress_html:
     profile: false
     startings: []
 
-plugins:
-  - jekyll-redirect-from
-
 defaults:
   -
     scope:

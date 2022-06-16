@@ -1,94 +1,54 @@
 ---
 layout: default
 title: Hoteles en San Agustín Huila
-description: Los hoteles de San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza. Encuentra hoteles, cabañas y más aquí. Léelo!
+description: Los hoteles de San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza. Encuentra hoteles, cabañas y más aquí.
 h1: Los hoteles de San Agustín Huila
 img: img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp
 alt: Fotografía del hotel Akawanka en San Agustín Huila
-category: hospedajes
-background-header: var(--principal)
+background-header: var(--secundario)
 ---
 <section class="magazine">
   {% include breadcrumbs.html %}
-  <p>Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. <strong>Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping.<strong /> Todos estos lugares han verificado y actualizado sus datos para ti en esta página.</p>      <p>Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en San Agustín Huila en categorías, con las características que los hace especiales o diferentes. Luego puedes hacer en sus enlaces para ponerte en contacto y hacer tu reservación.</p>
+  <p>Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. <strong>Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping.</strong></p>
+
+  <p>Todos estos lugares han verificado y actualizado sus datos para ti en esta página.</p>
+
+  <p>Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en San Agustín Huila en categorías, con las características que los hace especiales o diferentes.</p>
+
 </section>
-<main class="blog">
-  <h2> Hoteles en San Agustín Huila para todos los gustos</h2>
-  <p>Cada uno de estos hoteles están siempre en procesos de mejorarmiento, y adoptando las tendencias más atractivos del mercado hotelero. Por ejemplo, ya puedes encontrar opciones de Glamping en San Agustín. La oferta para el turismo rural es muy fuerte. Y algunos hoteles ya ofrecen planes con experiencias muy interesantes. Veamos algunos de ellos.</p>
-  <p>Puedes encontrar <strong>hoteles de San Agustín económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al <a href="{{ 'parque-arqueologico-san-agustin-huila' | relative_url }}">Parque Arqueológico de San Agustín</a>, hoteles cerca al <a href="{{ 'estrecho-rio-magdalena' | relative_url }}">estrecho del Magdalena</a>,</strong> entre otros.</p>
-  <q>Nuestro recomendado por sobre todos es el <a href="https://hospedajecasabonita.com">Hospedaje Casa Bonita</a></q>
-  {% for hotel in site.data.hoteles %}
-  <article class="negocio">
-  <h3>{{hotel.nombre}}</h3>
-  <p>{{hotel.intro}}</p>
-  <img src="{{site.baseurl}}/img/magazine/hoteles-san-agustin/{{hotel.img}}" alt="{{hotel.alt}}" width="100%" height="150" title="{{hotel.title}}">
-  <ul>
-    <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo1}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-    <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo2}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-    <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo3}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-    <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo4}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila"width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-    <li><img src="{{site.baseurl}}/img/iconos/{{hotel.logo5}}" alt="Ícono de los servicios que presta el {{hotel.nombre}} en San Agustín Huila" width="30" height="30" title="Servicios del {{hotel.nombre}} en San Agustín Huila"></li>
-  </ul>
-  {% if hotel.nofollow %}
-  <a href="{{hotel.link}}" rel="nofollow">Más información</a>
-  {% else %}
-  <a href="{{hotel.link}}">Más información</a>
-  {% endif %}
-</article>
-{% endfor %}
-
-</main>
-<section>
-      <h2>Hostales en San Agustín Huila a tu medida</h2>
-
-      <p>
-            <strong>Los hostales de San Agustín son opciones muy accesibles y cómodas</strong>. Además, con
-            decoraciones hermosas y dignas de llevar en tus recuerdos fotográficos.
-      </p>
-      <p>
-            Algunos de estos <strong>hostales de San Agustín te ofrecen la opción de prestar un servicio de
-                  voluntariado</strong>. Es especialmente importante para quienes recorren nuestro país o nuestro
-            continente como caminantes o en rutas de
-            bicicletas, o quizá en la experiencia de su vida. Mira estas opciones:</p>
-
-      {% for hostal in site.data.hostales %}
-      <article class="negocio">
-            <h3>{{hostal.nombre}}</h3>
-            <p>{{hostal.intro}}</p>
-            <img src="{{site.baseurl}}/img/magazine/hoteles-san-agustin/{{hostal.img}}" alt="{{hostal.alt}}"
-                  width="100%" height="150" title="{{hostal.title}}">
-            <ul>
-                  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo1}}"
-                              alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila"
-                              width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-                  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo2}}"
-                              alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila"
-                              width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-                  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo3}}"
-                              alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila"
-                              width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-                  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo4}}"
-                              alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila"
-                              width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-                  <li><img src="{{site.baseurl}}/img/iconos/{{hostal.logo5}}"
-                              alt="Ícono de los servicios que presta el {{hostal.nombre}} en San Agustín Huila"
-                              width="30" height="30" title="Servicios del {{hostal.nombre}} en San Agustín Huila"></li>
-            </ul>
-            {% if hostal.nofollow %}
-            <a href="{{hostal.link}}" rel="nofollow">Más información</a>
-            {% else %}
-            <a href="{{hostal.link}}">Más información</a>
-            {% endif %}
+<main class="blog hoteles">
+  {% for item in site.data.hoteles %}
+  {% assign cat = item[0] %}
+    <h2>{{ cat }}</h2>
+    <div>
+      {% for hotel in site.data.hoteles[cat] %}
+      <article>
+        <img src="{{site.baseurl}}/img/hoteles/{{hotel.img}}" alt="{{hotel.alt}}" title="{{hotel.title}}" loading="lazy" width="320" height="200">
+        {% if hotel.perfil %}
+        <span>Calificado con <a href="{{hotel.perfil}}">{{hotel.puntos}} en Google</a></span>
+        {% endif %}
+        <h3>{{hotel.nombre}}</h3>
+        {% if hotel.servicios %}
+        <ul>
+          {% for servicio in hotel.servicios %}
+          <li>✓ {{servicio}}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+          {% if hotel.link %}
+          <a href="{{site.baseurl}}{{hotel.link}}" rel="nofollow">Conoce más</a>
+          {% endif %}
       </article>
       {% endfor %}
-</section>
-<section>
-      <h2>San Agustín Huila: hoteles, restaurantes y más</h2>
-
-      <p>Toda esta lista de hoteles te enviará a un artículo en el que te damos toda la información completa: teléfono,
-            cómo llegar, servicios, calificaciones, entre otros.</p>
-      <p>
-            Si también deseas saber <strong>qué puedes hacer al venir a San Agustín Huila, puedes leer el artículo
-                  titulado ["Visita San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila) o mira nuestro
-                  [blog]({{site.baseurl}}/blog), el blog de San Agustín.</strong></p>
+    </div>
+  {% endfor %}
+</main>
+<section class="magazine">
+  <h2>Comfort y descanso en San Agustín a tu medida</h2>
+  <p>Muchos hospedajes de San Agustín son opciones muy accesibles y cómodas. Además, con decoraciones hermosas y dignas de llevar en tus recuerdos fotográficos.</p>
+  <p>Algunos de estos <strong>hoteles te ofrecen la opción de prestar un servicio de voluntariado</strong>. Es especialmente importante para quienes recorren nuestro país o nuestro continente como caminantes o en rutas de bicicletas, o quizá en la experiencia de su vida.</p>
+  <h2>¿Ya sabes donde quedarte en San Agustín?</h2>
+  <p>Cada uno de estos hoteles están siempre en procesos de mejorarmiento, y adoptando las tendencias más atractivos del mercado hotelero. Por ejemplo, <strong>ya puedes encontrar opciones de Glamping en San Agustín. La oferta para el turismo rural es muy fuerte. Y algunos hoteles ya ofrecen planes con experiencias muy interesantes.</strong></p>
+  <p>Puedes encontrar <strong>hoteles económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al <a href="{{ 'parque-arqueologico-san-agustin-huila' | relative_url}}">Parque Arqueológico de San Agustín</a> o cerca al <a href="{{ 'estrecho-rio-magdalena' | relative_url}}">estrecho del Magdalena</a>,</strong>entre otros.</p>
+  <p>Si necesitas información como teléfono, ubicación, servicios, calificaciones, entre otros; no dudes en <a href="{{site.baseurl}}/contacto">contactarnos</a>. Nosotros te ayudaremos a reservar por el precio justo, sin sobre costos. Y, por supuesto, cuando vengas a San Agustín recuerda visitarnos en nuestra <a href="/">Heladería GurCoff.</a></p>
 </section>
