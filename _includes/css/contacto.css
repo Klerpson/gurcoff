@@ -39,7 +39,11 @@
 }
 
 .contacto .home-intro ul{
-  padding: 2rem;
+  padding: 1rem;
+}
+
+.contacto .home-intro ul li{
+  color: white;
 }
 
 .contacto .home-intro ul li b{
@@ -60,8 +64,18 @@
   align-items: center;
 }
 
-.contacto .instagram h2{
+.contacto .instagram h2,
+.contacto-telefono h3{
   color: white;
+  text-align: center;
+  width: min(90%, 640px);
+}
+
+.contacto-telefono a{
+  color: var(--accion);
+  text-decoration: underline;
+  text-decoration-thickness: 2.5px;
+  text-underline-offset: 1.5px;
 }
 
 .enlaces-perfiles{

@@ -7,7 +7,7 @@
   --grisClaro: #aeaeae;
   --grisFuentes: #161519;
   --shadow: 0 4px 8px rgba(24, 24, 24, 0.302);
-  --blanco: #fcf7f8;
+  --blanco: #f3f3f3;
   --fuenteTitulos: 'Sacramento', cursive;
   --fuenteTextos: 'Open Sans', sans-serif;
 }
@@ -72,7 +72,7 @@ h3, q {
 }
 
 h4 {
-  font-size: clamp(1.2rem, 2vw, 1.5rem);
+  font-size: clamp(1.2rem, 2.5vw, 2rem);
   line-height: 1.2;
   text-align: left;
   letter-spacing: 1.5px;
@@ -112,6 +112,7 @@ header .titulo-home {
 
 header img {
   width: min(70vw, 360px);
+  border-radius: 8px;
 }
 
 header p {
@@ -260,9 +261,10 @@ footer {
 .hello-gallery article {
   background-color: var(--oficial);
   border-radius: 8px;
-  padding: 1rem;
+  padding: 2rem;
   transition: transform .3s ease-out;
   color: var(--blanco);
+  text-align: center;
 }
 
 .hello-gallery article:hover {
@@ -271,10 +273,13 @@ footer {
 }
 
 .hello-gallery article img {
-  width: -webkit-min-content;
-  width: -moz-min-content;
-  width: min-content;
-  max-width: 100%;
+  width: min(100%, max-content);
+  -webkit-filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.4));
+  filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.4));
+}
+
+.hello-gallery article h4 {
+  text-align: center;
 }
 
 .benefits {
@@ -322,6 +327,7 @@ footer {
   gap: 2rem;
   justify-items: center;
   text-align: center;
+  align-items: center;
 }
 
 .testimonials h2 {
@@ -341,6 +347,7 @@ footer {
 
 .testimonials article ul li {
   list-style: none;
+  padding: ;
 }
 
 .instagram {
@@ -449,7 +456,7 @@ footer {
   width: min(100%, 580px);
 }
 
-.mapa em{
+.mapa em {
   width: min(100%, 580px);
 }
 #floating-button {
@@ -861,27 +868,35 @@ footer {
 }
 .articulo{
   display: flex;
-  gap: 1.5rem;
+  gap: 3rem;
   flex-wrap: wrap;
   padding-top: 5rem;
   align-items: center;
   justify-content: center;
 }
 
+.articulo h2{
+  width: min(90%, 680px);
+
+}
+
 .articulo h2,
-.articulo h3{
+.articulo h3,
+.articulo h4{
   color: var(--principal);
 }
 
-.articulo h3{
+.articulo h3,
+.articulo h4{
   text-align: left;
+  width: 100%;
+  font-family: var(--fuenteTitulos);
 }
 
 .articulo img {
   border-radius: 8px;
   box-shadow: var(--shadow);
   max-width: 100%;
-  margin-top: 4rem;
 }
 
 .articulo em {
@@ -915,20 +930,13 @@ footer {
 }
 
 .articulo blockquote {
+  background-color: white;
   position: relative;
-  display: grid;
-  background: var(--secundario);
-  padding: 4rem 2rem;
-  margin: 3rem 0;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
-  color: var(--blanco);
-  font-weight: 700;
-  font-size: clamp(18px, (1.2rem + 1vw) * 1.2, 1.5rem);
-  font-family: var(--fuenteTitulos);
-  text-shadow: var(--shadow);
-  width: 100%;
   text-align: center;
+  padding: 1.2rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
+  width: 100%;
 }
 
 .articulo iframe{
@@ -1170,7 +1178,11 @@ footer {
 }
 
 .contacto .home-intro ul{
-  padding: 2rem;
+  padding: 1rem;
+}
+
+.contacto .home-intro ul li{
+  color: white;
 }
 
 .contacto .home-intro ul li b{
@@ -1191,8 +1203,18 @@ footer {
   align-items: center;
 }
 
-.contacto .instagram h2{
+.contacto .instagram h2,
+.contacto-telefono h3{
   color: white;
+  text-align: center;
+  width: min(90%, 640px);
+}
+
+.contacto-telefono a{
+  color: var(--accion);
+  text-decoration: underline;
+  text-decoration-thickness: 2.5px;
+  text-underline-offset: 1.5px;
 }
 
 .enlaces-perfiles{

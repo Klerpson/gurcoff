@@ -7,7 +7,7 @@
   --grisClaro: #aeaeae;
   --grisFuentes: #161519;
   --shadow: 0 4px 8px rgba(24, 24, 24, 0.302);
-  --blanco: #fcf7f8;
+  --blanco: #f3f3f3;
   --fuenteTitulos: 'Sacramento', cursive;
   --fuenteTextos: 'Open Sans', sans-serif;
 }
@@ -72,7 +72,7 @@ h3, q {
 }
 
 h4 {
-  font-size: clamp(1.2rem, 2vw, 1.5rem);
+  font-size: clamp(1.2rem, 2.5vw, 2rem);
   line-height: 1.2;
   text-align: left;
   letter-spacing: 1.5px;
@@ -112,6 +112,7 @@ header .titulo-home {
 
 header img {
   width: min(70vw, 360px);
+  border-radius: 8px;
 }
 
 header p {

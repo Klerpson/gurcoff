@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-15T17:22:31-05:00</updated>
+     <updated>2022-06-18T16:51:40-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -17,7 +17,7 @@
    <link href="http://localhost:4000/museo-obando-san-agustin-huila"/>
    <id>http://localhost:4000/museo-obando-san-agustin-huila</id>
    <updated>2022-03-04T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Obando y su museo se encuentra a 248 km de Neiva y a 20 minutos de la zona urbana de San Agustín.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;San Agustín Huila es la capital arqueológico del departamento de Huila. Está lleno de lugares únicos y que se pueden visitar. Y hoy te recomendamos...</content>
+   <content type="html">&lt;p&gt;Obando y su museo se encuentra en uno de los corregimientos de San Agustín Huila, a 20 minutos, y a 248 kilómetros de Neiva.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;San Agustín Huila es la capital arqueológico del departamento de Huila. Está lleno de lugares únicos y que se pueden visitar. Y hoy...</content>
  </entry>
  
  <entry>
@@ -29,11 +29,11 @@
  </entry>
  
  <entry>
-   <title>Estrecho del Río Magdalena | GurCoff San Agustín Huila</title>
+   <title>Estrecho del Río Magdalena</title>
    <link href="http://localhost:4000/estrecho-rio-magdalena"/>
    <id>http://localhost:4000/estrecho-rio-magdalena</id>
    <updated>2021-06-22T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-rio-magdalena/salida-estrecho-del-magdalena-400px.webp&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot; title=&quot;Estrecho del...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-del-magdalena-400px.webp&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot; title=&quot;Estrecho del...</content>
  </entry>
  
  <entry>
