@@ -5,7 +5,7 @@ h1: ¿Qué hacer en San Agustín?
 description: Conoce los lugares turísticos, los hoteles y las experiencias que ofrece San Agustín Huila. Todo desde las vivencias de tu heladería favorita.
 intro: Este blog es una invitación con toda la información completa sobre San Agustín Huila
 img: blog-gurcoff.svg
-background-header: var(--secundario)
+background-header: var(--principal)
 ---
 <section class="magazine">
   <p>Si estás en San Agustín Huila, o quieres venir, y no conoces el lugar, seguramente querrás saber <strong>qué hacer
@@ -25,7 +25,7 @@ background-header: var(--secundario)
     {% for post in site.categories[category_name] %}
     <article>
       <a href="{{site.baseurl}}{{ post.url }}">
-        <img src="{{ site.baseurl }}/{{ post.img }}" width="100%" height="auto" alt="{{ post.alt }}" loading="lazy">
+        <img src="{{ site.baseurl }}/img/{{ post.img }}" width="100%" height="auto" alt="{{ post.alt }}" loading="lazy">
         <h4>{{ post.h1 }}</h4>
       </a>
     </article>

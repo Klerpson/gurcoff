@@ -4,8 +4,8 @@ description: Los Tres Chorros es una espectacular cascada en San Agustín Huila.
 category: turismo
 tags: [cascadas, turismo]
 h1: Cascada Los Tres Chorros
-img: img/magazine/cascada-tres-chorros/cascada-tres-chorros-400px.webp
-jpg: img/magazine/cascada-tres-chorros/cascada-tres-chorros-400px.jpg
+img: magazine/cascada-tres-chorros-san-agustin-huila.webp
+jpg: magazine/cascada-tres-chorros-san-agustin-huila.jpg
 alt: Cascada Los Tres Chorros de San Agustín Huila
 background-header: var(--oficial)
 date: 2021-01-31
@@ -19,7 +19,7 @@ Muchas de los visitantes de este lugar lo describen como "una de las maravillas 
 <!-- excerpt -->
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp" img-mini="magazine/cascada-tres-chorros/tres-chorros-san-agustin-400px.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Cascada de los Tres Chorros en San Agustín Huila" %}
+{% include img.html img="magazine/tres-chorros-san-agustin.webp" img-mini="magazine/tres-chorros-san-agustin-400px.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Cascada de los Tres Chorros en San Agustín Huila" %}
 *Cascada los Tres Chorros de San Agustín Huila*
 
 * Do not remove this line (it will not be displayed)
@@ -44,7 +44,7 @@ Puedes comenzar tu viaje desde el centro urbano del municipio de [San Agustín H
 Puedes comenzar tu viaje desde San Agustín. También puedes hospedarte en un hotel más cercano a la vereda y partir desde allí.
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/cascada-tres-chorros.webp" img-mini="magazine/cascada-tres-chorros/cascada-tres-chorros-400px.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Foto de la cascada los tres chorros" %}
+{% include img.html img="magazine/cascada-tres-chorros.webp" img-mini="magazine/cascada-tres-chorros-400px.webp" alt="Cascada de los Tres Chorros de San Agustín Huila" title="Foto de la cascada los tres chorros" %}
 
 ### Transporte público hasta la cascada los Tres Chorros
 
@@ -63,7 +63,7 @@ Ahora bien, puedes contratar la compañía de guías turísticos. O sencillament
 ## Viaja a los Tres Chorros de forma diferente
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/tour-tres-chorros-bicicleta.webp" img-mini="magazine/cascada-tres-chorros/tour-tres-chorros-bicicleta-400px.webp" alt="Fotografía del tour en bicicleta hasta la cascada de los Tres Chorros - Tomada por Adventure X Colombia" title="Tour en bicicleta hasta los Tres Chorros" %}
+{% include img.html img="magazine/tour-tres-chorros-bicicleta.webp" img-mini="magazine/tour-tres-chorros-bicicleta-400px.webp" alt="Fotografía del tour en bicicleta hasta la cascada de los Tres Chorros - Tomada por Adventure X Colombia" title="Tour en bicicleta hasta los Tres Chorros" %}
 *Has tu viaje hasta la cascada Tres Chorros en bicicleta*
 
 >¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
@@ -79,7 +79,7 @@ También tienes la opción de hacer el recorrido a caballo hasta los Tres Chorro
 Para más información sobre el tour a caballo, puedes contactar a esta agencia. Es muy conocida y con mucho tiempo de experiencia en la localidad. Se llama [Disfruta San Agustín](#fuentes):
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros.webp" img-mini="magazine/cascada-tres-chorros/cabalgata-cascada-tres-chorros-400px.webp" alt="Cabalgata hasta la cascada de los Tres Chorros de San Agustín Huila" title="Tour a caballo en la cascada de los Tres Chorros" %}
+{% include img.html img="magazine/cabalgata-cascada-tres-chorros.webp" img-mini="magazine/cabalgata-cascada-tres-chorros-400px.webp" alt="Cabalgata hasta la cascada de los Tres Chorros de San Agustín Huila" title="Tour a caballo en la cascada de los Tres Chorros" %}
 *Otra opción es llegar a caballo*
 
 ## ¿Qué te espera en tu viaje a Los Tres Chorros del Magdalena?
@@ -89,7 +89,7 @@ Para comenzar, disfrutarás del viaje mismo. Durante el recorrido, en **medio de
 Esta es una de las razones principales por las que cada año, turistas nacionales y extranjeros, eligen visitar este sitio. Así que antes de llegar a la cascada, prepara tu cámara para entrar en contacto con especies exóticas, como monos capuchinos; y hermosas aves, como loros y turpiales, que le dan el toque mágico a este lugar.
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/llegada-tres-chorros-huila.webp" img-mini="magazine/cascada-tres-chorros/llegada-tres-chorros-huila-400px.webp" alt="Llegada a la cascada de los Tres Chorros de San Agustín Huila" title="Paisaje en la cascada de los Tres Chorros" %}
+{% include img.html img="magazine/llegada-tres-chorros-huila.webp" img-mini="magazine/llegada-tres-chorros-huila-400px.webp" alt="Llegada a la cascada de los Tres Chorros de San Agustín Huila" title="Paisaje en la cascada de los Tres Chorros" %}
 *Llegada a los Tres Chorros*
 
 Al llegar a Los Tres Chorros, entenderá el por qué de su nombre. Encontrarás esta hermosa trifurcación que presenta el rio Mulales en esta caída de agua
@@ -113,7 +113,7 @@ Por otra parte, en Las Tapias los visitantes pueden disfrutar de otro ratico de 
 Y, por supuesto, cuando llegues al pueblo de San Agustín nuevamente, puedes pasar por nuestra heladería y **disfrutar de un delicioso helado suave con receta. Será el mejor remate del paseo a los Tres Chorros.**
 
 <!-- Imágenes AMP -->
-{% include img.html img="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff.webp" img-mini="magazine/cascada-tres-chorros/brownie-con-helado-gurcoff-400px.webp" alt="Brownie con helado de la heladería GurCoff de San Agustín Huila" title="Brownie con Helado GurCoff" %}
+{% include img.html img="magazine/brownie-con-helado-gurcoff.webp" img-mini="magazine/brownie-con-helado-gurcoff-400px.webp" alt="Brownie con helado de la heladería GurCoff de San Agustín Huila" title="Brownie con Helado GurCoff" %}
 *Brownie con Helado GurCoff*
 
 **[HAZ CLIC AQUÍ](https://gurcoff.com/contacto)** y mira los horarios y nuestros datos de contacto.

@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-18T16:51:40-05:00</updated>
+     <updated>2022-06-18T20:44:57-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -65,7 +65,7 @@
    <link href="http://localhost:4000/cascada-los-tres-chorros-de-san-agustin"/>
    <id>http://localhost:4000/cascada-los-tres-chorros-de-san-agustin</id>
    <updated>2021-01-31T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Muchas de los visitantes de este lugar lo describen como “una de las maravillas naturales de Colombia”. Otros dicen que es un “lugar mágico”. Realmente es espectacular.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/cascada-tres-chorros/tres-chorros-san-agustin.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/cascada-tres-chorros/tres-chorros-san-agustin-400px.webp&quot; alt=&quot;Cascada de los Tres Chorros de San...</content>
+   <content type="html">&lt;p&gt;Muchas de los visitantes de este lugar lo describen como “una de las maravillas naturales de Colombia”. Otros dicen que es un “lugar mágico”. Realmente es espectacular.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/tres-chorros-san-agustin.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/tres-chorros-san-agustin-400px.webp&quot; alt=&quot;Cascada de los Tres Chorros de San...</content>
  </entry>
  
 
