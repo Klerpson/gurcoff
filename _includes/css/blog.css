@@ -1,6 +1,7 @@
 .blog{
   display: grid;
   gap: 2rem;
+  justify-items: center;
 }
 
 .blog h2,
