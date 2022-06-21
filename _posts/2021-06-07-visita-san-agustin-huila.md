@@ -4,7 +4,8 @@ description: San Agustín Huila tiene los hermosos paisajes del macizo colombian
 category: turismo
 tags: [turismo, parque]
 h1: San Agustín Huila destino lleno de experiencias
-img: img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp
+img: magazine/bienvenidos-a-san-agustin-huila-mini.webp
+jpg: magazine/bienvenidos-a-san-agustin-huila-mini.jpg
 alt: Entrada a San Agustín Huila
 date: 2021-06-07
 referencias:

@@ -16,7 +16,7 @@ intro: La Laguna del Magdalena es el origen o la fuente del gran Río Magdalena,
 Este es un lugar adornado por los frailejones que abundan en el Páramo de las papas, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conozcamos más de la Laguna del Magdalena
 <!-- excerpt -->
 
-{% include img.html img="magazine/laguna-magdalena/laguna-del-magdalena.webp" img-mini="magazine/laguna-magdalena/laguna-del-magdalena-huila.webp" alt="Laguna del Magdalena, origen del río Magdalena" title="Laguna del Magdalena, en el páramo de las papas" %}
+{% include img.html img="magazine/laguna-del-magdalena.webp" img-mini="magazine/laguna-del-magdalena-huila.webp" alt="Laguna del Magdalena, origen del río Magdalena" title="Laguna del Magdalena, en el páramo de las papas" %}
 *Laguna del Magdalena, origen del gran río Magdalena*
 
 * Do not remove this line (it will not be displayed)
@@ -38,7 +38,7 @@ Esta es la ruta favorita de muchos. **El motivo es la aventura y la cantidad de 
 
 Para llegar desde San Agustín hasta la Laguna del Magdalena, primero debes viajar en auto. Encuentras opciones como camperos y camionetas privadas. También, puedes tomar la ruta de la "[Chiva](https://es.wikipedia.org/wiki/Chiva_(veh%C3%ADculo))" desde San Agustín.
 
-{% include img.html img="magazine/laguna-magdalena/cabalgata-laguna-del-magdalena.webp" img-mini="magazine/laguna-magdalena/cabalgata-laguna-del-magdalena-san-agustin.webp" alt="Cabalgata hacia la Laguna del río Magdalena" title="Cabalgando hacia la Laguna del Magdalena, en el páramo de las papas" %}
+{% include img.html img="magazine/cabalgata-laguna-del-magdalena.webp" img-mini="magazine/cabalgata-laguna-del-magdalena-san-agustin.webp" alt="Cabalgata hacia la Laguna del río Magdalena" title="Cabalgando hacia la Laguna del Magdalena, en el páramo de las papas" %}
 *Cabalgata hacia la Laguna del Magdalena, ruta desde San Agustín Huila*
 
 Cualquiera de las opciones te ayudarán a **llegar hasta la vereda Villa Fátima, ubicada a 30 kilómetros de San Agustín**. Desde este punto comenzarás una aventura natural en una muy extensa caminata, o contratando los servicios de transporte a caballo.
@@ -51,7 +51,7 @@ Cuando lleguen a la vereda El Canelo, pasarás por otro lugar conocido como El C
 
 **Cuando llegues a San Antonio, podrás contratar hospedaje y alimentacion con los lugareños de la montaña**. Es una oportunidad especial de alimentar tu viaje con las mejores historias y experiencias de tus anfitriones.
 
-{% include img.html img="magazine/laguna-magdalena/camino-paramo-de-las-papas-hacia-laguna-del-magdalena.webp" img-mini="magazine/laguna-magdalena/camino-paramo-de-las-papas-hacia-laguna-del-magdalena-san-agustin.webp" alt="Camino de las papas hacia la Laguna del río Magdalena" title="Camino de las papas hacia la Laguna del Magdalena" %}
+{% include img.html img="magazine/camino-paramo-de-las-papas-hacia-laguna-del-magdalena.webp" img-mini="magazine/camino-paramo-de-las-papas-hacia-laguna-del-magdalena-san-agustin.webp" alt="Camino de las papas hacia la Laguna del río Magdalena" title="Camino de las papas hacia la Laguna del Magdalena" %}
 *Camino de las papas, o camino nacional, hacia la Laguna del Magdalena*
 
 Esta hermosa aventura se realiza en dos dias normalmente. **La primera noche la pasas en el hospedaje de la vereda San Antonio. En el recorrido del segundo día llegarás al Parque Purace**. Luego, podrás observar caídas de agua, hermosos paisajes y naturaleza silvestre.
@@ -62,7 +62,7 @@ Tu caminata continuará hasta un punto llamado "La Ye". Es un punto donde el rec
 
 ## Importancia de la Laguna del Magdalena y del río Magdalena
 
-{% include img.html img="magazine/laguna-magdalena/letrero-laguna-magdalena-paramo.webp" img-mini="magazine/laguna-magdalena/letrero-laguna-magdalena.webp" alt="Letrero del bienvenida al páramo de la Laguna del río Magdalena" title="Páramo de la Laguna del Magdalena" %}
+{% include img.html img="magazine/letrero-laguna-magdalena-paramo.webp" img-mini="magazine/letrero-laguna-magdalena.webp" alt="Letrero del bienvenida al páramo de la Laguna del río Magdalena" title="Páramo de la Laguna del Magdalena" %}
 *Bienvenida al páramo*
 
 **El río Magdalena es el río más importante de Colombia para la vida, la conservación de la naturaleza, la economía, la comunicación de pueblos, etc.** Piensa en estos datos:
@@ -85,7 +85,7 @@ Para visitar este lugar, **los precios varían entre los $70000 COP, hasta los $
 
 Por el clima de páramo, estará en medio del reino de los frailejones y la bruma. Si haces tu viaje en la época de florecimiento, este paisaje es más hermoso. ¡Parece un bosque de película de fantasía!
 
-{% include img.html img="magazine/laguna-magdalena/laguna-magdalena.webp" img-mini="magazine/laguna-magdalena/laguna-magdalena-paramo.webp" alt="Paisaje de la Laguna del río Magdalena" title="Paisaje de la Laguna del Magdalena" %}
+{% include img.html img="magazine/laguna-magdalena.webp" img-mini="magazine/laguna-magdalena-paramo.webp" alt="Paisaje de la Laguna del río Magdalena" title="Paisaje de la Laguna del Magdalena" %}
 *Paisaje de la Laguna del Magdalena*
 
 Su paisaje apacible, tranquilo y fresco se encuentra dentro del perímetro del Parque Nacional Natural Puracé, en límite sur entre los departamentos de Huila y Cauca. Esto te brinda la posibilidad de terminar tu ruta con otros destinos como [el estrecho del magdalena]({{site.baseurl}}/estrecho-rio-magdalena), [la cascada de los tres chorros]({{site.baseurl}}/cascada-los-tres-chorros-de-san-agustin), el pueblo de [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila), los termales de Coconuco, el nacimiento de los ríos antes mecionados, etc.
@@ -109,7 +109,7 @@ Recuerda tomar las siguientes precauciones en tu viaje:
 * Llueve constantemente. Recuerda que es un páramo. Utiliza ropa para la lluvia. Y protege tu equipaje con implementos para la lluvia.
 * El hospedaje y la comida a mitad de camino no son económicos. Pero son precios muy razonables si tienes en cuenta el aislamiento. Además, casi siempre tendrás truchas criadas en las aguas potables del hospedaje
 
-{% include img.html img="magazine/laguna-magdalena/laguna-magdalena-macizo-colombiano.webp" img-mini="magazine/laguna-magdalena/laguna-magdalena-macizo.webp" alt="Paisaje de la Laguna del río Magdalena" title="Paisaje de la Laguna del Magdalena" %}
+{% include img.html img="magazine/laguna-magdalena-macizo-colombiano.webp" img-mini="magazine/laguna-magdalena-macizo.webp" alt="Paisaje de la Laguna del río Magdalena" title="Paisaje de la Laguna del Magdalena" %}
 *La gran Laguna del Magdalena*
 
 ## Visita la laguna del Magdalena

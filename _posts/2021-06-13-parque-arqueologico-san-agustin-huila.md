@@ -4,7 +4,8 @@ description: El parque arqueológico de San Agustín es un destino lleno de desc
 category: turismo
 tags: [parque]
 h1: El Parque Arqueológico de San Agustín - Patrimonio de la Humanidad
-img: img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp
+img: magazine/parque-arqueologico-mesita-a-400px.webp
+jpg: magazine/parque-arqueologico-mesita-a-400px.jpg
 alt: Parque arqueológico de San Agustín Huila sección mesita A
 date: 2021-06-13
 referencias:

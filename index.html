@@ -185,7 +185,7 @@ background-header: var(--principal)
         <h4>{{ primer-articulo.h1 }}</h4>
         <a href="{{site.baseurl}}{{ primer-articulo.url }}">
           <img src="{{ site.baseurl }}/img/{{ primer-articulo.img }}" width="320" height="240" alt="{{ primer-articulo.alt }}" loading="lazy">
-          <p>{{ primer-articulo.intro | truncate: 80 }}</p>
+          <p>{{ primer-articulo.intro | truncate: 110 }}</p>
         </a>
       </article>
       {% assign segundo-articulo = site.posts[1] %}
@@ -193,7 +193,7 @@ background-header: var(--principal)
         <h4>{{ segundo-articulo.h1 }}</h4>
         <a href="{{site.baseurl}}{{ segundo-articulo.url }}">
           <img src="{{ site.baseurl }}/img/{{ segundo-articulo.img }}" width="320" height="240" alt="{{ segundo-articulo.alt }}" loading="lazy">
-          <p>{{ segundo-articulo.intro | truncate: 80 }}</p>
+          <p>{{ segundo-articulo.intro | truncate: 110 }}</p>
         </a>
       </article>
       {% assign tercer-articulo = site.posts[2] %}
@@ -201,7 +201,7 @@ background-header: var(--principal)
         <h4>{{ tercer-articulo.h1 }}</h4>
         <a href="{{site.baseurl}}{{ tercer-articulo.url }}">
           <img src="{{ site.baseurl }}/img/{{ tercer-articulo.img }}" width="320" height="240" alt="{{ tercer-articulo.alt }}" loading="lazy">
-          <p>{{ tercer-articulo.intro | truncate: 80 }}</p>
+          <p>{{ tercer-articulo.intro | truncate: 110 }}</p>
         </a>
       </article>
     <a href="{{site.baseurl}}/blog" class="boton-main">Leer más sobre San Agustín</a>

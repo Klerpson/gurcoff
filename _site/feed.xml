@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-20T21:36:59-05:00</updated>
+     <updated>2022-06-20T22:32:03-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -25,7 +25,7 @@
    <link href="http://localhost:4000/laguna-del-magdalena"/>
    <id>http://localhost:4000/laguna-del-magdalena</id>
    <updated>2021-09-09T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Este es un lugar adornado por los frailejones que abundan en el Páramo de las papas, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conozcamos más de la Laguna del Magdalena &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/laguna-magdalena/laguna-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/laguna-magdalena/laguna-del-magdalena-huila.webp&quot; alt=&quot;Laguna del...</content>
+   <content type="html">&lt;p&gt;Este es un lugar adornado por los frailejones que abundan en el Páramo de las papas, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conozcamos más de la Laguna del Magdalena &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/laguna-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/laguna-del-magdalena-huila.webp&quot; alt=&quot;Laguna del...</content>
  </entry>
  
  <entry>
