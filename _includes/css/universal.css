@@ -7,7 +7,7 @@
   --grisClaro: #aeaeae;
   --grisFuentes: #161519;
   --shadow: 0 4px 8px rgba(24, 24, 24, 0.302);
-  --blanco: #f3f3f3;
+  --blanco: #f9f9f9;
   --fuenteTitulos: 'Sacramento', cursive;
   --fuenteTextos: 'Open Sans', sans-serif;
 }
@@ -165,8 +165,4 @@ footer {
   margin: 3rem 0;
   color: var(--principal);
   width: min(80vw, 100%);
-}
-
-#breadcrumbs {
-  margin: 0 0 2rem;
 }

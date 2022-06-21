@@ -37,9 +37,3 @@
   background-color: #43d336;
 }
 
-@media screen and (min-width:992px) {
-  .share-box {
-    width: 50vw;
-    margin: 0 auto;
-  }
-}
