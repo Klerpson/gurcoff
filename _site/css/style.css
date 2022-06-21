@@ -127,7 +127,7 @@ header p {
   border: 1px solid var(--principal);
   padding: 1rem 3rem;
   border-radius: 8px;
-  transition: all .4s ease;
+  transition: all .25s ease;
   font-weight: 700;
   text-decoration: none;
 }
@@ -347,7 +347,6 @@ footer {
 
 .testimonials article ul li {
   list-style: none;
-  padding: ;
 }
 
 .instagram {
@@ -389,57 +388,6 @@ footer {
   color: white;
 }
 
-.blog h2 {
-  color: var(--accion);
-}
-
-.blog h2,
-.blog>p {
-  width: min(80vw, 600px);
-  margin: 4rem auto;
-  text-align: center;
-}
-
-.blog div {
-  display: flex;
-  gap: 2rem;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-}
-
-.blog article {
-  width: min(100%, 600px);
-  background-color: var(--blanco);
-  border-radius: 8px;
-  box-shadow: var(--shadow);
-}
-
-.blog article a {
-  text-decoration: none;
-  padding: 1rem;
-  color: var(--principal);
-  display: grid;
-  gap: 16px;
-  grid-template-columns: 1fr 2fr;
-  align-items: center;
-}
-
-.blog article a img {
-  max-width: 100%;
-  -o-object-fit: cover;
-  object-fit: cover;
-  border-radius: 8px;
-}
-
-.blog article a h3 {
-  font-size: 2rem;
-}
-
-.blog article a p {
-  font-size: 1rem;
-}
-
 .mapa {
   display: grid;
   gap: 1.5rem;
@@ -472,7 +420,7 @@ footer {
 }
 
 .plus {
-  color: white;
+  color: var(--principal);
   position: absolute;
   top: 0;
   display: block;
@@ -540,11 +488,11 @@ footer {
 .svg-icon path,
 .svg-icon polygon,
 .svg-icon rect {
-  fill: white;
+  fill: var(--principal);
 }
 
 .svg-icon circle {
-  stroke: white;
+  stroke: var(--principal);
   stroke-width: 1;
 }
 
@@ -860,6 +808,7 @@ footer {
 .footer-links a:hover{
   font-weight: 700;
   color: var(--principal);
+  text-decoration: underline;
 }
 
 .register{
@@ -985,15 +934,86 @@ footer {
   letter-spacing: -.4px;
   line-height: 1.3;
 }
-.magazine h2{
+.magazine h2 {
   color: var(--principal);
   margin-bottom: 2rem;
 }
-.magazine p{
+
+.magazine p {
   margin: 0 0 2rem;
 }
 
-.blog-footer ul li{
+
+.blog h2 {
+  color: var(--accion);
+}
+
+.blog h2,
+.blog>p {
+  width: min(80vw, 640px);
+  margin: 4rem auto;
+  text-align: center;
+}
+
+.blog div {
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.blog article {
+  width: min(100%, 320px);
+}
+
+.blog article h4 {
+  font-size: clamp(2rem, 3vw, 2.5rem);
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 1.5px;
+  color: white;
+  font-family: var(--fuenteTitulos);
+}
+
+.blog article a {
+  position: relative;
+  text-decoration: none;
+  border-radius: 8px;
+  color: var(--principal);
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s ease-out;
+}
+
+.blog article a:hover{
+  box-shadow: var(--shadow);
+  transform: scale(1.02);
+  text-decoration: underline;
+}
+
+.blog article a img {
+  max-width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.blog article a p{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.8rem;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 0 0 8px 8px;
+  font-size: 16px;
+  letter-spacing: -.4px;
+  line-height: 1;
+}
+
+.blog-footer ul li {
   margin: 2rem 0 2rem 2rem;
   font-size: clamp(1.1em, 2vw, 1.2rem);
   letter-spacing: -.4px;
@@ -1003,13 +1023,6 @@ footer {
 .title-category {
   margin: 2rem 0;
 }
-
-.blog article h4{
-  font-size: clamp(1.1em, 2vw, 1.2rem);
-  letter-spacing: -.4px;
-  line-height: 1.3;
-}
-
 .hoteles div{
   color: var(--grisFuentes);
 }

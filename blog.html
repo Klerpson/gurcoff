@@ -24,9 +24,10 @@ background-header: var(--principal)
   <div>
     {% for post in site.categories[category_name] %}
     <article>
+      <h4>{{ post.h1 }}</h4>
       <a href="{{site.baseurl}}{{ post.url }}">
-        <img src="{{ site.baseurl }}/img/{{ post.img }}" width="100%" height="auto" alt="{{ post.alt }}" loading="lazy">
-        <h4>{{ post.h1 }}</h4>
+        <img src="{{ site.baseurl }}/img/{{ post.img }}"width="320" height="240" alt="{{ post.alt }}" loading="lazy">
+        <p>{{post.intro | truncate: 80}}</p>
       </a>
     </article>
     {% endfor %}

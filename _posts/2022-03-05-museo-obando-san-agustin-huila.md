@@ -4,14 +4,14 @@ description: El museo de Obando es una parada obligada para cuando visitas San A
 category: turismo
 tags: [obando, turismo]
 h1: Visita el museo de Obando en San Agustín
-img: img/magazine/obando/obando-san-agustin-huila.webp
-jpg: img/magazine/obando/obando-san-agustin-huila.jpg
+img: magazine/obando-san-agustin-huila.webp
+jpg: magazine/obando-san-agustin-huila.jpg
 alt: Plaza de Obando en San Agustín Huila
 date: 2022-03-04
 background-header: var(--oficial)
 referencias:
   - Foto Google maps: https://www.google.com/maps/place/Museo+arqueol%C3%B3gico+de+Obando/@1.939533,-76.2981777,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL%3Dw216-h100-k-no!7i4056!8i1872!4m15!1m7!3m6!1s0x8e256536e36cb58b:0x37850a0804fbcf29!2sObando,+San+Agust%C3%ADn,+Huila,+Colombia!3b1!8m2!3d1.9400639!4d-76.2983514!3m6!1s0x8e2565376da5dab1:0x3880cb8707e22466!8m2!3d1.939533!4d-76.2981777!14m1!1BCgIgAQ?hl=es-ES
-intro: Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico.
+intro: Obando es un pueblito de San Agustín Huila que se distingue por su plaza-museo arqueológico.
 ---
 Obando y su museo se encuentra en uno de los corregimientos de San Agustín Huila, a 20 minutos, y a 248 kilómetros de Neiva.
 
@@ -53,7 +53,7 @@ El museo arqueológico es interesante porque se va dando una idea de lo que fue 
 
 Debes visitarlo. Obando en San Agustín es un lugar privilegiado para la admiración y aprecio. Es rico en su patrimonio arqueológico indígena colombiano. Da a conocer la grandiosidad del pasado de nuestros ancestros, transmitiendo vitalidad y argumento cultural.
 
-{% include img.html img="magazine/museo-obando/museo-obando-san-agustin.webp" img-mini="magazine/museo-obando/museo-obando-san-agustin-huila.webp" alt="Museo de Obando en San Agustín Huila" title="Museo de Obando plaza central" %}
+{% include img.html img="magazine/museo-obando-san-agustin.webp" img-mini="magazine/museo-obando-san-agustin-huila.webp" alt="Museo de Obando en San Agustín Huila" title="Museo de Obando plaza central" %}
 *Museo de Obando en San Agustín Huila*
 
 Este parque y museo arqueológico tiene todo lo que usted necesita para un día memorable: plazas, descanso y recorridos naturales en sus zonas veredales.
@@ -74,7 +74,7 @@ Es un lugar que ofrece a los turistas la oportunidad de conocer la historia natu
 
 El lugar es bello y completamente seguro. Se recomienda ir con un guía, puesto que los sitios están expuestos y no están numerados.
 
-{% include img.html img="magazine/museo-obando/obando-san-agustin.webp" img-mini="magazine/museo-obando/obando-san-agustin-huila.webp" alt="Obando en San Agustín Huila" title="Vista cañón Magdalena desde Obando" %}
+{% include img.html img="magazine/obando-san-agustin.webp" img-mini="magazine/obando-san-agustin-huila.webp" alt="Obando en San Agustín Huila" title="Vista cañón Magdalena desde Obando" %}
 *Vista del Magdalena desde Obando en San Agustín Huila*
 
 Si escoges suficiente tiempo para realizar un recorrido completo, incluyendo el museo y alguna actividad física, como ir en carreta o paseando en montaña; ten por seguro que pasarás un par de horas bien invertidas junto a los nativos san agustineros. Además, el anillo turístico te lleva a más actividades como conocer el Salto del Mortiño con el culumpio más arriesgado del país.

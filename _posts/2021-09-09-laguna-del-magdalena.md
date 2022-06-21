@@ -2,9 +2,9 @@
 title: Laguna del Magdalena, donde nace el río Magdalena
 description: La Laguna del Magdalena es el lugar donde nace el gran río Magdalena, el principal río de Colombia. Te enseñamos cómo llegar hasta este hermoso lugar.
 category: turismo
-h1: La laguna del Magdalena
-img: img/magazine/laguna-magdalena/laguna-del-magdalena.webp
-jpg: img/magazine/laguna-magdalena/laguna-del-magdalena.jpg
+h1: La laguna del Magdalena, el origen del río
+img: magazine/laguna-del-magdalena.webp
+jpg: magazine/laguna-del-magdalena.jpg
 alt: Fotografía de la Laguna del río Magdalena, fuente del gran río Magdalena
 background-header: 'var(--oficial)'
 date: 2021-09-09

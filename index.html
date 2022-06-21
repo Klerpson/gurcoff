@@ -180,39 +180,30 @@ background-header: var(--principal)
   <p>Para que puedas probar las exclusivas recetas de GurCoff, primero debes venir a San Agustín Huila. Por esta razón,
     <strong>te preparamos un blog con la información necesaria para cuando quieras venir a visitarnos.</strong> </p>
   <div>
-    <article>
       {% assign primer-articulo = site.posts[0] %}
-      <a href="{{ primer-articulo.url }}" title="{{ primer-articulo.title }}">
-        <img src="{{site.baseurl}}/{{primer-articulo.img}}" alt="{{primer-articulo.alt}}"
-          title="{{primer-articulo.title}}" width="150px" height="150px">
-        <div>
-          <h3>{{ primer-articulo.title }}</h3>
-          <p>{{primer-articulo.description}}</p>
-        </div>
-      </a>
-    </article>
-    <article>
+      <article>
+        <h4>{{ primer-articulo.h1 }}</h4>
+        <a href="{{site.baseurl}}{{ primer-articulo.url }}">
+          <img src="{{ site.baseurl }}/img/{{ primer-articulo.img }}" width="320" height="240" alt="{{ primer-articulo.alt }}" loading="lazy">
+          <p>{{ primer-articulo.intro | truncate: 80 }}</p>
+        </a>
+      </article>
       {% assign segundo-articulo = site.posts[1] %}
-      <a href="{{ segundo-articulo.url }}" title="{{ segundo-articulo.title }}">
-        <img src="{{site.baseurl}}/{{segundo-articulo.img}}" alt="{{segundo-articulo.alt}}"
-          title="{{segundo-articulo.title}}" width="150px" height="150px">
-        <div>
-          <h3>{{ segundo-articulo.title }}</h3>
-          <p>{{segundo-articulo.description}}</p>
-        </div>
-      </a>
-    </article>
-    <article>
+      <article>
+        <h4>{{ segundo-articulo.h1 }}</h4>
+        <a href="{{site.baseurl}}{{ segundo-articulo.url }}">
+          <img src="{{ site.baseurl }}/img/{{ segundo-articulo.img }}" width="320" height="240" alt="{{ segundo-articulo.alt }}" loading="lazy">
+          <p>{{ segundo-articulo.intro | truncate: 80 }}</p>
+        </a>
+      </article>
       {% assign tercer-articulo = site.posts[2] %}
-      <a href="{{ primer-articulo.url }}" title="{{ tercer-articulo.title }}">
-        <img src="{{site.baseurl}}/{{tercer-articulo.img}}" alt="{{tercer-articulo.alt}}"
-          title="{{tercer-articulo.title}}" width="150px" height="150px">
-        <div>
-          <h3>{{ tercer-articulo.title }}</h3>
-          <p>{{tercer-articulo.description}}</p>
-        </div>
-      </a>
-    </article>
+      <article>
+        <h4>{{ tercer-articulo.h1 }}</h4>
+        <a href="{{site.baseurl}}{{ tercer-articulo.url }}">
+          <img src="{{ site.baseurl }}/img/{{ tercer-articulo.img }}" width="320" height="240" alt="{{ tercer-articulo.alt }}" loading="lazy">
+          <p>{{ tercer-articulo.intro | truncate: 80 }}</p>
+        </a>
+      </article>
     <a href="{{site.baseurl}}/blog" class="boton-main">Leer más sobre San Agustín</a>
   </div>
 </section>

@@ -39,6 +39,7 @@ footer {
 .footer-links a:hover{
   font-weight: 700;
   color: var(--principal);
+  text-decoration: underline;
 }
 
 .register{

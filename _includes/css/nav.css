@@ -11,7 +11,7 @@
 }
 
 .plus {
-  color: white;
+  color: var(--principal);
   position: absolute;
   top: 0;
   display: block;
@@ -79,11 +79,11 @@
 .svg-icon path,
 .svg-icon polygon,
 .svg-icon rect {
-  fill: white;
+  fill: var(--principal);
 }
 
 .svg-icon circle {
-  stroke: white;
+  stroke: var(--principal);
   stroke-width: 1;
 }
 

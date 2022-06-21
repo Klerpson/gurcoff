@@ -127,7 +127,7 @@ header p {
   border: 1px solid var(--principal);
   padding: 1rem 3rem;
   border-radius: 8px;
-  transition: all .4s ease;
+  transition: all .25s ease;
   font-weight: 700;
   text-decoration: none;
 }
