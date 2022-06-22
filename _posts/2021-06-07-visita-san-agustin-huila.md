@@ -72,7 +72,7 @@ Estos son los **aeropuertos más cercanos a San Agustín Huila**:
 
 Entre sus artesanías, podrás ver los tejidos en hojas de plátano y réplicas talladas en piedras, todas elaboradas por los artesanos de esta comunidad. Y sobre todo, **las piedras originales de la cultura ancestral de San Agustín**.
 
-![El parque arqueológico de San Agustín]({{ 'img/magazine/parque-arqueologico-san-agustin.webp' | relative_url }} "El Parque Arqueológico de San Agustín"){:width="320" height="240"}
+![El parque arqueológico de San Agustín]({{ 'img/magazine/parque-arqueologico-san-agustin.webp' | relative_url }} "El Parque Arqueológico de San Agustín"){:width="360" height="240"}
 
 Estas zonas arqueológicas componen un complejo parque que abarca 2 municipios, desde San Agustín Huila hasta Isnos. Es un paseo lleno de datos muy interesantes y reveladores.
 
@@ -82,7 +82,7 @@ Estas zonas arqueológicas componen un complejo parque que abarca 2 municipios, 
 
 Si deseas, te recomendamos adquirir los servicios de los guías del parque, quienes se encargarán de ayudarte a disfrutar plenamente del tour. Así podrás entender mejor la distribución y exhibición de las estatuas, que te explicamos un poco a continuación.
 
-![El Alto de los Ídolos de San Agustín]({{ 'img/magazine/alto-de-los-idolos-san-agustin.webp' | relative_url }} "Alto de los Ídolos"){:width="320" height="240"}
+![El Alto de los Ídolos de San Agustín]({{ 'img/magazine/alto-de-los-idolos-san-agustin.webp' | relative_url }} "Alto de los Ídolos"){:width="360" height="240"}
 
 ### El Alto de los Ídolos
 
@@ -90,7 +90,7 @@ Este lugar contiene el conjunto funerario mejor conservado de Colombia, y uno de
 
 ### El museo de Obando
 
-![Museo de Obando de San Agustín]({{ 'img/magazine/museo-obando-san-agustin-huila.webp' | relative_url }} "Museo de Obando"){:width="320" height="240"}
+![Museo de Obando de San Agustín]({{ 'img/magazine/museo-obando-san-agustin-huila.webp' | relative_url }} "Museo de Obando"){:width="360" height="240"}
 
 A solo 10 kilómetros después de San Agustín, puedes encontrar [El Parque Museo de Obando]({{site.baseurl}}/museo-obando-san-agustin-huila). Está en un pueblito rodeado de coloridas casas y un espectacular paisaje de fondo. En este lugar conocerás un gran tesoro de urnas funerarias, grutas que fueron aposentos sagrados. **Se hizo un museo en el parque central con unas escaleras de concreto que descienden hasta las tumbas.** Y tú puedes acceder a su interior.
 
@@ -110,13 +110,13 @@ Tienes que venir y visitar el [Estrecho del Magdalena]({{site.baseurl}}/estrecho
 
 **El Salto de los Bordones**, una de las cascadas más altas de Colombia; **el Salto el Mortiño**, con su mirador de cristal y su culumpio al vacío; [la cascada Los Tres Chorros]({{site.baseurl}}/cascada-los-tres-chorros-de-san-agustin), un rincón preservado naturalmente por su ubicación; y numerosos caudales más, formando una belleza natural cautivadora, excelente para tus mejores recuerdos fotográficos.
 
-![Cascada Salto de Bordones]({{ 'img/magazine/salto-de-bordones-huila.webp' | relative_url }} "Cascada Salto de Bordones"){:width="320" height="240"}
+![Cascada Salto de Bordones]({{ 'img/magazine/salto-de-bordones-huila.webp' | relative_url }} "Cascada Salto de Bordones"){:width="360" height="240"}
 
 Con una fauna es extensa y un recorrido aventurero que amerita gran destreza y condición física, dispones también de actividades para tener una experiencia extrema como las que se encuentran en el Cañón de la Magdalena: **parapente, canopy y las hamacas aéreas**, son adrenalina pura para los más aventureros.
 
 ## Turismo urbano de San Agustín Huila
 
-![Fotos de murales de San Agustín Huila]({{ 'img/magazine/murales-san-agustin-huila.webp' | relative_url }} "Murales de San Agustín"){:width="320" height="240"}
+![Fotos de murales de San Agustín Huila]({{ 'img/magazine/murales-san-agustin-huila.webp' | relative_url }} "Murales de San Agustín"){:width="360" height="240"}
 
 **San Agustín Huila tiene una arquitectura colonial hermosa**. Su zona urbana está rodeada de casas antiguas, murales hermosos, naturaleza en la zona urbana, calles empedradas, obras de artesanía local, etc.
 
@@ -140,7 +140,7 @@ La gastronomía de San Agustín es muy variada, pues tiene una mezcla de muchas 
 
 Hay un amasajo muy recomendado: **las achiras huilenses**. La achira o simple achiras es elaborada a partir del almidón de achira o sagú, una planta de origen sudamericano, utilizada por los pueblos prehispánicos de Perú y Colombia.
 
-![Achiras de San Agustín Huila]({{ 'img/magazine/achiras-huilenses-san-agustin.webp' | relative_url }} "Achiras de San Agustín"){:width="320" height="240"}
+![Achiras de San Agustín Huila]({{ 'img/magazine/achiras-huilenses-san-agustin.webp' | relative_url }} "Achiras de San Agustín"){:width="360" height="240"}
 
 Se prepara añadiendo queso cuajada fresco, mantequilla y yemas de huevo. Luego se lleva al horno, dando como resultado un delicioso crujiente. Ese saborcito quesudito crocante con un café orgánico de la zona es un sueño delicioso.
 
@@ -148,7 +148,7 @@ Las temperaturas de las tierras del Huila son los ideales para el mejor resultad
 
 ### El café de San Agustín Huila
 
-![Affogato GurCoff de San Agustín Huila]({{ 'img/magazine/affogato-san-agustin-huila.webp' | relative_url }} "Affogato de San Agustín"){:width="320" height="240"}
+![Affogato GurCoff de San Agustín Huila]({{ 'img/magazine/affogato-san-agustin-huila.webp' | relative_url }} "Affogato de San Agustín"){:width="360" height="240"}
 
 **El café de San Agustín Huila ha sido calificado como uno de los mejores del mundo y el mejor del país**. Muchas circunstancias están a favor de este logro: su delicioso clima, sus tierras, sus tradiciones en la labor, el apoyo al gremio, la altura sobre el nivel del mar. Factores como estos han permitido este logro en el municipio.
 

@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-21T22:31:23-05:00</updated>
+     <updated>2022-06-22T15:06:46-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -37,11 +37,11 @@
  </entry>
  
  <entry>
-   <title>Parque Arqueológico de San Agustín | GurCoff</title>
+   <title>Parque Arqueológico de San Agustín Huila</title>
    <link href="http://localhost:4000/parque-arqueologico-san-agustin-huila"/>
    <id>http://localhost:4000/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-06-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones. Te cuento todo lo que puedes disfrutar cuando vengas a visitarlo.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;!-- Imágenes AMP --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/parque-arqueologico-san-agustin/parque-arqueologico-mesita-a-400px.webp&quot; alt=&quot;Parque Arqueológico de San Agustín Huila - Mesita A&quot;...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones&lt;/strong&gt;. Es una hermosa reserva natural con aproximadamente 2.000 Km2 de extensión.&lt;/p&gt; &lt;p&gt;Te contamos todo la información que necesitas para planear tu visita y que puedas disfrutarlo cuando vengas a San Agustín.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt;...</content>
  </entry>
  
  <entry>

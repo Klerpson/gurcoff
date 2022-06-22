@@ -20,7 +20,7 @@ intro: La cascada Los Tres Chorros es un hermoso rincón natural de San Agustín
 
 ## La hermosa cascada de los Tres Chorros
 
-![Cascada Los Tres Chorros en San Agustín. Fotografía llegando al lugar]({{'img/magazine/cascada-tres-chorros-san-agustin.webp' | relative_url}} "Cascada Tres Chorros"){:width="320" height="240"}
+![Cascada Los Tres Chorros en San Agustín. Fotografía llegando al lugar]({{'img/magazine/cascada-tres-chorros-san-agustin.webp' | relative_url}} "Cascada Tres Chorros"){:width="360" height="240"}
 
 **La cascada Los Tres Chorros es una cascada que es parte del rio Mulales, 1que tiene una caída de agua con casi 28 metros que forman 3 chorros paralelos de muy buen caudal**, haciendo que el efecto visual y la sensación al estar presentes sea intimidante, potente y digna de admiración.
 
@@ -43,7 +43,7 @@ Es mejor avanzar otro poco para llegar a la vereda La Pradera. Pregúntale a la 
 
 En el municipio de San Agustín tienes diferentes opciones de transporte. Están las empresas de transporte intermunicipal, que te pueden acercar hasta la vereda La Pradera.
 
-![Cascada de los Tres Chorros en San Agustín Huila]({{'img/magazine/cascada-tres-chorros-san-agustin-huila.webp' | relative_url}} "Cascada Los Tres Chorros desde la base de la caída de agua"){:width="320" height="240"}
+![Cascada de los Tres Chorros en San Agustín Huila]({{'img/magazine/cascada-tres-chorros-san-agustin-huila.webp' | relative_url}} "Cascada Los Tres Chorros desde la base de la caída de agua"){:width="360" height="240"}
 
 Lo mismo pueden hacer los transportes en motocicleta o "motorratones", como se les conoce localmente. ¡Y hasta puedes llegar en chiva! Cuando ya llegas al comienzo de los sendero naturales, comienza una caminata.
 
@@ -67,7 +67,7 @@ Cuando llegues al río Mulales, seguirás por la orilla del río, pisando la roc
 
 Primero, puedes **hacer el viaje en bicicleta**. Puedes alquilar muy buenas bicicletas y vivir la aventura, el ejercicio y una experiencia que siempre recordarás. ¿Te imaginas las fotos?
 
-![Turista en bicicleta visitando la cascada Los Tres Chorros en San Agustín.]({{'img/magazine/cascada-tres-chorros-tour-bicicleta.webp' | relative_url}} "Adventure Colombia"){:width="320" height="240"}
+![Turista en bicicleta visitando la cascada Los Tres Chorros en San Agustín.]({{'img/magazine/cascada-tres-chorros-tour-bicicleta.webp' | relative_url}} "Adventure Colombia"){:width="360" height="240"}
 
 Por ejemplo, la agencia [Adventure-X-Colombia](https://bit.ly/treschorrosbicicleta){:target="_blank" rel="nofollow sponsored"} de San Agustín te ofrece un recorrido a los Tres Chorros. Te incluyen el seguro, un buen snack, fotos con dron y Go-Pro. Dependiendo de tu capacidad en la bicicleta, así mismo dura el tiempo de esta **excursión a los Tres Chorros**.
 
@@ -91,7 +91,7 @@ Tendrás el marco apropiado para la meditación. Y luego, en tu viaje de regreso
 
 **Al terminar tu visita a la cascada de Los Tres Chorros, te recomendamos visitar el sitio llamado Las Tapias**. Según la cultura local, es en este lugar donde se fundó el municipio de San Agustín Huila por primera vez. Tiene un impresionante paisaje con bosques de roble.
 
-![Waffle de la heladería GurCoff de San Agustín Huila]({{'img/magazine/waffle-gurcoff-san-agustin.webp' | relative_url}}){:width="320" height="240"}
+![Waffle de la heladería GurCoff de San Agustín Huila]({{'img/magazine/waffle-gurcoff-san-agustin.webp' | relative_url}}){:width="360" height="240"}
 
 Además, **podrás hacer una caminata por un sendero precolombino**, con fondos llenos de terrazas artificiales, hechas por los antiguos pobladores para sus cultivos y sus viviendas. Quizá este sea el motivo de su nombre. Sus ruinas y paisajes te llevará a la época en que los antepasados transitaron y habitaron este lugar.
 

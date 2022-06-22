@@ -933,12 +933,12 @@ footer {
 #markdown-toc {
   border: 1px solid #aaa;
   padding: 1.5em;
-  margin: 0 0 1.5rem;
+  margin: 0 auto 1.5rem;
   border-radius: 8px;
   box-shadow: var(--shadow);
   list-style: decimal;
   background-color: white;
-  width: fit-content;
+  width: min(80vw, 720px);
 }
 
 #markdown-toc a,
