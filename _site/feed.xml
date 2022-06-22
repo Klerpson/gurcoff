@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-21T16:20:42-05:00</updated>
+     <updated>2022-06-21T22:31:23-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -49,7 +49,7 @@
    <link href="http://localhost:4000/visita-san-agustin-huila"/>
    <id>http://localhost:4000/visita-san-agustin-huila</id>
    <updated>2021-06-07T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;San Agustín Huila es especial para viajar y descansar. Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.&lt;/strong&gt; &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/visita-san-agustin/bienvenidos-a-san-agustin-huila-mini.webp&quot; alt=&quot;Entrada a San Agustín...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;San Agustín Huila es un pueblito especial para viajar y descansar.&lt;/strong&gt; Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;Te vamos a contar todo lo que vas a disfrutar en...</content>
  </entry>
  
  <entry>

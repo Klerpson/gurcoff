@@ -896,6 +896,10 @@ footer {
   border-radius: 7px;
 }
 
+.disqus iframe{
+  padding: 1rem;
+}
+
 .legal {
   display: grid;
   gap: 2rem;
@@ -934,6 +938,7 @@ footer {
   box-shadow: var(--shadow);
   list-style: decimal;
   background-color: white;
+  width: fit-content;
 }
 
 #markdown-toc a,
@@ -1134,7 +1139,7 @@ footer {
 .share-box {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: left;
 }
 
 .share-box a {
@@ -1145,6 +1150,7 @@ footer {
   text-decoration: none;
   font-weight: 700;
   opacity: 1;
+  margin-right: 2rem;
 }
 
 .share-box a:hover {

@@ -81,6 +81,10 @@
   border-radius: 7px;
 }
 
+.disqus iframe{
+  padding: 1rem;
+}
+
 .legal {
   display: grid;
   gap: 2rem;
