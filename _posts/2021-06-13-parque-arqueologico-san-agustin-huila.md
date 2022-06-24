@@ -1,6 +1,6 @@
 ---
 title: Parque Arqueológico de San Agustín Huila
-description: El parque arqueológico de San Agustín es un destino lleno de descubrimientos, historia y aprendizaje. Ven a conocer el parque patrimonio colombiano.
+description: El parque arqueológico de San Agustín es un parque natural lleno de descubrimientos, historia y aprendizaje 🗿. Ven a conocerlo 🥾
 category: turismo
 tags: [parque]
 h1: Conoce el Parque Arqueológico de San Agustín
