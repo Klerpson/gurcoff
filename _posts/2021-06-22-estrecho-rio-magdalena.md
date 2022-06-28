@@ -104,10 +104,10 @@ En el estrecho del Magdalena es muy común que los más osados intenten pasar de
 
 >¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
+![Estrecho del río Magdalena]({{ 'img/magazine/estrecho-rio-magdalena.webp' | relative_url }} "Estrecho del Magdalena"){:width="360" height="240" loading="lazy"}
+
 ## Ven al Estrecho del Río Magdalena
 
 Estamos seguros que pasarás un paseo relajante, muy bonito, rodeado de naturaleza y admirado de la imponencia de la naturaleza, expresada en la humildad de un majestuoso río reducido a un pequeño paso, **el Estrecho del Magdalena**.
 
 ¿Te imaginabas que el Magdalena tuviera un punto así? ¿Qué te parece? **Comparte la información a quien también le guste estas formaciones hermosas de la naturaleza**.
-
->Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de ["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
