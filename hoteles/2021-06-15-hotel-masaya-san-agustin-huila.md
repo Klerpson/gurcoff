@@ -36,94 +36,30 @@ El hotel Masaya es una propiedad enorme. Su ubicación te brinda unas vistas her
 
 ## Cómo llegar al Hotel Masaya de San Agustín
 
-![Hotel Masaya en San Agustín Huila]({{ 'img/hoteles/hotel-masaya-de-san-agustin.webp' | relative_url }} "Hotel Masaya San Agustín"){:width="360" height="240" loading="lazy"}
+**La dirección del Hotel Masaya es en la vereda El Tablón, kilómetro 1, en la vía del Estrecho del Magdalena**. Encontrarás su letrero a mano derecha de la vía.
 
-**La dirección del Hotel Masaya es en la vereda El Tablón, kilómetro 1, en la vía del Estrecho del Magdalena**. Encontrarás su letrero a mano derecha de la vía. 
+Debes entrar por el camino que encuentras allí y avanzar hasta el final de ese camino. Está muy bien asfaltado hasta la entrada del hotel.
 
-Debes entrar por el camino que encuentras allí y avanzar hasta el final de ese camino. Está muy bien asfaltado Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
-
-{% include boton.html path="https://goo.gl/maps/x1ECyeLxJP4ySiB59" title="Ubicación del Hotel Masaya de San Agustín Huila" texto="Google Maps" %}
-
-{% include boton.html path="https://ul.waze.com/ul?place=ChIJa4EuN2F6JY4RXBZUWnoHtNM&ll=1.89185380%2C-76.28113550&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel Masaya de San Agustín Huila en Waze" texto="Waze" %}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15950.646512512221!2d-76.282667!3d1.8839732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e25707f01ae31c7%3A0xccd64e01b1e32fe2!2sMasaya%20San%20Agust%C3%ADn!5e0!3m2!1ses-419!2sco!4v1656429101495!5m2!1ses-419!2sco" width="400" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+*Ubicación del hotel Masaya en San Agustín*
 
 ## Datos de contacto del Hotel Masaya
 
+![Hotel Masaya en San Agustín Huila]({{ 'img/hoteles/hotel-masaya-de-san-agustin.webp' | relative_url }} "Hotel Masaya San Agustín"){:width="360" height="240" loading="lazy"}
+
 Puedes contactarlos y preguntar por los paquetes de turismo que ofrece el mismo hotel. Contacta directamente con el hotel Masaya. Evita los intermediarios para obtener las mejores ofertas.
 
-### Teléfono del Hotel Masaya de San Agustín
+**El número de teléfono del Hotel Masaya es [(57)3124187927](tel:+573124187927){:rel="nofollow" target="_blank"} y [(57)3233630528](tel:+573233630528){:rel="nofollow" target="_blank"}**.
 
-**El número de celular del Hotel Masaya es (57)3124187927 y (57)3233630528**. Haz clic en el siguiente botón para llamar:
+**El número de whatsapp del Hotel Masayade es [(57)3124187927](https://wa.me/573124187927){:rel="nofollow" target="_blank"} y [(57)3233630528](https://wa.me/573233630528){:rel="nofollow" target="_blank"}.**
 
-{% include boton.html path="tel:+573124187927" title="Celular del Hotel Masaya de San Agustín Huila" texto="Llamar al 3124187927" %}
-
-{% include boton.html path="tel:+573233630528" title="Celular 2 del Hotel Masaya de San Agustín Huila" texto="Llamar al 3233630528" %}
+**El correo electrónico del hotel Masaya es [sanagustin@masaya-experience.com](mailto:sanagustin@masaya-experience.com){:rel="nofollow" target="_blank"}**. Desde el siguiente botón puedes enviarles un e-mail:
 
 >¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
-### WhatsApp del Hotel Masaya de San Agustín
+## Habitaciones del hotel Masaya
 
-**El número de whatsapp del Hotel Masayade es (57)3124187927 y (57)3233630528.** Haz clic en el siguiente botón para escribir desde tu WhatsApp:
-
-{% include boton.html path="https://wa.me/573124187927" title="WhatsApp del Hotel Akawanka de San Agustín Huila" texto="Whatsapp 573124187927" %}
-
-{% include boton.html path="https://wa.me/573233630528" title="WhatsApp del Hotel Akawanka de San Agustín Huila" texto="Whatsapp 573233630528" %}
-
-### Email del Hotel Akawanka Lodge
-
-**El correo electrónico del hotel Masaya es sanagustin@masaya-experience.com**. Desde el siguiente botón puedes enviarles un e-mail:
-
-{% include boton.html path="mailto:sanagustin@masaya-experience.com" title="Email del Hotel Akawanka de San Agustín Huila" texto="E-mail" %}
-
-<!-- IMG -->
-{% include img.html img="magazine/hoteles-san-agustin/hotel-masaya-de-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-masaya-de-san-agustin-400px.webp" alt="Miniaturas del hotel Masaya de San Agustín Huila" title="Hotel Masaya de San Agustín Huila" %}
-
-## Servicios que ofrece el hotel Masaya de San Agustín
-
-| Servicio | Descripción |
-|---|---|
-| **Espacios de Relax** | Zonas de terraza compartida y por habitación. Zona de chimenea, espectacular para el frío de la zona |
-| **Recepción** | Servicio disponible las 24 horas. También puedes solicitar el servicio de guardaequipaje o pedir información turística |
-| **Restaurante** | Puedes contratar tus alimentos. También tienes servicio de bar |
-| **Salón de relax** | Puedes practicar yoga con sus clases en el hotel |
-| **Servicios de excursione y turismo** | Contrata diferentes paquetes de turismo con el hotel directamente |
-| **Servicios de limpieza** | Realizan limpieza diaria a las habitaciones. Te ofrecen servicios de lavandería, planchado en seco y planchado común |
-| **Servicios de Transporte** | Te ofrecen el servicio para el traslado desde el aeropuerto de Pitalito hasta el hotel |
-| **Zona parqueadero** | Servicio gratuito con muy buena seguridad |
-| **Zona de esparcimiento** | Puedes pasar un rato divertido con juegos de mesa, mesa de billar y mesa de ping pong. Además, pide tus libros favoritos o música para tus niños |
-| **Zona WiFi** | Servicio gratuito con muy buena cobertura |
-
-## ¿Qué puedo hacer en el Hotel Masaya?
-
-El hotel Masaya te ofrece las siguientes actividades para amenizar tu estadía en San Agustín:
-
-* Música con artistas tocando en directo
-* Clases de cocina para los huéspedes dictadas por nuestro chef profesional e invitados.
-* Tour relacionados con la cultura local
-* Caminatas para conocer los paisajes locales
-* Puedes contratar un paseo a caballo
-* Paquetes de turismo en bicicleta a zonas rurales con enfoque aventurero
-* Mesas de ping pong
-* Mesas de billar
-* Sala de juegos de meza para la familia
-
-Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila "Artículo sobre San Agustín Huila"); a 10 minutos el [Parque Arqueológico de San Agustín]({{site.baseurl}}/parque-arqueologico-san-agustin-huila "Artículo sobre el parque arqueológico de San Agustín Huila"); a 20 minutos [el estrecho del Magdalena]({{site.baseurl}}/estrecho-rio-magdalena "Artículo sobre el Estrecho del Magdalena") y a 30 minutos, y caminando, el sitio arqueológico la Chaquira.
-
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
-
-## ¿Por qué escoger el hotel Masaya?
-
-1. El hotel Masaya tiene uno de los mejores paisajes de los hoteles locales.
-2. **El hotel Masaya sí admite mascotas**. Debes preguntar por las condiciones.
-3. Los sistemas de seguridad y vigilancia del lugar son sobresalientes.
-
-### Video del Hotel Masaya de San Agustín
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FL76STlHa_M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Video del hotel Masaya del canal de youtube de Juli Travels"></iframe>
-*Hotel Masaya San Agustín - Créditos al canal Juli Travel de Youtube*
-
-## Habitaciones del hotel Masaya San Agustín
-
-El hotel Masaya tiene habitaciones con baño privado y ducha de agua caliente. Algunas tienen bañeras de hidromasajes. Esta es su oferta de habitaciones:
+**El hotel Masaya tiene habitaciones con baño privado y ducha de agua caliente**. Algunas tienen bañeras de hidromasajes. Esta es su oferta de habitaciones:
 
 * Suite con vista a la montaña
 * Habitación Superior con vista a la montaña
@@ -132,27 +68,62 @@ El hotel Masaya tiene habitaciones con baño privado y ducha de agua caliente. A
 * Cama en dormitorio de 6
 * Habitación Estándar
 
-## Opiniones del hotel Masaya de San Agustín
+## Servicios del hotel Masaya
 
-Los comentarios sobre el hotel siempre destacan 3 aspectos importantes:
+En San Agustín el hotel Masaya presta los siguientes servicios adicionales a su hospedaje:
 
-* Su **entorno natural** hermoso.
-* El ambiente **tranquilo y relajante**.
-* Su **decoración temática** tan cuidada y bien aplicada.
+![Hotel Masaya en San Agustín]({{ 'img/hoteles/hotel-masaya.webp' | relative_url }} "Hotel Masaya"){:width="360" height="240" loading="lazy"}
 
-También, puedes leer las calificaciones que tienen en [Booking](#fuentes) y en [TripAdvisor](#fuentes). Además, puedes visitar su [página web oficial.](#fuentes)
+* **Espacios de Relax**. Zonas de terraza compartida y por habitación. Zona de chimenea, espectacular para el frío de la zona.
+* **Recepción**. Servicio disponible las 24 horas. También puedes solicitar el servicio de guardaequipaje o pedir información turística.
+* **Restaurante**. Puedes contratar tus alimentos. También tienes servicio de bar.
+* **Salón de relax**. Puedes practicar yoga con sus clases en el hotel.
+* **Servicios de excursione y turismo**. Contrata diferentes paquetes de turismo con el hotel directamente.
+* **Servicios de limpieza**. Realizan limpieza diaria a las habitaciones. Te ofrecen servicios de lavandería, planchado en seco y planchado común.
+* **Servicios de Transporte**. Te ofrecen el servicio para el traslado desde el aeropuerto de Pitalito hasta el hotel.
+* **Zona parqueadero**. Servicio gratuito con muy buena seguridad.
+* **Zona de esparcimiento**. Puedes pasar un rato divertido con juegos de mesa, mesa de billar y mesa de ping pong. Además, pide tus libros favoritos o música para tus niños.
+* **Zona WiFi**. Servicio gratuito con muy buena cobertura.
+
+El hotel Masaya también te ofrece las siguientes actividades para amenizar tu estadía en San Agustín:
+
+* Música con artistas tocando en directo.
+* Clases de cocina para los huéspedes dictadas por nuestro chef profesional e invitados.
+* Tour relacionados con la cultura local.
+* Caminatas para conocer los paisajes locales.
+* Puedes contratar un paseo a caballo.
+* Paquetes de turismo en bicicleta a zonas rurales con enfoque aventurero.
+* Mesas de ping pong.
+* Mesas de billar.
+* Sala de juegos de meza para la familia.
+
+Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila "Artículo sobre San Agustín Huila"); a 30 minutos el [Parque Arqueológico de San Agustín]({{site.baseurl}}/parque-arqueologico-san-agustin-huila "Artículo sobre el parque arqueológico de San Agustín Huila"); a 30 minutos [el estrecho del Magdalena]({{site.baseurl}}/estrecho-rio-magdalena "Artículo sobre el Estrecho del Magdalena") y a 20 minutos, y caminando, el sitio arqueológico la Chaquira.
+
+>¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+
+## ¿Por qué escoger el hotel Masaya?
+
+Los comentarios en Google Maps sobre el hotel siempre destacan 3 aspectos importantes:
+
+1. Aunque es uno de los hoteles más costosos de la zona, el hotel Masaya tiene uno de los mejores paisajes de los hoteles locales.
+2. **El hotel Masaya sí admite mascotas**. Debes preguntar por las condiciones.
+3. Los sistemas de seguridad y vigilancia del lugar son sobresalientes.
+
+También, puedes leer las calificaciones que tienen en [Booking](https://www.booking.com/hotel/co/masaya-hostel-san-agustin.es.html){:rel="nofollow" target="_blank"} y en [TripAdvisor](https://www.tripadvisor.co/Hotel_Review-g445060-d13154689-Reviews-Masaya_Hostel_San_Agustin-San_Agustin_Huila_Department.html){:rel="nofollow" target="_blank"}.
 
 ### Otros aspectos sobre el hotel Masaya
 
-Es un hotel con más de 25 habitaciones y en crecimiento. El hotel mantiene los protocolos de bioseguridad. Recuerda está dispuesto a colaborar. Otros puntos para tener en cuenta:
+Es un hotel con más de 25 habitaciones y en crecimiento. El hotel mantiene los protocolos de bioseguridad. Recuerda estar dispuesto a colaborar. Otros puntos para tener en cuenta:
 
 1. Si buscas un hotel económico en San Agustín Huila, escoge otro. Su calidad y profesionalidad requieren de costos moderados y altos, según el servicio.
-2. Para llegar a este alojamiento hay que pasar por un camino sin asfaltar. Sin embargo, es un trayecto corto.
+2. En su sitio web oficial, el sistema de reservas no funciona bien. Mejor contacta con ellos desde los links que te proveemos en este artículo.
 
-## Preguntas frecuentes sobre Masaya Hostel San Agustin
+## Preguntas frecuentes sobre el hotel Masaya
 
-* **¿Hay restaurantes cerca al hotel Masaya de San Agustin?** Sí. Te recomendamos Altos de Yerbabuena Café restaurante, La Gata Parrilla, Fonte Café y otrs más en el artículo [los mejores restaurantes de San Agustín]({{site.baseurl}}/mejores-restaurantes-san-agustin "Artículo sobre los mejores restaurantes de San Agustín").
+>Te invitamos a visitar [El Estrecho del Magdalena]({{site.baseurl}}/estrecho-rio-magdalena)
+
+* **¿Hay restaurantes cerca al hotel Masaya de San Agustin?** Sí. Tienes su propio restaurante. Nosotros te recomendamos el restaurante Al Barril, La Gata Parrilla, Fonte Café y otros más. Mira el artículo [los mejores restaurantes de San Agustín]({{site.baseurl}}/mejores-restaurantes-san-agustin "Artículo sobre los mejores restaurantes de San Agustín").
 
 * **¿El personal del hotel atiende en diferentes idiomas?** Sí. El personal habla inglés, español y francés.
 
-* **¿Cuánto vale la noche en el hotel Masaya San Agustín?** El promedio de sus precios en el {{ "now" | date:"%Y"}} es de 150000. Siempre varían según la temporada y la oferta de mercado.
+* **¿Cuánto vale la noche en el hotel Masaya San Agustín?** El promedio de sus precios en el {{ "now" | date:"%Y"}} es de 180000. Siempre varían según la temporada y la oferta de mercado.
