@@ -1,4 +1,8 @@
 .hoteles div{
+  align-items: baseline;
+}
+
+.hoteles div{
   color: var(--grisFuentes);
 }
 
@@ -9,6 +13,8 @@
   display: grid;
   justify-content: left;
   overflow: hidden;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
 }
 
 .hoteles div article span{
@@ -30,11 +36,12 @@
 
 .hoteles div article h3{
   font-size: 16px;
-  color: var(--principal);
+  color: var(--secundario);
+  text-shadow: 0 0 2px var(--accion);
   font-family: var(--fuenteTextos);
   text-align: left;
   letter-spacing: 0;
-  padding: 1rem 1rem 0.5rem;
+  padding-bottom: 1rem;
 }
 
 .hoteles div article ul li{
@@ -43,8 +50,8 @@
   list-style: none;
 }
 
-.hoteles div article a{
+.hoteles div article > a{
   display: block;
-  padding: 0 1rem 1rem;
+  padding: 1rem;
   text-align: right;
 }

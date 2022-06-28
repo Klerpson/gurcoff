@@ -1,47 +1,46 @@
 ---
 layout: articulo
-title: Hotel Masaya - Increíbles vistas de San Agustín
+title: Hotel Masaya de San Agustín Huila
 description: El hotel Masaya es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena y su arquitectura es hermosa. ¡Conócelo aquí!
 category: hoteles
 tags: [hoteles]
-h1: Hotel Masaya de San Agustín Huila
-img: hoteles/hotel-masaya-san-agustin-huila-400px.webp
-alt: Fotografía del hotel Akawanka en San Agustín Huila
+h1: Hotel Masaya
+img: hoteles/hotel-masaya-san-agustin.webp
+jpg: hoteles/hotel-masaya-san-agustin.jpg
+alt: Fotografía del hotel Masaya en San Agustín Huila
 date: 2021-06-15
 referencias:
   - Booking Masaya San Agustín Huila: https://www.booking.com/hotel/co/masaya-hostel-san-agustin.es.html
   - TripAdvisor Masaya San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d13154689-Reviews-Masaya_Hostel_San_Agustin-San_Agustin_Huila_Department.html
-  - Fotos Hotel Masaya: https://www.google.com/maps/place/Masaya+San+Agust%C3%ADn/@1.895828,-76.2683103,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPIVtVBrAV28ZUbTdbeocSQW3k3Y1KtHev5j5Th!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPIVtVBrAV28ZUbTdbeocSQW3k3Y1KtHev5j5Th%3Dw160-h120-k-no!7i5520!8i4140!4m18!1m9!3m8!1s0x8e25707f01ae31c7:0xccd64e01b1e32fe2!2sMasaya+San+Agust%C3%ADn!5m2!4m1!1i2!8m2!3d1.895837!4d-76.2683301!3m7!1s0x8e25707f01ae31c7:0xccd64e01b1e32fe2!5m2!4m1!1i2!8m2!3d1.895837!4d-76.2683301
-  - Página web del Hotel Masaya San Agustín: https://www.masaya-experience.com/san-agustin/
 permalink: /hoteles/hotel-masaya-san-agustin-huila
-background-header: var(--secundario)
-intro: El parque arqueológico de San Agustín es complejo muy grande y atractivo. Abarca 2 municipios, San Agustín e Isnos. Se divide en amplias secciones con características especiales. Conócelo.
+background-header: var(--principal)
+intro: El parque arqueológico de San Agustín es complejo muy grande y atractivo.
 excerpt_separator: <!-- excerpt -->
 ---
-El hotel Masaya es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena. El diseño del hotel es hermoso. Un adorno más del paisaje, pues está inspirado perfectamente con la naturaleza del lugar.
+El [hotel Masaya](https://www.masaya-experience.com/san-agustin/ "Página web del hotel Masaya"){:rel="nofollow" target="_blank"} es un hotel ecolodge que está perfectamente ubicado sobre el cañón del río Magdalena. El diseño del hotel es hermoso. Un adorno más del paisaje, pues está inspirado perfectamente con la naturaleza del lugar.
+
+Abarca 2 municipios, San Agustín e Isnos. Se divide en amplias secciones con características especiales. Conócelo.
 
 <!-- excerpt -->
-
-Sus construcciones se basan en las chozas de las culturales indígenas de la localidad. Tienen una maloca hermosa (Una maloca es una vivienda indígena construida con pilares sobre los cuales hay un techo de fina paja). Sus instalaciones son amplias y con una vista única. Su
-
-Conoce más de este hermoso hotel.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Hotel Masaya San Agustín
+## Hotel Masaya de San Agustín
 
-El hotel Masaya es una propiedad enorme. Su ubición te brinda unas vistas hermosas sobre el cañón del Magdalena. Y los diseñadores del lugar cuidaron un especial detalle: **en el hotel Masaya puedes disfrutar las vistas desde casi cualquiera de los edificios de las instalaciones del hotel.**
+Esta cadena hotelera **diseñó sus construcciones en San Agustín basándose en un modelo de chozas de las culturas indígenas de la localidad**. Tienen una maloca hermosa (Una maloca es una vivienda indígena construida con pilares sobre los cuales hay un techo de fina paja).
 
-<!-- IMG -->
-{% include img.html img="magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila.webp" img-mini="magazine/hoteles-san-agustin/hotel-masaya-san-agustin-huila-400px.webp" alt="Fotografías del hotel Masaya de San Agustín Huila" title="Hotel Masaya en San Agustín Huila" %}
-*Hotel Masaya en San Agustín Huila*
+El hotel Masaya es una propiedad enorme. Su ubicación te brinda unas vistas hermosas sobre el cañón del Magdalena. Y los diseñadores del lugar cuidaron un especial detalle: **en el hotel Masaya puedes disfrutar las vistas desde casi cualquiera de los edificios de las instalaciones del hotel.**
 
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de [🎒Carolina Colobon y Nando Prieto](https://go.hotmart.com/Y72308599B?dp=1){:rel="nofollow sponsored" target="_blank"}
 
 ## Cómo llegar al Hotel Masaya de San Agustín
 
-**La dirección del Hotel Masaya es en la vereda El Tablón, kilómetro 1, en la vía del Estrecho del Magdalena**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
+![Hotel Masaya en San Agustín Huila]({{ 'img/hoteles/hotel-masaya-de-san-agustin.webp' | relative_url }} "Hotel Masaya San Agustín"){:width="360" height="240" loading="lazy"}
+
+**La dirección del Hotel Masaya es en la vereda El Tablón, kilómetro 1, en la vía del Estrecho del Magdalena**. Encontrarás su letrero a mano derecha de la vía. 
+
+Debes entrar por el camino que encuentras allí y avanzar hasta el final de ese camino. Está muy bien asfaltado Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
 
 {% include boton.html path="https://goo.gl/maps/x1ECyeLxJP4ySiB59" title="Ubicación del Hotel Masaya de San Agustín Huila" texto="Google Maps" %}
 

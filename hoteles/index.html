@@ -3,57 +3,56 @@ layout: default
 title: Hoteles en San Agustín Huila
 description: Los hoteles de San Agustín Huila son lugares especiales para descansar y conectar con la naturaleza. Encuentra hoteles, cabañas y más aquí.
 h1: Los hoteles de San Agustín Huila
-img: img/magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp
-alt: Fotografía del hotel Akawanka en San Agustín Huila
+img: /hoteles/hotel-casa-bonita-san-agustin-huila.webp
+jpg: /hoteles/hotel-casa-bonita-san-agustin-huila.jpg
+alt: Fotografía del hospedaje Casa Bonita en San Agustín Huila
 background-header: var(--principal)
 intro: Hoteles de San Agustín para todos los gustos
 ---
-<section class="magazine">
+
+<section class="articulo">
   {% include breadcrumbs.html %}
   <p>Los hoteles en San Agustín Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. <strong>Si estás buscando hospedaje en San Agustín Huila, aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping.</strong></p>
-
   <p>Todos estos lugares han verificado y actualizado sus datos para ti en esta página.</p>
-
+  <blockquote>Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro <a href="https://go.hotmart.com/B72308674C?dp=1" rel="nofollow sponsored" target="_blank" >Como me lance al voluntariado ( guia paso a paso)</a></blockquote>
   <p>Para facilitar tu búsqueda, hermos organizado todas los hoteles disponibles en San Agustín Huila en categorías, con las características que los hace especiales o diferentes.</p>
-
 </section>
 <main class="blog hoteles">
-  {% for item in site.data.hoteles %}
-  {% assign cat = item[0] %}
-    <h2>{{ cat }}</h2>
-    <div>
-      {% for hotel in site.data.hoteles[cat] %}
-      <article>
-        <img src="{{site.baseurl}}/img/hoteles/{{hotel.img}}" alt="{{hotel.alt}}" title="{{hotel.title}}" loading="lazy" width="320" height="200">
-        {% if hotel.perfil %}
-        <span>Calificado con <a href="{{hotel.perfil}}">{{hotel.puntos}} en Google</a></span>
-        {% endif %}
-        <h3>{{hotel.nombre}}</h3>
-        {% if hotel.servicios %}
-        <ul>
-          {% for servicio in hotel.servicios %}
-          <li>✓ {{servicio}}</li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-          {% if hotel.link %}
-          <a href="{{site.baseurl}}{{hotel.link}}" rel="nofollow">Conoce más</a>
-          {% endif %}
-      </article>
-      {% endfor %}
-    </div>
+  {% for item in site.data.hoteles %} {% assign cat = item[0] %}
+  <h2>{{ cat }}</h2>
+  <div>
+    {% for hotel in site.data.hoteles[cat] %}
+    <article>
+      <img src="{{site.baseurl}}/img/hoteles/{{hotel.img}}" alt="{{hotel.alt}}" title="{{hotel.title}}" loading="lazy" width="320" height="240"/>
+      {% if hotel.perfil %}
+      <span>Calificado con <a href="{{hotel.perfil}}">{{hotel.puntos}} en Google</a></span>
+      {% endif %}
+      <h3>{{hotel.nombre}}</h3>
+      {% if hotel.servicios %}
+      <ul>
+        {% for servicio in hotel.servicios %}
+        <li>✓ {{servicio}}</li>
+        {% endfor %}
+      </ul>
+      {% endif %} {% if hotel.link %}
+      <a href="{{site.baseurl}}{{hotel.link}}" rel="nofollow">Conoce más</a>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
   {% endfor %}
 </main>
 
-  <blockquote>Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro <a href="https://go.hotmart.com/B72308674C?dp=1" rel="nofollow sponsored" target="_blank">Como me lance al voluntariado ( guia paso a paso)</a>
-  </blockquote>
 
-<section class="magazine">
+
+<section class="articulo">
   <h2>Comfort y descanso en San Agustín a tu medida</h2>
-  <p>Muchos hospedajes de San Agustín son opciones muy accesibles y cómodas. Además, con decoraciones hermosas y dignas de llevar en tus recuerdos fotográficos.</p>
-  <p>Algunos de estos <strong>hoteles te ofrecen la opción de prestar un servicio de voluntariado</strong>. Es especialmente importante para quienes recorren nuestro país o nuestro continente como caminantes o en rutas de bicicletas, o quizá en la experiencia de su vida.</p>
+    <p>Muchos hospedajes de San Agustín son opciones muy accesibles y cómodas. Además, con decoraciones hermosas y dignas de llevar en tus recuerdos fotográficos.</p>
+    <p>Algunos de estos <strong>hoteles te ofrecen la opción de prestar un servicio de voluntariado</strong>. Es especialmente importante para quienes recorren nuestro país o nuestro continente como caminantes o en rutas de bicicletas, o quizá en la experiencia de su vida.</p>
   <h2>¿Ya sabes donde quedarte en San Agustín?</h2>
-  <p>Cada uno de estos hoteles están siempre en procesos de mejorarmiento, y adoptando las tendencias más atractivos del mercado hotelero. Por ejemplo, <strong>ya puedes encontrar opciones de Glamping en San Agustín. La oferta para el turismo rural es muy fuerte. Y algunos hoteles ya ofrecen planes con experiencias muy interesantes.</strong></p>
-  <p>Puedes encontrar <strong>hoteles económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al <a href="{{ 'parque-arqueologico-san-agustin-huila' | relative_url}}">Parque Arqueológico de San Agustín</a> o cerca al <a href="{{ 'estrecho-rio-magdalena' | relative_url}}">estrecho del Magdalena</a>,</strong>entre otros.</p>
-  <p>Si necesitas información como teléfono, ubicación, servicios, calificaciones, entre otros; no dudes en <a href="{{site.baseurl}}/contacto">contactarnos</a>. Nosotros te ayudaremos a reservar por el precio justo, sin sobre costos. Y, por supuesto, cuando vengas a San Agustín recuerda visitarnos en nuestra <a href="/">Heladería GurCoff.</a></p>
+    <p>Cada uno de estos hoteles están siempre en procesos de mejorarmiento, y adoptando las tendencias más atractivos del mercado hotelero. Por ejemplo, <strong>ya puedes encontrar opciones de Glamping en San Agustín. La oferta para el turismo rural es muy fuerte. Y algunos hoteles ya ofrecen planes con experiencias muy interesantes.</strong></p>
+    <p>Puedes encontrar <strong>hoteles económicos, hoteles de lujo, hoteles con piscina, hoteles con servicio de wifi gratis, hoteles cerca al <a href="{{ 'parque-arqueologico-san-agustin-huila' | relative_url}}">Parque Arqueológico de San Agustín</a> o cerca al <a href="{{ 'estrecho-rio-magdalena' | relative_url }}">estrecho del Magdalena</a>,</strong>entre otros.</p>
+    
+    <blockquote>¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de <a href="https://go.hotmart.com/Y72308599B?dp=1" rel="nofollow sponsored" target="_blank" >🎒Carolina Colobon y Nando Prieto</a></blockquote>
+    <p>Si necesitas información como teléfono, ubicación, servicios, calificaciones, entre otros; no dudes en <a href="{{site.baseurl}}/contacto">contactarnos</a>. Nosotros te ayudaremos a reservar por el precio justo, sin sobre costos. Y, por supuesto, cuando vengas a San Agustín recuerda visitarnos en nuestra <a href="/">Heladería GurCoff.</a></p>
 </section>

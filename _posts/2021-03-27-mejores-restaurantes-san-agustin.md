@@ -8,7 +8,7 @@ img: magazine/al-barril-san-agustin-huila.webp
 jpg: magazine/al-barril-san-agustin-huila.jpg
 alt: Plato preparado en la Gata Parrilla de San Agustín Huila
 date: 2021-03-27
-background-header: var(--oficial)
+background-header: var(--principal)
 intro: Si vas de paseo o de vacaciones a San Agustín Huila y deseas degustar algún rico almuerzo, o una cena inolvidable, no te puedes perder la diversidad gastronómica de sus restaurantes.
 ---
 Aquí explicaremos cuáles son **los mejores restaurantes de San Agustín Huila** y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos!
