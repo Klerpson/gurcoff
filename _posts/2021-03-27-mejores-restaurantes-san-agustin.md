@@ -4,19 +4,12 @@ description: Los restaurantes en San Agustín Huila tienen mucha variedad de ofe
 category: restaurantes
 tags: [restaurantes, parque]
 h1: Los restaurantes de San Agustín Huila bien recomendados
-img: magazine/restaurante-gata-parrilla-san-agustin.webp
-jpg: magazine/restaurante-gata-parrilla-san-agustin.jpg
+img: magazine/al-barril-san-agustin-huila.webp
+jpg: magazine/al-barril-san-agustin-huila.jpg
 alt: Plato preparado en la Gata Parrilla de San Agustín Huila
 date: 2021-03-27
 background-header: var(--oficial)
 intro: Si vas de paseo o de vacaciones a San Agustín Huila y deseas degustar algún rico almuerzo, o una cena inolvidable, no te puedes perder la diversidad gastronómica de sus restaurantes.
-referencias:
- - TripAdvisor Gata Parrilla: https://www.tripadvisor.co/Restaurant_Review-g445060-d16875100-Reviews-La_Gata_Parrilla-San_Agustin_Huila_Department.html
- - Guías San Agustín Huila: https://www.viajeros.com/guias/san-agustin-huila-magia-y-arqueologia-en-colombia
- - TripAdvisor Pepenero: https://www.tripadvisor.co/Restaurant_Review-g445060-d7377207-Reviews-Pepe_Nero-San_Agustin_Huila_Department.html
- - Página restaurante El Tomate: https://restaurante-tomate.negocio.site/
- - Página restaurante Tingo Tango: https://tingo-tango-pub.negocio.site/
- - Catálogo de WhatsApp con la carta de GurCoff: https://wa.me/c/573115245225
 ---
 Aquí explicaremos cuáles son **los mejores restaurantes de San Agustín Huila** y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos!
 <!-- excerpt -->
@@ -26,64 +19,66 @@ Aquí explicaremos cuáles son **los mejores restaurantes de San Agustín Huila*
 
 ## Restaurantes en San Agustín Huila
 
-Además, San Agustín tiene una variedad deliciosa de productos autóctonos que son muy bien aprovechados en estos restaurantes. Y por supuesto, también encontrarás los clásicos platos con deliciosas técnicas de preparación.
+San Agustín tiene una variedad deliciosa de productos autóctonos que son muy bien aprovechados en estos restaurantes. Y por supuesto, también encontrarás los clásicos  platos colombianos e internacionales con deliciosas técnicas de preparación.
 
 Te contamos **cuáles son los restaurantes de San Agustín Huila que nos llenan de orgullo.**
 
-### Restaurante La Gata Parrilla de San Agustín
+### Restaurante Al Barril
 
-{% include img.html img="magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-gata-parrilla-san-agustin-400px.webp" alt="Plato a la carta con asados del restaurante la Gata  Parrilla de San Agustín Huila" title="Restaurante la Gata Parrilla de San Agustín" %}
-*Asado en el restaurante La Gata Parrilla de San Agustín Huila*
+![Asado del restaurante Al Barril de San Agustín]({{ 'img/magazine/al-barril-san-agustin-huila.webp' | relative_url }} "Al Barril San Agustín"){:width="360" height="240" loading="lazy"}
+
+**¡Súper recomendadas sus carnes al barril!**. Este restaurante de San Agustín se ha abierto un espacio entre los que amamos la carne asada.
+
+Lo que nos parece que es su principal fuerte es **el toque de sabor de sus carnes ahumadas en barril peruano.** Además, tienen una atención muy cálida y agradable.
+
+Sus platos más destacados son:
+
+* **Salchipapas con carnes de muy buena calidad**, asadas a la parrilla y ahumadas al barril.
+* **Carnes a la parrilla** aliñadas con especias naturales.
+* Los fines de semana tienen **cortes de carnes especiales** asados al barril.
+* Y sus **picadas familiares** con carnes a la parrilla son deliciosas.
+
+Otra buena razón para visitarlos es su espacio abierto. Utilizan una decoración muy natural con juegos de mesa en madera. En la noche hasta tienen una iluminación ambientada con antorchas. Y todo acompañado de buena salsa caleña y cubana.
+
+>Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de ["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
+
+Te dejamos[ el número de whatsapp del restaurante Al Barril](https://wa.me/c/573156968584){:rel="nofollow" target="_blank"} para que puedas ver su carta y hacer tus reservas.
+
+### Restaurante La Gata Parrilla de San Agustín
 
 Este es uno de los mejores **restaurantes en San Agustín Huila**. La Gata Parrilla es un lugar de comida saludable. Sus platos son preparados, como su nombre lo indica, a la parrilla. Sí, lo bueno es que no es solo el nombre.
 
-Su ambiente es muy agradable. El recinto cuenta con una terraza rodeada de plantas verdes, lo que hace que el ambiente sea acogedor. Sus propietarios son amantes de la buena música. Por lo tanto, el ambiente es siempre el mejor. Además, al lugar llegan constantemente personas a tocar en vivo. ¡Y vaya que lo hacen muy bien!
+![Plato del restaurante Gata Parrilla de San Agustín]({{ 'img/magazine/gata-parrilla-san-agustin.webp' | relative_url }} "Asado de la Gata Parrilla"){:width="360" height="240" loading="lazy"}
 
-Puedes ver sus referencias en [TripAdvisor](#fuentes "link de la página tripadvisor con el perfil del restaurante La Gata Parrilla de San Agustín Huila")
+Su ambiente es muy agradable. **El recinto cuenta con una terraza rodeada de plantas verdes, lo que hace que el ambiente sea acogedor.** Sus propietarios son amantes de la buena música, principalmente al rock contemporáneo y clásico. Por lo tanto, el ambiente es siempre el mejor. Además, al lugar llegan constantemente personas a tocar en vivo. ¡Y vaya que lo hacen muy bien!
+
+Puedes ver su menú en su sitio web [lagataparrilla.com](https://www.lagataparrilla.com/){:rel="nofollow" target="_blank"}
 
 Ahora bien, ¿qué puedes comer aquí? **Carnes, frutas y verduras a la parrilla, además de pinchos y hamburguesas artesanales**.
 
-Como notarás, partiendo de este restaurante, hace que venir a **San Agustín Huila** es [un plan muy completo](#fuentes "Link al artículo de San Agustín Huila"). El clima, el ambiente, la gente, sus casas coloniales muy hermosas y su comida sana hará que tu estancia sea muy agradable.
-
-### Restaurante Pepenero de San Agustín
-
-{% include img.html img="magazine/restaurantes-san-agustin/restaurante-pepenero-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-pepenero-san-agustin-400px.webp" alt="Postre en el restaurante Pepenero de San Agustín Huila" title="Restaurante Pepenero de San Agustín Huila" %}
-*Plato preparado en el restaurante Pepenero de San Agustín Huila*
-
-Otro de los **lugares para comer en San Agustín Huila** es el restaurante Pepe Nero. Este sitio ofrece una variedad de platos italianos.
-
-Y te cuento que he probado personalmente su pizza. Es muy especial y te la recomiendo al cien por ciento.
-
-Pero, ¿qué más encontrarás en su restaurante? **Deliciosas preparaciones vegetarianas. Vinos exquisitos. Platos mediterráneos y Europeos. Y finalmente, postres sencillos pero deliciosos.** Como dicen los que saben, menos es más.
-
-Puedes ver sus referencias en [TripAdvisor](#fuentes "link de la página tripadvisor con el perfil del restaurante Pepenero de San Agustín Huila")
+Como notarás, partiendo de este restaurante, hace de [**San Agustín Huila**]({% post_url 2021-06-07-visita-san-agustin-huila %}) un plan muy completo. El clima, el ambiente, la gente, sus casas coloniales muy hermosas y su comida sana hará que tu estancia sea muy agradable.
 
 ### Restaurante El Tomate de San Agustín Huila
 
-También se encuentra en la lista este restaurante con nombre peculiar. La razón del nombre del restaurante es que **venden comida vegetariana**. Una muy buena opción si este es tu menú favorito.
+También se encuentra en la lista este restaurante con un nombre peculiar. La razón del nombre del restaurante es que **venden comida vegetariana**. Una muy buena opción si este es tu menú favorito.
 
-{% include img.html img="magazine/restaurantes-san-agustin/restaurante-tomate-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-tomate-san-agustin-400px.webp" alt="Plato especial del restaurante El Tomate de San Agustín Huila" title="Restaurante el Tomate en San Agustín Huila" %}
-*Plato vegetariano del restaurante el Tomate en San Agustín Huila*
+![Plato del restaurante El Tomate de San Agustín]({{ 'img/magazine/restaurante-el-tomate-san-agustin.webp' | relative_url }} "Restaurante El Tomate"){:width="360" height="240" loading="lazy"}
 
-La comida es balanceada y, por supuesto, muy sana. Aquí **puedes desayunar, almorzar y comprar panes, mermeladas, entre otros**. En temporada abre diariamente y los precios son accesibles.
+La comida es muy bien balanceada y, por supuesto, muy sana. Aquí **puedes desayunar, almorzar y comprar panes, mermeladas, entre otros**. En temporada abre diariamente y los precios son accesibles. Y por la calidad, más que justos.
 
-Adicionalmente, estoy absolutamente seguro que los sabores que logran en sus preparaciones te sorprenderán. Créeme, uno dice que la comida vegetariana no es para uno, hasta que visita este restaurante.
+Adicionalmente, estamos seguros que los sabores que logran en sus preparaciones te sorprenderán. Créeme, **uno dice que la comida vegetariana no es para uno, hasta que visita este restaurante.**
 
-[Visita su sitio de presentación](#fuentes "link de la página del restaurante El Tomate de San Agustín Huila") en Google Sites para más información.
+[Visita su sitio de presentación](https://restaurante-tomate.negocio.site/){:rel="nofollow" target="_blank"} en Google Sites para más información.
 
-### Restaurante Tingo Tango Pub de San Agustín
+### Restaurante Tingo Tango de San Agustín
 
-Este restaurante es considerado un sitio gastronómico con un nombre dinámico, y realmente lo es.
+Este restaurante es considerado un sitio gastronómico con un nombre dinámico, y realmente lo es. El **restaurante Tingo Tango Pub es un punto ideal para ver juegos deportivos, mientras pides una deliciosa comida. También, tienen un programa tipo cine club que funciona los miércoles en la noche**. Así que es perfecto para un plan mini-cine con buena comida.
 
-El **restaurante Tingo Tango Pub** es un punto ideal para ver juegos deportivos, mientras pides una deliciosa comida. También, tienen un programa tipo cine club que funciona los miércoles en la noche. Así que es perfecto para un plan mini-cine con buena comida.
-
-{% include img.html img="magazine/restaurantes-san-agustin/restaurante-tingo-tango-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-tingo-tango-san-agustin-400px.webp" alt="Comida rápida en el restaurante Tingo Tango Pub de San Agustín Huila" title="Restaurante Tingo Tango Pub de San Agustín Huila" %}
-*Restaurante Tingo Tango Pub de San Agustín*
+![Hamburguesa del restaurante Tingo Tango de San Agustín]({{ 'img/magazine/hamburguesa-tingo-tango-san-agustin.webp' | relative_url }} "Restaurante Tingo Tango"){:width="360" height="240" loading="lazy"}
 
 Su ambiente es más artístico. Y sus instalaciones ocupan un patio interior. Así que también te sentirás en un ambiente natural mientras comes en el centro del pueblo.
 
-Por eso, si estás buscando **dónde cenar en San Agustín**, no tendrás que dar muchas vueltas. ¡Tardarás más en arreglarte que en llegar allí!
-Tan pronto llegues notarás sus puntos fuertes:
+Por eso, si estás buscando **dónde cenar en San Agustín**, no tendrás que dar muchas vueltas. ¡Tardarás más en arreglarte que en llegar allí! Tan pronto llegues notarás sus puntos fuertes:
 
 1. Notarás que los asientos son al aire libre y de noche las luces decoran muy bien este lugar.
 
@@ -91,32 +86,29 @@ Tan pronto llegues notarás sus puntos fuertes:
 
 3. Y recuerda preguntar por **las costillas al barril**. Será un recuerdo permanente de tu visita a San Agustín.
 
-También tienen su [sitio de presentación](#fuentes "link de la página del restaurante Tingo Tango"). Visítalo
+También tienen su [sitio de presentación](https://tingo-tango-pub.negocio.site/){:rel="nofollow" target="_blank"}. Visítalo
 
 ### Restaurante Ambrosía El Faro
 
-Por último, mencionaremos otro **lugar excelente para comer en San Agustín Huila**. Las pizzas en horno de leña del restaurante El Faro Ambrosía.
+![Pizza del restaurante El Faro de San Agustín]({{ 'img/magazine/restaurante-el-faro-san-agustin.webp' | relative_url }} "Restaurante El Faro Ambrosía"){:width="360" height="240" loading="lazy"}
 
-{% include img.html img="magazine/restaurantes-san-agustin/restaurante-ambrosia-faro-san-agustin.webp" img-mini="magazine/restaurantes-san-agustin/restaurante-ambrosia-faro-san-agustin-400px.webp" alt="Pizza en el restaurante Ambrosía el Faro en San Agustín Huila" title="Restaurante Ambrosía el Faro de San Agustín Huila" %}
-*Restaurante Ambrosía El Faro en San Agustín Huila*
+Por último, mencionaremos otro **lugar excelente para comer en San Agustín Huila**. Las pizzas en horno de leña del restaurante El Faro Ambrosía son las mejores.
 
 La excelente atención del lugar es siempre recomendada por lugareños y turistas. Se encuentra ubicado cerca del parque principal, por la calle conocida como "La calle de las sombrillas" o la "calle de la lozería".
 
 Aquí encontrarás **pizzas y comidas rápidas con muy buenas bebidas, y un toque especial de las verduras deshidratadas que utilizan en sus recetas.**
 
-## La variedad y la comodidad de los restaurantes en San Agustín Huila
+## La variedad y la comodidad de los restaurantes de San Agustín
 
 No pierdas la oportunidad de conocer este hermoso pueblo colonial y visitar todos sus deliciosas opciones gastronómicas. Aquí solo te mencioné algunos de los que he podido visitar. Pero hay muchas delicias más por venir a probar.
 
-Por ejemplo, las deliciosas recetas que tenemos de helado suave para ti. Seguro que será una tarde deliciosa si nos visitas. Mira [nuestra carta](https://bit.ly/domicilios-gurcoff "link al catálogo de WhatsApp con el menú de la heladería GurCoff") para antojarte un poco más. ¡Te esperamos!
+Por ejemplo, las deliciosas recetas de helado suave que tenemos para ti. Seguro que será una tarde deliciosa si nos visitas. Mira [nuestra carta](https://bit.ly/domicilios-gurcoff){:rel="nofollow" target="_blank"} para antojarte un poco más. ¡Te esperamos!
 
-Ven y diviértete en un pueblo colonial que es muy acogedor. Tiene un cálido ambiente campestre.
+Ven y diviértete en un pueblo colonial que es muy acogedor. Tiene un cálido ambiente campestre. Y sus restaurantes son muy bien recomendados. Para tu comodidad la mayoría te ofrece:
 
-Recuerda:
+* Cobertura para que la lluvia no interrumpa tu buen rato.
 
-* Los restaurantes tienen cobertura en caso de lluvias.
-
-* Son ideales para salir en grupo, con niños.
+* Son ideales para salir en grupo y con niños.
 
 * La mayoría tienen un ambiente familiar muy relajado.
 
@@ -126,6 +118,4 @@ Recuerda:
 
 * Y también tienen entrega a domicilio.
 
-## ¿Cuál es tu plato favorito de San Agustín Huila?
-
-¿Ya conocías algo sobre estos restaurantes? ¿Cuál es tu favorito y por qué? **Cuéntame en los comentarios**.
+¿Ya conocías algo sobre estos restaurantes? ¿Cuál es tu favorito y por qué? **Cuéntanos en los comentarios**.
