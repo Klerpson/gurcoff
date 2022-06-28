@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-28T06:41:50-05:00</updated>
+     <updated>2022-06-28T07:21:25-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -33,7 +33,7 @@
    <link href="http://localhost:4000/estrecho-rio-magdalena"/>
    <id>http://localhost:4000/estrecho-rio-magdalena</id>
    <updated>2021-06-22T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que &lt;strong&gt;este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-del-magdalena-400px.webp&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot; title=&quot;Estrecho del...</content>
+   <content type="html">&lt;p&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que &lt;strong&gt;este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#ubicación-del-estrecho-del-magdalena&quot; id=&quot;markdown-toc-ubicación-del-estrecho-del-magdalena&quot;&gt;Ubicación del Estrecho del Magdalena&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cómo-llegar-al-estrecho-del-río-magdalena&quot; id=&quot;markdown-toc-cómo-llegar-al-estrecho-del-río-magdalena&quot;&gt;Cómo llegar al estrecho del río Magdalena&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
  </entry>
  
  <entry>

@@ -37,7 +37,7 @@ Después, harás una caminta de 3 horas a través del Parque Nacional Natural Pu
 
 ### Cómo llegar desde San Agustín
 
-![Letrero de bienvenida a la laguna del Magdalena]({{ 'img/magazine/llegada-laguna-magdalena.webp' | relative_url }} "Páramo de las papas"){:width="360" height="240"}
+![Letrero de bienvenida a la laguna del Magdalena]({{ 'img/magazine/llegada-laguna-magdalena.webp' | relative_url }} "Páramo de las papas"){:width="360" height="240" loading="lazy"}
 
 Esta es la ruta favorita de muchos. **El motivo es la aventura y la cantidad de paisajes** que ofrece el macizo colombiano desde este punto de origen.
 
@@ -49,7 +49,7 @@ Cualquiera de las opciones te ayudarán a **llegar hasta la vereda Villa Fátima
 
 Ahora comenzarás el recorrido de un **sendero conocido como El Camino Nacional o El Camino Nacional de Quinchana**. Este nombre se debe a la vereda de inicio del siguiente recorrido, llamada Alto Quinchana. Sin embargo, es más conocido como **El Camino Nacional de las Papas.**
 
-![Viaje hacia la laguna del Magdalena a caballo]({{ 'img/magazine/cabalgata-laguna-del-magdalena.webp' | relative_url }} "Cabalgata hacia la Laguna del Magdalena"){:width="360" height="240"}
+![Viaje hacia la laguna del Magdalena a caballo]({{ 'img/magazine/cabalgata-laguna-del-magdalena.webp' | relative_url }} "Cabalgata hacia la Laguna del Magdalena"){:width="360" height="240" loading="lazy"}
 
 Cuando lleguen a la vereda El Canelo, pasarás por otro lugar conocido como El Crucero, luego por el puente de Barandillas sobre el Rio Magdalena, y después hasta la vereda San Antonio.
 
@@ -65,7 +65,7 @@ Tu caminata continuará hasta un punto llamado "La Ye". Es un punto donde el rec
 
 **El río Magdalena es el río más importante de Colombia para la vida, la conservación de la naturaleza, la economía, la comunicación de pueblos, etc.** Piensa en estos datos:
 
-![Frailejones en la laguna del Magdalena]({{ 'img/magazine/reserva-laguna-del-magdalena.webp' | relative_url }} "Reserva Laguna del Magdalena"){:width="360" height="240"}
+![Frailejones en la laguna del Magdalena]({{ 'img/magazine/reserva-laguna-del-magdalena.webp' | relative_url }} "Reserva Laguna del Magdalena"){:width="360" height="240" loading="lazy"}
 
 1. Más del 70% de la producción hidroeléctrica colombiana se realiza con las aguas del río Magdalena
 2. Más del 70% de la producción agrícola del país se abastese de sus aguas
@@ -81,7 +81,7 @@ Por otra parte, este nacimiento es parte de lo que se conoce como la principal e
 
 El turismo de la Laguna del Magdalena es del tipo de aventura y naturaleza, la mayoría intacta a los daños que causa el hombre. Encontrarás paisajes hermosos y únicos. La variedad del ecosistema es hermosa. Y el toque de misterio de la arqueología encontrada en el lugar es un complemento perfecto.
 
-![Páramo de las papas en la laguna del Magdalena]({{ 'img/magazine/camino-paramo-de-las-papas-hacia-laguna-del-magdalena.webp' | relative_url }} "Páramo de las papas"){:width="360" height="240"}
+![Páramo de las papas en la laguna del Magdalena]({{ 'img/magazine/camino-paramo-de-las-papas-hacia-laguna-del-magdalena.webp' | relative_url }} "Páramo de las papas"){:width="360" height="240" loading="lazy"}
 
 Para visitar este lugar, **los precios varían entre los 70000 COP por día, hasta los 700000 COP en total.** Esto dependerá si contratas a un guía local que cobra solamente el día de trabajo, y con el que pagarías por aparte los servicios como la cabalgata (que cobran en promedio 75000 COP por día que utilices el caballo), la alimentación y el hospedaje. El precio más costoso, es cuando contratas una agencia que ya tienen todo incluido, pero todo perfectamente planeado.
 

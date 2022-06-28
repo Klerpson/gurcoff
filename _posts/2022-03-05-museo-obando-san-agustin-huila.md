@@ -28,7 +28,7 @@ Obando en [San Agustín](https://es.wikipedia.org/wiki/San_Agust%C3%ADn_(Huila))
 
 Aunque es un pequeño lugar de clima frío, también es acogedor, muy pintoresco. Muy agradable para pasar una tarde de relajación, cultura y para tomar un buen cafecito con los vecinos del lugar.
 
-![Parque de Obando en San Agustín Huila]({{ 'img/magazine/parque-obando-san-agustin-huila.webp' | relative_url }} "Parque de Obando"){:width="360" height="240"}
+![Parque de Obando en San Agustín Huila]({{ 'img/magazine/parque-obando-san-agustin-huila.webp' | relative_url }} "Parque de Obando"){:width="360" height="240" loading="lazy"}
 
 En la ciudad de San Agustín, al lado del viejo encaje del río Magdalena y frente a la ventana geográfica de las soledades serranas, hay un Parque y Museo Arqueológico donde puedes conocer y disfrutar de la vida de los habitantes prehispánicos y coloniales del altiboqui del río Magdalena.
 
@@ -64,7 +64,7 @@ Esta belleza arquitectónica fue construida a través de las donaciones de las f
 
 Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. **El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa cerca de [San Agustín]({{site.baseurl}}/visita-san-agustin-huila).**
 
-![Obando en San Agustín Huila]({{ 'img/magazine/obando-san-agustin.webp' | relative_url }} "Obando San Agustín"){:width="360" height="240"}
+![Obando en San Agustín Huila]({{ 'img/magazine/obando-san-agustin.webp' | relative_url }} "Obando San Agustín"){:width="360" height="240" loading="lazy"}
 
 Es un lugar que ofrece a los turistas la oportunidad de conocer la historia natural y cultural de la zona. **Por otra parte, tienes la oportunidad de maravillarte con los ecosistemas nacionales de esta zona del cañón del Magdalena**.
 

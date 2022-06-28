@@ -8,11 +8,6 @@ img: magazine/parque-arqueologico-san-agustin.webp
 jpg: magazine/parque-arqueologico-san-agustin.jpg
 alt: Parque arqueológico de San Agustín Huila sección mesita A
 date: 2021-06-13
-referencias:
-  - Fotografías: https://es.wikipedia.org/wiki/Parque_arqueol%C3%B3gico_de_San_Agust%C3%ADn
-  - Parque arquelógico San Agustín: https://sanagustinhuilacolombia.com.co/hoteles-san-agustin-huila-colombia/
-  - Colombia Travel: https://colombia.travel/es/san-agustin
-  - Wikimedia: https://commons.wikimedia.org
 background-header: var(--oficial)
 intro: El parque arqueológico de San Agustín es complejo muy grande y atractivo. Abarca 2 municipios, San Agustín e Isnos. Se divide en amplias secciones con características especiales. Conócelo.
 ---
@@ -95,7 +90,7 @@ Además, hay que tener en cuenta que en temporada normal el parque arqueológico
 
 ## Información sobre el Parque Arqueológico de San Agustín
 
-![Estatuas del parque arqueológico de San Agustín]({{ 'img/magazine/estatuas-parque-arqueologico-san-agustin.webp' | relative_url }} "Estatuas del parque"){:width="360" height="240"}
+![Estatuas del parque arqueológico de San Agustín]({{ 'img/magazine/estatuas-parque-arqueologico-san-agustin.webp' | relative_url }} "Estatuas del parque"){:width="360" height="240" loading="lazy"}
 
 **El Parque con las ruinas de San Agustín es una amplia zona con reserva natural del valle alto del río Magdalena**, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos.
 
@@ -107,7 +102,7 @@ Ya para el año de 1931 se hizo la restauración de los lugares para conservarlo
 
 **El parque es la zona con más allazgos arqueológicos de la época conocida como América Precolombina**. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social, encargados de crear la que se cree es *la necrópolis más grande de Suramérica*.
 
-![Estatuas del parque arqueológico de San Agustín Huila]({{ 'img/magazine/estatuas-parque-arqueologico-san-agustin-huila.webp' | relative_url }} "Estatuas del parque"){:width="360" height="240"}
+![Estatuas del parque arqueológico de San Agustín Huila]({{ 'img/magazine/estatuas-parque-arqueologico-san-agustin-huila.webp' | relative_url }} "Estatuas del parque"){:width="360" height="240" loading="lazy"}
 
 Consta de 78 hectáreas pertenecientes a los campesinos de la región y que fueron vendidas al gobierno con el tiempo. Desde 1935 se creó oficialmente el Parque Arqueológico de San Agustín para el público en general.
 
@@ -121,6 +116,8 @@ Las concentraciones de los hallazgos arqueológicos son tan grandes que del **Pa
 
 La zona más grande se conoce como **Mesitas de San Agustín**. Cubre cerca de 80 hectáreas y se ubica a unos 2 kilómetros del centro del municipio. Hacia esta zona encontrarás la mayoría de los servicios hoteleros, de hostelería y de turismo de la región.
 
+>Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de ["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
+
 La sede del Alto de los Ídolos son 13 hectáreas, a 18 kilómetros por carretera desde San Agustín y a 8 kilómetros desde la cabecera municipal de Isnos. La sede del Alto de las Piedras (11 hectáreas) está aún más al norte, a 9 kilómetros por carretera desde Isnos.
 
 En estas 3 zonas se encuentran los siguientes lugares importantes del parque.
@@ -129,7 +126,7 @@ En estas 3 zonas se encuentran los siguientes lugares importantes del parque.
 
 El sector de El Tablón debe su nombre posiblemente al arroyo que lo recorre. **Esta zona contiene 5 litoesculturas muy grandes y diferentes entre ellas.** Parece que fueron ubicadas en zonas cercanas y se agruparon después en este lugar.
 
-![Mapa del recorrido en el parque arqueológico de San Agustín Huila]({{ 'img/magazine/mapa-parque-arqueologico-san-agustin.webp' | relative_url }} "Recorrido del parque"){:width="360" height="240"}
+![Mapa del recorrido en el parque arqueológico de San Agustín Huila]({{ 'img/magazine/mapa-parque-arqueologico-san-agustin.webp' | relative_url }} "Recorrido del parque"){:width="360" height="240" loading="lazy"}
 
 ### La Chaquira
 
@@ -155,7 +152,7 @@ Este museo te permite apreciar muchas estatuas y herramientas de la época, y mu
 
 ### La Fuente Ceremonial del Lavapatas
 
-![Fuente Lavapatas en el parque arqueológico de San Agustín Huila]({{ 'img/magazine/fuente-lavapatas-parque-arquelogico-san-agustin.webp' | relative_url }} "Fuente Lavapatas"){:width="360" height="240"}
+![Fuente Lavapatas en el parque arqueológico de San Agustín Huila]({{ 'img/magazine/fuente-lavapatas-parque-arquelogico-san-agustin.webp' | relative_url }} "Fuente Lavapatas"){:width="360" height="240" loading="lazy"}
 
 Una de las creaciones más significativas de la cultura de San Agustín fue **la Fuente Ceremonial de Lavapatas, una obra de ingeniería hidráulica en la que se representaba una serie de figuras talladas, canales y estanques sobre un lecho de roca.**
 
@@ -181,7 +178,7 @@ Muchas de estas esculturas megalíticas revelan un culto hacia la muerte y los a
 
 Así que al recorrer el parque, verás que hay exhibiciones que se identifican como mesas. Como puedes notar en la siguiente fotografía, son hacían 2 guardianes a los lados y el protector a la mitad, con una cubierta sobre los 3. Así formaban lo que aparentan mesitas.
 
-![Tumba del parque arqueológico de San Agustín Huila]({{ 'img/magazine/tumba-parque-arqueologico-san-agustin.webp' | relative_url }} "Tumbas del parque arqueológico"){:width="360" height="240"}
+![Tumba del parque arqueológico de San Agustín Huila]({{ 'img/magazine/tumba-parque-arqueologico-san-agustin.webp' | relative_url }} "Tumbas del parque arqueológico"){:width="360" height="240" loading="lazy"}
 
 En estos sitios se encuentran lugares funerarios como tumbas y montículos artificiales. También, se encuentran las esculturas más famosas del parque, como el águila y el Dios del sol. Las tumbas fueron trazadas según las clases sociales, jerarquías políticas y religiosas, que siempre han existido en los grupos humanos.
 
@@ -189,7 +186,7 @@ Las culturas nativas sabían de arquitectura, de matemáticas y de astronomía. 
 
 ### El Alto de los Ídolos
 
-![Alto de los Ídolos San Agustín Huila]({{ 'img/magazine/alto-de-los-idolos-san-agustin.webp' | relative_url }} "Alto de los Ídolos"){:width="360" height="240"}
+![Alto de los Ídolos San Agustín Huila]({{ 'img/magazine/alto-de-los-idolos-san-agustin.webp' | relative_url }} "Alto de los Ídolos"){:width="360" height="240" loading="lazy"}
 
 El Alto de los Ídolos es un sitio arqueolgico muy importante para la región. **Se encuentra en el municipio de San Jos de Isnos, a tan solo 20 minutos desde San Agustín**. Recuerda que con el mismo pasaporte que pagas en San Agustín, puedes entrar a este importante lugar.
 
