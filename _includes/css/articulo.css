@@ -78,12 +78,7 @@ blockquote,
 
 .articulo iframe {
   width: 100%;
-  box-shadow: var(--shadow);
-  border-radius: 7px;
-}
-
-.disqus iframe{
-  padding: 1rem;
+  border-radius: 8px;
 }
 
 .legal {
