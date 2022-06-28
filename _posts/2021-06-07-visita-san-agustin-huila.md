@@ -8,14 +8,6 @@ img: magazine/san-agustin-huila-bienvenida.webp
 jpg: magazine/san-agustin-huila-bienvenida.jpg
 alt: Entrada a San Agustín Huila
 date: 2021-06-07
-referencias:
-  - Fotografías: https://commons.wikimedia.org/wiki/Main_Page
-  - Foto Achiras: https://www.colombia.com/gastronomia/recetas-colombianas/achira-r233
-  - Cootranslaboyana: 
-  - Taxiverdes: 
-  - Coomotor: 
-  - Adventure X Colombia: https://adventurecolombia.co/
-  - Wikilo Foto Alto de los ídolos: https://es.wikiloc.com/rutas-senderismo/san-agustin-a-alto-de-los-idolos-8819284
 background-header: var(--oficial)
 intro: En San Agustín Huila tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.
 ---
@@ -56,6 +48,8 @@ Como dice en las indicaciones de Google Maps, estas son aproximaciones. Si hay c
 ### Cómo llegar en avión hasta San Agustín Huila
 
 Si deseas y puedes hacerlo, **la mejor opción es tomar un avión hasta el aeropuerto de Pitalito. Este aeropuerto está a solo 20 minutos de distancia en carro.**
+
+>Aprende cómo hacer voluntariado y ahorrar costos en tu viaje con el libro de ["Como me lance al voluntariado ( guia paso a paso)" 📖](https://go.hotmart.com/B72308674C?dp=1){:rel="nofollow sponsored" target="_blank"}
 
 Estos son los **aeropuertos más cercanos a San Agustín Huila**:
 
