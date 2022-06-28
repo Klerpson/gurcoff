@@ -1,16 +1,17 @@
 ---
 title: Estrecho del Río Magdalena
-description: El Estrecho del Magdalena es el punto más estrecho del majestuoso río Colombiano. Te decimos cómo llegar, sus misterios y recomendaciones para ti.
+description: El Estrecho del Magdalena es el punto más estrecho del majestuoso río Colombiano 🏞. Te decimos cómo llegar, sus misterios y recomendaciones para ti.
 category: turismo
 tags: [parque, turismo]
-h1: El Estrecho del Magdalena en San Agustín Huila
+h1: Estrecho del río Magdalena en San Agustín
 img: magazine/estrecho-del-magdalena-400px.webp
-alt: Vista aérea del estrecho del Magdalena cortesía de Adventure X Colombia
+alt: El Estrecho del Magdalena desde el aire
 date: 2021-06-22
 background-header: var(--principal)
 intro: ¿Te imaginas un río como el Magdalena pasar por un espacio de casi 2 metros? Ese es el Estrecho del Magdalena.
 ---
-**El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho**.
+El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que **este majestuoso río se reduce a un canal de solo 2,20 metros de ancho**.
+
 <!-- excerpt -->
 
 {% include img.html img="magazine/estrecho-del-magdalena.webp" img-mini="magazine/estrecho-del-magdalena-400px.webp" alt="Estrecho del río Magdalena en San Agustín Huila" title="Estrecho del río Magdalena en San Agustín" %}
@@ -43,8 +44,7 @@ Para llegar a este punto del río Magdalena, debes partir desde el casco urbano 
 
 ## Cómo llegar al estrecho del río Magdalena
 
-{% include img.html img="magazine/salida-estrecho-del-magdalena.webp" img-mini="magazine/salida-estrecho-del-magdalena-400px.webp" alt="Esquina donde se sale hacia el Estrecho del río Magdalena en San Agustín Huila" title="Calle que sale hacia el Estrecho del río Magdalena en San Agustín" %}
-*Imagen tomada de Google Maps - Salida hacia el Estrecho del Magdalena*
+>¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de [🎒Carolina Colobon y Nando Prieto](https://go.hotmart.com/Y72308599B?dp=1){:rel="nofollow sponsored" target="_blank"}
 
 A nuestra heladería llegan muchos turistas preguntando cuál es la salida hacia el estrecho, pues tiende a confundirse con la salida al [parque arqueológico,](https://gurcoff.com/parque-arqueologico-san-agustin-huila) que es por donde nuestra heladería está ubicada (visita la sección de [contacto](https://gurcoff.com/contacto) para más información).
 

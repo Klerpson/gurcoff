@@ -3,7 +3,7 @@ title: Parque Arqueológico de San Agustín Huila
 description: El parque arqueológico de San Agustín es un parque natural lleno de descubrimientos, historia y aprendizaje 🗿. Ven a conocerlo 🥾
 category: turismo
 tags: [parque]
-h1: Conoce el Parque Arqueológico de San Agustín
+h1: El Parque Arqueológico de San Agustín
 img: magazine/parque-arqueologico-san-agustin.webp
 jpg: magazine/parque-arqueologico-san-agustin.jpg
 alt: Parque arqueológico de San Agustín Huila sección mesita A
@@ -16,7 +16,7 @@ referencias:
 background-header: var(--oficial)
 intro: El parque arqueológico de San Agustín es complejo muy grande y atractivo. Abarca 2 municipios, San Agustín e Isnos. Se divide en amplias secciones con características especiales. Conócelo.
 ---
-**El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones**. Es una hermosa reserva natural con aproximadamente 2.000 Km2 de extensión.
+**El parque arqueológico de San Agustín es un destino obligado para tus vacaciones**. Es una hermosa reserva natural con aproximadamente 2.000 Km2 de extensión.
 
 Te contamos todo la información que necesitas para planear tu visita y que puedas disfrutarlo cuando vengas a San Agustín.
 
@@ -25,7 +25,7 @@ Te contamos todo la información que necesitas para planear tu visita y que pued
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Cómo llegar al parque arqueológico de San Agustín Huila
+## Cómo llegar al parque arqueológico de San Agustín
 
 Para llegar debes tener presente 2 destinos. Primero debes llegar hasta el municipio de **Pitalito Huila**. Y el segundo es el municipio de **San Agustín Huila**. Si vienes por el páramo, desde la ciudad de Popayán, no será necesario llegar hasta Pitalito.
 
@@ -40,7 +40,7 @@ Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hote
 
 >¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
-### Llegar al parque arqueológico desde Bogotá
+### Llega al parque arqueológico desde Bogotá
 
 Para llegar al parque arqueológico de San Agustín desde Bogotá puedes **utilizar el transporte terrestre desde Bogotá (9 horas aproximadamente) hasta Pitalito**. Desde allí viajarás hasta San Agustín (30 minutos más).
 
@@ -48,13 +48,13 @@ También, puedes tomar vuelos desde Bogotá. **El aeropuerto más cercano está 
 
 >En el artículo ["Visita San Agustín Huila](https://gurcoff.com/visita-san-agustin-huila "Artículo sobre San Agustín Huila"), encontrarás más información sobre cómo llegar hasta San Agustín
 
-### Llegar al parque arqueológico desde Neiva
+### Llega al parque desde Neiva
 
-La ruta al **parque arqueológico desde Neiva es más corta, de 4 horas aproximadamente**, pero es la misma. Esto se debe a que la ciudad de Neiva está entre la ruta Bogotá - San Agustín.
+La ruta al **parque arqueológico desde Neiva es de 4 horas aproximadamente**, pero es la misma. Esto se debe a que la ciudad de Neiva está entre la ruta Bogotá - San Agustín.
 
 Por lo tanto, **desde la ciudad de Neiva, la ruta es Neiva - Pitalito - San Agustín**.
 
-### Llegar al parque arqueológico de San Agustín desde Popayán o Mocoa
+### Llega al parque de San Agustín desde Popayán o Mocoa
 
 **La ruta desde la ciudad de Mocoa es llegando primero a la ciudad de Pitalito, y finalmente hasta San Agustín.** Son 5 horas de viaje aproximadamente.
 
@@ -87,7 +87,7 @@ Ahora bien, **hay excepciones para no pagar y entrar gratis al parque arqueológ
 
 >¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
-### Horario del parque arqueológico de San Agustín
+### Horarios del parque arqueológico
 
 De acuerdo a la página oficial, **el parque arqueológico de San Agustín abre a las 8:00 a.m.. La atención al público termina a las 4:00 p.m.**
 
@@ -97,7 +97,7 @@ Además, hay que tener en cuenta que en temporada normal el parque arqueológico
 
 ![Estatuas del parque arqueológico de San Agustín]({{ 'img/magazine/estatuas-parque-arqueologico-san-agustin.webp' | relative_url }} "Estatuas del parque"){:width="360" height="240"}
 
-**El Parque Arqueológico de San Agustín Huila es una amplia zona con reserva natural del valle alto del río Magdalena**, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos.
+**El Parque con las ruinas de San Agustín es una amplia zona con reserva natural del valle alto del río Magdalena**, al suroccidente de Colombia. En la actualidad pertenece a los territorios de los municipios de San Agustín e Isnos.
 
 Muchos de los monumentos fueron restaurados para después del año de 1857. Para esa época hubo un temblor muy fuerte en la zona que destruyó gran parte de los tesoros arqueológicos del lugar.
 
@@ -105,7 +105,7 @@ Ya para el año de 1931 se hizo la restauración de los lugares para conservarlo
 
 ### El parque de San Agustín Huila y los hallazgos arqueológicos
 
-**El parque arqueológico de San Agustín es la zona con más allazgos arqueológicos de la época conocida como América Precolombina**. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social, encargados de crear la que se cree es *la necrópolis más grande de Suramérica*.
+**El parque es la zona con más allazgos arqueológicos de la época conocida como América Precolombina**. Se considera que esta cultura es una de las primeras sociedades de Sudamérica con alta complejidad en su organización social, encargados de crear la que se cree es *la necrópolis más grande de Suramérica*.
 
 ![Estatuas del parque arqueológico de San Agustín Huila]({{ 'img/magazine/estatuas-parque-arqueologico-san-agustin-huila.webp' | relative_url }} "Estatuas del parque"){:width="360" height="240"}
 
@@ -143,7 +143,7 @@ Esta zona del parque está ubicada en el cerro que lleva ese mismo nombre, *La P
 
 ### El Purutal
 
-En este sitio del parque arqueológico de San Agustín hay 2 templos dolménicos (estos son momumentos megalíticos con una losa grande horizontal que se apoya sobre grandes piedras verticales).** Lo interesante en este lugar es que sus figuras tienen colores**.
+En este sitio del parque arqueológico de San Agustín hay 2 templos dolménicos (estos son momumentos megalíticos con una losa grande horizontal que se apoya sobre grandes piedras verticales). **Lo interesante en este lugar es que sus figuras tienen colores**.
 
 >Haz planes para visitar [El museo de Obando de San Agustín]({{site.baseurl}}/museo-obando-san-agustin-huila)
 

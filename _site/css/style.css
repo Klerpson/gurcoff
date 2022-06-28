@@ -881,6 +881,7 @@ footer {
   padding: 0 .3rem;
 }
 
+blockquote,
 .articulo blockquote {
   background-color: white;
   position: relative;

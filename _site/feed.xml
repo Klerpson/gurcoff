@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-06-22T15:06:46-05:00</updated>
+     <updated>2022-06-28T06:38:58-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -17,15 +17,15 @@
    <link href="http://localhost:4000/museo-obando-san-agustin-huila"/>
    <id>http://localhost:4000/museo-obando-san-agustin-huila</id>
    <updated>2022-03-04T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Obando y su museo se encuentra en uno de los corregimientos de San Agustín Huila, a 20 minutos, y a 248 kilómetros de Neiva.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;San Agustín Huila es la capital arqueológico del departamento de Huila. Está lleno de lugares únicos y que se pueden visitar. Y hoy...</content>
+   <content type="html">&lt;p&gt;Obando en San Agustín es famoso por su museo arqueológico. Se encuentra en un corregimiento a 20 minutos desde el municipio.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;San Agustín Huila es la capital arqueológica del departamento de Huila. Está lleno de lugares únicos abiertos al público. En este artículo te recomendamos uno de...</content>
  </entry>
  
  <entry>
-   <title>Laguna del Magdalena, donde nace el río Magdalena</title>
+   <title>Laguna del Magdalena, nacimiento del río Magdalena</title>
    <link href="http://localhost:4000/laguna-del-magdalena"/>
    <id>http://localhost:4000/laguna-del-magdalena</id>
    <updated>2021-09-09T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;Este es un lugar adornado por los frailejones que abundan en el Páramo de las papas, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conozcamos más de la Laguna del Magdalena &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/laguna-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/laguna-del-magdalena-huila.webp&quot; alt=&quot;Laguna del...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;La laguna del Magdalena es una reserva espectacular adornada por los frailejones que abundan en el Páramo de las papas&lt;/strong&gt;, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conoce más sobre la Laguna del Magdalena.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#cómo-llegar-hasta-la-laguna-del-magdalena&quot; id=&quot;markdown-toc-cómo-llegar-hasta-la-laguna-del-magdalena&quot;&gt;¿Cómo llegar hasta...</content>
  </entry>
  
  <entry>
@@ -33,7 +33,7 @@
    <link href="http://localhost:4000/estrecho-rio-magdalena"/>
    <id>http://localhost:4000/estrecho-rio-magdalena</id>
    <updated>2021-06-22T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-del-magdalena-400px.webp&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot; title=&quot;Estrecho del...</content>
+   <content type="html">&lt;p&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que &lt;strong&gt;este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;picture&gt; &lt;source type=&quot;image/webp&quot; srcset=&quot;/img/magazine/estrecho-del-magdalena.webp&quot; media=&quot;(min-width: 767px)&quot; /&gt; &lt;img src=&quot;/img/magazine/estrecho-del-magdalena-400px.webp&quot; alt=&quot;Estrecho del río Magdalena en San Agustín Huila&quot; title=&quot;Estrecho del...</content>
  </entry>
  
  <entry>
@@ -41,7 +41,7 @@
    <link href="http://localhost:4000/parque-arqueologico-san-agustin-huila"/>
    <id>http://localhost:4000/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-06-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El parque arqueológico de San Agustín Huila es un destino obligado para tus vacaciones&lt;/strong&gt;. Es una hermosa reserva natural con aproximadamente 2.000 Km2 de extensión.&lt;/p&gt; &lt;p&gt;Te contamos todo la información que necesitas para planear tu visita y que puedas disfrutarlo cuando vengas a San Agustín.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt;...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;El parque arqueológico de San Agustín es un destino obligado para tus vacaciones&lt;/strong&gt;. Es una hermosa reserva natural con aproximadamente 2.000 Km2 de extensión.&lt;/p&gt; &lt;p&gt;Te contamos todo la información que necesitas para planear tu visita y que puedas disfrutarlo cuando vengas a San Agustín.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a...</content>
  </entry>
  
  <entry>
