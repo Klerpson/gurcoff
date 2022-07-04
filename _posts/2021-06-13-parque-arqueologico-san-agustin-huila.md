@@ -31,7 +31,7 @@ Después de llegar a San Agustín, te diriges hasta la plaza principal. **Desde 
 
 Puede servirte como punto de referencia llegar a nuestra [heladería GurCoff](https://gurcoff.com/contacto "Página de contacto de la heladería GurCoff"). Desde allí, solo sigue derecho 1,5 kilómetros hasta la sede principal del parque.
 
-Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles](https://gurcoff.com/hoteles-san-agustin-huila "Los hoteles de San Agustín Huila"), [restaurantes]({{site.baseurl}}/mejores-restaurantes-san-agustin) con comida típica y comidas rápidas, entre otros.
+Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles](https://gurcoff.com/hoteles "Hoteles de San Agustín Huila"), [restaurantes]({{site.baseurl}}/mejores-restaurantes-san-agustin) con comida típica y comidas rápidas, entre otros.
 
 >¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
 
