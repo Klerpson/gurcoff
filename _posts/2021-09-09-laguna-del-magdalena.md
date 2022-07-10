@@ -8,9 +8,6 @@ jpg: magazine/laguna-del-magdalena.jpg
 alt: Fotografía de la Laguna del Magdalena, nacimiento del gran río Magdalena
 background-header: 'var(--oficial)'
 date: 2021-09-09
-copyright: Julian Andres Franco Bedoya
-referencias:
-  - Imágen letrero páramo: https://commons.wikimedia.org/wiki/File:Laguna_de_la_Magdalena_aviso.JPG
 intro: La Laguna del Magdalena es el nacimiento del gran Río Magdalena, la mayor fuente del agua dulce para la producción colombiana.
 ---
 **La laguna del Magdalena es una reserva espectacular adornada por los frailejones que abundan en el Páramo de las papas**, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conoce más sobre la Laguna del Magdalena.
