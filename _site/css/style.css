@@ -141,7 +141,6 @@ header p {
 /* Compartidos */
 
 header,
-.home-hello,
 .testimonials,
 .blog,
 footer {
@@ -210,6 +209,7 @@ footer {
 }
 
 .hello-header {
+  margin-top: 7em;
   width: min(90vw, 1128px);
   display: grid;
   gap: 4rem;
@@ -229,16 +229,16 @@ footer {
   border-radius: 8px 0 34% 8px;
 }
 
-.hello-header h2 {
+.hello-header div h2 {
   color: var(--principal);
 }
 
-.hello-header p {
+.hello-header div p {
   margin: 2rem 0;
 }
 
 .hello-header img {
-  max-width: 360px;
+  max-width: 100%;
 }
 
 .hello-gallery {
