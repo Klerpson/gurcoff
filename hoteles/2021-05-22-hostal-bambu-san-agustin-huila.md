@@ -5,7 +5,7 @@ description: El hostal Bambú de San Agustín Huila está muy bien posicionado e
 category: hoteles
 tags: [hoteles, hostales]
 h1: Hostal Bambú de San Agustín Huila
-img: img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp
+img: img/hoteles/hostal-bambu-san-agustin-huila.webp
 alt: Fotografía del hotal bambú en San Agustín Huila
 autor: Julian Franco
 date: 2021-05-25
@@ -25,7 +25,7 @@ json: '
         "streetAddress": "Carrera 13 No 6-78"
     },
     "telephone": "+573113606841",
-    "photo": "https://gurcoff.com/img/magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp",
+    "photo": "https://gurcoff.com/img/hoteles/hostal-bambu-san-agustin-huila.webp",
     "starRating": {
         "@type": "Rating",
         "ratingValue": "4.8"
@@ -49,7 +49,7 @@ permalink: /hoteles/hostal-bambu-san-agustin-huila
 ## Hostal Bambú San Agustín
 
 <!-- IMG -->
-{% include img.html img="magazine/hoteles-san-agustin/hostal-bambu-san-agustin-huila.webp" img-mini="magazine/hoteles-san-agustin/hostal-bambu-san-agustin-huila-400px.webp" alt="Fotografías del letrero del hostal Bambú de San Agustín Huila" title="Letrero Hostal Bambú de San Agustín Huila" %}
+{% include img.html img="img/hoteles/hostal-bambu-san-agustin.webp" img-mini="img/hoteles/hostal-bambu-san-agustin-400px.webp" alt="Fotografías del letrero del hostal Bambú de San Agustín Huila" title="Letrero Hostal Bambú de San Agustín Huila" %}
 *Hostal Bambú en San Agustín Huila*
 
 **El hostal Bambú de San Agustín tiene una ubicación privilegiada a pocas calles de la plaza principal del pueblo**. Así que tendrás muy cerca las tiendas, farmacias o droguerías, panaderías, restaurantes, etc.
@@ -114,7 +114,7 @@ El correo electrónico del hostal es **bambuhostalsa@hotmail.com**.
 | **Zona para fumadores** | ... |
 
 <!-- IMG -->
-{% include img.html img="magazine/hoteles-san-agustin/hostal-bambu-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hostal-bambu-san-agustin-400px.webp" alt="Miniaturas del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka Lodge de San Agustín Huila" %}
+{% include img.html img="img/hoteles/hostal-bambu-san-agustin-huila.webp" img-mini="img/hoteles/hostal-bambu-san-agustin-400px.webp" alt="Miniaturas del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka Lodge de San Agustín Huila" %}
 
 ### ¿Por qué escoger el Hostal Bambú?
 
