@@ -46,6 +46,9 @@ footer img{
   font-weight: 700;
   color: var(--principal);
   text-decoration: underline;
+  text-decoration-color: var(--secundario);
+  -moz-text-decoration-color: var(--secundario);
+  text-decoration-thickness: 2px;
 }
 
 .register{

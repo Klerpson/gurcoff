@@ -8,8 +8,8 @@
   --grisFuentes: #161519;
   --shadow: 0 4px 8px rgba(24, 24, 24, 0.302);
   --blanco: #f9f9f9;
-  --fuenteTitulos: 'Sacramento', cursive;
-  --fuenteTextos: 'Open Sans', sans-serif;
+  --fuenteTitulos: 'Domine', serif;
+  --fuenteTextos: 'Josefin Sans', sans-serif;
 }
 
 *,
@@ -22,11 +22,11 @@
 
 html {
   line-height: 1.5;
-  scroll-behavior: auto;
   font-size: 100%;
 }
 
 body {
+  scroll-behavior: auto;
   color: var(--grisFuentes);
   font-family: var(--fuenteTextos);
   background-color: var(--blanco);
@@ -48,11 +48,10 @@ h3 {
 }
 
 h1 {
-  font-size: clamp(3.5rem, 7vw, 5rem);
-  line-height: 1;
+  font-size: clamp(3.5rem, 7vw, 4rem);
+  line-height: 1.2;
   width: min(80vw, 720px);
   text-align: center;
-  letter-spacing: 1.5px;
   color: var(--accion);
   text-shadow: var(--shadow);
 }
@@ -61,21 +60,18 @@ h2 {
   font-size: clamp(2.5rem, 4vw, 3.2rem);
   line-height: 1.2;
   text-align: center;
-  letter-spacing: 1.5px;
 }
 
 h3, q {
   font-size: clamp(2rem, 3vw, 2.5rem);
   line-height: 1.2;
   text-align: center;
-  letter-spacing: 1.5px;
 }
 
 h4 {
   font-size: clamp(1.2rem, 2.5vw, 2rem);
   line-height: 1.2;
   text-align: left;
-  letter-spacing: 1.5px;
   margin-bottom: 1.5rem;
 }
 
@@ -143,6 +139,7 @@ header p {
 header,
 .testimonials,
 .blog,
+.blog-footer,
 footer {
   padding: 5rem clamp(2rem, 7vw, 5rem);
 }
@@ -150,16 +147,15 @@ footer {
 .nosotros,
 .contacto,
 .magazine,
-.blog-footer,
 .articulo,
-.legal {
+.legal,
+.blog-footer div {
   margin: 7rem auto;
   width: min(90vw, 960px);
 }
 
 .nosotros h2,
 .contacto h2,
-.blog-footer h2,
 .articulo h2{
   margin: 3rem 0;
   color: var(--principal);

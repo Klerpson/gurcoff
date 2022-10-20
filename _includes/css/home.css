@@ -1,4 +1,5 @@
 .home-intro {
+  position: relative;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 50vh 50vh;
@@ -33,48 +34,14 @@
   filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.302));
 }
 
-.home-hello {
-  background-image: linear-gradient(180deg, var(--blanco) 80%, var(--secundario) 20%);
-  display: grid;
-  gap: 4rem;
-  place-content: center;
-}
-
-.hello-header {
-  margin-top: 7em;
-  width: min(90vw, 1128px);
-  display: grid;
-  gap: 4rem;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
-  align-items: center;
-  justify-items: center;
-  background-color: var(--principal);
-  border-radius: 8px;
-  color: white;
-  background-color: white;
-  border: 1px solid var(--grisClaro);
-}
-
-.hello-header div {
-  background-color: var(--secundario);
-  padding: clamp(1.5rem, 5vw, 3rem);
-  border-radius: 8px 0 34% 8px;
-}
-
-.hello-header div h2 {
-  color: var(--principal);
-}
-
-.hello-header div p {
-  margin: 2rem 0;
-}
-
-.hello-header img {
-  max-width: 100%;
+.home-intro a{
+  position: absolute;
+  top: calc(50% - 29px);
+  left: calc((100% - 298.6px) / 2);
 }
 
 .hello-gallery {
-  width: 100%;
+  width: min(100%, 1200px);
   margin: 4rem auto;
   display: grid;
   gap: 2rem;
@@ -91,13 +58,18 @@
   background-color: var(--oficial);
   border-radius: 8px;
   padding: 2rem;
-  transition: transform .3s ease-out;
   color: var(--blanco);
   text-align: center;
+  font-weight: 400;
+  transition: all .2s linear;
+  -webkit-transition: all .2s linear;
+  -moz-transition: all .2s linear;
+  -ms-transition: all .2s linear;
+  -o-transition: all .2s linear;
 }
 
 .hello-gallery article:hover {
-  transform: scale(1.04);
+  transform: scale(1.02);
   box-shadow: var(--shadow);
 }
 
@@ -109,6 +81,7 @@
 
 .hello-gallery article h4 {
   text-align: center;
+  font-family: var(--fuenteTitulos);
 }
 
 .benefits {
@@ -128,7 +101,7 @@
 
 .benefits-points {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr));
 }
 
 .benefits div:first-child,
@@ -141,8 +114,13 @@
   align-items: center;
 }
 
+.benefits div h2,
+.benefits div p {
+  max-width: 560px;
+}
+
 .benefits div img {
-  max-width: 100%;
+  max-width: min(100%, 520px);
 }
 
 .benefits-points div:nth-child(1),
@@ -181,17 +159,27 @@
 
 .instagram {
   position: relative;
-  padding-top: 5rem;
+  padding: 5rem 0 3rem;
+  background-color: var(--principal);
+  background-image: url('{{site.baseurl}}/img/brick-wall.png');
+  color: white;
 }
 
 .instagram h2 {
-  margin: 0 auto 4rem;
+  margin: 0 auto 3rem;
   width: min(100%, 720px);
+}
+
+.instagram p{
+  max-width: 520px;
+  margin: 4rem auto;
+  text-align: center;
 }
 
 #instafeed {
   overflow: auto;
-  margin: 0 0 0 -1%;
+  margin: 0 auto;
+  width: min(100%, 1200px);
 }
 
 #instafeed li {
@@ -209,13 +197,25 @@
   -o-object-fit: cover;
   object-fit: cover;
   position: absolute;
+  border-radius: 12px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
 }
 
-.blog,
-.instagram {
-  background-color: var(--principal);
-  background-image: url('{{site.baseurl}}/img/brick-wall.png');
-  color: white;
+.blog h2,
+.blog h3{
+  color: var(--principal);
+}
+
+.blog div{
+  padding: 3rem 0;
+  width: min(100%, 1200px);
+}
+
+.blog div article h4{
+  color: var(--principal);
 }
 
 .mapa {

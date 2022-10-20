@@ -21,7 +21,7 @@ background-header: var(--principal)
       <h4>{{ post.h1 }}</h4>
       <a href="{{site.baseurl}}{{ post.url }}">
         <img src="{{ site.baseurl }}/img/{{ post.img }}" width="320" height="240" alt="{{ post.alt }}" loading="lazy">
-        <p>{{post.intro | truncate: 80}}</p>
+        <p>{{post.intro | truncate: 70}}</p>
       </a>
     </article>
     {% endfor %}
@@ -34,15 +34,14 @@ background-header: var(--principal)
       <h4>Visita nuestra sección con la mejor selección de hoteles en San Agustín</h4>
       <a href="{{site.baseurl}}/hoteles">
         <img src="{{ site.baseurl }}/img/hoteles/hotel-casa-bonita-san-agustin-huila.webp" width="320" height="240" alt="Hotel Casa Bonita de San Agustín Huila" loading="lazy">
-        <p>{{"Hoteles de San Agustín, cabañas, hospedajes, glamping, hostales, etc." | truncate: 80}}</p>
+        <p>{{"Hoteles de San Agustín, cabañas, hospedajes, glamping, hostales, etc." | truncate: 70}}</p>
       </a>
     </article>
   </div>
-  <h3>¿Qué buscas de San Agustín Huila?</h3>
-  {% include search.html %}
 </div>
 <section class="blog-footer">
-  <h2>Tienes mucho por hacer en San Agustín</h2>
+  <div>
+    <h2>Tienes mucho por hacer en San Agustín</h2>
     <p>Anímate a venir de viaje a San Agustín. Puedes contar con almenos 2 grandes ventajas:</p>
     <ul>
       <li><strong>Es un viaje lleno de toda la naturaleza que rodea el macizo colombiano</strong></li>
@@ -54,4 +53,6 @@ background-header: var(--principal)
     <p>Por ejemplo, muchas fincas y haciendas cafeteras se han capacitado para brindar experiencias enriquecedoras sobre todo el proceso que implica producir un café de alta calidad. Y por supuesto, al final del día terminas probando el que por hoy es considerado el mejor café de Colombia.</p>
   <h2>Si vienes a San Agustín, el peligro es que te quedes</h2>
     <p>Y es totalmente cierto. Enamorarse de San Agustín es muy fácil. Por todo esto, de parte del equipo de la <a href="{{site.baseurl}}/contacto">Heladería GurCoff</a>, te dejamos con este llamado: <strong>¡Te esperamos en San Agustín Huila!</strong></p>
-</section>
+      </div>
+  </section>
+  

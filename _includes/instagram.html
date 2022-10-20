@@ -1,8 +1,11 @@
 <div class="instagram">
-  <h2>¿Ya nos agregaste en tu instagram?</h2>
+  <h2>Síguenos en tu instagram</h2>
+  <p>Haz clic en las fotografías para ver nuestro perfil completo.</p>
 <ul id="instafeed">
-  {% for i in (0..9) %}<li><a href="https://www.instagram.com/{{ include.username }}/"><img
-        src="https://profilepageimages.usecue.com/images/{{ include.username }}/small/{{ i }}.jpg"
-        alt="Instagram picture {{ i | plus:1 }}" /></a></li>{% endfor %}
+  {% for i in (0..9) %}
+  <li><a href="https://www.instagram.com/{{ include.username }}/">
+    <img src="https://profilepageimages.usecue.com/images/{{ include.username }}/small/{{ i }}.jpg" alt="Instagram picture {{ i | plus:1 }}" /></a>
+  </li>
+  {% endfor %}
 </ul>
 </div>
