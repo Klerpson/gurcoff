@@ -34,7 +34,7 @@
   filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.302));
 }
 
-.home-intro a{
+.home-intro a:not(.contacto-telefono a){
   position: absolute;
   top: calc(50% - 29px);
   left: calc((100% - 298.6px) / 2);
@@ -102,6 +102,12 @@
 .benefits-points {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
+}
+
+@media (min-width: 1480px) {
+  .benefits-points {
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 428px), 1fr));
+  }
 }
 
 .benefits div:first-child,

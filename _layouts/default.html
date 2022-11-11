@@ -9,7 +9,7 @@ layout: compress
     {% else %}
     <h1>{{page.h1}}</h1>
     {% endif %}
-    <img src="{{site.baseurl}}/img/{{page.img}}" alt="{{page.alt}}" width="320" height="240">
+    <img src="{{site.baseurl}}/img/{{page.img}}" alt="{{page.alt}}">
     {% if page.intro %}
     <p>{{page.intro}}</p>
     {% endif %}
@@ -25,7 +25,6 @@ layout: compress
   {% include footer.html %}
 </body>
 
-<script src='/js/scripts.js'></script>
 <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
 {% if page.url contains 'blog' %}
 <!-- Script pointing to search-script.js -->

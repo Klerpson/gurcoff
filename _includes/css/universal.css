@@ -109,6 +109,7 @@ header .titulo-home {
 header img {
   width: min(70vw, 360px);
   border-radius: 8px;
+  aspect-ratio: auto;
 }
 
 header p {
