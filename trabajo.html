@@ -1,0 +1,66 @@
+---
+layout: default
+title: Página con ofertas de trabajo en la heladería GurCoff de San Agustín y Pitalito Huila
+h1: ¿Te gustaría ser parte de los mejore raticos GurCoff?
+description: GurCoff heladería y cafetería es un proyecto en crecimiento. De vez en cuando estamos necesitando más miembros para nuestro equipo. Revisa si hay algún perfil en el que puedas hacer parte de GurCoff.
+intro: Si estás aquí, es porque te enteraste de alguna de nuestras ofertas de trabajo. Si tienes el perfil requerido, nos encantaría contar contigo.
+img: bella.webp
+background-header: var(--secundario)
+---
+<h2 style="margin: 8rem 0 4rem;">Ofertas de trabajo en GurCoff</h2>
+{% for job in site.data.jobs %}
+<section class="reclutamiento">
+  <div class="oferta_trabajo">
+    <img src="{{ site.baseurl }}/img/{{ job.img }}"
+      alt="{{ job.alt }}" title="{{ job.title }}" loading="lazy">
+      <h3>{{ job.trabajo }}</h3>
+  </div>
+  <div class="oferta_trabajo">
+    <h3><svg class="svg-icon" viewBox="0 0 20 20">
+      <path fill="none" d="M1.686,3.327h16.754c0.356,0,0.645-0.288,0.645-0.644c0-0.356-0.288-0.645-0.645-0.645H1.686
+        c-0.356,0-0.644,0.288-0.644,0.645C1.042,3.039,1.33,3.327,1.686,3.327z M4.263,6.549c-0.356,0-0.644,0.288-0.644,0.645
+        c0,0.356,0.288,0.644,0.644,0.644h11.599c0.356,0,0.645-0.288,0.645-0.644c0-0.356-0.288-0.645-0.645-0.645H4.263z M18.439,11.06
+        H1.686c-0.356,0-0.644,0.288-0.644,0.644c0,0.356,0.288,0.645,0.644,0.645h16.754c0.356,0,0.645-0.288,0.645-0.645
+        C19.084,11.348,18.796,11.06,18.439,11.06z M15.218,15.57H5.552c-0.356,0-0.645,0.288-0.645,0.645c0,0.355,0.289,0.644,0.645,0.644
+        h9.666c0.355,0,0.645-0.288,0.645-0.644C15.862,15.858,15.573,15.57,15.218,15.57z"></path>
+    </svg> Descripción</h3>
+    <p>{{ job.descripcion }}</p>
+  </div>
+  <div class="oferta_trabajo">
+    <h3><svg class="svg-icon" viewBox="0 0 20 20">
+      <path fill="none" d="M15.808,14.066H6.516v-1.162H5.354v1.162H4.193c-0.321,0-0.581,0.26-0.581,0.58s0.26,0.58,0.581,0.58h1.162
+        v1.162h1.162v-1.162h9.292c0.32,0,0.58-0.26,0.58-0.58S16.128,14.066,15.808,14.066z M15.808,9.419h-1.742V8.258h-1.162v1.161
+        h-8.71c-0.321,0-0.581,0.26-0.581,0.581c0,0.321,0.26,0.581,0.581,0.581h8.71v1.161h1.162v-1.161h1.742
+        c0.32,0,0.58-0.26,0.58-0.581C16.388,9.679,16.128,9.419,15.808,9.419z M17.55,0.708H2.451c-0.962,0-1.742,0.78-1.742,1.742v15.1
+        c0,0.961,0.78,1.74,1.742,1.74H17.55c0.962,0,1.742-0.779,1.742-1.74v-15.1C19.292,1.488,18.512,0.708,17.55,0.708z M18.13,17.551
+        c0,0.32-0.26,0.58-0.58,0.58H2.451c-0.321,0-0.581-0.26-0.581-0.58v-15.1c0-0.321,0.26-0.581,0.581-0.581H17.55
+        c0.32,0,0.58,0.26,0.58,0.581V17.551z M15.808,4.774H9.419V3.612H8.258v1.162H4.193c-0.321,0-0.581,0.26-0.581,0.581
+        s0.26,0.581,0.581,0.581h4.065v1.162h1.161V5.935h6.388c0.32,0,0.58-0.26,0.58-0.581S16.128,4.774,15.808,4.774z"></path>
+    </svg> Requisitos</h3>
+    <ul>
+      {% for habilidad in job.perfil %}
+      <li>{{ habilidad }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="oferta_trabajo">
+    <h3><svg class="svg-icon" viewBox="0 0 20 20">
+      <path fill="none" d="M9.917,0.875c-5.086,0-9.208,4.123-9.208,9.208c0,5.086,4.123,9.208,9.208,9.208s9.208-4.122,9.208-9.208
+        C19.125,4.998,15.003,0.875,9.917,0.875z M9.917,18.141c-4.451,0-8.058-3.607-8.058-8.058s3.607-8.057,8.058-8.057
+        c4.449,0,8.057,3.607,8.057,8.057S14.366,18.141,9.917,18.141z M13.851,6.794l-5.373,5.372L5.984,9.672
+        c-0.219-0.219-0.575-0.219-0.795,0c-0.219,0.22-0.219,0.575,0,0.794l2.823,2.823c0.02,0.028,0.031,0.059,0.055,0.083
+        c0.113,0.113,0.263,0.166,0.411,0.162c0.148,0.004,0.298-0.049,0.411-0.162c0.024-0.024,0.036-0.055,0.055-0.083l5.701-5.7
+        c0.219-0.219,0.219-0.575,0-0.794C14.425,6.575,14.069,6.575,13.851,6.794z"></path>
+    </svg> Beneficios</h3>
+    <ul>
+      {% for beneficio in job.beneficios %}
+      <li>{{ beneficio }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <a href="{{ job.whatsapp }}" class="boton-main" target="_blank" rel="nofollow">Me interesa</a>
+</section>
+{% endfor %}
+<section class="instagram">
+<p>Esperamos que alguna de las opciones sean de tu agrado. Solo haz clic en el botón <b>"Me interesa"</b> de la opción que más te gustó y para la que crees que tienes lo que se necesita. Recuerda que nosotros podemos ayudarte a cumplir con lo que consideres que necesitas mejorar.</p>
+</section>

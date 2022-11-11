@@ -93,6 +93,7 @@
 .benefits div:first-child:not(.benefits-points div) {
   background-color: var(--principal);
   color: white;
+  padding: 8rem 1.6rem;
 }
 
 .benefits div:last-child {
@@ -141,6 +142,8 @@
   justify-items: center;
   text-align: center;
   align-items: center;
+  justify-content: center;
+  width: 100%;
 }
 
 .testimonials h2 {
