@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
   <head>
   {% if page.redireccion %}
@@ -6,7 +6,7 @@
   {% endif %}
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale-1, maximum-scale-1, user-scalable-no, minimal-ui">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
   <title>{{ page.title}}</title>
   <link rel="preconnect" href="https://www.googletagmanager.com">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
@@ -177,9 +177,9 @@
     
   </style> -->
   <!-- PRELOADS AND LINKS -->
-  <link rel="preload" href="{{ 'css/style.css' | relative_url}}">
+  <link rel="preload" as="style" href="{{ 'css/style.css' | relative_url}}">
   <link rel="stylesheet" href="{{ 'css/style.css' | relative_url}}">
-  <link rel="preload" href="{{ 'css/fonts/style-fonts.css' | relative_url}}">
+  <link rel="preload" as="styel" href="{{ 'css/fonts/style-fonts.css' | relative_url}}">
   <link rel="stylesheet" href="{{ 'css/fonts/style-fonts.css' | relative_url}}">
   
   <link rel="preload" as="font" href="{{ 'css/fonts/josefin-sans-v24-latin-700.woff' | relative_url }}" type="font/woff" crossorigin>

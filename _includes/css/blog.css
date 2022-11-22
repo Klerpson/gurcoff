@@ -6,7 +6,7 @@
 
 .blog h2,
 .blog>p {
-  width: min(80vw, 640px);
+  width: min(80vw, 720px);
   margin: 0 auto;
   text-align: center;
 }

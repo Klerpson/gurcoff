@@ -48,35 +48,34 @@ h3 {
 }
 
 h1 {
-  font-size: clamp(3.5rem, 7vw, 4rem);
+  font-size: clamp(2.5rem, 4vw, 3rem);
   line-height: 1.2;
-  width: min(80vw, 720px);
-  text-align: center;
   color: var(--accion);
   text-shadow: var(--shadow);
+  margin-bottom: 2rem;
 }
 
 h2 {
-  font-size: clamp(2.5rem, 4vw, 3.2rem);
+  font-size: clamp(2.3rem, 3.5vw, 2.5rem);
   line-height: 1.2;
   text-align: center;
 }
 
 h3, q {
-  font-size: clamp(2rem, 3vw, 2.5rem);
+  font-size: clamp(2rem, 3vw, 2.2rem);
   line-height: 1.2;
   text-align: center;
 }
 
 h4 {
-  font-size: clamp(1.2rem, 2.5vw, 2rem);
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
   line-height: 1.2;
   text-align: left;
   margin-bottom: 1.5rem;
 }
 
 p {
-  font-size: clamp(1.1em, 2vw, 1.2rem);
+  font-size: clamp(1.1rem, 2vw, 1.2rem);
   letter-spacing: -.4px;
   line-height: 1.3;
 }
@@ -93,12 +92,23 @@ span {
 header {
   position: relative;
   width: 100%;
-  display: flex;
-  flex-direction: column;
+  display: grid;
   gap: 2rem;
-  justify-content: center;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+  justify-items: center;
   align-items: center;
   color: white;
+  padding: 3rem clamp(1.5rem, 8vw, 3rem);
+}
+
+@media (min-width: 767px){
+  header{
+    padding: calc(3rem + 82px) clamp(1.5rem, 8vw, 3rem) 3rem;
+  }
+}
+
+header div{
+  padding: 3rem 0;
 }
 
 header .titulo-home {
@@ -107,14 +117,9 @@ header .titulo-home {
 }
 
 header img {
-  width: min(70vw, 360px);
+  max-width: 100%;
   border-radius: 8px;
   aspect-ratio: auto;
-}
-
-header p {
-  text-align: center;
-  width: min(80vw, 720px);
 }
 
 .boton-main {
@@ -137,12 +142,11 @@ header p {
 
 /* Compartidos */
 
-header,
 .testimonials,
 .blog,
 .blog-footer,
 footer {
-  padding: 5rem clamp(2rem, 7vw, 5rem);
+  padding: 4rem clamp(1rem, 5vw, 2rem);
 }
 
 .nosotros,

@@ -3,23 +3,20 @@ layout: compress
 ---
 {% include head.html %}
 <body>
-  <header style="background-color: {{page.background-header}}; background-image: url('{{site.baseurl}}/img/brick-wall.png');">
-    {% if page.url != "/" %}
-    <a href="/" class="logo" title="Logo GurCoff">
-      <img src="{{ 'img/logo.png' | relative_url }}" alt="Logo de la heladería GurCoff de San Agustín y Pitalito Huila">
-    </a>
-    {% endif %}
-    {% if page.url == "/" %}
-    <h1 class="titulo-home">{{page.h1}}</h1>
-    {% else %}
-    <h1>{{page.h1}}</h1>
-    {% endif %}
-    <img src="{{site.baseurl}}/img/{{page.img}}" alt="{{page.alt}}">
-    {% if page.intro %}
-    <p>{{page.intro}}</p>
-    {% endif %}
-  </header>
   {% include nav.html %}
+  <header style="background-color: {{page.background-header}}; background-image: url('{{site.baseurl}}/img/brick-wall.png');">
+    <div>
+      {% if page.url == "/" %}
+      <h1 class="titulo-home">{{page.h1}}</h1>
+      {% else %}
+      <h1>{{page.h1}}</h1>
+      {% endif %}
+      {% if page.intro %}
+      <p>{{page.intro}}</p>
+      {% endif %}
+    </div>
+    <img src="{{site.baseurl}}/img/{{page.img}}" alt="{{page.alt}}">
+  </header>
   {% if page.url contains "legal" %}
   <main class="legal">
     {{ content }}
@@ -30,10 +27,10 @@ layout: compress
   {% include footer.html %}
 </body>
 
-<script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
 {% if page.url contains 'blog' %}
 <!-- Script pointing to search-script.js -->
-<script src='/js/search-script.js'></script>
+<script src='/js/search-script.js' defer></script>
+<script src='/js/scripts.js' defer></script>
 <!-- Buscador -->
 <script>
   SimpleJekyllSearch({
