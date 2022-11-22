@@ -1,82 +1,29 @@
 ---
-title: Museo de Obando en San Agustín Huila
-description: El museo de Obando es una parada obligada para cuando visitas San Agustín Huila. Es parte del tour conocido como El Anillo Turístico. Conócelo.
+title: El salto del Mortiño y el vuelo del halcón
+description: En la cascada del Mortiño también encuetras una experiencia extrema con las atracciones de El Vuelo del Halcón y El Ojo del Halcón. Te contamos todo para que vengas a vivirlo
 category: turismo
 tags: [obando, turismo]
-h1: Visita el museo de Obando en San Agustín
-img: img/magazine/obando/obando-san-agustin-huila.webp
-jpg: img/magazine/obando/obando-san-agustin-huila.jpg
-alt: Plaza de Obando en San Agustín Huila
+h1: La cascada El Salto del Mortiño
+img: magazine/salto-mortino.webp
+jpg: magazine/salto-mortino.jpg
+alt: Cascada Salto del Mortiño en Isnos Huila
 date: 2022-03-04
 background-header: var(--oficial)
 referencias:
-  - Foto Google maps: https://www.google.com/maps/place/Museo+arqueol%C3%B3gico+de+Obando/@1.939533,-76.2981777,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL%3Dw216-h100-k-no!7i4056!8i1872!4m15!1m7!3m6!1s0x8e256536e36cb58b:0x37850a0804fbcf29!2sObando,+San+Agust%C3%ADn,+Huila,+Colombia!3b1!8m2!3d1.9400639!4d-76.2983514!3m6!1s0x8e2565376da5dab1:0x3880cb8707e22466!8m2!3d1.939533!4d-76.2981777!14m1!1BCgIgAQ?hl=es-ES
-published: no
-intro:
----
+  - Foto Google maps: https://www.google.com/maps/place/Museo+arqueol%C3%B3gico+de+Obando/@1.939533,-76.2981777,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhvExf4liH9OakBSbxtag_sIGEQlD1JUdgSVCL%3Dw216-h100-k-no!7i4056!8i1872!4m15!1m7!3m6!1s0x8e256536e36cb58b:0x37850a0804fbcf29!2sObando,+San+Agust%C3%ADn,+Huila,+Colombia!3b1!8m2!3d1.9400639!4d-76.2983514!3m6!1s0x8e2565376da5da 880cb8707e22466!8m2!3d1.939533!4d-76.2981777!14m1!1BCgIgAQ?hl=es-ES
+intro: La cascada del Salto del Mortiño y sus atractivos turísticos extremos 
+--- 
+Todos estos espectáculos están ubicados en la Finca Agroturística El Salto El Mortiño, un resort para los amantes de los deportes extremos y diversión para parejas, amigos o familia. En este atractivo está el columpio llamado El vuelo del halcón y el parque temático de deportes extremos está ubicado en el sur de la provincia del Huila en la vereda de El Mortiño en el municipio de Isnos, este complejo turístico se encuentra junto al Salto El Mortiño, un salto de agua del cañón del río Magdalena, catalogada entre las más hermosas de Sudamérica. La postal fotográfica y el sonido de la cascada hacen un dúo perfecto con el Mirador de la Fuente de Cristal Ojo de Halcón, que le brinda una vista clara de las cascadas de las Cataratas del Motinho.
 
-Obando es un pueblito de San Agustín Huila que se distingue por un plaza-museo arqueológico. Se encuentra a 248 km de Neiva y a 20 minutos de la zona urbana de San Agustín.
+Esta estructura, que es la primera en Colombia, se ha convertido en un espacio turístico atractivo en el país. La plataforma de observación de vidrio es la primera de su tipo en Colombia. Y el vidrio es templado y son tres capas de armadura y tres capas de blindaje. Es una vista muy linda y espectacular. El singular puente de vidrio en la cascada del mortiño tiene unos 200 metros de altura y sobresale 12 metros, lo que permite a los visitantes observar la caída de agua y tomar sus mejores fotos. Sí, podemos estar allí, sobre la misma cascada del Salto del Mortiño.
 
-San Agustín Huila es la capital arqueológico del departamento de Huila. Está lleno de lugares únicos y que se pueden visitar. Y hoy te recomendamos el Parque Arqueológico de Obando.
+La cantidad de personas que ingresan pueden variar de 2, 3, 5 y hasta 10 personas, a menos que el grupo familiar más grande sea un grupo familiar, se permita un máximo de 20 personas. Se permiten 5 minutos cuando el flujo de visitantes es alto.
 
-Es un pequeño lugar frío, acogedor, muy pintoresco y agradable para pasar una tarde de relajación, cultura y para tomar un buen cafecito con los vecinos del lugar.
+La entrada cuesta alrededor de 15.000 pesos por persona adulta. Los menores de 10 a 5 pagan 5000 pesos. Y los infantes de 5 años en adelante entran gratis. Solo puedes acceder sin zapatos, utlizando medias.
 
+Normalmente te preguntarán primero que tan nerviosos eres o si padeces vértigo. Te explican todo el equipo y estructura que se preparó para brindarte una buena seguridad. La construcción tiene un contrapeso de cemento fabricado con más de 100 bultos de cemento. mirando atrás ahora si son las 6 wallace entonces le damos así seguridad Sexo lo hace posible, aunque con vértigo. O lo que puedes hacer justo al lado de esta estructura es el Vuelo del Halcón, un columpio gigante que se balancea en la cascada del Motinho a una altura de unos 215 metros, creando una experiencia completa de adrenalina y naturaleza. El columpio tiene 15 metros de altura y cumple con todas las normas para que dos personas disfruten de la mayor aventura en un vuelo de columpio de halcón.Aquí estamos en la cascada de 200 metros, durante el salto del martillo, cuando nos ven de frente La escala del cañón, de en el momento en que se ponen de pie, comienza la aventura
 
-Plaza del museo de Obando en San Agustín
-Plaza de Obando en San Agustín
-Contenido del artículo	
-Obando en San Agustín y su museo arqueológico
-¿Cómo llegar hasta Obando?
-El museo arqueológico de Obando
-Un paseo de relajación y cultura
-El museo de Obando y el turismo de San Agustín
-Obando en San Agustín y su museo arqueológico
-En la ciudad de San Agustín, al lado del viejo encaje del río Magdalena y frente a la ventana geográfica de las soledades serranas, hay un Parque y Museo Arqueológico donde puedes conocer y disfrutar de la vida de los habitantes prehispánicos y coloniales del altiboqui del río Magdalena.
-
-El parque y el museo de Obando es un ascenso vertiginoso al pasado. Los restos arqueológicos hallados en este hermoso caserío se deben visitar a más no poder, especialmente si su interes es el mundo pre-Clásico y sus obras artísticas y tecnológicas. O quizás solo quieres tener una parada más en un tour muy conocido en San Agustín, llamado el anillo turístico. Obando es una de sus paradas.
-
-¿Cómo llegar hasta Obando?
-Primero te compartimos el mapa para que puedas pedir las indicaciones a Google maps.
+de una vez el corazón empieza a latir fuertemente cuando empieza a subir hacia atrás que sube aproximadamente unos 8 metros y se suelta la sensación primera es espectacular uno quiere gritar para salir toda esa adrenalina y que pueda disfrutar de la naturaleza y las sensaciones únicas están cordialmente invitados para que vengan a disfrutar de esta espectacular sensación que se vive aquí en el vuelo del alcohol 3 otra de las actividades extremas que hay es la cauchera humana una atracción de más alto impacto ubicada en una estructura de 18 metros de alto aproximadamente que es capaz de lanzar hasta 25 metros de altura a una velocidad de 90 kilómetros por hora i sobre el salto del martillo se puede disfrutar del canopy y la canasta voladora una mezcla de aventura y adrenalina con la frescura la tranquilidad y la belleza de ver paisajes desde las alturas después de disfrutar de las actividades extremas se puede descansar en increíbles y acogedoras cabañas o camping que tienen las mejores vistas del sitio que harán de su estancia una tremenda experiencia mientras visualiza la calidad del agua de la cascada y finalmente la finca agro turística el salto el mortiño es tan solo uno de los atractivos que tiene isnos este destino tiene mucho por ofrecer por eso lo invitamos a que vivas su propia experiencia  con esta espectacular vista de uno de los sitios más emblemáticos del municipio de isbert huila salta martiño nos despedimos pero antes de irnos los invitamos a que nos sigan se suscriban en todas nuestras redes sociales yo soy la hierba sales y notamos en el próximo capítulo resguardos de paz un placer para todos los sentidos
 
 
-Las indicaciones son las siguientes:
-
-Primero, debes tomar la ruta hacia el Estrecho del Magdalena.
-Segundo, al llegar al punto donde está el Estrecho del Magdalena, continúa por la vía sin desviarte.
-Ahora vas a continuar subiendo por la carretera cerca de unos 10 minutos.
-Y eso es todo, ya estarás en el hermoso pueblito de Obando en San Agustín.
-
-El museo arqueológico de Obando
-El museo arqueológico es interesante porque se va dando una idea de lo que fue la cosmovisión de los pueblos prehispánicos, el museo tiene reconstrucción de diversas estructuras religiosas y políticas de los distintos pueblos.
-
-Debes visitarlo. Obando en San Agustín es un lugar privilegiado para la admiración y aprecio. Es rico en su patrimonio arqueológico indígena colombiano. Da a conocer la grandiosidad del pasado de nuestros ancestros, transmitiendo vitalidad y argumento cultural.
-
-
-Obando de San Agustín
-Museo de Obando en San Agustín Huila
-Este parque y museo arqueológico tiene todo lo que usted necesita para un día memorable: plazas, descanso y recorridos naturales en sus zonas veredales.
-
-Inaugurado en el año 2011, es un museo arqueológico que cuenta con pinturas rupestres, visitas guiadas y un parque famoso por sus tumbas. Un museo que requiera tanto trabajo y esfuerzo no podía menos que ser un acontecimiento para el pueblo huilense.
-
-Esta belleza arquitectónica fue construida a través de las donaciones de las familias del mismo municipio, la colaboración del arte local, pastores y gobernadores con el fin de describir y preservar la historia del departamento de Huila, en un tiempo en el cual los viajes eran muchas veces costosos.
-
-El Parque y Museo Arqueológico de Obando en San Agustín, es la antigua hacienda La Concepción debido a que fue allí donde se comenzó a explotar la extraña piedra semicircular.
-
-En el museo de Obando puede observar varias piezas tibetanas, samburíes, antigüedades prehispánicas y de época colonial.
-
-Un paseo de relajación y cultura
-Visitar Obando es encontrar un lugar de descanso en la región sur del Huila. Si quieres relajarte y pasar un buen momento tanto familiar como amigos, debes visitar San Agustín. El Parque y Museo Arqueológico de Obando es una atracción turística, cultural y educativa ubicado en San Agustín.
-
-Es un lugar que ofrece a los turistas la oportunidad de conocer la historia natural y cultural, así como disfrutar los ecosistemas nacionales. Es un paseo que te llevará a la época Medieval Colombiana, en donde se vivía y pensaba, se obtenían artes del esfuerzo y el trabajo. Deberás visitarlo para conocer mejor nuestra cultura, e identificarte con nuestros valores.
-
-El lugar es bello y completamente seguro. Se recomienda ir con un guía, puesto que los sitios están expuestos y no están numerados.
-
-
-Vista del río Magdalena desde Obando
-Vista del Magdalena desde Obando en San Agustín Huila
-Si escoges suficiente tiempo para realizar un recorrido completo, incluyendo el museo y alguna actividad física, como ir en carreta o paseando en montaña; ten por seguro que pasarás un par de horas bien invertidas junto a los nativos san agustineros. Además, el anillo turístico te lleva a más actividades como conocer el Salto del Mortiño con el culumpio más arriesgado del país.
-
-Obando es un lugar rústico. Sin embargo, tiene un encanto muy hermoso. Lo puedes visitar en cualquier época del año, sobre todo a mitad de año, por las fiestas culturales del San Pedro, o para fin de año en las fiestas de diciembre. Es completamente distinto, pero muy especial.
-
-El museo de Obando y el turismo de San Agustín
-Te recomendamos visitar el parque y museo de Obando. Tienes que visitarlo para entender porqué Unesco lo declara Patrimonio Cultural de la Humanidad. Y además, para que tu paseo a San Agustín Huila esté más lleno de recuerdos pintorescos e interesantes.
+hola amigos bienvenidos a otro capítulo más aquí en poquito en el intento y los píxeles desnudar increíble estamos de mismos al sur del huila estamos en el primer tirador de cristal de colombia en el salto en bolsillo un lugar espectacular que vamos a conocer saber cómo llegar hasta acá y bueno a quemar adrenalina pero nos encontramos en el municipio de irnos en el primer mirador de cristal fabricado en colombia pero cuéntanos que hay para hacer acá no hay muchas cosas espectaculares para hacer como el mirador de cristal el columpio gigante vuelo del halcón carlos y hamacas hay muchas aventuras extremas muy buenas para hacer aquí en el salto del continente con toda la seguridad no aquí no estamos parados sobre cualquier cosa estamos parados sobre una estructura muy segura con toda la normatividad que exige esta esta clase de juegos además tenemos una póliza que también cubren cualquier accidente en alguna eventualidad bueno invita pues a todo el país a que llegue a todos los moteros que dejen el príncipe andrew hore y al mentalizado hacer una aventura mágica espectacular para hacer sobre una casa de 200 metros de altura es algo indescriptible tienen que venir a disfrutarlo también bueno muchachos viven de lo que estamos aquí parados 200 metros 200 metros de altura tenemos acá en la cascada salto deportivo bueno muchachos acabo de hacer el vuelo del halcón y no les voy a mentir da un poquitico enviaban a ver el vídeo un test saben que yo soy recio duro para las alturas no me asusta nada tener el vídeo esa cara a cara de póker impávido ante los estímulos del vuelo del halcón muchachos áspero áspero áspero qué tal amigos nuevamente saludándonos desde el pueblo del alcalde con mi amigo houari lo que nos visita de manera espectacular acá en el salto de morcillo y en su columpio gigante el vuelo del alcohol pero muchachos no les va a agregar también esto da miedito así vamos subiendo mucho subiendo mucho fuerte este año él y no pareciera pero está bien y todo en el impulso que cogemos son ocho metros para salir hacia el abismo de la cascada asalto del bordillo donde tenemos 200 metros de altura y están todos cordialmente invitados para que vengan a disfrutar de esta aventura máxima en el vuelo del alcohol y bueno no siento más encanto y para ello tienen que venir a disfrutar de los problemas sí y bueno muchachos nos vemos la próxima carlos estoy aquí te puedes tirar nos aparte de eso podemos agachar nos y mirar 220 metros desde acá nomás adrenalina pero de los mismos alturas espero efe pero muchachos salimos aquí del salto de mortiño muy contento conocí los que yo sé que van a ser unos muy buenos amigos y pues conocí también mucho desarrollo turístico en la zona espectacular muchachos el vuelo del halcón o recomendado para para que se nos quite todas las preocupaciones mucha adrenalina es mucho más fuerte de lo que uno se imagina va mucho más fuerte de lo que no se imaginaba por lo que yo me imaginaba de lo que uno se imagina que [ __ ] pero bueno dice dos veces bueno muchachos vamos hacia el estrecho el magdalena por la parte de atrás bueno esto hace parte el circuito turístico aunque ya la vía está mucho mejor desde la última vez que la tomé sé que hay unos tramos donde no está pavimentado cuando yo viene la estaban pavimentando vamos a llegar desde 2 para nadar toda la vuelta por san agustín de nuestros muchachos amenaza agua amenaza agua y nos vemos ah me parece mucho este trabajo una carretera de hacia la laguna del quilotoa con esos derrumbes con las piedras ahí en la mitad de la vía en ecuador y recordó esa carretera este tramo cae piedrita miren hay derrumbes importantes como corresponde y sin señalización alguna las montañas bueno bonito los paisajes pero hay que estar pilas con las piedras que caen como mis papitos alisos etc se está tragando la carretera a la montaña y no están haciendo con mucho bueno muchachos les presento el magdalena todavía con agua pura la información de aquí para allá arriba arriba encontraremos la laguna de la magdalena donde nace nuestro río uno de los más importantes tal vez el que más en el que más tenemos contacto todos los colombianos bueno dijeron que había un destapado hasta ahí llegó hasta el puente alcanzó el presupuesto para la pavimentada a ver cuánto es de destapado me dicen que unos 2 km ah mira que cometió un error congestión error cambie el modo normal es fácil listo horas y horas bueno no la recordaba que estuviera tan compleja la verdad escucha fue madre escucha no está duro 8 km no sé estaba muy duro creo que no creo que no es opción guau pero yo no recordaba haber pasado por acá una buena vista si tiene la rústica la dejaron a acabar compañero uy bueno esto es estamos pasando por ovando bueno lastimosamente esta carretera lo que arregla por un lado se daña por el otro porque si está muy en pedazos yo creo que dos kilómetros de escapado bastante fuerte con unas piedras mucha piedra suelta bien empinado muchas zanjas ya no le han pasado ni la máquina hace mucho se ve hace mucho rato la abandonaron también incluso la carretera que está pavimentada se la está tragando literalmente la montaña y mucho derrumbe y pues no se ve que le estén trabajando que tenga algún mantenimiento creo que está abandonada a su suerte bueno y aquí vamos para el estrecho del magdalena por ovando esta ruta que quería hacer por la parte de arriba la verdad nos recordaba que fuese tan compleja pero bueno ya les cuento muchachos chávez y hola a a sus derechos humanos  llegamos a la casa de francia 100 metros y yo recuerdo que hay una subida importante vamos a ver cómo nos va pero eso saber cómo nos va saca esa caja ya le pusieron placa huella no no hay problema con esta espina si esta emp y nacional con este gimnasio san agustín al fondo bueno si acabamos llegábamos como la pongo como la pongo así como la 800 quedo aquí alguna vez como la así mejor por eso tal y jesús bueno muchachos acabamos de llegar a la casa de françois que va a ser nuestro nuestro centro operaciones aquí en san agustín e inmediaciones nutella si en medio la naturaleza de unas cañas muy bonitos es una muy buena atención y es un hotel de un motero francés aire puro naturaleza ya les cuento muchachos buenas buenas y una amarilla como vas de milagro si quieres viajar a los mejores destinos de colombia nuestra pagina gorilón travels encuentra la programación e información de cada una de nuestras rutas acompáñanos para que gritemos juntos arrancamos y si te gustó este capítulo compártelo dale like comenta y lo más importante dile a todos sus amigos que se suscriban y que activen la campanita y recuerda viaja viaja y viaja si es en dos ruedas aún mejor no impide que el rey desde así desde que te vi
