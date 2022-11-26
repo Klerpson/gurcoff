@@ -1,44 +1,40 @@
 ---
 layout: default
-title: ¿Buscas qué hacer en San Agustín Huila?
-h1: ¿Qué hacer en San Agustín?
-description: Conoce los lugares turísticos, los hoteles y las experiencias que ofrece San Agustín Huila. Todo desde las vivencias de tu heladería favorita.
-intro: Desde San Agustín Huila preparamos este blog. Es una invitación con toda la información completa para que prepares tu viaje y llegues a relajarte y disfrutar.
+title: ¿Buscas qué hacer en San Agustín y Pitalito Huila?
+h1: El mejor magazine sobre San Agustín y Pitalito
+description: Conoce los lugares turísticos, los hoteles y las experiencias que ofrece San Agustín y Pitalito Huila. Todo desde las vivencias de tu heladería favorita GurCoff
+intro: Desde nuestra oficina preparamos este magazine para ti. Es una invitación para que prepares tu viaje, o para que salgas un ratico, y llegues a relajarte y disfrutar. Y por supuesto, también <strong>venir a visitarnos en tu heladería favorita GurCoff.</strong>
 img: blog-gurcoff.webp
 background-header: var(--principal)
 ---
-<div class="blog">
-  <h2>El Blog de San Agustín Huila</h2>
-  <p>Si estás en San Agustín Huila, o quieres venir, y no conoces el lugar, seguramente querrás saber <strong>qué hacer en San Agustín</strong>.</p>
-  <p>Este es el <strong>blog de San Agustín Huila</strong>. Te contamos todo sobre hoteles, restaurantes, lugares turísticos, dónde pasear gratis, etc. Toda la información se basa en las experiencias personales de quienes vivimos a diario en este paraíso colombiano.</p>
-  {% for category in site.categories %}
-  {% capture category_name %}{{ category | first }}{% endcapture %}
-  <h3 id="{{ category_name}}" class="title-category">{{ category_name | capitalize }} en San Agustín Huila
-  </h3>
+<section class="blog">
+  <h2>El Blog de San Agustín y Pitalito Huila</h2>
+  <p>¿Te gustaría tener información para saber <strong>qué hacer en San Agustín o en Pitalito</strong>? Después de tener una grata experiencia en nuestra heladería GurCoff, estamos seguros que querrás vivir una buena experiencia en estas hermosas tierras.</p>
+  <p>Este es el <strong>blog de San Agustín y Pitalito Huila</strong>. Te contamos todo sobre hoteles, restaurantes, lugares turísticos, dónde pasear, comer, pago o gratis, etc. Toda la información se basa en las experiencias personales de quienes vivimos a diario en este paraíso colombiano.</p>
   <div>
-    {% for post in site.categories[category_name] %}
-    <article>
-      <h4>{{ post.h1 }}</h4>
-      <a href="{{site.baseurl}}{{ post.url }}">
-        <img src="{{ site.baseurl }}/img/{{ post.img }}" width="320" height="240" alt="{{ post.alt }}" loading="lazy">
-        <p>{{post.intro | truncate: 70}}</p>
-      </a>
-    </article>
+  {% for category in site.categories %} {% capture category_name %}{{ category
+    | first }}{% endcapture %}
+    <a
+      href="{{ site.baseurl }}/blog/{{ category_name }}"
+      title="Sección de {{ category_name }}"
+      class="boton"
+      >{{ category_name | capitalize | normalize_whitespace }}</a
+    >
     {% endfor %}
   </div>
-  {% endfor %}
-  <h3 id="#hoteles" class="title-category">Hoteles en San Agustín Huila
-  </h3>
   <div>
-    <article>
-      <h4>Visita nuestra sección con la mejor selección de hoteles en San Agustín</h4>
-      <a href="{{site.baseurl}}/hoteles">
-        <img src="{{ site.baseurl }}/img/hoteles/hotel-casa-bonita-san-agustin-huila.webp" width="320" height="240" alt="Hotel Casa Bonita de San Agustín Huila" loading="lazy">
-        <p>{{"Hoteles de San Agustín, cabañas, hospedajes, glamping, hostales, etc." | truncate: 70}}</p>
-      </a>
-    </article>
-  </div>
+    {% for post in site.posts %}
+  <article>
+    <h4>{{ post.h1 }}</h4>
+    <p href="{{site.baseurl}}{{ post.url }}">
+      <img src="{{ site.baseurl }}/img/{{ post.img }}" width="320" height="240" alt="{{ post.alt }}" loading="lazy">
+      <p>{{post.intro | truncate: 70}}</p>
+    </a>
+  </article>
+  {% endfor %}
 </div>
+</div>
+
 <section class="blog-footer">
   <div>
     <h2>Tienes mucho por hacer en San Agustín</h2>

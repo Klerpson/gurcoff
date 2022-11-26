@@ -127,7 +127,8 @@ header img {
   background-color: var(--accion);
   color: var(--principal);
   border: 1px solid var(--principal);
-  padding: 1rem 3rem;
+  padding: .4rem 2rem;
+  margin-bottom: 2rem;
   border-radius: 8px;
   transition: all .25s ease;
   font-weight: 700;
