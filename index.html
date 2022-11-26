@@ -148,21 +148,21 @@ background-header: var(--principal)
           <p>{{ tercer-articulo.intro | truncate: 70 }}</p>
         </a>
       </article>
-      <a href="{{site.baseurl}}/blog" class="boton-main">Leer más sobre San Agustín</a>
+      <a href="{{site.baseurl}}/blog" class="boton-main">Busca más temas</a>
     </div>
   </section>
   <section class="benefits">
-  <div>
-    <img src="{{ 'img/logotipo-blanco.svg' | relative_url}}" alt="logotipo de Gurcoff">
+    <div class="mapa">
+      <iframe src="{{ site.maps }}" width="100%" height="450" frameborder="0"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13031.282177016526!2d-76.06482644138951!3d1.846415220120614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e250b00c26cebf7%3A0x1929c6bf31953692!2sGurcoff%20Helader%C3%ADa%20Pitalito!5e0!3m2!1ses-419!2sco!4v1669427069006!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div>
+    <img src="{{site.baseurl}}/img/ubicacion.webp" width="80" height="80" loading="lazy" alt="Imagen de confeti para celebrar"></img>
+    <em>Mapas con la ubicación de GurCoff en San Agustín y Pitalito Huila. También puedes escribirnos para guiarte en tu visita a tu heladería favorita.</em>
+  <a href="{{site.whatsapp}}" title="WhatsApp GurCoff" class="boton-main">Escríbenos por WhatsApp</a>
     <h2>Si vienes a San Agustín o Pitalito, tienes que visitarnos</h2>
     <p>Ubicarnos es muy sencillo. Pregunta por la salida hacia el parque arqueológico de San Agustín. Justo donde comienza la salida, que todavía es zona urbana, allí estamos nosotros.</p>
     <p>Si haces clic en el siguiente mapa, puedes pedir las indicaciones para llegar fácilmente <strong>al destino más delicioso de San Agustín Huila, la Heladería GurCoff.</strong> </p>
     <p><b>Muy pronto te daremos más información sobre nuestra nueva heladería en Pitalito.</b></p>
     </div>
-    <div class="mapa">
-    <iframe src="{{ site.maps }}" width="100%" height="450" frameborder="0"></iframe>
-    <img src="{{site.baseurl}}/img/ubicacion.webp" width="80" height="80" loading="lazy" alt="Imagen de confeti para celebrar"></img>
-    <em>Mapa con la ubicación de GurCoff en San Agustín Huila. También puedes escribirnos para guiarte en tu visita a San Agustín.</em>
-  <a href="{{site.whatsapp}}" title="WhatsApp GurCoff" class="boton-main">Escríbenos por WhatsApp</a>
-  </div>
-</section>
+  </section>
