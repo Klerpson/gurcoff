@@ -206,20 +206,6 @@
   -o-border-radius: 12px;
 }
 
-.blog h2,
-.blog h3{
-  color: var(--principal);
-}
-
-.blog div{
-  padding:2rem 0 0;
-  width: min(100%, 1200px);
-}
-
-.blog div article h4{
-  color: var(--principal);
-}
-
 .mapa {
   display: grid;
   gap: 1.5rem;

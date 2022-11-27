@@ -12,28 +12,30 @@ background-header: var(--principal)
   <p>¿Te gustaría tener información para saber <strong>qué hacer en San Agustín o en Pitalito</strong>? Después de tener una grata experiencia en nuestra heladería GurCoff, estamos seguros que querrás vivir una buena experiencia en estas hermosas tierras.</p>
   <p>Este es el <strong>blog de San Agustín y Pitalito Huila</strong>. Te contamos todo sobre hoteles, restaurantes, lugares turísticos, dónde pasear, comer, pago o gratis, etc. Toda la información se basa en las experiencias personales de quienes vivimos a diario en este paraíso colombiano.</p>
   <div>
-  {% for category in site.categories %} {% capture category_name %}{{ category
-    | first }}{% endcapture %}
-    <a
-      href="{{ site.baseurl }}/blog/{{ category_name }}"
-      title="Sección de {{ category_name }}"
-      class="boton"
-      >{{ category_name | capitalize | normalize_whitespace }}</a
-    >
+  {% for category in site.categories %} {% capture category_name %}{{ category | first }}{% endcapture %}
+    <a href="{{ site.baseurl }}/blog/{{ category_name }}" title="Sección de {{ category_name }}" class="boton">{{ category_name | capitalize | normalize_whitespace }}</a>
     {% endfor %}
+    <a href="{{ site.baseurl }}/hoteles" title="Sección de hoteles en San Agustín y Pitalito Huila" class="boton">Hoteles</a>
   </div>
   <div>
     {% for post in site.posts %}
   <article>
     <h4>{{ post.h1 }}</h4>
-    <p href="{{site.baseurl}}{{ post.url }}">
+    <a href="{{ post.url }}" title="{{ post.title }}">
       <img src="{{ site.baseurl }}/img/{{ post.img }}" width="320" height="240" alt="{{ post.alt }}" loading="lazy">
       <p>{{post.intro | truncate: 70}}</p>
     </a>
   </article>
   {% endfor %}
+  <article>
+    <h4>Hoteles de San Agustín Huila y Pitalito</h4>
+    <a href="{{ site.baseurl }}/hoteles" title="Página de hoteles">
+      <img src="{{ site.baseurl }}/img/hoteles/hotel-casa-bonita-san-agustin-huila.webp" width="320" height="240" alt="Foto de hotel en San Agustín Huila" loading="lazy">
+      <p>Preparamos una sección de hoteles para que escojas el que más te gusta.</p>
+    </a>
+  </article>
 </div>
-</div>
+</section>
 
 <section class="blog-footer">
   <div>

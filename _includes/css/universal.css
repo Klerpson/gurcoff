@@ -144,7 +144,6 @@ header img {
 /* Compartidos */
 
 .testimonials,
-.blog,
 .blog-footer,
 footer {
   padding: 4rem clamp(1rem, 5vw, 2rem);
