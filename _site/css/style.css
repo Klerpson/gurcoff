@@ -551,6 +551,8 @@ footer img{
   border-radius: 8px;
   box-shadow: var(--shadow);
   margin: 1.5rem auto;
+  max-width: 100%;
+  aspect-ratio: auto;
 }
 
 .articulo em {
