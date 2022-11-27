@@ -21,7 +21,7 @@ La Finca Agroturística El Salto El Mortiño es un resort en el campo, para los 
 
 ## ¿Cómo llegar hasta el Salto del Mortiño?
 
-**Para llegar al Salto del mortiño debes dirigirte al sur del Huila, en la vía nacional entre [San Agustín]({{site.baseurl}}/blog/visita-san-agustin-huila) e Isnos, en la vereda El Mortiño.**. Este complejo turístico se encuentra **junto a la cascada El Salto del Mortiño, una caída de agua del cañón del río Magdalena,** catalogada entre las más hermosas de Sudamérica.
+**Para llegar al Salto del mortiño debes dirigirte al sur del Huila, en la vía nacional entre [San Agustín]({{site.baseurl}}/visita-san-agustin-huila) e Isnos, en la vereda El Mortiño.**. Este complejo turístico se encuentra **junto a la cascada El Salto del Mortiño, una caída de agua del cañón del río Magdalena,** catalogada entre las más hermosas de Sudamérica.
 
 *Mapa de Google Maps para llegar al Salto del Mortiño*
 
