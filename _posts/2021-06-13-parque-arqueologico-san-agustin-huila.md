@@ -33,7 +33,7 @@ Puede servirte como punto de referencia llegar a nuestra [heladería GurCoff](ht
 
 Por la gran afluencia de visitantes encontrarás en el camino artesanías, [hoteles](https://gurcoff.com/hoteles "Hoteles de San Agustín Huila"), [restaurantes]({{site.baseurl}}/mejores-restaurantes-san-agustin) con comida típica y comidas rápidas, entre otros.
 
->¿Necesitas hospedaje en San Agustín? Te recomendamos quedarte en el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>¿Necesitas hospedaje en San Agustín? Te recomendamos la sección de [Hoteles en San Agustín]({{site.baseurl}}/hoteles)
 
 ### Llega al parque arqueológico desde Bogotá
 
