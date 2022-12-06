@@ -71,7 +71,7 @@ h4 {
   font-size: clamp(1.5rem, 2.5vw, 2rem);
   line-height: 1.2;
   text-align: left;
-  margin-bottom: 1.5rem;
+  margin: 1.5rem 0;
 }
 
 p {
