@@ -25,6 +25,11 @@
   list-style: none;
 }
 
+.contacto li address{
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  line-height: 1.2;
+}
+
 .nosotros h3,
 .contacto h3 {
   margin: 2rem 0;
