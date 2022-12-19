@@ -28,6 +28,8 @@
 .contacto li address{
   font-size: clamp(1.5rem, 2.5vw, 2rem);
   line-height: 1.2;
+  font-style: inherit;
+  margin: 2rem 0 1rem;
 }
 
 .nosotros h3,
