@@ -1,6 +1,6 @@
 ---
 title: Parque Arqueológico de San Agustín Huila
-description: El parque arqueológico de San Agustín es un parque natural lleno de descubrimientos, historia y aprendizaje 🗿. Ven a conocerlo 🥾
+description: El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Se trata de una de las zonas arqueológicas más importantes de Sudamérica, ya que las esculturas y monumentos datan de hace más de 1.800 años.
 category: turismo
 tags: [parque]
 h1: El Parque Arqueológico de San Agustín
@@ -11,11 +11,14 @@ date: 2021-06-13
 background-header: var(--oficial)
 intro: El parque arqueológico de San Agustín es complejo muy grande y atractivo. Abarca 2 municipios, San Agustín e Isnos. Se divide en amplias secciones con características especiales. Conócelo.
 ---
-**El parque arqueológico de San Agustín es un destino obligado para tus vacaciones**. Es una hermosa reserva natural con aproximadamente 2.000 Km2 de extensión.
-
-Te contamos todo la información que necesitas para planear tu visita y que puedas disfrutarlo cuando vengas a San Agustín.
-
+El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Se trata de una de las zonas arqueológicas más importantes de Sudamérica, ya que las esculturas y monumentos datan de hace más de 1.800 años.
 <!-- excerpt -->
+
+**Las esculturas de San Agustín son únicas por su tamaño y por la cantidad de detalles que muestran.** Muchas de ellas representan a seres humanos o animales, y algunas tienen formas geométricas o abstractas. Las esculturas están talladas en piedra y están dispersas en varios parques arqueológicos cerca de la ciudad de San Agustín.
+
+El Parque Arqueológico de San Agustín es un lugar de gran importancia cultural y turística, y es **considerado Patrimonio de la Humanidad por la UNESCO**. Muchos turistas visitan el parque cada año para ver las esculturas y aprender más sobre la historia y la cultura de la región. Además, el parque ofrece actividades como caminatas por los alrededores y visitas guiadas por los diferentes parques arqueológicos.
+
+**El parque arqueológico de San Agustín es un destino obligado para tus vacaciones**. Es una hermosa reserva natural con aproximadamente 2.000 Km2 de extensión. Te contamos todo la información que necesitas para planear tu visita y que puedas disfrutarlo cuando vengas a San Agustín.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
