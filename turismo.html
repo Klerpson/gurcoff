@@ -1,0 +1,38 @@
+---
+layout: default
+title: El turismo de San Agustín y Pitalito Huila se resalta en el blog de GurCoff
+h1: Turismo en San Agustín y Pitalito Huila
+description: GurCoff heladería y cafetería es un proyecto en crecimiento. De vez en cuando estamos necesitando más miembros para nuestro equipo. Revisa si hay algún perfil en el que puedas hacer parte de GurCoff.
+intro: San Agustín y Pitalito están ubicadas en el departamento del Huila y atraen a muchos turistas cada año debido a sus atracciones naturales y culturales.
+img: magazine/turista-pitalito-san-agustin.webp
+background-header: var(--secundario)
+permalink: /blog/turismo
+---
+<h2 class="title-category">San Agustín y Pitalito están llenos de destinos turísticos</h2>
+<div class="intro-category">
+  <p>San Agustín es conocida por sus <a href="{{site.baseurl}}/parque-arqueologico-san-agustin-huila">esculturas de piedra</a>. Esta es una de las atracciones turísticas más importantes de la región. <strong>Además de las esculturas, San Agustín también es famosa por su clima y su paisaje montañoso, con el cañón del Magdalena, cascadas y ríos.</strong> Es un lugar popular para la práctica de deportes de aventura como el rafting y el ciclismo de montaña. Y desde el 2022, tiene el parque temático SUMAK, un fuerte atractivo para un paseo delicioso.</p>
+  <p>Por otro lado, Pitalito es una ciudad conocida por su producción de café y por sus paisajes verdes y montañosos. <strong>La región es un destino popular para los amantes del turismo rural, ya que ofrece la oportunidad de visitar fincas de café y conocer más sobre el proceso de producción.</strong> Pitalito también es conocida por sus fiestas y eventos culturales, como el Festival del Café y la Feria de las Flores.</p>
+  <p>En resumen, San Agustín y Pitalito ofrecen una gran variedad de atracciones turísticas, tanto naturales como culturales. Si estás buscando <strong>destino para  disfrutar de la naturaleza y conocer más sobre la historia y la cultura de Colombia, y sobre el mejor café de Colombia,</strong> estas ciudades pueden ser una excelente opción.</p>
+</div>
+  <section class="blog">
+    <h3>Destinos turísticos de Pitalito y San Agustín</h3>
+    <div>
+
+    {% for post in site.posts %}
+    {% if post.category == 'turismo' %}
+    <article>
+  <h4>{{ post.h1 }}</h4>
+  <a href="{{ post.url }}" title="{{ post.title }}">
+    <img src="{{ site.baseurl }}/img/{{ post.img }}" width="320" height="240" alt="{{ post.alt }}" loading="lazy">
+    <p>{{post.intro | truncate: 70}}</p>
+  </a>
+</article>
+{% endif %}
+{% endfor %}
+
+</div>
+</section>
+<section class="instagram">
+  <h2>Viaja a San Agustín, Pitalito y sus alrededores</h2>
+<p>Podemos ayudarte a preparar tu próximo viaje. Y por supuesto, preparar tu visita a nuestra heladería. <a href="{{site.baseurl}}/contacto">Contáctanos</a> y pregúntanos por los destinos que más te gustaría visitar.</p>
+</section>

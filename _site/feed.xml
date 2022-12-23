@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-12-19T14:33:54-05:00</updated>
+     <updated>2022-12-23T13:42:27-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -49,7 +49,7 @@
    <link href="http://localhost:4000/parque-arqueologico-san-agustin-huila"/>
    <id>http://localhost:4000/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-06-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;El parque arqueológico de San Agustín es un destino obligado para tus vacaciones&lt;/strong&gt;. Es una hermosa reserva natural con aproximadamente 2.000 Km2 de extensión.&lt;/p&gt; &lt;p&gt;Te contamos todo la información que necesitas para planear tu visita y que puedas disfrutarlo cuando vengas a San Agustín.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a...</content>
+   <content type="html">&lt;p&gt;El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Se trata de una de las zonas arqueológicas más importantes de Sudamérica, ya que las esculturas y monumentos datan de hace más de 1.800 años. &lt;!-- excerpt --&gt;&lt;/p&gt;...</content>
  </entry>
  
  <entry>
@@ -57,7 +57,7 @@
    <link href="http://localhost:4000/visita-san-agustin-huila"/>
    <id>http://localhost:4000/visita-san-agustin-huila</id>
    <updated>2021-06-07T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;&lt;strong&gt;San Agustín Huila es un pueblito especial para viajar y descansar.&lt;/strong&gt; Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;p&gt;Te vamos a contar todo lo que vas a disfrutar en...</content>
+   <content type="html">&lt;p&gt;&lt;strong&gt;San Agustín Huila es un pueblito especial para viajar y descansar.&lt;/strong&gt; Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Este hermoso pueblito es una ciudad ubicada en el departamento del...</content>
  </entry>
  
  <entry>

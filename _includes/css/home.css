@@ -178,6 +178,10 @@
   text-align: center;
 }
 
+.instagram a{
+  color: var(--accion);
+}
+
 #instafeed {
   overflow: auto;
   margin: 0 auto;

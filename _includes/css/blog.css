@@ -103,5 +103,15 @@
 }
 
 .title-category {
-  margin: 2rem 0;
+  margin: 4rem auto 2rem;
+  width: min(90vw, 800px);
+}
+
+.intro-category{
+  width: min(90vw, 720px);
+  margin: 0 auto;
+}
+
+.intro-category p{
+  margin-bottom: 2rem;
 }

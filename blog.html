@@ -13,7 +13,7 @@ background-header: var(--principal)
   <p>Este es el <strong>blog de San Agustín y Pitalito Huila</strong>. Te contamos todo sobre hoteles, restaurantes, lugares turísticos, dónde pasear, comer, pago o gratis, etc. Toda la información se basa en las experiencias personales de quienes vivimos a diario en este paraíso colombiano.</p>
   <div>
   {% for category in site.categories %} {% capture category_name %}{{ category | first }}{% endcapture %}
-    <a href="{{ site.baseurl }}/blog/{{ category_name }}" title="Sección de {{ category_name }}" class="boton">{{ category_name | capitalize | normalize_whitespace }}</a>
+    <a href="{{ site.baseurl }}/blog/{{ category_name | slugify}}" title="Sección de {{ category_name }}" class="boton">{{ category_name | capitalize | normalize_whitespace }}</a>
     {% endfor %}
     <a href="{{ site.baseurl }}/hoteles" title="Sección de hoteles en San Agustín y Pitalito Huila" class="boton">Hoteles</a>
   </div>
