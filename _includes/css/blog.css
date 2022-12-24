@@ -102,6 +102,13 @@
   color: var(--accion);
 }
 
+.blog-footer img{
+  width: min(100%, 800px);
+  box-shadow: var(--shadow);
+  border-radius: 12px;
+
+}
+
 .title-category {
   margin: 4rem auto 2rem;
   width: min(90vw, 800px);
