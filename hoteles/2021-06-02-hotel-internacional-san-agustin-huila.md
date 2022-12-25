@@ -25,7 +25,7 @@ json: '
         "streetAddress": "Carrera 19 N 1A - 13"
     },
     "telephone": "+573124332510",
-    "photo": "https://gurcoff.com/img/magazine/hoteles-san-agustin/hotel-internacional-san-agustin-huila-400px.webp",
+    "photo": "https://gurcoff.com/img/hoteles/hotel-internacional-san-agustin-huila-400px.webp",
     "starRating": {
         "@type": "Rating",
         "ratingValue": "4.2"
@@ -49,9 +49,9 @@ El Hotel Internacional de San Agustín Huila está ubicado en medio de un paisaj
 
 ## Hotel San Agustín Internacional
 
-**El nombre del hotel Internacional de San Agustín se debe a la arquitectura de sus construcciones inspiradas en diferentes países. También, tiene construcciones inspiradas en la arquitectura colombiana precolombina, colonial, republicana y contemporánea. Para ser más específicos, sus diseños son: la Maloka Tipo Indígena, la Pagoda Oriental, el Estilo Americano, el Estilo Mediterráneo y el Estilo Escandinavo.**
+**El nombre del hotel Internacional de San Agustín se debe a la arquitectura de sus construcciones inspiradas en diferentes países.** También, tiene construcciones inspiradas en la arquitectura colombiana precolombina, colonial, republicana y contemporánea. Para ser más específicos, sus diseños son: la Maloka Tipo Indígena, la Pagoda Oriental, el Estilo Americano, el Estilo Mediterráneo y el Estilo Escandinavo.
 
-{% include img.html img="magazine/hoteles-san-agustin/hotel-internacional-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-internacional-san-agustin-400px.webp" alt="Fotografías del hotel Internacional de San Agustín Huila" title="Hotel Internacional de San Agustín Huila" %}
+{% include img.html img="hoteles/hotel-internacional-san-agustin.webp" img-mini="hoteles/hotel-internacional-san-agustin-400px.webp" alt="Fotografías del hotel Internacional de San Agustín Huila" title="Hotel Internacional de San Agustín Huila" %}
 *Hotel San Agustín Internacional*
 
 Es predominante el ambiente artístico en su decoración. Las pinturas de las paredes tienen relación directa con la arquitectura de cada edificio.
@@ -60,7 +60,7 @@ Es predominante el ambiente artístico en su decoración. Las pinturas de las pa
 
 ## ¿Cómo llegar al hotel Internacional de San Agustín Huila?
 
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de [🎒Carolina Colobon y Nando Prieto](https://go.hotmart.com/Y72308599B?dp=1){:rel="nofollow sponsored" target="_blank"}
 
 **La dirección del Hotel San Agustín Internacional es carrera 19 N 1A - 13, barrio Primero de Mayo**. Haz clic en los siguientes botones para ver su ubicación en Google Maps y en Waze:
 
@@ -68,33 +68,16 @@ Es predominante el ambiente artístico en su decoración. Las pinturas de las pa
 
 {% include boton.html path="https://ul.waze.com/ul?place=ChIJk0UGUnd6JY4R27NK5MaGTVI&ll=1.88312630%2C-76.27765800&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel San Agustín Internacional de San Agustín Huila en Waze" texto="Waze" %}
 
-### WhatsApp del Hotel San Agustín Internacional
+### Teléfono y otros datos de contacto del Hotel Internacional San Agustín
 
-El número de whatsapp del Hotel San Agustín Internacional es **+573124332510.**
+Contacta el Hotel Internacional San Agustín con cualquiera de las siguiente opciones:
 
-{% include boton.html path="https://wa.me/573124332510" title="whatsapp del Hotel Internacional de San Agustín Huila" texto="Whatsapp" %}
+* **Número de celular**: El número de celular del Hotel Internacional San Agustín Lodge es **[+573114452615](tel:+573114452615 "Celular del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}** o, también, llama al [+573112644839](tel:+573112644839 "Celular del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**
+* **WhatsApp**: El número de whatsapp del Hotel Internacional San Agustín Lodge es **[+573124332510.](https://wa.me/573124332510 "whatsapp del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**
+* **Facebook**: El perfil de facebook del Hotel Internacional es **[@hotelinternacionalsanagustin](https://www.facebook.com/hotelinternacionalsanagustin/ "Facebook del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
+* **Instagram**: El perfil de facebook del Hotel Internacional es **[@hotelinternacionalsanagustin](https://www.instagram.com/hotelinternacionalsanagustin/ "Instagram del Hotel Internacional San Agustín de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
-### Teléfono del Hotel San Agustín Internacional
-
-El número de celular del Hotel San Agustín Internacional es **+573114452615**.
-
-{% include boton.html path="tel:+573114452615" title="Celular del Hotel San Agustín Internacional de San Agustín Huila" texto="Llamar" %}
-
-El segundo número de celular del Hotel San Agustín Internacional es **+573112644839**.
-
-{% include boton.html path="tel:+573112644839" title="Celular del Hotel San Agustín Internacional de San Agustín Huila" texto="Llamar" %}
-
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
-
-### Redes sociales del Hotel San Agustín Internacional
-
-{% include boton.html path="https://www.facebook.com/hotelinternacionalsanagustin/" title="Facebook del Hotel San Agustín Internacional de San Agustín Huila" texto="Facebook" %}
-
-{% include boton.html path="https://www.instagram.com/hotelinternacionalsanagustin/?hl=es-la" title="Instagram del Hotel San Agustín Internacional de San Agustín Huila" texto="Instagram" %}
-
-{% include boton.html path="https://www.youtube.com/channel/UCP2ILPWDbPPJxSNz8YiOUZg" title="Youtube del Hotel San Agustín Internacional de San Agustín Huila" texto="Youtube" %}
-
-### ¿Qué servicios ofrece el hotel Internacional de San Agustín?
+## ¿Qué servicios ofrece el hotel Internacional de San Agustín?
 
 | Servicio | Descripción |
 |---|---|
@@ -118,11 +101,11 @@ El segundo número de celular del Hotel San Agustín Internacional es **+5731126
 
 ## Reservas en el Hotel Internacional
 
-{% include img.html img="magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp" alt="Miniaturas del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka Lodge de San Agustín Huila" %}
+{% include img.html img="hoteles/hotel-akawanka-lodge-san-agustin.webp" img-mini="hoteles/hotel-akawanka-lodge-san-agustin-400px.webp" alt="Miniaturas del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka Lodge de San Agustín Huila" %}
 
 Las instalaciones tienen 77 habitaciones en total, 27 de ellos son para no fumadores. Todas muy bien equipadas para que recibas un servicio de mucha calidad. Además, el hotel Internacional hace disponible la limpieza de habitaciones y una zona de lavandería.
 
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>Visita la [Cascada de Los Tres Chorros]({{site.baseurl}}/cascada-los-tres-chorros-de-san-agustin)
 
 ### Habitaciones del hotel Internacional de San Agustín
 

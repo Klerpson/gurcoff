@@ -49,13 +49,11 @@ Debes entrar por el camino que encuentras allí y avanzar hasta el final de ese 
 
 Puedes contactarlos y preguntar por los paquetes de turismo que ofrece el mismo hotel. Contacta directamente con el hotel Masaya. Evita los intermediarios para obtener las mejores ofertas.
 
-**El número de teléfono del Hotel Masaya es [(57)3124187927](tel:+573124187927){:rel="nofollow" target="_blank"} y [(57)3233630528](tel:+573233630528){:rel="nofollow" target="_blank"}**.
+* **El número de teléfono del Hotel Masaya es [(57)3124187927](tel:+573124187927){:rel="nofollow" target="_blank"} y [(57)3233630528](tel:+573233630528){:rel="nofollow" target="_blank"}**.
+* **El número de whatsapp del Hotel Masayade es [(57)3124187927](https://wa.me/573124187927){:rel="nofollow" target="_blank"} y [(57)3233630528](https://wa.me/573233630528){:rel="nofollow" target="_blank"}.**
+* **El correo electrónico del hotel Masaya es [sanagustin@masaya-experience.com](mailto:sanagustin@masaya-experience.com){:rel="nofollow" target="_blank"}**.
 
-**El número de whatsapp del Hotel Masayade es [(57)3124187927](https://wa.me/573124187927){:rel="nofollow" target="_blank"} y [(57)3233630528](https://wa.me/573233630528){:rel="nofollow" target="_blank"}.**
-
-**El correo electrónico del hotel Masaya es [sanagustin@masaya-experience.com](mailto:sanagustin@masaya-experience.com){:rel="nofollow" target="_blank"}**. Desde el siguiente botón puedes enviarles un e-mail:
-
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>¿No conoces San Agustín? Mira porqué debería venir a [conocer San Agustín]({{site.baseurl}}/visita-san-agustin-huila)
 
 ## Habitaciones del hotel Masaya
 
@@ -99,7 +97,7 @@ El hotel Masaya también te ofrece las siguientes actividades para amenizar tu e
 
 Adicionalmente, la ubicación del hotel es especial. Desde el hotel Masaya tienes a 5 minutos el casco urbano de [San Agustín Huila]({{site.baseurl}}/visita-san-agustin-huila "Artículo sobre San Agustín Huila"); a 30 minutos el [Parque Arqueológico de San Agustín]({{site.baseurl}}/parque-arqueologico-san-agustin-huila "Artículo sobre el parque arqueológico de San Agustín Huila"); a 30 minutos [el estrecho del Magdalena]({{site.baseurl}}/estrecho-rio-magdalena "Artículo sobre el Estrecho del Magdalena") y a 20 minutos, y caminando, el sitio arqueológico la Chaquira.
 
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>¿No conoces San Agustín? Mira porqué debería venir a [conocer San Agustín]({{site.baseurl}}/visita-san-agustin-huila)
 
 ## ¿Por qué escoger el hotel Masaya?
 

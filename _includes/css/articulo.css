@@ -1,3 +1,8 @@
+.articulo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .articulo h2,
 .articulo h3,
 .articulo h4 {
@@ -14,8 +19,11 @@
 .articulo h3,
 .articulo h4 {
   text-align: left;
-  /* width: 100%; */
   font-family: var(--fuenteTitulos);
+}
+
+.articulo h3{
+  font-size: 1.8rem;
 }
 
 .articulo p{
@@ -47,7 +55,9 @@
 
 .articulo table tr {
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
   border-bottom: 1px solid var(--secundario);
   padding: 0.3rem 0;
 }
@@ -77,6 +87,7 @@ blockquote,
 .articulo iframe {
   width: 100%;
   border-radius: 8px;
+  aspect-ratio: 16 / 9;
 }
 
 .legal {

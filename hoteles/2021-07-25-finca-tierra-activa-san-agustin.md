@@ -2,8 +2,8 @@
 layout: articulo
 title: Tierra Activa - Finca agroturística
 description: La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas. Su actividad principal es el agroturismo.
-category: hotel
-tags: [hoteles, fincas]
+category: hoteles
+tags: [hoteles]
 h1: Finca Agroturística Tierra Activa
 img: hoteles/tierra-activa-san-agustin-huila.webp
 jpg: hoteles/tierra-activa-san-agustin-huila.jpg
@@ -15,6 +15,7 @@ referencias:
   - Booking Hotel Finca Tierra Activa San Agustín Huila: https://www.booking.com/hotel/co/tierra-activa-finca-organica.es.html
   - TripAdvisor Hotel Finca Tierra Activa San Agustín Huila: https://www.tripadvisor.co/UserReviewEdit-g445060-d23337945-Tierra_Activa-San_Agustin_Huila_Department.html
   - Fotos Hotel Hotel Finca Tierra Activa: https://www.google.com/maps/place/Hotel+Tierra+Activa+San+Agust%C3%ADn/@1.9058656,-76.3031588,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNRs79LC92WChUusonb0XgR3zfDvqxboiCDRRtL!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNRs79LC92WChUusonb0XgR3zfDvqxboiCDRRtL%3Dw224-h298-k-no!7i3096!8i4128!4m10!3m9!1s0x8e257b772c1aa045:0xb7f141e0fca73b08!5m2!4m1!1i2!8m2!3d1.9058656!4d-76.3031588!14m1!1BCgIgAQ
+background-header: var(--oficial)
 permalink: /hoteles/finca-tierra-activa-san-agustin-huila
 excerpt_separator: <!-- excerpt -->
 ---
@@ -24,7 +25,7 @@ excerpt_separator: <!-- excerpt -->
 
 Su actividad principal es el agroturismo y actividades de autoconocimiento y conexión con la naturaleza, para alcanzar un descanso y una experiencia deliciosa y relajante.
 
-{% include img.html img="magazine/hoteles-san-agustin/tierra-activa-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila.webp" alt="Fotografías de un visitante estelar del Hotel Finca Tierra Activa de San Agustín Huila" title="Visitante del Hotel Finca Tierra Activa de San Agustín Huila" %}
+{% include img.html img="hoteles/tierra-activa-san-agustin.webp" img-mini="hoteles/tierra-activa-san-agustin-huila.webp" alt="Fotografías de un visitante estelar del Hotel Finca Tierra Activa de San Agustín Huila" title="Visitante del Hotel Finca Tierra Activa de San Agustín Huila" %}
 *Hotel Finca Tierra Activa de San Agustín*
 
 Te contamos porqué Tierra Activa de San Agustín es una estupenda opción de turismo y de hotel.
@@ -32,7 +33,7 @@ Te contamos porqué Tierra Activa de San Agustín es una estupenda opción de tu
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## ¿Cómo puedes llegar hasta el hotel Finca Tierra Activa de San Agustín?
+## ¿Cómo llegar hasta el hotel Finca Tierra Activa de San Agustín?
 
 1. Toma la salida hacia [El Estrecho del Magadalena]({{site.baseurl}}/estrecho-rio-magdalena).
 2. Llega hasta el conocido y angituo hotel Monasterio de San Agustín.
@@ -44,35 +45,19 @@ Te contamos porqué Tierra Activa de San Agustín es una estupenda opción de tu
 
 {% include boton.html path="https://ul.waze.com/ul?place=ChIJRaAaLHd7JY4RCDun_OBB8bc&ll=1.90586560%2C-76.30315880&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel Finca Tierra Activa de San Agustín Huila en Waze" texto="Waze" %}
 
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>¿No conoces San Agustín? Mira porqué debería venir a [conocer San Agustín]({{site.baseurl}}/visita-san-agustin-huila)
 
-### WhatsApp del Hotel Finca Tierra Activa
+### Teléfono y otros datos de contacto del Hotel Finca Tierra Activa
 
-**Los números de whatsapp del Hotel Finca Tierra Activa de San Agustín son +573124762181 y +573104652426.** Haz clic en los botones para escribirles:
+Contacta el Hotel Finca Tierra Activa con cualquiera de las siguiente opciones:
 
-{% include boton.html path="https://wa.me/c/573124762181" title="whatsapp 1 del Hotel Finca Tierra Activa de San Agustín Huila" texto="Catálogo de Whatsapp" %}
+* **Número de celular**: El número de celular del Hotel Finca Tierra Activa es **[+573124762181](tel:+573124762181 "Celular del Hotel Finca Tierra Activa de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**, o **[+573104652426](tel:+573104652426 "Celular del Hotel Finca Tierra Activa de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
+* **WhatsApp**: El número de whatsapp del Hotel Finca Tierra Activa es **[+53124762181.](https://wa.me/573124762181 "whatsapp del Hotel Finca Tierra Activa de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**, o, también, **[+573104652426.](https://wa.me/573104652426 "whatsapp del Hotel Finca Tierra Activa de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
+* **Facebook**: El perfil de Facebook del hostal es **[@Tierraactivahotel](https://www.facebook.com/Tierraactivahotel/ "Facebook del Hotel Finca Tierra Activa de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
+* **Instagram**: El perfil de Instagram del hostal es **[@hoteltierraactiva](https://www.instagram.com/hoteltierraactiva/ "Instagram del Hotel Finca Tierra Activa de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
+* **LinkedIn**: El perfil de LinkedIn del hostal es **[@tierra-activa-3518a4207](https://www.linkedin.com/in/tierra-activa-3518a4207 "LinkedIn del Hotel Finca Tierra Activa de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
-{% include boton.html path="https://wa.me/573104652426" title="whatsapp 2 del Hotel Finca Tierra Activa de San Agustín Huila" texto="Whatsapp" %}
-
-### Teléfono del Hotel Finca Tierra Activa de San Agustín
-
-**Los números de celular del Hotel Finca Tierra Activa son 3124762181 y 3104652426**. Puedes llamarlos haciendo el clic en los siguientes botones:
-
-{% include boton.html path="tel:+573124762181" title="Celular 1 del Hotel Finca Tierra Activa de San Agustín Huila" texto="3124762181" %}
-
-{% include boton.html path="tel:+573104652426" title="Celular 2 del Hotel Finca Tierra Activa de San Agustín Huila" texto="3104652426" %}
-
-### Redes sociales del Hotel Finca Tierra Activa
-
-Para visitar los perfiles del Hotel Finca Tierra Activa en las redes sociales, solamente debes hacer clic en los siguientes botones:
-
-{% include boton.html path="https://www.facebook.com/Tierraactivahotel/" title="Facebook la Finca Agroturística Tierra Activa de San Agustín Huila" texto="Facebook" %}
-
-{% include boton.html path="https://www.instagram.com/hoteltierraactiva/" title="Instagram del Hotel Finca Tierra Activa de San Agustín" texto="Instagram" %}
-
-{% include boton.html path="https://www.linkedin.com/in/tierra-activa-3518a4207" title="Linkedin del Hotel Finca Tierra Activa de San Agustín" texto="Linked In" %}
-
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>Visita la [Cascada de Los Tres Chorros]({{site.baseurl}}/cascada-los-tres-chorros-de-san-agustin)
 
 ## ¿Qué servicios ofrece el Hotel Finca Tierra Activa de San Agustín?
 
@@ -94,7 +79,7 @@ Para visitar los perfiles del Hotel Finca Tierra Activa en las redes sociales, s
 | **Casa del árbol** | Construcción sencilla, pero con una de las mejores vistas del paisaje de San Agustín Huila |
 | **Sala de lectura** | Espacio totalmente adaptado para disfrutar de tu tiempo de lectura |
 
-{% include img.html img="magazine/hoteles-san-agustin/finca-tierra-activa-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/finca-tierra-activa-san-agustin-huila.webp" alt="Fotografías de los alrededores del Hotel Finca Tierra Activa de San Agustín Huila" title="Paisajes del Hotel Finca Tierra Activa de San Agustín Huila" %}
+{% include img.html img="hoteles/finca-tierra-activa-san-agustin.webp" img-mini="hoteles/finca-tierra-activa-san-agustin-huila.webp" alt="Fotografías de los alrededores del Hotel Finca Tierra Activa de San Agustín Huila" title="Paisajes del Hotel Finca Tierra Activa de San Agustín Huila" %}
 *Hotel Finca Tierra Activa de San Agustín*
 
 ## Habitaciones del Hotel Finca Tierra Activa
@@ -107,7 +92,7 @@ En las instalaciones del Hotel Tierra Activa puedes solicitar cualquiera de esta
 
 ### Experiencia campesina
 
-{% include img.html img="magazine/hoteles-san-agustin/tierra-activa-san-agustin-experiencia-cafe.webp" img-mini="magazine/hoteles-san-agustin/tierra-activa-san-agustin-huila-experiencia-cafe.webp" alt="Fotografías de la experiencia campesina del Hotel Finca Tierra Activa de San Agustín Huila" title="Experiencia campesina del Hotel Finca Tierra Activa de San Agustín Huila" %}
+{% include img.html img="hoteles/tierra-activa-san-agustin-experiencia-cafe.webp" img-mini="hoteles/tierra-activa-san-agustin-huila-experiencia-cafe.webp" alt="Fotografías de la experiencia campesina del Hotel Finca Tierra Activa de San Agustín Huila" title="Experiencia campesina del Hotel Finca Tierra Activa de San Agustín Huila" %}
 *Experiencia campesina en el Hotel Finca Tierra Activa de San Agustín*
 
 Aprende cómo viven los campesinos de la localidad. Conoce y participa del cultivo de los alimentos nativos y cómo trabaja una familia campesina. Incluye un recorrido por 3 senderos temáticos: frutas nativas, passifloras y huerta escalonada.
@@ -192,7 +177,7 @@ Este tour es apto para familias, parejas, equipos de trabajo y amigos.
 
 {% include boton.html path="https://wa.me/573124762181" title="whatsapp 1 del Hotel Finca Tierra Activa de San Agustín Huila" texto="Preguntar por esta experiencia" %}
 
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>Visita el [Parque Arqueológico de San Agustín]({{site.baseurl}}/parque-arqueologico-san-agustin-huila)
 
 ## Preguntas sobre el Hotel Finca Tierra Activa
 

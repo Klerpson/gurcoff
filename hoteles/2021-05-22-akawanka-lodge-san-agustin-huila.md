@@ -18,6 +18,7 @@ permalink: /hoteles/akawanka-lodge-san-agustin-huila
 background-header: var(--oficial)
 intro: El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la naturaleza, el arte, el comfort y la seguridad que busca cualquier turista.
 ---
+**El hotel Akawanka de San Agustín tiene una ubicación privilegiada hacia la zona alta de las montañas de San Agustín. En este hotel tendrás una de las mejores panorámicas del paraíso que vas a visitar**.
 
 <!-- excerpt -->
 
@@ -27,14 +28,12 @@ intro: El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto e
 ## Hotel Akawanka Lodge de San Agustín
 
 <!-- IMG -->
-{% include img.html img="magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila.webp" img-mini="magazine/hoteles-san-agustin/hotel-akawanka-san-agustin-huila-400px.webp" alt="Fotografías del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka de San Agustín Huila" %}
+{% include img.html img="hoteles/hotel-akawanka-san-agustin-huila.webp" img-mini="hoteles/hotel-akawanka-san-agustin-huila-400px.webp" alt="Fotografías del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka de San Agustín Huila" %}
 *Hotel Akawanka en San Agustín Huila*
-
-**El hotel Akawanka de San Agustín tiene una ubicación privilegiada hacia la zona alta de las montañas de San Agustín. En este hotel tendrás una de las mejores panorámicas del paraíso que vas a visitar**.
 
 **El hotel Akawanka ofrece una temática Eco Logde**. Se enfoca en guardar un equilibrio entre presentar y conservar indentidad cultural ancestral de San Agustín, al tiempo que respeta la historia natural del ambiente local y la conservación de los ecosistemas.
 
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>Desde el Hotel Akawanka estás muy cerca al [Parque Arqueológico de San Agustín]({{site.baseurl}}/parque-arqueologico-san-agustin-huila)
 
 ## Cómo llegar al Hotel Akawanka Lodge de San Agustín
 
@@ -44,25 +43,15 @@ intro: El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto e
 
 {% include boton.html path="https://ul.waze.com/ul?place=ChIJa4EuN2F6JY4RXBZUWnoHtNM&ll=1.89185380%2C-76.28113550&navigate=yes&utm_campaign=waze_website&utm_source=waze_website&utm_medium=lm_share_location" title="Ubicación del Hotel Akawanka Lodge de San Agustín Huila en Waze" texto="Waze" %}
 
-### WhatsApp del Hotel Akawanka Lodge
+### Teléfono y otros datos del Hotel Akawanka Lodge
 
-El número de whatsapp del Hotel Akawanka Lodge es **+573203929160.**
+Para contactar con el Hotel Akawanka, utiliza las siguientes opciones:
 
-{% include boton.html path="https://wa.me/573203929160" title="whatsapp del Hotel Akawanka de San Agustín Huila" texto="Whatsapp" %}
+* **Número de celular**: El número de celular del Hotel Akawanka Lodge es **[+573214501377](tel:+573214501377 "Celular del Hotel Akawanka de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
+* **WhatsApp**: El número de whatsapp del Hotel Akawanka Lodge es **[+573203929160.](https://wa.me/573203929160 "whatsapp del Hotel Akawanka de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**
+* **Correo electrónico**: El correo electrónico del hostal es **[akawankalodge@gmail.com](mailto:akawankalodge@gmail.com "Email del Hotel Akawanka de San Agustín Huila"){:rel="nofollow noopener noreferrer" target="_blank"}**.
 
-### Teléfono del Hotel Akawanka Lodge
-
-El número de celular del Hotel Akawanka Lodge es **+573214501377**.
-
-{% include boton.html path="tel:+573214501377" title="Celular del Hotel Akawanka de San Agustín Huila" texto="Llamar" %}
-
-### Email del Hotel Akawanka Lodge
-
-El correo electrónico del hostal es **akawankalodge@gmail.com**.
-
-{% include boton.html path="mailto:akawankalodge@gmail.com" title="Email del Hotel Akawanka de San Agustín Huila" texto="E-mail" %}
-
-### ¿Qué servicios te ofrece el hotel Akawanka?
+## ¿Qué servicios te ofrece el hotel Akawanka?
 
 | Servicio | Descripción |
 |---|---|
@@ -82,9 +71,7 @@ El correo electrónico del hostal es **akawankalodge@gmail.com**.
 | **Tienda de recuerdos** | Encontrarás el detalle que quieres llevar al regresar a casa |
 
 <!-- IMG -->
-{% include img.html img="magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin.webp" img-mini="magazine/hoteles-san-agustin/hotel-akawanka-lodge-san-agustin-400px.webp" alt="Miniaturas del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka Lodge de San Agustín Huila" %}
-
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+{% include img.html img="hoteles/hotel-akawanka-lodge-san-agustin.webp" img-mini="hoteles/hotel-akawanka-lodge-san-agustin-400px.webp" alt="Miniaturas del hotel Akawanka de San Agustín Huila" title="Hotel Akawanka Lodge de San Agustín Huila" %}
 
 ### ¿Por qué escoger el hotel Akawanka?
 
@@ -105,7 +92,7 @@ El correo electrónico del hostal es **akawankalodge@gmail.com**.
 2. Si buscas un hotel económico en San Agustín Huila, escoge otro. Su calidad y profesionalidad requieren de costos moderados y altos, según el servicio.
 3. Para llegar a este alojamiento hay que pasar por un camino sin asfaltar. Sin embargo, es un trayecto corto.
 
->¿Necesitas hospedaje en San Agustín? Nuestro recomendado es el [Hospedaje Casa Bonita](https://hospedajecasabonita.com)
+>¿Te gustaría viajar y trabajar al mismo tiempo? Aprende de la experiencia de [🎒Carolina Colobon y Nando Prieto](https://go.hotmart.com/Y72308599B?dp=1){:rel="nofollow sponsored" target="_blank"}
 
 ## Opiniones del hotel Akawanka de San Agustín
 
