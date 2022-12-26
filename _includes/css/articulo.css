@@ -104,10 +104,3 @@ blockquote,
   text-align: left;
   color: var(--secundario);
 }
-
-@media screen and (min-width:767px) {
-  .articulo img {
-    float: left;
-    margin: 2rem 2rem 2rem 0;
-  }
-}

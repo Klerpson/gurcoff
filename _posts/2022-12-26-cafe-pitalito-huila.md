@@ -37,7 +37,7 @@ La variedad de sus cultivos está posicionando la ciudad como la mejor zona cafe
 4. **Café caturra**: esta variedad de café se caracteriza por su sabor único y su aroma intenso. Esta variedad también se caracteriza por sus granos grandes, su sabor dulce y su acidez moderada.
 5. **Café borbón rosado**: **El café Borbón Rosado es una variedad de café única y exclusiva**. Su sabor dulce y suave es resultado de un proceso de tostado en el que la temperatura se ajusta a la perfección para preservar la dulzura y suavidad de los granos. El resultado es **un café con notas a chocolate y caramelo, con un toque de ácido y un final suave y sedoso**.
 
-![Entrada al Salto del Mortiño]({{ 'img/magazine/cafe-pitalito-huila.webp' | relative_url }} "Café del Huila"){:width="1280" style="aspect-ratio: 16 / 9;" loading="lazy"}
+![Entrada al Salto del Mortiño]({{ 'img/magazine/cafe-pitalito-huila.webp' | relative_url }} "Café del Huila"){:width="800" style="aspect-ratio: 16 / 9;" loading="lazy"}
 
 ## Pitalito, ciudad de baristas reconocidos
 
@@ -49,7 +49,7 @@ Los baristas de Pitalito experimentan con sabores y recetas únicas para ofrecer
 
 Cuando visites Pitalito, puedes encontrar muchas fincas que te ofrecen **experiencias campesinas donde cultivas, cosechas, preparas y tomas un café delicioso**. En nuestro blog hicimos un artículo sobre la finca [Tierra Activa]({{site.baseurl}}/hoteles/finca-tierra-activa-san-agustin-huila) que te ofrece experiencias como esta.
 
-![Entrada al Salto del Mortiño]({{ 'img/magazine/cafe-pitalito-experiencia.webp' | relative_url }} "Experiencia campesina en finca cafetera de Pitalito"){:width="1280" style="aspect-ratio: 16 / 9;" loading="lazy"}
+![Entrada al Salto del Mortiño]({{ 'img/magazine/cafe-pitalito-experiencia.webp' | relative_url }} "Experiencia campesina en finca cafetera de Pitalito"){:width="800" style="aspect-ratio: 16 / 9;" loading="lazy"}
 
 En Pitalito, el café es más que una bebida, es una forma de vida. La gente aquí se toma el tiempo para disfrutar de su café, disfrutar de la compañía de sus amigos y disfrutar de la cultura cafetera. Los baristas son conocidos por su servicio amable y por su conocimiento profundo del café. Esto hace que la experiencia de tomar café en Pitalito sea única.
 
