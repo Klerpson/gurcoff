@@ -4,13 +4,21 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2022-12-24T19:45:42-05:00</updated>
+     <updated>2022-12-26T11:18:23-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title>Café de Pitalito para los amantes del mejor café</title>
+   <link href="http://localhost:4000/cafe-pitalito-huila"/>
+   <id>http://localhost:4000/cafe-pitalito-huila</id>
+   <updated>2022-12-26T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;Tomar café en Pitalito, Huila, es toda una experiencia. Esta ciudad colombiana es conocida por sus cafés de alta calidad y su vibrante cultura generada alrededor de este producto. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#tomar-café-en-pitalito&quot; id=&quot;markdown-toc-tomar-café-en-pitalito&quot;&gt;Tomar café en Pitalito&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#variedades-de-café-en-pitalito&quot; id=&quot;markdown-toc-variedades-de-café-en-pitalito&quot;&gt;Variedades de café en Pitalito&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#pitalito-ciudad-de-baristas-reconocidos&quot; id=&quot;markdown-toc-pitalito-ciudad-de-baristas-reconocidos&quot;&gt;Pitalito,...</content>
+ </entry>
  
  <entry>
    <title>El salto del Mortiño y el vuelo del halcón</title>
