@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://gurcoff.com/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
@@ -46,6 +46,10 @@
         <image:title>Ensalada de frutas de GurCoff</image:title>
       </image:image>
       <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cafe-pitalito.webp</image:loc>
+        <image:title>Tazas de café con un paisaje de fondo</image:title>
+      </image:image>
+      <image:image>
         <image:loc>https://gurcoff.com/img/magazine/salto-mortino.webp</image:loc>
         <image:title>Cascada Salto del Mortiño en Isnos Huila</image:title>
       </image:image>
@@ -54,43 +58,13 @@
         <image:title>Foto de la plaza del museo de Obando en San Agustín Huila</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/laguna-del-magdalena.webp</image:loc>
-        <image:title>Fotografía de la Laguna del Magdalena, nacimiento del gran río Magdalena</image:title>
-      </image:image>
-      <image:image>
         <image:loc>https://gurcoff.com/img/ubicacion.webp</image:loc>
         <image:title>Imagen de confeti para celebrar</image:title>
       </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/laguna-del-magdalena</loc>
-    <lastmod>2022-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/laguna-del-magdalena.webp</image:loc>
-        <image:title>Fotografía de la Laguna del Magdalena, nacimiento del gran río Magdalena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/llegada-laguna-magdalena.webp</image:loc>
-        <image:title>Letrero de bienvenida a la laguna del Magdalena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/cabalgata-laguna-del-magdalena.webp</image:loc>
-        <image:title>Viaje hacia la laguna del Magdalena a caballo</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/reserva-laguna-del-magdalena.webp</image:loc>
-        <image:title>Frailejones en la laguna del Magdalena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/camino-paramo-de-las-papas-hacia-laguna-del-magdalena.webp</image:loc>
-        <image:title>Páramo de las papas en la laguna del Magdalena</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://gurcoff.com/contacto</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -115,43 +89,17 @@
       </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/cascada-salto-mortino-isnos</loc>
-    <lastmod>2022-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/salto-mortino.webp</image:loc>
-        <image:title>Cascada Salto del Mortiño en Isnos Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/salto-mortino-entrada.webp</image:loc>
-        <image:title>Entrada al Salto del Mortiño</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/culumpio-vuelo-del-halcon.webp</image:loc>
-        <image:title>Culumpio Vuelo del Halcón en el Salto del Mortiño</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/puente-cristal-salto-mortino.webp</image:loc>
-        <image:title>Puente de cristal en el Salto del Mortiño</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/cauchera-gigante-salto-mortino.webp</image:loc>
-        <image:title>Cauchera gigante en el Salto del Mortiño</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/canasta-colgante-salto-mortino.webp</image:loc>
-        <image:title>Canasta colgante en el Salto del Mortiño</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://gurcoff.com/blog</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/blog-gurcoff.webp</image:loc>
         <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cafe-pitalito.webp</image:loc>
+        <image:title>Tazas de café con un paisaje de fondo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/salto-mortino.webp</image:loc>
@@ -195,8 +143,38 @@
       </image:image>
   </url>
   <url>
+    <loc>https://gurcoff.com/cascada-salto-mortino-isnos</loc>
+    <lastmod>2022-12-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/salto-mortino.webp</image:loc>
+        <image:title>Cascada Salto del Mortiño en Isnos Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/salto-mortino-entrada.webp</image:loc>
+        <image:title>Entrada al Salto del Mortiño</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/culumpio-vuelo-del-halcon.webp</image:loc>
+        <image:title>Culumpio Vuelo del Halcón en el Salto del Mortiño</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/puente-cristal-salto-mortino.webp</image:loc>
+        <image:title>Puente de cristal en el Salto del Mortiño</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cauchera-gigante-salto-mortino.webp</image:loc>
+        <image:title>Cauchera gigante en el Salto del Mortiño</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/canasta-colgante-salto-mortino.webp</image:loc>
+        <image:title>Canasta colgante en el Salto del Mortiño</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://gurcoff.com/museo-obando-san-agustin-huila</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
@@ -213,13 +191,35 @@
       </image:image>
   </url>
   <url>
+    <loc>https://gurcoff.com/cafe-pitalito-huila</loc>
+    <lastmod>2022-12-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cafe-pitalito.webp</image:loc>
+        <image:title>Tazas de café con un paisaje de fondo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cafe-pitalito-huila.webp</image:loc>
+        <image:title>Entrada al Salto del Mortiño</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cafe-pitalito-experiencia.webp</image:loc>
+        <image:title>Entrada al Salto del Mortiño</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://gurcoff.com/blog/restaurantes</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/turista-pitalito-san-agustin.webp</image:loc>
-        <image:title></image:title>
+        <image:loc>https://gurcoff.com/img/magazine/carne-asada-huila.webp</image:loc>
+        <image:title>Carne asada al carbón en el Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/sancocho-san-agustin-huila.webp</image:loc>
+        <image:title>Sancocho en San Agustín Huila</image:title>
       </image:image>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/al-barril-san-agustin-huila.webp</image:loc>
@@ -228,7 +228,7 @@
   </url>
   <url>
     <loc>https://gurcoff.com/mejores-restaurantes-san-agustin</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -253,8 +253,30 @@
       </image:image>
   </url>
   <url>
+    <loc>https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin</loc>
+    <lastmod>2022-12-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros-san-agustin-huila.webp</image:loc>
+        <image:title>Cascada Los Tres Chorros de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros-san-agustin.webp</image:loc>
+        <image:title>Cascada Los Tres Chorros en San Agustín. Fotografía llegando al lugar</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros-tour-bicicleta.webp</image:loc>
+        <image:title>Turista en bicicleta visitando la cascada Los Tres Chorros en San Agustín.</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/waffle-gurcoff-san-agustin.webp</image:loc>
+        <image:title>Waffle de la heladería GurCoff de San Agustín Huila</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://gurcoff.com/estrecho-rio-magdalena</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -283,30 +305,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin</loc>
-    <lastmod>2022-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros-san-agustin-huila.webp</image:loc>
-        <image:title>Cascada Los Tres Chorros de San Agustín Huila</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros-san-agustin.webp</image:loc>
-        <image:title>Cascada Los Tres Chorros en San Agustín. Fotografía llegando al lugar</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros-tour-bicicleta.webp</image:loc>
-        <image:title>Turista en bicicleta visitando la cascada Los Tres Chorros en San Agustín.</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/waffle-gurcoff-san-agustin.webp</image:loc>
-        <image:title>Waffle de la heladería GurCoff de San Agustín Huila</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://gurcoff.com/visita-san-agustin-huila</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -343,14 +343,8 @@
       </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/hoteles</loc>
-    <lastmod>2022-12-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gurcoff.com/parque-arqueologico-san-agustin-huila</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
@@ -383,13 +377,49 @@
       </image:image>
   </url>
   <url>
+    <loc>https://gurcoff.com/hoteles</loc>
+    <lastmod>2022-12-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gurcoff.com/laguna-del-magdalena</loc>
+    <lastmod>2022-12-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/laguna-del-magdalena.webp</image:loc>
+        <image:title>Fotografía de la Laguna del Magdalena, nacimiento del gran río Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/llegada-laguna-magdalena.webp</image:loc>
+        <image:title>Letrero de bienvenida a la laguna del Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cabalgata-laguna-del-magdalena.webp</image:loc>
+        <image:title>Viaje hacia la laguna del Magdalena a caballo</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/reserva-laguna-del-magdalena.webp</image:loc>
+        <image:title>Frailejones en la laguna del Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/camino-paramo-de-las-papas-hacia-laguna-del-magdalena.webp</image:loc>
+        <image:title>Páramo de las papas en la laguna del Magdalena</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://gurcoff.com/blog/turismo</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/turista-pitalito-san-agustin.webp</image:loc>
         <image:title>Turista en una cañón del Magdalena en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/cafe-pitalito.webp</image:loc>
+        <image:title>Tazas de café con un paisaje de fondo</image:title>
       </image:image>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/salto-mortino.webp</image:loc>
@@ -425,16 +455,28 @@
       </image:image>
   </url>
   <url>
-    <loc>http://gurcoff.com/hoteles/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <loc>https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila</loc>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/hoteles/tierra-activa-san-agustin-huila.webp</image:loc>
+        <image:title>Fotografía del Hotel Finca Tierra Activa en San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/hoteles/finca-tierra-activa-san-agustin-huila.webp</image:loc>
+        <image:title>Fotografías de los alrededores del Hotel Finca Tierra Activa de San Agustín Huila</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/hoteles/tierra-activa-san-agustin-huila-experiencia-cafe.webp</image:loc>
+        <image:title>Fotografías de la experiencia campesina del Hotel Finca Tierra Activa de San Agustín Huila</image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://gurcoff.com/hoteles/</loc>
-    <lastmod>2022-12-25</lastmod>
+    <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/hoteles/hotel-casa-bonita-san-agustin-huila.webp</image:loc>
         <image:title>Fotografía del hospedaje Casa Bonita en San Agustín Huila</image:title>
@@ -463,5 +505,11 @@
         <image:loc>https://gurcoff.com/img/hoteles/hostal-bambu-san-agustin-400px.webp</image:loc>
         <image:title>Fotografía del Hostal Bambú de San Agustín Huila</image:title>
       </image:image>
+  </url>
+  <url>
+    <loc>http://gurcoff.com/hoteles/</loc>
+    <lastmod>2022-12-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
