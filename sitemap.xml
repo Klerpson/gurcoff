@@ -376,6 +376,12 @@
         <image:title>Alto de los Ídolos San Agustín Huila</image:title>
       </image:image>
   </url>
+    <url>
+    <loc>http://gurcoff.com/hoteles/</loc>
+    <lastmod>2022-12-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
     <loc>https://gurcoff.com/hoteles</loc>
     <lastmod>2022-12-28</lastmod>
@@ -506,10 +512,5 @@
         <image:title>Fotografía del Hostal Bambú de San Agustín Huila</image:title>
       </image:image>
   </url>
-  <url>
-    <loc>http://gurcoff.com/hoteles/</loc>
-    <lastmod>2022-12-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
+
 </urlset>
