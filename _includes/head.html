@@ -8,7 +8,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
   <title>{{ page.title}}</title>
-  <link rel="preconnect" href="https://www.googletagmanager.com">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url}}">
   <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}">
   {% if page.noindex %}
@@ -23,14 +22,14 @@
   {
     "@context": "http://www.schema.org",
     "@type": "IceCreamShop",
-    "name": "Heladería GurCoff de San Agustín Huila",
+    "name": "San Agustín y Pitalito Huila tiene su heladería favorita | GurCoff",
     "url": "https://gurcoff.com/",
     "logo": "https://gurcoff.com/img/logo.png",
     "image": "https://gurcoff.com/img/milkshake-especial-gurcoff.webp",
     "telephone": "+573124489392",
     "servesCuisine": "Colombiana",
-    "priceRange": "$4000 - $24000 COP",
-    "description": "San Agustín Huila tiene un dulce lugar para relajarte, para descansar, para charlar y para comer un helado suave bien rico. Bienvenidos a GurCoff Heladería, el punto de encuentro favorito de quienes visitan este hermoso pueblo turístico. Tienes que vivir tú mismo la experiencia GurCoff",
+    "priceRange": "$4000 - $26000 COP",
+    "description": "En San Agustín y Pitalito Huila somos el punto para comer bien rico y relajarse en el lugar mejor calificado de la zona. ¡Tienes que venir y probarlo tú mismo!",
     "menu": "http://wa.me/c/573124489392",
     "acceptsReservations": "True",
     "address": {
@@ -49,14 +48,14 @@
     "bestRating": "5"
     },
     "author": {
-    "@type": "Person",
+      "@type": "Person",
     "name": "Maria Paula Bonilla Jimenez"
     }},
     "geo": {
-    "@type": "GeoCoordinates",
+      "@type": "GeoCoordinates",
     "latitude": 1.8853571,
     "longitude": -76.2768909
-    },
+  },
     "openingHours": "Mo, Tu, Th, Fr 13:30-19:00 Sa, Su 13:30-19:30",
     "contactPoint": {
     "@type": "ContactPoint",
@@ -64,7 +63,7 @@
     "contactType": "Atención al Cliente"
     }}
 {% else %}
-    {
+{
       "@context": "https://schema.org",
       "@graph":[
       {
@@ -151,7 +150,7 @@
   <meta name="owner" content="GurCoff Heladería San Agustín Huila" />
   <meta property="og:locale" content="es_CO" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="{%if page.h1 %}{{ page.h1}}{% else %}{{ page.title}}{% endif %}" />
+  <meta property="og:title" content="{%if page.title %}{{ page.title}}{% else %}{{ page.h1}}{% endif %}" />
   <meta property="og:url" content="{{ page.url}}" />
   {% if page.jpg %}
   <meta property="og:image" content="{{ site.url}}{{ page.jpg}}" />
@@ -160,9 +159,9 @@
   <meta property="og:image:alt" content="{{page.alt}}">
   <meta property="og:image:type" content="image/jpg">
   {% endif %}
-  <meta property="og:site_name" content="GurCoff Heladería San Agustín Huila" />
+  <meta property="og:site_name" content="GurCoff Heladería" />
   <meta property="article:publisher" content="{{site.facebook}}" />
-  <meta property="article:author" content="https://www.facebook.com/gurcoff.sanagustinhuila" />
+  <meta property="article:author" content="https://www.facebook.com/gurcoffhuilaa/" />
   {% if page.category %}
   <meta property="article:section" content="{{page.category}}">
   {% endif %}
@@ -170,12 +169,6 @@
   <meta property="article:modified_time" content="{{ page.date}}" />
   <meta property="article:updated_time" content="{{ page.date}}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description}}{% else %}{{ page.title}}{% endif %}" />
-  <!-- TAG GOOGLE -->
-  <meta name="google-site-verification" content="0nQFs57C9WTi2LNUqnTasHQGwfcwTSdv3duaID3kZsU" />
-
-  <!-- <style>
-    
-  </style> -->
   <!-- PRELOADS AND LINKS -->
   <link rel="preload" as="style" href="{{ 'css/style.css' | relative_url}}">
   <link rel="stylesheet" href="{{ 'css/style.css' | relative_url}}">
@@ -211,4 +204,5 @@
   <link rel='dns-prefetch' href='https://www.google.com.co' />
   <link rel='dns-prefetch' href='https://www.googleadservices.com' />
   <link rel='dns-prefetch' href='https://www.googletagmanager.com' />
+  <link rel="preconnect" href="https://www.googletagmanager.com">
 </head>
