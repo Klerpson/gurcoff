@@ -169,6 +169,13 @@
   <meta property="article:modified_time" content="{{ page.date}}" />
   <meta property="article:updated_time" content="{{ page.date}}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description}}{% else %}{{ page.title}}{% endif %}" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@juli_digital">
+  <meta name="twitter:creator" content="@juli_digital">
+  <meta property="og:url" content="{{page.url}}">
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:description" content="{{page.description}}">
+  <meta property="og:image" content="{{page.img}}">
   <!-- PRELOADS AND LINKS -->
   <link rel="preload" as="style" href="{{ 'css/style.css' | relative_url}}">
   <link rel="stylesheet" href="{{ 'css/style.css' | relative_url}}">
