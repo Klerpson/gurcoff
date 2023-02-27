@@ -2,7 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://gurcoff.com/</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/logotipo-blanco.svg</image:loc>
@@ -62,8 +63,15 @@
       </image:image>
   </url>
   <url>
+    <loc>https://gurcoff.com/legal</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://gurcoff.com/cascada-salto-mortino-isnos</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/salto-mortino.webp</image:loc>
@@ -92,7 +100,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/contacto</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/contacto.webp</image:loc>
@@ -117,7 +126,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/blog</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/blog-gurcoff.webp</image:loc>
@@ -170,7 +180,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/museo-obando-san-agustin-huila</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/museo-obando-san-agustin-huila.webp</image:loc>
@@ -187,7 +198,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/cafe-pitalito-huila</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.9</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/cafe-pitalito.webp</image:loc>
@@ -204,7 +216,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/blog/restaurantes</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/carne-asada-huila.webp</image:loc>
@@ -221,7 +234,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/mejores-restaurantes-san-agustin</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/al-barril-san-agustin-huila.webp</image:loc>
@@ -246,7 +260,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/cascada-los-tres-chorros-de-san-agustin</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/cascada-tres-chorros-san-agustin-huila.webp</image:loc>
@@ -266,37 +281,9 @@
       </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/estrecho-rio-magdalena</loc>
-    <lastmod>2022-12-28</lastmod>
-    <priority>0.8</priority>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/estrecho-del-magdalena.webp</image:loc>
-        <image:title>El Estrecho del Magdalena desde el aire</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/salida-estrecho-magdalena.webp</image:loc>
-        <image:title>Salida hacia el Estrecho del Magdalena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/recuerdos-estrecho-magdalena.webp</image:loc>
-        <image:title>Souvenirs del Estrecho del Magdalena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/senal-estrecho-magdalena.webp</image:loc>
-        <image:title>Señal del Estrecho del Magdalena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/escaleras-estrecho-magdalena.webp</image:loc>
-        <image:title>Escaleras de la entrada al Estrecho del Magdalena</image:title>
-      </image:image>
-      <image:image>
-        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena.webp</image:loc>
-        <image:title>Estrecho del río Magdalena</image:title>
-      </image:image>
-  </url>
-  <url>
     <loc>https://gurcoff.com/visita-san-agustin-huila</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/san-agustin-huila-bienvenida.webp</image:loc>
@@ -332,8 +319,39 @@
       </image:image>
   </url>
   <url>
+    <loc>https://gurcoff.com/estrecho-rio-magdalena</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/estrecho-del-magdalena.webp</image:loc>
+        <image:title>El Estrecho del Magdalena desde el aire</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/salida-estrecho-magdalena.webp</image:loc>
+        <image:title>Salida hacia el Estrecho del Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/recuerdos-estrecho-magdalena.webp</image:loc>
+        <image:title>Souvenirs del Estrecho del Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/senal-estrecho-magdalena.webp</image:loc>
+        <image:title>Señal del Estrecho del Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/escaleras-estrecho-magdalena.webp</image:loc>
+        <image:title>Escaleras de la entrada al Estrecho del Magdalena</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://gurcoff.com/img/magazine/estrecho-rio-magdalena.webp</image:loc>
+        <image:title>Estrecho del río Magdalena</image:title>
+      </image:image>
+  </url>
+  <url>
     <loc>https://gurcoff.com/laguna-del-magdalena</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/laguna-del-magdalena.webp</image:loc>
@@ -358,7 +376,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/parque-arqueologico-san-agustin-huila</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin.webp</image:loc>
@@ -390,8 +409,15 @@
       </image:image>
   </url>
   <url>
+    <loc>https://gurcoff.com/hoteles</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gurcoff.com/blog/turismo</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/turista-pitalito-san-agustin.webp</image:loc>
@@ -436,7 +462,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/hoteles/finca-tierra-activa-san-agustin-huila</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/hoteles/tierra-activa-san-agustin-huila.webp</image:loc>
@@ -453,7 +480,8 @@
   </url>
   <url>
     <loc>https://gurcoff.com/hoteles/</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/hoteles/hotel-casa-bonita-san-agustin-huila.webp</image:loc>
@@ -483,5 +511,11 @@
         <image:loc>https://gurcoff.com/img/hoteles/hostal-bambu-san-agustin-400px.webp</image:loc>
         <image:title>Fotografía del Hostal Bambú de San Agustín Huila</image:title>
       </image:image>
+  </url>
+  <url>
+    <loc>http://gurcoff.com/hoteles/</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
