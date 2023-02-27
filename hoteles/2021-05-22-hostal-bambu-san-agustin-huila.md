@@ -57,7 +57,7 @@ permalink: /hoteles/hostal-bambu-san-agustin-huila
 
 Los administradores de la casa de huéspedes son tres jóvenes mochileros con una gran experiencia mochilera en todo el mundo. Se esfuerzan a conciencia por ayudarte a sacar el máximo provecho de tu estancia en su hostal.
 
->Desde el Hostal Bambú llegas fácil al [Estrecho del Magdalena]({{site.baseurl}}/estrecho-del-magdalena)
+>Desde el Hostal Bambú llegas fácil al [Estrecho del Magdalena]({{site.baseurl}}/estrecho-rio-magdalena)
 
 ## Cómo llegar al Hostal Bambú de San Agustín
 
