@@ -4,10 +4,10 @@
   --secundario: #f393cf;
   --accion: #88fde4;
   --rojo: #a31621;
-  --grisClaro: #aeaeae;
+  --grisClaro: #dddddd;
   --grisFuentes: #161519;
   --shadow: 0 4px 8px rgba(24, 24, 24, 0.302);
-  --blanco: #f9f9f9;
+  --blanco: #fefefe;
   --fuenteTitulos: "Domine", serif;
   --fuenteTextos: "Josefin Sans", sans-serif;
 }
@@ -30,10 +30,10 @@ body {
 }
 a {
   text-decoration: underline;
-  -webkit-text-decoration-color: var(--oficial);
-  text-decoration-color: var(--oficial);
+  -webkit-text-decoration-color: var(--principal);
+  text-decoration-color: var(--principal);
   text-decoration-thickness: 0.18rem;
-  color: var(--oficial);
+  color: var(--principal);
   font-weight: 700;
 }
 h1,

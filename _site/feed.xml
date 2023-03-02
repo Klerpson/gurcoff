@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-02-27T12:27:48-05:00</updated>
+     <updated>2023-03-02T12:52:23-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -57,7 +57,7 @@
    <link href="http://localhost:4000/parque-arqueologico-san-agustin-huila"/>
    <id>http://localhost:4000/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-06-13T00:00:00-05:00</updated>
-   <content type="html">&lt;p&gt;El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Se trata de una de las zonas arqueológicas más importantes de Sudamérica, ya que las esculturas y monumentos datan de hace más de 1.800 años. &lt;!-- excerpt --&gt;&lt;/p&gt;...</content>
+   <content type="html">&lt;p&gt;El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con &lt;strong&gt;esculturas y monumentos de hace más de 1.800 años&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#qué-es-el-parque-arqueológico-de-san-agustín&quot;...</content>
  </entry>
  
  <entry>

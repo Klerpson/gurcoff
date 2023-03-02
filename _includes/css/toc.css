@@ -1,27 +1,32 @@
+
+#markdown-toc {
+  border: 1px solid #e6e6e6;
+  padding: 2rem;
+  margin: 2rem 0 1.5rem;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  background-color: white;
+  width: 100%;
+  font-size: clamp(.9rem, 1.5vw, 1.1rem);
+  line-height: 1.5;
+}
+
+#markdown-toc li{
+  list-style: none;
+}
+
 #markdown-toc::before {
   content: "Contenido:";
   font-weight: 700;
 }
 
 #markdown-toc ul {
-  list-style: decimal;
-}
-
-#markdown-toc {
-  border: 1px solid #aaa;
-  padding: 1.5em;
-  margin: 0 auto 1.5rem;
-  border-radius: 8px;
-  box-shadow: var(--shadow);
-  list-style: decimal;
-  background-color: white;
-  width: min(80vw, 720px);
+  margin: 0 0 0 2rem;
 }
 
 #markdown-toc a,
-#markdown-toc ul li ul li{
+#markdown-toc li ul li{
+  list-style: decimal;
   text-decoration: none;
-  font-size: 1.2rem;
   letter-spacing: -.4px;
-  line-height: 1.3;
 }

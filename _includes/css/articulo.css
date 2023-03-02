@@ -6,19 +6,19 @@
 .articulo h2,
 .articulo h3,
 .articulo h4 {
-  color: var(--principal);
-  margin: 3rem 0;
+  color: var(--oficial);
+  margin: 2rem 0 1.2rem;
 }
 
 
 .articulo h2 {
-  width: 90%;
-  margin: 3rem auto;
+  width: 80%;
 }
 
 .articulo h3,
 .articulo h4 {
   text-align: left;
+  align-self: flex-start;
   font-family: var(--fuenteTitulos);
 }
 
@@ -26,8 +26,13 @@
   font-size: 1.8rem;
 }
 
+.articulo h4 {
+  font-size: 1.4rem;
+}
+
 .articulo p{
-  margin: 1.5rem 0;
+  align-self: flex-start;
+  margin: 1rem 0 0;
 }
 
 .articulo img {
@@ -36,17 +41,21 @@
   box-shadow: var(--shadow);
   margin: 1.5rem auto;
   max-width: 100%;
-  aspect-ratio: auto;
+  aspect-ratio: 16 / 9;
 }
 
 .articulo em {
-  font-weight: 700;
   line-height: 1.2;
   flex: 1;
 }
 
-.articulo li {
-  margin: 0 0 1.5rem 1.5rem;
+.articulo ul {
+  align-self: flex-start;
+  margin: 1rem 0 0 1.5rem;
+}
+
+.articulo ul li{
+  font-size: clamp(1.1rem, 2vw, 1.2rem);
 }
 
 .articulo table{
@@ -75,19 +84,25 @@
 
 blockquote,
 .articulo blockquote {
-  background-color: var(--accion);
+  width: 100%;
+  margin: 2rem 0;
+  padding: 1.5rem 3rem;
   position: relative;
   text-align: center;
-  padding: 1.5rem 3rem;
-  border-radius: 5px;
+  border: 1px solid var(--grisClaro);
+  border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
-  margin: 3.5rem 0;
+}
+
+.articulo blockquote p{
+  margin: 0;
 }
 
 .articulo iframe {
   width: 100%;
   border-radius: 8px;
   aspect-ratio: 16 / 9;
+  margin: 2rem 0 1.5rem;
 }
 
 .legal {
