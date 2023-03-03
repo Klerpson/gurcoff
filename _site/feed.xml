@@ -4,13 +4,21 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-03-02T12:52:23-05:00</updated>
+     <updated>2023-03-02T23:50:28-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
        <email>digitalizaresfacil@gmail.com</email>
      </author>
 
+ 
+ <entry>
+   <title>El Mirador "La mano del Gigante" en Gigante Huila: una experiencia emocionante</title>
+   <link href="http://localhost:4000/la-mano-del-gigante"/>
+   <id>http://localhost:4000/la-mano-del-gigante</id>
+   <updated>2022-12-26T00:00:00-05:00</updated>
+   <content type="html">&lt;p&gt;“La mano del Gigante” en Gigante Huila es el mirador para los que amamos la naturaleza y los paisajes impresionantes. No puedes dejar de visitar este mirador. Este lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras. &lt;!-- excerpt --&gt;&lt;/p&gt;...</content>
+ </entry>
  
  <entry>
    <title>Café de Pitalito para los amantes del mejor café</title>
