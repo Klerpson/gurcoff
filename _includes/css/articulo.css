@@ -22,14 +22,6 @@
   font-family: var(--fuenteTitulos);
 }
 
-.articulo h3{
-  font-size: 1.8rem;
-}
-
-.articulo h4 {
-  font-size: 1.4rem;
-}
-
 .articulo p{
   align-self: flex-start;
   margin: 1rem 0 0;
@@ -49,13 +41,10 @@
   flex: 1;
 }
 
-.articulo ul {
+.articulo ul,
+.articulo ol {
   align-self: flex-start;
   margin: 1rem 0 0 1.5rem;
-}
-
-.articulo ul li{
-  font-size: clamp(1.1rem, 2vw, 1.2rem);
 }
 
 .articulo table{

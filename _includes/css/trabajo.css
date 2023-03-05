@@ -1,4 +1,4 @@
-.reclutamiento {
+/* .reclutamiento {
   position: relative;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(40vw, 480px));
@@ -81,4 +81,4 @@
 .svg-icon circle {
   stroke: var(--accion);
   stroke-width: 1;
-}
+} */

@@ -22,11 +22,13 @@ html {
   line-height: 1.5;
   scroll-behavior: auto;
   font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  font-size: calc(15px + 0.390625vw)
 }
 body {
   color: var(--grisFuentes);
   font-family: var(--fuenteTextos);
-  background-color: var(--blanco);
+  scroll-behavior: smooth;
 }
 a {
   text-decoration: underline;
@@ -42,33 +44,34 @@ h3 {
   font-family: var(--fuenteTitulos);
 }
 h1 {
-  font-size: clamp(2.5rem, 4vw, 3rem);
+  font-size: 1.6rem;
   line-height: 1.2;
   color: var(--accion);
   text-shadow: var(--shadow);
   margin-bottom: 2rem;
 }
+
 h2 {
-  font-size: clamp(2.3rem, 3.5vw, 2.5rem);
+  font-size: 1.4rem;
   line-height: 1.2;
   text-align: center;
 }
 h3,
 q {
-  font-size: clamp(2rem, 3vw, 2.2rem);
+  font-size: 1.2rem;
   line-height: 1.2;
   text-align: center;
 }
 h4 {
-  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  font-size: 1.1rem;
   line-height: 1.2;
   text-align: left;
   margin: 1.5rem 0;
 }
 p {
-  font-size: clamp(1.1rem, 2vw, 1.2rem);
   letter-spacing: -0.4px;
-  line-height: 1.3;
+  line-height: 1.2;
+  font-size: 1rem;
 }
 b,
 strong {
@@ -101,6 +104,7 @@ header .titulo-home {
   color: var(--accion);
   text-shadow: var(--shadow);
 }
+
 header img {
   width: min(100%, 720px);
   border-radius: 8px;
@@ -143,4 +147,20 @@ footer {
   margin: 3rem 0;
   color: var(--principal);
   width: min(80vw, 100%);
+}
+
+.svg-icon {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: var(--oficial);
+}
+
+.svg-icon circle {
+  stroke: var(--oficial);
+  stroke-width: 1;
 }
