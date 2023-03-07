@@ -12,26 +12,27 @@ background-header: var(--principal)
 <section class="benefits">
   <div>
     <h2>GurCoff de Pitalito y San Agustín son únicos</h2>
-    <p>Muchos de nuestros clientes más constantes son de <strong>Pitalito, Neiva, Popayá y, por supuesto, de San Agustín.</strong> ¿Por qué les encanta venir a comer helado hasta aquí?</p>
-    <p>Te contamos los 4 pilares nuestra heladería. Con estos objetivos siempre presentes, podemos agregar mucho valor a tu experiencia GurCoff.</p>
+    <p>Muchos de nuestros clientes son de <strong>San Agustín, Pitalito, Neiva, Popayán, Cali, y Bogotá.</strong></p>
+    <p>¿Por qué les encanta venir a comer helado a GurCoff?</p>
     <img src="{{ 'img/logotipo.webp' | relative_url }}" alt="Logotipo de la heladería GurCoff de San Agustín y Pitalito Huila" width="300px" height="144.64px">
+    <h3>Razones por la que les encanta venir a GurCoff</h3>
   </div>
   <div class="benefits-points">
     <div>
       <img src="{{ 'img/copas-doble-helado-gurcoff.webp' | relative_url }}" alt="Copas con doble porción de helado suave GurCoff" title="Copas Doble Helado GurCoff" width="auto" height="120px" loading="lazy">
-      <p>Tenemos 2 recetas de helado especiales. Gracias a profesionales en alimentos y materia prima, nuestras recetas de <strong>helado de yogurt y de helado de vainillia</strong> son inigualables.</p>
+      <p><span>1.</span> <b>Nuestras recetas de helado únicas</b>. Con ayuda profesional hicimos las recetas de <em>helado de yogurt y de helado de vainillia.</em></p>
     </div>
     <div>
       <img src="{{ 'img/vaso-helado-suave-gurcoff.webp' | relative_url }}" alt="Vasitos con helado GurCoff" title="Vasitos de helado GurCoff" width="auto" height="120px" loading="lazy">
-      <p>Organizamos muy bien nuestros procesos. Tendrás una <strong>experiencia agradable en la atención y el servicio en las 2 sedes de Pitalito y San Agustín</strong>.</p>
+      <p><span>2.</span><b> Les encanta nuestros procesos</b>. Nuestros sistemas de atención y servicio no han hecho una excelente reputación.</p>
     </div>
     <div>
       <img src="{{ 'img/cafe-affogato-san-agustin-huila.webp' | relative_url }}" alt="Café Affogato de GurCoff" title="Café Affogato GurCoff" width="auto" height="120px" loading="lazy">
-      <p>Cada <strong>combinación de pastelería y frutas</strong> en la carta se prueba por varias personas hasta lograr el mejor resultado.</p>
+      <p><span>3.</span><strong>La combinación de pastelería y frutas</strong> en la carta se prueba por varias personas hasta lograr el mejor resultado.</p>
     </div>
     <div>
       <img src="{{ 'img/ensadala-frutas-helado-gurcoff.webp' | relative_url }}" alt="Ensalada de frutas de GurCoff" title="Ensalada de frutas GurCoff" width="auto" height="120px" loading="lazy">
-      <p>El relajante ambiente, junto a la calidad humana, tanto en San Agustín como en Pitalito, se disfruta mucho en los diferentes espacios de nuestra heladería. Por eso es tan agradable vivir un <b>#raticogurcoff.</b></p>
+      <p><span>4.</span><b> El relajante ambiente de nuestra heladería</b>. Por eso es tan agradable pasar un <b>#raticogurcoff.</b> con tus amigos y familia.</p>
     </div>
   </div>
 </section>
@@ -116,7 +117,7 @@ background-header: var(--principal)
       </article>
     </a>
   </div>
-  <p>Lee más opiniones en nuestro perfil de Google</p>
+  <h3>Lee más opiniones en nuestro perfil de Google "GurCoff"</h3>
   <a href="https://g.page/r/CVLIWAcJjLsKEB0/review" target="_blank" rel="nofollow" class="boton-main">Ir al perfil de
     Google</a>
 </section>
@@ -125,14 +126,15 @@ background-header: var(--principal)
 
 <section class="blog">
   <h2>GurCoff tiene el mejor magazine del Huila</h2>
-  <p>Para que puedas probar las exclusivas recetas de GurCoff, puedes visitarnos en San Agustín o Pitalito Huila. Por esta razón, <strong>te preparamos un blog con la información necesaria sobre San Agustín, Pitalito y sus alrededores.</strong> </p>
+  <p>Para que puedas probar las exclusivas recetas de GurCoff, <strong>puedes visitarnos en San Agustín o Pitalito Huila</strong> . Por esta razón, te preparamos un blog con la información necesaria sobre San Agustín, Pitalito y sus alrededores.</p>
+  <p>Además, comenzamos 1 sección especial para compartirte todo lo que hemos aprendido para ser lo que somos: <a href="https://www.instagram.com/explore/tags/raticogurcoff/" rel="nofollow noreferrer" title="Hashtag #raticogurcoff" target="_blank">#raticogurcoff</a></p>
   <div>
       {% assign primer-articulo = site.posts[0] %}
       <article>
         <h4>{{ primer-articulo.h1 }}</h4>
         <a href="{{site.baseurl}}{{ primer-articulo.url }}">
           <img src="{{ site.baseurl }}/img/{{ primer-articulo.img }}" width="320" height="240" alt="{{ primer-articulo.alt }}" loading="lazy">
-          <p>{{ primer-articulo.intro | truncate: 70 }}</p>
+          <p>{{ primer-articulo.intro | truncate: 60 }}</p>
         </a>
       </article>
       {% assign segundo-articulo = site.posts[1] %}
@@ -140,7 +142,7 @@ background-header: var(--principal)
         <h4>{{ segundo-articulo.h1 }}</h4>
         <a href="{{site.baseurl}}{{ segundo-articulo.url }}">
           <img src="{{ site.baseurl }}/img/{{ segundo-articulo.img }}" width="320" height="240" alt="{{ segundo-articulo.alt }}" loading="lazy">
-          <p>{{ segundo-articulo.intro | truncate: 70 }}</p>
+          <p>{{ segundo-articulo.intro | truncate: 60 }}</p>
         </a>
       </article>
       {% assign tercer-articulo = site.posts[2] %}
@@ -148,7 +150,7 @@ background-header: var(--principal)
         <h4>{{ tercer-articulo.h1 }}</h4>
         <a href="{{site.baseurl}}{{ tercer-articulo.url }}">
           <img src="{{ site.baseurl }}/img/{{ tercer-articulo.img }}" width="320" height="240" alt="{{ tercer-articulo.alt }}" loading="lazy">
-          <p>{{ tercer-articulo.intro | truncate: 70 }}</p>
+          <p>{{ tercer-articulo.intro | truncate: 60 }}</p>
         </a>
       </article>
       <a href="{{site.baseurl}}/blog" class="boton-main">Busca más temas</a>
@@ -161,11 +163,11 @@ background-header: var(--principal)
     </div>
     <div>
     <img src="{{site.baseurl}}/img/ubicacion.webp" width="80" height="80" loading="lazy" alt="Imagen de confeti para celebrar"></img>
-    <em>Mapas con la ubicación de GurCoff en San Agustín y Pitalito Huila. También puedes escribirnos para guiarte en tu visita a tu heladería favorita.</em>
+    <p><em>Mapas con la ubicación de GurCoff en San Agustín y Pitalito Huila.</em> También puedes escribirnos para guiarte en tu visita a tu heladería favorita.</p>
   <a href="{{site.whatsapp}}" title="WhatsApp GurCoff" class="boton-main">Escríbenos por WhatsApp</a>
     <h2>Si vienes a San Agustín o Pitalito, tienes que venir a la Heladería GurCoff</h2>
     <p>En nuestra <a href="{{'contacto'|relative_url}}" title="Página de contacto">página de contacto</a> te preparamos información como <strong>la dirección de cada sede, teléfono, mapas, WhatsApp, nuestras redes sociales y hasta un poco de nuestra historia.</strong></p>
     <p>Recuerda que si haces <em>clic en el cuadrito blanco que aparece en los mapas</em>, puedes seleccionar el botón que te da indicaciones para llegar hasta nuestras heladerías.</strong> </p>
-    <p>¡Bienvenidos a la mejor heladería del sur del Huila!</p>
+    <p><strong>¡Bienvenidos a la mejor heladería del sur del Huila!</strong></p>
     </div>
   </section>
