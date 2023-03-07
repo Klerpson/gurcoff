@@ -123,6 +123,17 @@ Hoteles en San Agustín Huila:
       - Wifi gratis
       - Desayuno incluido
       - Parqueadero gratis
+  - nombre: Hotel Villa Celeste
+    img: hotel-villa-celeste-san-agustin.webp
+    alt: Fotografía del hotel Villa Celeste en San Agustín Huila
+    title: Foto del hotel Villa Celeste de San Agustín Huila
+    puntos: 4.8 de 53
+    perfil: https://goo.gl/maps/Wgu8MgDgc1AQ284d6
+    servicios:
+      - Wifi gratis
+      - Incluye desayuno
+      - Económico
+      - Parqueadero gratis
   - nombre: Hotel Samai
     img: hotel-samai-san-agustin.webp
     alt: Fotografía del hotel Samai en San Agustín Huila
@@ -258,6 +269,13 @@ Fincas en San Agustín Huila:
     alt: Fotografía del Hotel Finca Tierra Activa en San Agustín Huila
     title: Finca Tierra Activa San Agustín
     link: '/hoteles/finca-tierra-activa-san-agustin-huila'
+    perfil: https://goo.gl/maps/sjawEB8tGhJwEPTW7
+    puntos: 5.0 de 34
+    servicios:
+      - Experiencias campesinas
+      - Desayuno incluido
+      - Parqueadero gratis
+      - Wifi gratis
   - nombre: Finca El Maco
     img: finca-el-maco-san-agustin.webp
     alt: Fotografía de la finca El Maco en San Agustín Huila
@@ -318,3 +336,16 @@ Cabañas en San Agustín Huila:
   #     - Ubicación perfecta
   #     - Serivicio de lavandería
   #     - Apto para niños
+
+Glamping en San Agustín Huila:
+  - nombre: Nacimiento Glamping
+    img: glamping-nacimiento-san-agustin.webp
+    alt: Fotografía de Nacimiento Glamping de San Agustín Huila
+    title: Foto de Nacimiento Glamping
+    puntos: 4.7 de 15
+    perfil: https://goo.gl/maps/SL6GmEtTDgkvd816A
+    servicios:
+      - Wifi gratis
+      - Estacionamiento gratis
+      - Desayuno incluido
+      - Vista espectacular

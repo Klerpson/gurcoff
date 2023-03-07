@@ -26,12 +26,12 @@
   overflow: hidden;
   border-radius: 12px;
   box-shadow: var(--shadow);
-  padding-bottom: .5rem;
+  padding-bottom: .7rem;
 }
 
 .hoteles div article span{
   display: flex;
-  padding: 0.5rem 0;
+  padding: 0.7rem 0;
 }
 
 .hoteles div article h3{
@@ -40,19 +40,20 @@
   font-family: var(--fuenteTextos);
   text-align: center;
   letter-spacing: 0;
-  margin: .5rem auto 0;
+  margin: .7rem auto 0;
+  padding: 0 .7rem;
 }
 
 .hoteles div article ul li{
   font-size: .8rem;
   list-style: none;
-  padding: 0 .5rem;
+  padding: 0 .7rem;
 }
 
 .hoteles div article > a{
   display: block;
   text-align: right;
-  padding: 0 .5rem;
+  padding: 0 .7rem;
   text-decoration: underline;
   text-decoration-thickness: 2.5px;
 }
