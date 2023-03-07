@@ -26,10 +26,32 @@ Hoteles de San Agustín:
   - nombre: Hotel San Agustín Internacional
     img: hotel-internacional-san-agustin-400px.webp
     alt: Fotografía del Hotel Internacional de San Agustín Huila
-    title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
+    title: Fotografía del Hotel Internacional de San Agustín Huila
     link: '/hoteles/hotel-internacional-san-agustin-huila'
     puntos: 4.3 de 270
     perfil: https://goo.gl/maps/G5ygxCTrTnbbF9P8A
+    servicios:
+      - Estacionamiento gratis
+      - Wifi gratis
+      - Desayuno
+      - Hotel de lujo
+  - nombre: Hotel Terrazas
+    img: hotel-terrazas-san-agustin.webp
+    alt: Fotografía del hotel Terrazas en San Agustín Huila
+    title: Foto del Hotel Terrazas de San Agustín Huila
+    puntos: 4.5 de 172
+    perfil: https://goo.gl/maps/mmsjYQ1KvWSxMdRP9
+    servicios:
+      - Restaurante
+      - Parqueadero vigilado
+      - Hotel 3 estrellas
+      - Desayuno incluído
+  - nombre: Hotel Yalconia
+    img: hotel-yalconia-san-agustin.webp
+    alt: Fotografía del Hotel Yalconia de San Agustín Huila
+    title: Fotografía del Hotel Yalconia de San Agustín Huila
+    puntos: 4.5 de 144
+    perfil: https://goo.gl/maps/hWUNJ2CiaYzCUw4m6
     servicios:
       - Estacionamiento gratis
       - Wifi gratis
@@ -79,17 +101,6 @@ Hoteles de San Agustín:
       - Ubicado en el centro
       - Económico
       - Lavandería
-  - nombre: Hostal La Casona
-    img: hostal-la-casona-san-agustin.webp
-    alt: Fotografía del Hostal La Casona en San Agustín Huila
-    title: Foto del Hostal La Casona de San Agustín Huila
-    puntos: 4.5 de 76
-    perfil: https://goo.gl/maps/3gWhK4fRBzPGfFWY9
-    servicios:
-      - Wifi gratis
-      - Ubicación perfecta
-      - Serivicio de lavandería
-      - Apto para niños
   - nombre: Hotel Raíces
     img: hotel-raices-san-agustin.webp
     alt: Fotografía del hotel Raíces en San Agustín Huila
@@ -122,6 +133,16 @@ Hoteles de San Agustín:
       - Wifi gratis
       - Parqueadero gratis
       - Cerca a Adrenalina Extrema
+  - nombre: Hotel Malaki
+    img: hotel-malaki-san-agustin.webp
+    alt: Fotografía del Hotel Malaki San Agustín
+    title: Fotografía del Hotel Malaki San Agustín
+    puntos: 4.1 de 18
+    perfil: https://goo.gl/maps/ZPT5jRrBgVV41uPq8
+    servicios:
+      - Central
+      - Wifi gratis
+      - Económico
   - nombre: Hotel Estorake San Agustín Huila
     img: hotel-estorake-san-agustin-huila-320px.webp
     alt: Fotografía del Hotel Estorake de San Agustín Huila
@@ -144,6 +165,16 @@ Hoteles de San Agustín:
       - Wifi gratis
       - Piscina
       - Salón de eventos
+  - nombre: Hotel San Agustín
+    img: hotel-san-agustin.webp
+    alt: Fotografía del Hotel San Agustín
+    title: Fotografía del Hotel San Agustín
+    puntos: 4.1 de 18
+    perfil: https://goo.gl/maps/geZod9oy4eDX1ScW6
+    servicios:
+      - Central
+      - Wifi gratis
+      - Económico
 
 Fincas de San Agustín:
   - nombre: Tierra Activa - Finca agroturística
@@ -176,3 +207,14 @@ Hostales de San Agustín:
       - Desayunos
       - Excelente ubicación
       - Cuartos económicos
+  - nombre: Hostal La Casona
+    img: hostal-la-casona-san-agustin.webp
+    alt: Fotografía del Hostal La Casona en San Agustín Huila
+    title: Foto del Hostal La Casona de San Agustín Huila
+    puntos: 4.5 de 76
+    perfil: https://goo.gl/maps/3gWhK4fRBzPGfFWY9
+    servicios:
+      - Wifi gratis
+      - Ubicación perfecta
+      - Serivicio de lavandería
+      - Apto para niños
