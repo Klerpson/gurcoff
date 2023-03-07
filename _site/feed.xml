@@ -4,7 +4,7 @@
      <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml"/>
      <link href="http://localhost:4000" rel="alternate" type="text/html"/>
      <id>http://localhost:4000</id>
-     <updated>2023-03-04T19:53:12-05:00</updated>
+     <updated>2023-03-06T21:07:50-05:00</updated>
      <title type="html">Heladería GurCoff de San Agustín Huila</title>
      <author>
        <name>Julian Andres Franco</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>El Mirador "La mano del Gigante" en Gigante Huila: una experiencia emocionante</title>
-   <link href="http://localhost:4000/la-mano-del-gigante"/>
+   <link href="http://localhost:4000/la-mano-del-gigante/"/>
    <id>http://localhost:4000/la-mano-del-gigante</id>
    <updated>2022-12-26T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;“La mano del Gigante” en Gigante Huila es el mirador para los que amamos la naturaleza y los paisajes impresionantes. No puedes dejar de visitar este mirador. Este lugar es uno de los tesoros escondidos de Colombia y ofrece una vista espectacular que te dejará sin palabras. &lt;!-- excerpt --&gt;&lt;/p&gt;...</content>
@@ -22,7 +22,7 @@
  
  <entry>
    <title>Café de Pitalito para los amantes del mejor café</title>
-   <link href="http://localhost:4000/cafe-pitalito-huila"/>
+   <link href="http://localhost:4000/cafe-pitalito-huila/"/>
    <id>http://localhost:4000/cafe-pitalito-huila</id>
    <updated>2022-12-26T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;Tomar café en Pitalito, Huila, es toda una experiencia. Esta ciudad colombiana es conocida por sus cafés de alta calidad y su vibrante cultura generada alrededor de este producto. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#tomar-café-en-pitalito&quot; id=&quot;markdown-toc-tomar-café-en-pitalito&quot;&gt;Tomar café en Pitalito&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#variedades-de-café-en-pitalito&quot; id=&quot;markdown-toc-variedades-de-café-en-pitalito&quot;&gt;Variedades de café en Pitalito&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#pitalito-ciudad-de-baristas-reconocidos&quot; id=&quot;markdown-toc-pitalito-ciudad-de-baristas-reconocidos&quot;&gt;Pitalito,...</content>
@@ -30,7 +30,7 @@
  
  <entry>
    <title>El salto del Mortiño y el vuelo del halcón</title>
-   <link href="http://localhost:4000/cascada-salto-mortino-isnos"/>
+   <link href="http://localhost:4000/cascada-salto-mortino-isnos/"/>
    <id>http://localhost:4000/cascada-salto-mortino-isnos</id>
    <updated>2022-11-25T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;La Finca Agroturística El Salto El Mortiño es un resort en el campo, para los amantes de los deportes extremos y la diversión en parejas, amigos o familiares muy aventureros. Te contaremos las actividades que puedes hacer cuando vengas a visitarlos, cómo llegar y todo lo necesario para que te...</content>
@@ -38,7 +38,7 @@
  
  <entry>
    <title>Museo de Obando en San Agustín Huila</title>
-   <link href="http://localhost:4000/museo-obando-san-agustin-huila"/>
+   <link href="http://localhost:4000/museo-obando-san-agustin-huila/"/>
    <id>http://localhost:4000/museo-obando-san-agustin-huila</id>
    <updated>2022-03-04T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;Obando en San Agustín es famoso por su museo arqueológico. Se encuentra en un corregimiento a 20 minutos desde el municipio.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;San Agustín Huila es la capital arqueológica del departamento de Huila. Está lleno de lugares únicos abiertos al público. En este artículo te recomendamos uno de...</content>
@@ -46,7 +46,7 @@
  
  <entry>
    <title>Laguna del Magdalena, nacimiento del río Magdalena</title>
-   <link href="http://localhost:4000/laguna-del-magdalena"/>
+   <link href="http://localhost:4000/laguna-del-magdalena/"/>
    <id>http://localhost:4000/laguna-del-magdalena</id>
    <updated>2021-09-09T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;&lt;strong&gt;La laguna del Magdalena es una reserva espectacular adornada por los frailejones que abundan en el Páramo de las papas&lt;/strong&gt;, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conoce más sobre la Laguna del Magdalena.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#cómo-llegar-hasta-la-laguna-del-magdalena&quot; id=&quot;markdown-toc-cómo-llegar-hasta-la-laguna-del-magdalena&quot;&gt;¿Cómo llegar hasta...</content>
@@ -54,7 +54,7 @@
  
  <entry>
    <title>Estrecho del Río Magdalena</title>
-   <link href="http://localhost:4000/estrecho-rio-magdalena"/>
+   <link href="http://localhost:4000/estrecho-rio-magdalena/"/>
    <id>http://localhost:4000/estrecho-rio-magdalena</id>
    <updated>2021-06-22T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que &lt;strong&gt;este majestuoso río se reduce a un canal de solo 2,20 metros de ancho&lt;/strong&gt;.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#ubicación-del-estrecho-del-magdalena&quot; id=&quot;markdown-toc-ubicación-del-estrecho-del-magdalena&quot;&gt;Ubicación del Estrecho del Magdalena&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#cómo-llegar-al-estrecho-del-río-magdalena&quot; id=&quot;markdown-toc-cómo-llegar-al-estrecho-del-río-magdalena&quot;&gt;Cómo llegar al estrecho del río Magdalena&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a...</content>
@@ -62,7 +62,7 @@
  
  <entry>
    <title>Parque Arqueológico de San Agustín Huila</title>
-   <link href="http://localhost:4000/parque-arqueologico-san-agustin-huila"/>
+   <link href="http://localhost:4000/parque-arqueologico-san-agustin-huila/"/>
    <id>http://localhost:4000/parque-arqueologico-san-agustin-huila</id>
    <updated>2021-06-13T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con &lt;strong&gt;esculturas y monumentos de hace más de 1.800 años&lt;/strong&gt;. &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#qué-es-el-parque-arqueológico-de-san-agustín&quot;...</content>
@@ -70,7 +70,7 @@
  
  <entry>
    <title>San Agustín Huila - Turismo y Naturaleza</title>
-   <link href="http://localhost:4000/visita-san-agustin-huila"/>
+   <link href="http://localhost:4000/visita-san-agustin-huila/"/>
    <id>http://localhost:4000/visita-san-agustin-huila</id>
    <updated>2021-06-07T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;&lt;strong&gt;San Agustín Huila es un pueblito especial para viajar y descansar.&lt;/strong&gt; Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;p&gt;Este hermoso pueblito es una ciudad ubicada en el departamento del...</content>
@@ -78,7 +78,7 @@
  
  <entry>
    <title>Los restaurantes mejor calificados de San Agustín Huila</title>
-   <link href="http://localhost:4000/mejores-restaurantes-san-agustin"/>
+   <link href="http://localhost:4000/mejores-restaurantes-san-agustin/"/>
    <id>http://localhost:4000/mejores-restaurantes-san-agustin</id>
    <updated>2021-03-27T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;Aquí explicaremos cuáles son &lt;strong&gt;los mejores restaurantes de San Agustín Huila&lt;/strong&gt; y los detalles que hacen que se hable muy bien de ellos. ¡Tienes que venir a probarlos! &lt;!-- excerpt --&gt;&lt;/p&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#restaurantes-en-san-agustín-huila&quot; id=&quot;markdown-toc-restaurantes-en-san-agustín-huila&quot;&gt;Restaurantes en San Agustín Huila&lt;/a&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#restaurante-al-barril&quot; id=&quot;markdown-toc-restaurante-al-barril&quot;&gt;Restaurante Al Barril&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#restaurante-la-gata-parrilla-de-san-agustín&quot; id=&quot;markdown-toc-restaurante-la-gata-parrilla-de-san-agustín&quot;&gt;Restaurante La...</content>
@@ -86,7 +86,7 @@
  
  <entry>
    <title>Los Tres Chorros - ¡Cascada Natural de San Agustín Huila!</title>
-   <link href="http://localhost:4000/cascada-los-tres-chorros-de-san-agustin"/>
+   <link href="http://localhost:4000/cascada-los-tres-chorros-de-san-agustin/"/>
    <id>http://localhost:4000/cascada-los-tres-chorros-de-san-agustin</id>
    <updated>2021-01-31T00:00:00-05:00</updated>
    <content type="html">&lt;p&gt;&lt;strong&gt;La cascada Los Tres Chorros es un tesoro de San Agustín&lt;/strong&gt;. Muchas de los visitantes de este lugar lo describen como “una de las maravillas naturales de Colombia”. Otros dicen que es un “lugar mágico”. Realmente es espectacular.&lt;/p&gt; &lt;!-- excerpt --&gt; &lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#la-hermosa-cascada-de-los-tres-chorros&quot; id=&quot;markdown-toc-la-hermosa-cascada-de-los-tres-chorros&quot;&gt;La hermosa cascada de los...</content>
