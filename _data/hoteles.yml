@@ -40,6 +40,17 @@ Hoteles de San Agustín:
       - Desayuno incluído
       - Cancha sintética
       - Apto para niños
+  - nombre: Hotel Alto de los Andaquíes
+    img: hotel-alto-andaquies-san-agustin.webp
+    alt: Fotografía del hotel Alto de los Andaquíes en San Agustín Huila
+    title: Foto del hotel Alto de los Andaquíes de San Agustín Huila
+    puntos: 4.7 de 437
+    perfil: https://goo.gl/maps/WUaRjjLcbmUTER4t8
+    servicios:
+      - Wifi gratis
+      - Estacionamiento gratis
+      - Desayuno incluído
+      - Campestre
   - nombre: Hotel Samai
     img: hotel-samai-san-agustin.webp
     alt: Fotografía del hotel Samai en San Agustín Huila
@@ -83,6 +94,17 @@ Hoteles de San Agustín:
       - Ubicación central
       - Wifi gratis
       - Cocina social
+  - nombre: Hotel Colibrí y Spa
+    img: hotel-colibri-spa-san-agustin.webp
+    alt: Fotografía del Hotel Colibrí y Spa de San Agustín Huila
+    title: Fotografía del Hotel Colibrí y Spa de San Agustín Huila
+    puntos: Aún sin
+    perfil: https://goo.gl/maps/N4M7uYf89hp9yTfE9
+    servicios:
+      - Desayuno
+      - Wifi gratis
+      - Parqueadero gratis
+      - Cerca a Adrenalina Extrema
   - nombre: Hotel Estorake San Agustín Huila
     img: hotel-estorake-san-agustin-huila-320px.webp
     alt: Fotografía del Hotel Estorake de San Agustín Huila
