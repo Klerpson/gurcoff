@@ -35,23 +35,26 @@
 }
 
 .hoteles div article h3{
-  font-size: 16px;
   color: var(--secundario);
   text-shadow: 0 0 2px var(--accion);
   font-family: var(--fuenteTextos);
-  text-align: left;
+  text-align: center;
   letter-spacing: 0;
-  padding-bottom: 1rem;
+  padding: 0 1rem 1rem;
+}
+
+.hoteles div article ul{
+  padding: 0 0 1rem;
 }
 
 .hoteles div article ul li{
-  font-size: 14px;
+  font-size: 16px;
   padding: 0 1rem;
   list-style: none;
 }
 
 .hoteles div article > a{
   display: block;
-  padding: 1rem;
+  padding: 0 1rem 1rem;
   text-align: right;
 }

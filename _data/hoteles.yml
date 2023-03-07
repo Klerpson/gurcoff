@@ -1,17 +1,4 @@
 Hoteles de San Agustín:
-  - nombre: Hospedaje Casa Bonita
-    img: hotel-casa-bonita-san-agustin-huila.webp
-    alt: Fotografía del Hospedaje Casa Bonita en San Agustín Huila
-    title: Foto del Hospedaje Casa Bonita
-    puntos: 4.9
-    perfil: https://www.google.com/travel/hotels/s/fFvxNLTKbs9m7AwGA
-    link: 'https://hospedajecasabonita.com'
-    servicios:
-      - Atendido por sus propietarios
-      - Parqueadero vigilado
-      - Incluyen desayuno
-      - Habitaciones desde 55000
-      - Cerca al Estrecho y la Chaquira
   - nombre: Hotel Masaya Lodge
     img: hotel-masaya-san-agustin.webp
     alt: Fotografía del hotel Masaya San Agustín en San Agustín Huila
@@ -25,27 +12,34 @@ Hoteles de San Agustín:
       - Vista al cañón del Magdalena
       - Cerca al Estrecho y la Chaquira
   - nombre: Hotel Akawanka Lodge
-    intro: Hotel de lujo con temática eco lodge y servicios profesionales para liberar tu estrés.
     img: hotel-akawanka-san-agustin-huila-400px.webp
     alt: Foto del Hotel Akawanka en San Agustín Huila
-    title: Fotografía del Hotel Akawanka Lodge de Sa  n Agustín Huila
+    title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
+    puntos: 
     link: '/hoteles/akawanka-lodge-san-agustin-huila'
   - nombre: Hotel San Agustín Internacional
-    intro: Hotel con arquitectura inspirada en diferentes países y en la Colombia precolombina, colonial, republicana y contemporánea.
     img: hotel-internacional-san-agustin-400px.webp
     alt: Fotografía del Hotel Internacional de San Agustín Huila
     title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
     link: '/hoteles/hotel-internacional-san-agustin-huila'
+  - nombre: Hotel Raíces
+    img: hotel-raices-san-agustin.webp
+    alt: Fotografía del hotel Raíces en San Agustín Huila
+    title: Foto del Hotel Raíces de San Agustín Huila
+    puntos: 4.5
+    perfil: https://goo.gl/maps/oXCn8z1pRNU8Sjyv5
+    servicios:
+      - Restaurante
+      - Wifi gratis
+      - Desayuno incluído
+      - Ubicado en el centro
   - nombre: Hotel Estorake San Agustín Huila
-    intro: El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante, con mucha calidad humana y en sus servicios.
     img: hotel-estorake-san-agustin-huila-320px.webp
     alt: Fotografía del Hotel Estorake de San Agustín Huila
     title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
-    link: '/hoteles/hotel-estorake-san-agustin-huila'
 
 Fincas de San Agustín:
   - nombre: Tierra Activa - Finca agroturística
-    intro: La finca orgánica Tierra Activa es un alojamiento rural temático y de experiencias auténticas campesinas. Su actividad principal es el agroturismo.
     img: tierra-activa-san-agustin-huila.webp
     alt: Fotografía del Hotel Finca Tierra Activa en San Agustín Huila
     title: Finca Tierra Activa San Agustín
@@ -53,8 +47,14 @@ Fincas de San Agustín:
 
 Hostales de San Agustín:
   - nombre: Hostal Bambú San Agustín
-    intro: El Hostal Bambú de San Agustín Huila es un lugar hermoso con zonas comunes adecuadas para compartir experiencias.
     img: hostal-bambu-san-agustin-400px.webp
     alt: Fotografía del Hostal Bambú de San Agustín Huila
     title: Foto del Hostal Bambú
+    puntos: 4.8
+    perfil: https://goo.gl/maps/f5EEoVWeJgaxWVVt7
     link: '/hoteles/hostal-bambu-san-agustin-huila'
+    servicios:
+      - Wifi gratis
+      - Desayunos
+      - Excelente ubicación
+      - Cuartos económicos
