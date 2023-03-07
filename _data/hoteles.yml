@@ -101,6 +101,17 @@ Hoteles en San Agustín Huila:
       - Estacionamiento gratis
       - Desayuno incluido
       - Campestre
+  - nombre: Hotel Casa de Nelly
+    img: hotel-casa-nelly-san-agustin.webp
+    alt: Fotografía del hotel Casa de Nelly en San Agustín Huila
+    title: Foto del Hotel Casa de Nelly de San Agustín Huila
+    puntos: 4.8 de 215
+    perfil: https://goo.gl/maps/DeTj5PkPnz6Lfa86A
+    servicios:
+      - Spa
+      - Wifi gratis
+      - Desayuno incluido
+      - Parqueadero gratis
   - nombre: Hotel Asgard
     img: hotel-asgard-san-agustin.webp
     alt: Fotografía del hotel Asgard en San Agustín Huila
@@ -108,7 +119,7 @@ Hoteles en San Agustín Huila:
     puntos: 4.6 de 73
     perfil: https://goo.gl/maps/2bBDRGWTAmAMspJ49
     servicios:
-      - Spa
+      - Campestre
       - Wifi gratis
       - Desayuno incluido
       - Parqueadero gratis
