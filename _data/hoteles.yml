@@ -3,8 +3,8 @@ Hoteles de San Agustín:
     img: hotel-masaya-san-agustin.webp
     alt: Fotografía del hotel Masaya San Agustín en San Agustín Huila
     title: Foto del Hotel Masaya de San Agustín Huila
-    puntos: 4.6
-    perfil: https://www.google.com/travel/hotels/s/hKDE8MnX6pY4NhZo9
+    puntos: 4.6 de 968
+    perfil: https://goo.gl/maps/ZwKLkqVAH2ufpAnD9
     link: '/hoteles/hotel-masaya-san-agustin-huila'
     servicios:
       - Restaurante
@@ -22,6 +22,28 @@ Hoteles de San Agustín:
     alt: Fotografía del Hotel Internacional de San Agustín Huila
     title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
     link: '/hoteles/hotel-internacional-san-agustin-huila'
+  - nombre: Hotel Arqueológico
+    img: hotel-arqueológico-san-agustin.webp
+    alt: Fotografía del hotel Arqueológico en San Agustín Huila
+    title: Foto del hotel Arqueológico de San Agustín Huila
+    puntos: 4.5 de 139
+    perfil: https://goo.gl/maps/3jEJ41Q7CEqfmCmA7
+    servicios:
+      - Wifi gratis
+      - Desayuno incluído
+      - Cancha sintética
+      - Apto para niños
+  - nombre: Hostal La Casona
+    img: hostal-la-casona-san-agustin.webp
+    alt: Fotografía del Hostal La Casona en San Agustín Huila
+    title: Foto del Hostal La Casona de San Agustín Huila
+    puntos: 4.5 de 76
+    perfil: https://goo.gl/maps/3gWhK4fRBzPGfFWY9
+    servicios:
+      - Wifi gratis
+      - Ubicación perfecta
+      - Serivicio de lavandería
+      - Apto para niños
   - nombre: Hotel Raíces
     img: hotel-raices-san-agustin.webp
     alt: Fotografía del hotel Raíces en San Agustín Huila
@@ -37,6 +59,13 @@ Hoteles de San Agustín:
     img: hotel-estorake-san-agustin-huila-320px.webp
     alt: Fotografía del Hotel Estorake de San Agustín Huila
     title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
+    puntos: 4.8 de 141
+    perfil: https://goo.gl/maps/LEU7byGQwsHu1K6G6
+    servicios:
+      - Cerca al parque arqueológico
+      - Wifi gratis
+      - Desayuno incluído
+      - Campestre
 
 Fincas de San Agustín:
   - nombre: Tierra Activa - Finca agroturística
@@ -50,7 +79,7 @@ Hostales de San Agustín:
     img: hostal-bambu-san-agustin-400px.webp
     alt: Fotografía del Hostal Bambú de San Agustín Huila
     title: Foto del Hostal Bambú
-    puntos: 4.8
+    puntos: 4.8 de 736 
     perfil: https://goo.gl/maps/f5EEoVWeJgaxWVVt7
     link: '/hoteles/hostal-bambu-san-agustin-huila'
     servicios:

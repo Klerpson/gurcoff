@@ -22,7 +22,7 @@ intro: Busca hoteles en San Agustín y Pitalito con las comodidades que necesita
     <article>
       <img src="{{site.baseurl}}/img/hoteles/{{hotel.img}}" alt="{{hotel.alt}}" title="{{hotel.title}}" loading="lazy" width="320" height="240"/>
       {% if hotel.perfil %}
-      <span>Calificado con <a href="{{hotel.perfil}}">{{hotel.puntos}} en Google</a></span>
+      <span><a href="{{hotel.perfil}}" rel="nofollow noreferrer" title="{{hotel.title}} en Google" target="_blank">{{hotel.puntos}} opiniones en Google</a></span>
       {% endif %}
       <h3>{{hotel.nombre}}</h3>
       {% if hotel.servicios %}

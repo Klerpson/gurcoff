@@ -42,6 +42,10 @@
   text-transform: uppercase;
 }
 
+.blog article span{
+  font-size: 16px;
+}
+
 .blog article a {
   position: relative;
   text-decoration: none;
