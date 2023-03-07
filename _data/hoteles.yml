@@ -23,7 +23,7 @@ Hoteles de San Agustín:
     title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
     link: '/hoteles/hotel-internacional-san-agustin-huila'
   - nombre: Hotel Arqueológico
-    img: hotel-arqueológico-san-agustin.webp
+    img: hotel-arqueologico-san-agustin.webp
     alt: Fotografía del hotel Arqueológico en San Agustín Huila
     title: Foto del hotel Arqueológico de San Agustín Huila
     puntos: 4.5 de 139
@@ -73,6 +73,17 @@ Fincas de San Agustín:
     alt: Fotografía del Hotel Finca Tierra Activa en San Agustín Huila
     title: Finca Tierra Activa San Agustín
     link: '/hoteles/finca-tierra-activa-san-agustin-huila'
+  - nombre: Finca El Maco
+    img: finca-el-maco-san-agustin.webp
+    alt: Fotografía de la finca El Maco en San Agustín Huila
+    title: Foto de la finca El Maco de San Agustín Huila
+    puntos: 4.6 de 139
+    perfil: https://goo.gl/maps/KRtTo3mwg7gkcLNu5
+    servicios:
+      - Wifi gratis
+      - Desayuno incluído
+      - Estacionamiento gratuito
+      - Campestre
 
 Hostales de San Agustín:
   - nombre: Hostal Bambú San Agustín
