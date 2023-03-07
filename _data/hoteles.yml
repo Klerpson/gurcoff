@@ -33,6 +33,17 @@ Hoteles de San Agustín:
       - Desayuno incluído
       - Cancha sintética
       - Apto para niños
+  - nombre: Hotel Samai
+    img: hotel-samai-san-agustin.webp
+    alt: Fotografía del hotel Samai en San Agustín Huila
+    title: Foto del hotel Samai de San Agustín Huila
+    puntos: 4.3 de 121
+    perfil: https://goo.gl/maps/VwZorSd7gu1aFXhJ9
+    servicios:
+      - Wifi gratis
+      - Desayuno incluído
+      - Cancha sintética
+      - Apto para niños
   - nombre: Hostal La Casona
     img: hostal-la-casona-san-agustin.webp
     alt: Fotografía del Hostal La Casona en San Agustín Huila
