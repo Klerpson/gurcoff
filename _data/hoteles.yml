@@ -15,8 +15,14 @@ Hoteles de San Agustín:
     img: hotel-akawanka-san-agustin-huila-400px.webp
     alt: Foto del Hotel Akawanka en San Agustín Huila
     title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
-    puntos: 
+    puntos: 4.6 de 115
+    perfil: https://goo.gl/maps/erXXsRnPT6DRnswb8
     link: '/hoteles/akawanka-lodge-san-agustin-huila'
+    servicios:
+      - Wifi gratis
+      - Parqueadero gratis
+      - Hotel de lujo
+      - Spa
   - nombre: Hotel San Agustín Internacional
     img: hotel-internacional-san-agustin-400px.webp
     alt: Fotografía del Hotel Internacional de San Agustín Huila
@@ -28,7 +34,7 @@ Hoteles de San Agustín:
       - Estacionamiento gratis
       - Wifi gratis
       - Desayuno
-      - Lavandería
+      - Hotel de lujo
   - nombre: Hotel Arqueológico
     img: hotel-arqueologico-san-agustin.webp
     alt: Fotografía del hotel Arqueológico en San Agustín Huila
@@ -46,6 +52,17 @@ Hoteles de San Agustín:
     title: Foto del hotel Alto de los Andaquíes de San Agustín Huila
     puntos: 4.7 de 437
     perfil: https://goo.gl/maps/WUaRjjLcbmUTER4t8
+    servicios:
+      - Wifi gratis
+      - Estacionamiento gratis
+      - Desayuno incluído
+      - Campestre
+  - nombre: Hotel Cumbre del Macizo
+    img: hotel-cumbre-macizo-san-agustin.webp
+    alt: Fotografía del hotel Cumbre del Macizo en San Agustín Huila
+    title: Foto del hotel Cumbre del Macizo de San Agustín Huila
+    puntos: 4.9 de 70
+    perfil: https://goo.gl/maps/NkL7s5DUgKM5N6dZA
     servicios:
       - Wifi gratis
       - Estacionamiento gratis
