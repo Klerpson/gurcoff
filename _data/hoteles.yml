@@ -22,6 +22,13 @@ Hoteles de San Agustín:
     alt: Fotografía del Hotel Internacional de San Agustín Huila
     title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
     link: '/hoteles/hotel-internacional-san-agustin-huila'
+    puntos: 4.3 de 270
+    perfil: https://goo.gl/maps/G5ygxCTrTnbbF9P8A
+    servicios:
+      - Estacionamiento gratis
+      - Wifi gratis
+      - Desayuno
+      - Lavandería
   - nombre: Hotel Arqueológico
     img: hotel-arqueologico-san-agustin.webp
     alt: Fotografía del hotel Arqueológico en San Agustín Huila
@@ -41,9 +48,9 @@ Hoteles de San Agustín:
     perfil: https://goo.gl/maps/VwZorSd7gu1aFXhJ9
     servicios:
       - Wifi gratis
-      - Desayuno incluído
-      - Cancha sintética
-      - Apto para niños
+      - Ubicado en el centro
+      - Económico
+      - Lavandería
   - nombre: Hostal La Casona
     img: hostal-la-casona-san-agustin.webp
     alt: Fotografía del Hostal La Casona en San Agustín Huila
@@ -66,10 +73,20 @@ Hoteles de San Agustín:
       - Wifi gratis
       - Desayuno incluído
       - Ubicado en el centro
+  - nombre: Hospedaje El Jardín
+    img: hospedaje-el-jardin-san-agustin.webp
+    alt: Fotografía del Hospedaje El Jardín de San Agustín Huila
+    title: Fotografía del Hospedaje El Jardín de San Agustín Huila
+    puntos: 4.5 de 107
+    perfil: https://goo.gl/maps/khUHNudbPx7YYDwZ8
+    servicios:
+      - Ubicación central
+      - Wifi gratis
+      - Cocina social
   - nombre: Hotel Estorake San Agustín Huila
     img: hotel-estorake-san-agustin-huila-320px.webp
     alt: Fotografía del Hotel Estorake de San Agustín Huila
-    title: Fotografía del Hotel Akawanka Lodge de San Agustín Huila
+    title: Fotografía del Hotel Estorake de San Agustín Huila
     puntos: 4.8 de 141
     perfil: https://goo.gl/maps/LEU7byGQwsHu1K6G6
     servicios:
@@ -77,6 +94,17 @@ Hoteles de San Agustín:
       - Wifi gratis
       - Desayuno incluído
       - Campestre
+  - nombre: Hospedaje Manuel Valdes
+    img: hospedaje-manuel-valdes-san-agustin.webp
+    alt: Fotografía del Hospedaje Manuel Valdes de San Agustín Huila
+    title: Fotografía del Hospedaje Manuel Valdes de San Agustín Huila
+    puntos: 4.7 de 25
+    perfil: https://goo.gl/maps/MvXX7H2Az8vDPm5i9
+    servicios:
+      - Cerca al parque arqueológico
+      - Wifi gratis
+      - Piscina
+      - Salón de eventos
 
 Fincas de San Agustín:
   - nombre: Tierra Activa - Finca agroturística
