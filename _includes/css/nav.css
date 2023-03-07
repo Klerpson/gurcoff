@@ -18,6 +18,7 @@ nav div{
   align-items: center;
 }
 
+
 @media (min-width: 767px){
   nav{
     top: 0;

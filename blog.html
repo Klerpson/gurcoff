@@ -23,7 +23,7 @@ background-header: var(--principal)
     <h4>{{ post.h1 }}</h4>
     <a href="{{ post.url }}" title="{{ post.title }}">
       <img src="{{ site.baseurl }}/img/{{ post.img }}" width="320" height="240" alt="{{ post.alt }}" loading="lazy">
-      <p>{{post.intro | truncate: 70}}</p>
+      <p>{{post.intro | truncate: 66}}</p>
     </a>
   </article>
   {% endfor %}

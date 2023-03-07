@@ -1,4 +1,4 @@
-Hoteles de San Agustín:
+Hoteles en San Agustín Huila:
   - nombre: Hotel Masaya Lodge
     img: hotel-masaya-san-agustin.webp
     alt: Fotografía del hotel Masaya San Agustín en San Agustín Huila
@@ -112,6 +112,17 @@ Hoteles de San Agustín:
       - Wifi gratis
       - Desayuno incluído
       - Ubicado en el centro
+  - nombre: Hotel La Casa de François
+    img: hotel-casa-de-francois-san-agustin.webp
+    alt: Fotografía del hotel La Casa de François en San Agustín Huila
+    title: Foto del Hotel La Casa de François de San Agustín Huila
+    puntos: 4.8 de 293
+    perfil: https://goo.gl/maps/Gq5KxbKhpdLgyN8c9
+    servicios:
+      - Restaurante
+      - Wifi gratis
+      - Cerca al pueblo
+      - Parqueadero gratis
   - nombre: Hotel Palo Alto
     img: hotel-palo-alto-san-agustin.webp
     alt: Fotografía del hotel Palo Alto en San Agustín Huila
@@ -197,7 +208,7 @@ Hoteles de San Agustín:
       - Wifi gratis
       - Económico
 
-Fincas de San Agustín:
+Fincas en San Agustín Huila:
   - nombre: Tierra Activa - Finca agroturística
     img: tierra-activa-san-agustin-huila.webp
     alt: Fotografía del Hotel Finca Tierra Activa en San Agustín Huila
@@ -215,7 +226,7 @@ Fincas de San Agustín:
       - Estacionamiento gratuito
       - Campestre
 
-Hostales de San Agustín:
+Hostales en San Agustín Huila:
   - nombre: Hostal Bambú San Agustín
     img: hostal-bambu-san-agustin-400px.webp
     alt: Fotografía del Hostal Bambú de San Agustín Huila
@@ -239,3 +250,27 @@ Hostales de San Agustín:
       - Ubicación perfecta
       - Serivicio de lavandería
       - Apto para niños
+
+Cabañas en San Agustín Huila:
+  - nombre: Cabañas El Trebol
+    img: cabañas-el-trebol-san-agustin.webp
+    alt: Fotografía de las cabañas El Trebol de San Agustín Huila
+    title: Foto de las cabañas El Trebol
+    puntos: 4.7 de 53 
+    perfil: https://goo.gl/maps/S7DPz4PKrBvDBr2v8
+    servicios:
+      - Wifi gratis
+      - Estacionamiento gratis
+      - Cerca al pueblo
+      - Campestre
+  # - nombre: Hostal La Casona
+  #   img: hostal-la-casona-san-agustin.webp
+  #   alt: Fotografía del Hostal La Casona en San Agustín Huila
+  #   title: Foto del Hostal La Casona de San Agustín Huila
+  #   puntos: 4.5 de 76
+  #   perfil: https://goo.gl/maps/3gWhK4fRBzPGfFWY9
+  #   servicios:
+  #     - Wifi gratis
+  #     - Ubicación perfecta
+  #     - Serivicio de lavandería
+  #     - Apto para niños
