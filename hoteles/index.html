@@ -9,10 +9,9 @@ alt: Fotografía del hospedaje Casa Bonita en San Agustín Huila
 background-header: var(--principal)
 intro: Busca hoteles en San Agustín y Pitalito con las comodidades que necesitas para cubrir tus necesidades y deseos.
 ---
-<section class="articulo">
-  {% include breadcrumbs.html %}
+<section class="hoteles-intro">
   <p>Los hoteles de San Agustín y Pitalito Huila son lugares especiales para descansar, escapar de la rutina y conectar con la naturaleza. <strong>Aquí tienes una lista completa con hoteles, cabañas, hostales, habitaciones, apartamentos, casas campestres y hasta glamping.</strong></p>
-  <blockquote><strong> Aprende cómo hacer voluntariado</strong> y ahorrar costos en tu viaje. Compra el libro <a href="https://go.hotmart.com/B72308674C?dp=1" rel="nofollow sponsored" target="_blank" >Como me lance al voluntariado ( guia paso a paso)</a></blockquote>
+  <blockquote><strong> Aprende cómo hacer voluntariado</strong> y ahorrar costos en tu viaje. Compra el libro <a href="https://go.hotmart.com/B72308674C?dp=1" rel="nofollow sponsored" target="_blank" >Como me lance al voluntariado - guia paso a paso</a></blockquote>
 </section>
 <main class="blog hoteles">
   {% for item in site.data.hoteles %} {% assign cat = item[0] %}
@@ -22,7 +21,11 @@ intro: Busca hoteles en San Agustín y Pitalito con las comodidades que necesita
     <article>
       <img src="{{site.baseurl}}/img/hoteles/{{hotel.img}}" alt="{{hotel.alt}}" title="{{hotel.title}}" loading="lazy" width="320" height="240"/>
       {% if hotel.perfil %}
-      <span><a href="{{hotel.perfil}}" rel="nofollow noreferrer" title="{{hotel.title}} en Google" target="_blank">{{hotel.puntos}} opiniones en Google</a></span>
+      <a href="{{hotel.perfil}}" rel="nofollow noreferrer" title="{{hotel.title}} en Google" target="_blank">
+      <span>
+          {{hotel.puntos}} opiniones en Google
+        </span>
+      </a>
       {% endif %}
       <h3>{{hotel.nombre}}</h3>
       {% if hotel.servicios %}

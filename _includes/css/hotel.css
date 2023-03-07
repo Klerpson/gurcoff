@@ -1,3 +1,14 @@
+.hoteles-intro{
+  width: min(100%, 800px);
+  margin: 2rem auto 0;
+  text-align: center;
+  padding: 0 16px;
+}
+
+.hoteles{
+  margin: 0;
+}
+
 .hoteles div{
   align-items: baseline;
 }
@@ -15,23 +26,12 @@
   overflow: hidden;
   border-radius: 12px;
   box-shadow: var(--shadow);
+  padding-bottom: .5rem;
 }
 
 .hoteles div article span{
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  padding: .5rem;
-  background-color: rgba(255, 255, 255, 0.7);
   display: flex;
-  margin: 0;
-  box-shadow: ;
-}
-
-.hoteles div article span a{
-  margin: 0 0.5rem 0;
-  padding: 0;
+  padding: 0.5rem 0;
 }
 
 .hoteles div article h3{
@@ -40,21 +40,23 @@
   font-family: var(--fuenteTextos);
   text-align: center;
   letter-spacing: 0;
-  padding: 0 1rem 1rem;
-}
-
-.hoteles div article ul{
-  padding: 0 0 1rem;
+  margin: .5rem auto 0;
 }
 
 .hoteles div article ul li{
-  font-size: 16px;
-  padding: 0 1rem;
+  font-size: .8rem;
   list-style: none;
+  padding: 0 .5rem;
 }
 
 .hoteles div article > a{
   display: block;
-  padding: 0 1rem 1rem;
   text-align: right;
+  padding: 0 .5rem;
+  text-decoration: underline;
+  text-decoration-thickness: 2.5px;
+}
+
+.hoteles div article a:hover{
+  box-shadow: none;
 }

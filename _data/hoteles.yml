@@ -45,7 +45,7 @@ Hoteles en San Agustín Huila:
       - Restaurante
       - Parqueadero vigilado
       - Hotel 3 estrellas
-      - Desayuno incluído
+      - Desayuno incluido
   - nombre: Hotel Yalconia
     img: hotel-yalconia-san-agustin.webp
     alt: Fotografía del Hotel Yalconia de San Agustín Huila
@@ -65,7 +65,7 @@ Hoteles en San Agustín Huila:
     perfil: https://goo.gl/maps/3jEJ41Q7CEqfmCmA7
     servicios:
       - Wifi gratis
-      - Desayuno incluído
+      - Desayuno incluido
       - Cancha sintética
       - Apto para niños
   - nombre: Hotel Alto de los Andaquíes
@@ -77,41 +77,8 @@ Hoteles en San Agustín Huila:
     servicios:
       - Wifi gratis
       - Estacionamiento gratis
-      - Desayuno incluído
+      - Desayuno incluido
       - Campestre
-  - nombre: Hotel Cumbre del Macizo
-    img: hotel-cumbre-macizo-san-agustin.webp
-    alt: Fotografía del hotel Cumbre del Macizo en San Agustín Huila
-    title: Foto del hotel Cumbre del Macizo de San Agustín Huila
-    puntos: 4.9 de 70
-    perfil: https://goo.gl/maps/NkL7s5DUgKM5N6dZA
-    servicios:
-      - Wifi gratis
-      - Estacionamiento gratis
-      - Desayuno incluído
-      - Campestre
-  - nombre: Hotel Samai
-    img: hotel-samai-san-agustin.webp
-    alt: Fotografía del hotel Samai en San Agustín Huila
-    title: Foto del hotel Samai de San Agustín Huila
-    puntos: 4.3 de 121
-    perfil: https://goo.gl/maps/VwZorSd7gu1aFXhJ9
-    servicios:
-      - Wifi gratis
-      - Ubicado en el centro
-      - Económico
-      - Lavandería
-  - nombre: Hotel Raíces
-    img: hotel-raices-san-agustin.webp
-    alt: Fotografía del hotel Raíces en San Agustín Huila
-    title: Foto del Hotel Raíces de San Agustín Huila
-    puntos: 4.5 de 239
-    perfil: https://goo.gl/maps/oXCn8z1pRNU8Sjyv5
-    servicios:
-      - Restaurante
-      - Wifi gratis
-      - Desayuno incluído
-      - Ubicado en el centro
   - nombre: Hotel La Casa de François
     img: hotel-casa-de-francois-san-agustin.webp
     alt: Fotografía del hotel La Casa de François en San Agustín Huila
@@ -123,6 +90,61 @@ Hoteles en San Agustín Huila:
       - Wifi gratis
       - Cerca al pueblo
       - Parqueadero gratis
+  - nombre: Hotel Cumbre del Macizo
+    img: hotel-cumbre-macizo-san-agustin.webp
+    alt: Fotografía del hotel Cumbre del Macizo en San Agustín Huila
+    title: Foto del hotel Cumbre del Macizo de San Agustín Huila
+    puntos: 4.9 de 70
+    perfil: https://goo.gl/maps/NkL7s5DUgKM5N6dZA
+    servicios:
+      - Wifi gratis
+      - Estacionamiento gratis
+      - Desayuno incluido
+      - Campestre
+  - nombre: Hotel Asgard
+    img: hotel-asgard-san-agustin.webp
+    alt: Fotografía del hotel Asgard en San Agustín Huila
+    title: Foto del Hotel Asgard de San Agustín Huila
+    puntos: 4.6 de 73
+    perfil: https://goo.gl/maps/2bBDRGWTAmAMspJ49
+    servicios:
+      - Spa
+      - Wifi gratis
+      - Desayuno incluido
+      - Parqueadero gratis
+  - nombre: Hotel Samai
+    img: hotel-samai-san-agustin.webp
+    alt: Fotografía del hotel Samai en San Agustín Huila
+    title: Foto del hotel Samai de San Agustín Huila
+    puntos: 4.3 de 121
+    perfil: https://goo.gl/maps/VwZorSd7gu1aFXhJ9
+    servicios:
+      - Wifi gratis
+      - Ubicado en el centro
+      - Económico
+      - Lavandería
+  - nombre: Hotel Casa Antahkarana
+    img: hotel-antahkarana-san-agustin.webp
+    alt: Fotografía del hotel Casa Antahkarana en San Agustín Huila
+    title: Foto del Hotel Casa Antahkarana de San Agustín Huila
+    puntos: 4.8 de 16
+    perfil: https://goo.gl/maps/h4DbgZgq9GUrvs196
+    servicios:
+      - Restaurante
+      - Wifi gratis
+      - Campestre
+      - Estacionamiento gratis
+  - nombre: Hotel Raíces
+    img: hotel-raices-san-agustin.webp
+    alt: Fotografía del hotel Raíces en San Agustín Huila
+    title: Foto del Hotel Raíces de San Agustín Huila
+    puntos: 4.5 de 239
+    perfil: https://goo.gl/maps/oXCn8z1pRNU8Sjyv5
+    servicios:
+      - Restaurante
+      - Wifi gratis
+      - Desayuno incluido
+      - Ubicado en el centro
   - nombre: Hotel Palo Alto
     img: hotel-palo-alto-san-agustin.webp
     alt: Fotografía del hotel Palo Alto en San Agustín Huila
@@ -133,6 +155,17 @@ Hoteles en San Agustín Huila:
       - Permite mascotas
       - Wifi gratis
       - Cerca al pueblo
+      - Parqueadero gratis
+  - nombre: Hotel Huaka-Yo
+    img: hotel-huakayo-san-agustin.webp
+    alt: Fotografía del hotel Huaka-Yo en San Agustín Huila
+    title: Foto del Hotel Huaka-Yo de San Agustín Huila
+    puntos: 4.8 de 162
+    perfil: https://goo.gl/maps/Rjg1g8RDfogpguXP7
+    servicios:
+      - Desayuno incluido
+      - Wifi gratis
+      - Cerca al parque arqueológico
       - Parqueadero gratis
   - nombre: Hospedaje El Jardín
     img: hospedaje-el-jardin-san-agustin.webp
@@ -184,7 +217,7 @@ Hoteles en San Agustín Huila:
     servicios:
       - Cerca al parque arqueológico
       - Wifi gratis
-      - Desayuno incluído
+      - Desayuno incluido
       - Campestre
   - nombre: Hospedaje Manuel Valdes
     img: hospedaje-manuel-valdes-san-agustin.webp
@@ -222,7 +255,7 @@ Fincas en San Agustín Huila:
     perfil: https://goo.gl/maps/KRtTo3mwg7gkcLNu5
     servicios:
       - Wifi gratis
-      - Desayuno incluído
+      - Desayuno incluido
       - Estacionamiento gratuito
       - Campestre
 
