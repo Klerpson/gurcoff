@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
-  {% if page.redireccion %}
-  {{page.redireccion}}
-  {% endif %}
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-  <title>{{ page.title}}</title>
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}">
-  <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}">
+    {% if page.redireccion %}
+    {{page.redireccion}}
+    {% endif %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}">
+    <title>{{ page.title}}</title>
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}">
+    <meta name='description' content='{% if page.description %}{{page.description|strip_html| strip_newlines}}{% else %}{{site.description}}{% endif %}'>
   {% if page.noindex %}
   <meta name="robots" content="nofollow">
   {% else %}
@@ -135,7 +136,6 @@
   ]}
   {% endif %}
 </script>
-  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160}}{% else %}{{ site.description}}{% endif %}'>
   <meta http-equiv='content-language' content='es_CO'>
   <meta name="language" content="es_CO">
   <meta name="country" content="CO">
