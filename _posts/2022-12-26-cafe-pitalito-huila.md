@@ -53,10 +53,8 @@ Cuando visites Pitalito, puedes encontrar muchas fincas que te ofrecen **experie
 
 En Pitalito, el café es más que una bebida, es una forma de vida. La gente aquí se toma el tiempo para disfrutar de su café, disfrutar de la compañía de sus amigos y disfrutar de la cultura cafetera. Los baristas son conocidos por su servicio amable y por su conocimiento profundo del café. Esto hace que la experiencia de tomar café en Pitalito sea única.
 
->¿Te gustaría probar el café de San Agustín? Conoce más de [San Agustín Huila]({% post_url 2021-06-07-visita-san-agustin-huila %})
-
+>**¿Te gustaría probar el café de San Agustín?** Conoce más de [San Agustín Huila]({% post_url 2021-06-07-visita-san-agustin-huila %})
 
 Y, por supuesto, en nuestra [heladería GurCoff de Pitalito](https://goo.gl/maps/ZNUryzkyMT2uB5t7A){:rel="nofollow noopener noreferrer" target="_blank"} también te ofrecemos lo mejor del café de Pitalito. Por ejemplo, nuestro [Affogato GurCoff](https://wa.me/p/4796946837050081/573026370737){:rel="nofollow noopener noreferrer" target="_blank"} es uno de los más admirados en la ciudad.
 
 **¿Vienes a probar el mejor café de Colombia?** Te esperamos.
-
