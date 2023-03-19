@@ -374,7 +374,7 @@
     <loc>https://gurcoff.com/parque-arqueologico-san-agustin-huila</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
       <image:image>
         <image:loc>https://gurcoff.com/img/magazine/parque-arqueologico-san-agustin.webp</image:loc>
         <image:title>Parque arqueológico de San Agustín Huila sección mesita A</image:title>
@@ -399,12 +399,6 @@
         <image:loc>https://gurcoff.com/img/magazine/tumba-parque-arqueologico-san-agustin.webp</image:loc>
         <image:title>Tumba del parque arqueológico de San Agustín Huila</image:title>
       </image:image>
-  </url>
-  <url>
-    <loc>https://gurcoff.com/hoteles</loc>
-    <lastmod>2023-03-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gurcoff.com/museo-obando-san-agustin-huila</loc>
@@ -493,7 +487,7 @@
       </image:image>
   </url>
   <url>
-    <loc>https://gurcoff.com/hoteles/</loc>
+    <loc>https://gurcoff.com/hoteles</loc>
     <lastmod>2023-03-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -526,10 +520,5 @@
         <image:title>Fotografía del Hostal Bambú de San Agustín Huila</image:title>
       </image:image>
   </url>
-  <url>
-    <loc>http://gurcoff.com/hoteles/</loc>
-    <lastmod>2023-03-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
+ 
 </urlset>
