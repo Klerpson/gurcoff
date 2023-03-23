@@ -1,6 +1,6 @@
 ---
 title: El salto del Mortiño y el vuelo del halcón
-description: En la cascada del Mortiño también encuetras una experiencia extrema con las atracciones de El Vuelo del Halcón y El Ojo del Halcón. Te contamos todo para que vengas a vivirlo
+description: En la cascada del Mortiño encuetras una experiencia extrema con las atracciones de El Vuelo del Halcón y El Ojo del Halcón. ¿Vamos?
 category: turismo
 tags: [isnos, turismo]
 h1: La cascada El Salto del Mortiño

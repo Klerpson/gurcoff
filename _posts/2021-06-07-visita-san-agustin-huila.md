@@ -1,6 +1,6 @@
 ---
-title: San Agustín Huila - Turismo y Naturaleza
-description: San Agustín es conocida por sus esculturas de piedra, que son una de las atracciones turísticas más importantes del Huila. También es famosa por su clima y su paisaje montañoso, con cascadas y ríos.
+title: Descubre la magia de San Agustín Huila y enamórate del lugar
+description: Descubre los secretos arqueológicos de San Agustín Huila y enamórate de Colombia. ¡Visita el Parque Arqueológico de San Agustín y vive una experiencia única! 🌄
 category: turismo
 tags: [turismo, parque]
 h1: San Agustín Huila destino lleno de experiencias
