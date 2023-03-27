@@ -1,5 +1,5 @@
 ---
-title: 'El Mirador "La mano del Gigante" en Gigante Huila: una experiencia emocionante'
+title: 'El Mirador "La mano del Gigante": fotos y emoción'
 description: '¡Prepárate para una aventura inolvidable en Gigante Huila! Y en este artículo, vamos a conocer un sitio que te va a encantar: el mirador "La mano del Gigante".'
 category: turismo
 tags: [turismo]
