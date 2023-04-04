@@ -1,6 +1,5 @@
 .nosotros p,
-.contacto p,
-.blog-footer p {
+.contacto p{
   margin: 0 0 2rem;
 }
 
@@ -44,46 +43,6 @@
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
   float: left;
   margin: 2rem 0;
-}
-
-.contacto .home-intro ul{
-  padding: 1rem;
-}
-
-.contacto .home-intro ul li{
-  color: white;
-}
-
-.contacto .home-intro ul li b{
-  text-transform: uppercase;
-}
-
-.contacto .home-intro img{
-  box-shadow: none;
-  max-width: 100%;
-}
-
-.contacto-telefono{
-  text-align: center;
-  color: white;
-  display: flex;
-  gap: 1rem;
-  flex-direction: column;
-  align-items: center;
-}
-
-.contacto .instagram h2,
-.contacto-telefono h3{
-  color: white;
-  text-align: center;
-  width: min(90%, 640px);
-}
-
-.contacto-telefono a{
-  color: var(--accion);
-  text-decoration: underline;
-  text-decoration-thickness: 2.5px;
-  text-underline-offset: 1.5px;
 }
 
 .enlaces-perfiles{

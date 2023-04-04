@@ -10,35 +10,9 @@ alt: Fotografía del hotel Estorake en San Agustín Huila
 autor: Julian Franco
 date: 2021-06-25
 copyright: Julian Andres Franco Bedoya
-json: '
-{
-    "@context": "https://schema.org",
-    "@type": "Hotel",
-    "name": "Hotel Estorake San Agustín Huila",
-    "description": "El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante. Es un hotel con mucha calidad humana y en sus servicios. ¡Conócelo!",
-    "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "Col",
-        "addressLocality": "San Agustín",
-        "addressRegion": "Huila",
-        "postalCode": "418060",
-        "streetAddress": "Calle 5 No. 23-88, Km1 Via al Parque Arqueológico"
-    },
-    "telephone": "+573208039667",
-    "photo": "https://gurcoff.com/img/hoteles/hotel-estorake-san-agustin-400px.webp",
-    "starRating": {
-        "@type": "Rating",
-        "ratingValue": "4.7"
-    },
-    "priceRange": "190000 - 250000"
-}'
-excerpt_separator: <!-- excerpt -->
-referencias:
-  - Booking Hotel Estorake San Agustín Huila: http://www.booking.com/Share-Mt2TeD
-  - TripAdvisor Hotel Estorake San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d12627613-Reviews-Hotel_Estorake_San_Agustin_Huila-San_Agustin_Huila_Department.html?m=19905
-  - Fotos Hotel Hotel Estorake: https://www.google.com/maps/place/Hotel Estorake+San+Agust%C3%ADn/@1.895828,-76.2683103,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPIVtVBrAV28ZUbTdbeocSQW3k3Y1KtHev5j5Th!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPIVtVBrAV28ZUbTdbeocSQW3k3Y1KtHev5j5Th%3Dw160-h120-k-no!7i5520!8i4140!4m18!1m9!3m8!1s0x8e25707f01ae31c7:0xccd64e01b1e32fe2!2sHotel Estorake+San+Agust%C3%ADn!5m2!4m1!1i2!8m2!3d1.895837!4d-76.2683301!3m7!1s0x8e25707f01ae31c7:0xccd64e01b1e32fe2!5m2!4m1!1i2!8m2!3d1.895837!4d-76.2683301
-  - Página web del Hotel Hotel Estorake San Agustín: https://www.Hotel Estorake-experience.com/san-agustin/
 background-header: var(--oficial)
+redirect_to:
+  - https://sanagustinhuila.com.co/hoteles-san-agustin
 permalink: /hoteles/hotel-estorake-san-agustin-huila
 ---
 **El hotel Estorake en San Agustín Huila es un hospedaje romántico, elegante, con mucha calidad humana y en sus servicios**.

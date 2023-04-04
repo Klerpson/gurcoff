@@ -3,21 +3,16 @@ layout: default
 title: ¿Buscas qué hacer en San Agustín y Pitalito Huila?
 h1: El mejor magazine sobre San Agustín y Pitalito
 description: Conoce los lugares turísticos, los hoteles y las experiencias que ofrece San Agustín y Pitalito Huila. Todo desde las vivencias de tu heladería favorita GurCoff
-intro: Desde nuestra oficina preparamos este magazine para ti. Es una invitación para que prepares tu viaje, o para que salgas un ratico, y llegues a relajarte y disfrutar. Y por supuesto, también <strong>venir a visitarnos en tu heladería favorita GurCoff.</strong>
+intro: El blog de GurCoff es una invitación para que prepares tu viaje, para que salgas un ratico, para que te relajes. Y por supuesto, también para vengas a disfrutar la tarde en tu <strong>heladería favorita GurCoff.</strong>
 img: blog-gurcoff.svg
 background-header: var(--principal)
 ---
 <section class="blog">
-  <h2>El Blog de San Agustín y Pitalito Huila</h2>
-  <p>¿Te gustaría tener información para saber <strong>qué hacer en San Agustín o en Pitalito</strong>? Después de tener una grata experiencia en nuestra heladería GurCoff, estamos seguros que querrás vivir una buena experiencia en estas hermosas tierras.</p>
-  <p>Este es el <strong>blog de San Agustín y Pitalito Huila</strong>. Te contamos todo sobre hoteles, restaurantes, lugares turísticos, dónde pasear, comer, pago o gratis, etc. Toda la información se basa en las experiencias personales de quienes vivimos a diario en este paraíso colombiano.</p>
+  <h2>Un #raticogurcoff, tu nuevo blog favorito</h2>
   <div>
-  {% for category in site.categories %} {% capture category_name %}{{ category | first }}{% endcapture %}
-    <a href="{{ site.baseurl }}/blog/{{ category_name | slugify}}" title="Sección de {{ category_name }}" class="boton">{{ category_name | capitalize | normalize_whitespace }}</a>
-    {% endfor %}
-    <a href="{{ site.baseurl }}/hoteles" title="Sección de hoteles en San Agustín y Pitalito Huila" class="boton">Hoteles</a>
-  </div>
-  <div>
+    <article>
+      {% include add1.html %}
+    </article>
     {% for post in site.posts %}
   <article>
     <h4>{{ post.h1 }}</h4>
@@ -28,6 +23,9 @@ background-header: var(--principal)
   </article>
   {% endfor %}
   <article>
+    {% include add1.html %}
+  </article>
+  <article>
     <h4>Hoteles de San Agustín Huila y Pitalito</h4>
     <a href="{{ site.baseurl }}/hoteles" title="Página de hoteles">
       <img src="{{ site.baseurl }}/img/hoteles/hotel-casa-bonita-san-agustin-huila.webp" width="320" height="240" alt="Foto de hotel en San Agustín Huila" loading="lazy">
@@ -37,7 +35,7 @@ background-header: var(--principal)
 </div>
 </section>
 
-<section class="blog-footer">
+<section class="benefits">
   <div>
     <h2>Tienes mucho por hacer en San Agustín y Pitalito</h2>
     <p>Anímate a venir de viaje a San Agustín. O también te esperamos en Pitalito. Tienes garantizado al menos 2 grandes ventajas:</p>

@@ -2,7 +2,7 @@
   --principal: #8833ff;
   --oficial: #a875ef;
   --secundario: #f393cf;
-  --accion: #88fde4;
+  --accion: rgb(136, 253, 228);
   --rojo: #a31621;
   --grisClaro: #dddddd;
   --grisFuentes: #161519;
@@ -10,6 +10,7 @@
   --blanco: #fefefe;
   --fuenteTitulos: "Domine", serif;
   --fuenteTextos: "Josefin Sans", sans-serif;
+  --fuenteGurcoff: "Dancing Script", cursive;
 }
 *,
 ::after,
@@ -23,7 +24,7 @@ html {
   scroll-behavior: auto;
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
-  font-size: calc(15px + 0.390625vw)
+  font-size: calc(15px + 0.390625vw);
 }
 body {
   color: var(--grisFuentes);
@@ -43,11 +44,9 @@ h3 {
   font-family: var(--fuenteTitulos);
 }
 h1 {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   line-height: 1.2;
   color: var(--accion);
-  text-shadow: var(--shadow);
-  margin-bottom: 2rem;
 }
 
 h2 {
@@ -70,7 +69,7 @@ h4 {
 p {
   letter-spacing: -0.4px;
   line-height: 1.2;
-  font-size: 1rem;
+  font-size: 1.0889rem;
 }
 b,
 strong {
@@ -79,60 +78,56 @@ strong {
 span {
   font-weight: 700;
 }
+
 header {
   position: relative;
-  width: 100%;
   display: grid;
   gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
-  justify-items: center;
-  align-items: center;
-  color: #fff;
-  padding: 3rem clamp(1.5rem, 8vw, 3rem);
-}
-@media (min-width: 767px) {
-  header {
-    padding: calc(3rem + 82px) clamp(1.5rem, 15vw, 8rem) 3rem;
-  }
-}
-header div {
-  padding: 3rem 0;
-  width: min(100%, 640px);
-}
-header .titulo-home {
-  color: var(--accion);
-  text-shadow: var(--shadow);
+  padding: calc(3rem + 82px) 0.5rem 0;
+  place-items: center;
+  width: 100%;
 }
 
-header img {
-  width: min(100%, 720px);
-  border-radius: 8px;
-  aspect-ratio: auto;
+header h1 {
+  color: var(--principal);
+  width: min(90%, 600px);
+  text-align: center;
 }
+
+header p {
+  width: min(90%, 800px);
+  text-align: center;
+}
+
+header img{
+  width: min(100%, 1200px);
+}
+
 .boton-main {
-  display: inline-block;
   background-color: var(--accion);
   color: var(--principal);
   border: 1px solid var(--principal);
   padding: 0.4rem 2rem;
-  margin-bottom: 2rem;
-  border-radius: 8px;
-  transition: all 0.25s ease;
+  border-radius: 12px;
+  transition: all 0.15s ease-out;
   font-weight: 700;
   text-decoration: none;
 }
 .boton-main:hover {
-  background-color: #fff;
+  background-color: var(--oficial);
+  color: #fff;
   border: 1px solid var(--accion);
-  text-shadow: var(--shadow);
+  box-shadow: 0 3px 5px rgba(24, 24, 24, 0.302);
 }
-.blog-footer,
+.boton-main:active {
+  box-shadow: none;
+}
+
 .testimonials,
 footer {
   padding: 4rem clamp(1rem, 5vw, 2rem);
 }
 .articulo,
-.blog-footer div,
 .contacto,
 .legal,
 .magazine,
@@ -162,4 +157,21 @@ footer {
 .svg-icon circle {
   stroke: var(--oficial);
   stroke-width: 1;
+}
+
+.fuenteGurcoff{
+  font-family: var(--fuenteGurcoff);
+  font-size: 2rem;
+}
+
+.boton-whatsapp{
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  transition: all .2s ease-in-out;
+}
+
+.boton-whatsapp:hover{
+  -webkit-filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
+  filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
 }

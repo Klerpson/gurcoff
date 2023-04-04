@@ -1,10 +1,16 @@
 <nav>
-  <a href="/" class="logo" id="logo" title="Logo GurCoff">
-    <img src="{{ 'img/logo.png' | relative_url }}" alt="Logo de la heladería GurCoff de San Agustín y Pitalito Huila"/>
-  </a>
-  <div>
-    <a href="{{site.whatsapp}}" title="WhatsApp GurCoff">Chat</a>
-    <a href="{{site.baseurl}}/blog" title="Blog de GurCoff">Blog</a>
-    <a href="{{site.baseurl}}/contacto" title="Página de contacto">Contacto</a>
-  </div>
+  <input id="nav-toggle" type="checkbox">
+    <div class="logo">GurCoff</div>
+  <ul>
+    <li><a href="{{site.baseurl}}/" {% if page.url == "/" %}class="active"{% endif %}>Inicio</a></li>
+    <li><a href="https://wa.me/c/573026370737" {% if page.url contains "/carta-gurcoff" %}class="active"{% endif %}">La carta</a></li>
+    <li><a href="{{site.baseurl}}/blog" {% if page.url contains "/blog" %}class="active"{% endif %}">Blog GurCoff</a></li>
+    <li><a href="{{site.baseurl}}/conoce-gurcoff" {% if page.url contains "/conoce-gurcoff" %}class="active"{% endif %}">Conócenos</a></li>
+    <li><a href="{{site.baseurl}}/contacto" {% if page.url contains "/contacto" %}class="active"{% endif %}">Contáctanos</a></li>
+  </ul>
+  <label for="nav-toggle" class="icono-nav">
+    <div class="line"></div>
+    <div class="line"></div>
+    <div class="line"></div>
+  </label>
 </nav>

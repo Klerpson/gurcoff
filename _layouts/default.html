@@ -3,20 +3,16 @@ layout: compress
 ---
 {% include head.html %}
 <body>
-  {% include nav.html %}
-  <header style="background-color: {{ page.background-header }}; background-image: url('{{ site.baseurl }}/img/brick-wall.png');">
-    <div>
-      {% if page.url == "/" %}
-      <h1 class="titulo-home">{{page.h1}}</h1>
+  <header>
+    {% include nav.html %}
+    <h1>{{page.h1}}</h1>
+    {% if page.url == "/" %}
       <a href="{{ site.baseurl }}/contacto" class="boton-main" target="_blank" rel="nofollow">Visítanos</a>
-      {% else %}
-      <h1>{{page.h1}}</h1>
       {% endif %}
       {% if page.intro %}
       <p>{{page.intro}}</p>
       {% endif %}
-    </div>
-    <img src="{{site.baseurl}}/img/{{page.img}}" alt="{{page.alt}}">
+    {% include img-responsive.html hero=page.hero webpb=page.webpb webpm=page.webpm webps=page.webps alt=page.alt %}
   </header>
   {% if page.url contains "legal" %}
   <main class="legal">
@@ -26,6 +22,9 @@ layout: compress
   {{ content }}
   {% endif %}
   {% include footer.html %}
+  <a href="{{site.whatsapp}}" class="boton-whatsapp">
+    <img src="{{'img/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
+  </a>
 </body>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JQ0EGSYDTF"></script>
@@ -37,16 +36,3 @@ layout: compress
   gtag('config', 'G-JQ0EGSYDTF');
 </script>
 <script data-ad-client="ca-pub-3100194943394350" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" defer></script>
-{% if page.url contains 'blog' %}
-<!-- Script pointing to search-script.js -->
-<script src='/js/search-script.js' defer></script>
-<script src='/js/scripts.js' defer></script>
-<!-- Buscador -->
-<script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: "/search.json"
-  })
-</script>
-  {% endif %}

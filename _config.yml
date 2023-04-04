@@ -37,3 +37,9 @@ defaults:
     values:
       layout: "articulo"
       excerpt_separator: <!-- excerpt -->
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag 
+  - jekyll-redirect-from

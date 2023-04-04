@@ -10,34 +10,14 @@ alt: Fotografía del hotel Internacional en San Agustín Huila
 autor: Julian Franco
 date: 2021-06-02
 copyright: Julian Andres Franco Bedoya
-json: '
-{
-    "@context": "https://schema.org",
-    "@type": "Hotel",
-    "name": "Hotel San Agustín Internacional",
-    "description": "El hotel Internacional de San Agustín tiene un exuberante paisaje natural, propio del Macizo Colombiano Andino, y por una arquitectura hermosa.",
-    "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "Col",
-        "addressLocality": "San Agustín",
-        "addressRegion": "Huila",
-        "postalCode": "418060",
-        "streetAddress": "Carrera 19 N 1A - 13"
-    },
-    "telephone": "+573124332510",
-    "photo": "https://gurcoff.com/img/hoteles/hotel-internacional-san-agustin-huila-400px.webp",
-    "starRating": {
-        "@type": "Rating",
-        "ratingValue": "4.2"
-    },
-    "priceRange": "110000 - 380000"
-}'
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Hotel Internacional San Agustín Huila: http://www.booking.com/Share-VigE76
   - TripAdvisor Hotel Internacional San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d2703883-Reviews-Hotel_San_Agustin_Internacional-San_Agustin_Huila_Department.html?m=19905
   - Fotos Hotel Internacional: https://www.google.com/maps/place/Hotel+San+Agust%C3%ADn+Internacional/@1.8831263,-76.277658,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNfpiXayXKYsnCLrp5dmQ7iSHPSsVYcX2IQp9TC!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNfpiXayXKYsnCLrp5dmQ7iSHPSsVYcX2IQp9TC%3Dw447-h298-k-no!7i1280!8i853!4m10!3m9!1s0x8e257a7752064593:0x524d86c6e44ab3db!5m2!4m1!1i2!8m2!3d1.8831263!4d-76.277658!14m1!1BCgIgAQ
   - Página web del Hotel Internacional: https://www.hotelsanagustininternacional.com/es/
+redirect_to:
+  - https://sanagustinhuila.com.co/hoteles-san-agustin/hotel-internacional-san-agustin-huila
 permalink: /hoteles/hotel-internacional-san-agustin-huila
 ---
 El Hotel Internacional de San Agustín Huila está ubicado en medio de un paisaje natural hermoso. Es perfecto para descansar, disfrutar del entorno y recargarte de energía.
