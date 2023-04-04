@@ -9,29 +9,6 @@ img: hoteles/hostal-bambu-san-agustin-huila.webp
 alt: Fotografía del hotal bambú en San Agustín Huila
 autor: Julian Franco
 date: 2021-05-25
-copyright: Julian Andres Franco Bedoya
-json: '
-{
-    "@context": "https://schema.org",
-    "@type": "Hotel",
-    "name": "Hostal Bambú San Agustín",
-    "description": "El hostal Bambú de San Agustín Huila está muy bien posicionado entre los turistas. Es una opción muy bonita y accesible en el pueblo.",
-    "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "Col",
-        "addressLocality": "San Agustín",
-        "addressRegion": "Huila",
-        "postalCode": "418060",
-        "streetAddress": "Carrera 13 No 6-78"
-    },
-    "telephone": "+573113606841",
-    "photo": "https://gurcoff.com/hoteles/hostal-bambu-san-agustin-huila.webp",
-    "starRating": {
-        "@type": "Rating",
-        "ratingValue": "4.8"
-    },
-    "priceRange": "24000 - 75000"
-}'
 excerpt_separator: <!-- excerpt -->
 referencias:
   - Booking Hostal Bambú San Agustín Huila: https://www.booking.com/hotel/co/hostal-bambu.es.html
@@ -39,6 +16,8 @@ referencias:
   - Fotos Hostal Bambú: https://www.google.com/maps/place/Hostal+Bambu/@1.8851998,-76.2715695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMEnFvjxDcibdQXoOcdjzHuiIYJmLMTzVQHSw4p!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMEnFvjxDcibdQXoOcdjzHuiIYJmLMTzVQHSw4p%3Dw529-h298-k-no!7i2048!8i1152!4m10!3m9!1s0x0:0xc229ad7209df6a00!5m2!4m1!1i2!8m2!3d1.8851998!4d-76.2715695!14m1!1BCgIgAQ
   - Página web Hostal Bambú: https://hostalbambu.com
 background-header: var(--oficial)
+redirect_to:
+  - https://sanagustinhuila.com.co/hoteles-san-agustin/hostal-bambu-san-agustin-huila
 permalink: /hoteles/hostal-bambu-san-agustin-huila
 ---
 **El Hostal Bambú de San Agustín Huila se define como un lugar para socializar con otros viajeros**. Tienen en sus instalaciones muchas zonas comunes adecuadas para compartir las experiencias de sus viajes.

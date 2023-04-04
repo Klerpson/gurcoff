@@ -12,6 +12,8 @@ date: 2021-06-15
 referencias:
   - Booking Masaya San Agustín Huila: https://www.booking.com/hotel/co/masaya-hostel-san-agustin.es.html
   - TripAdvisor Masaya San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d13154689-Reviews-Masaya_Hostel_San_Agustin-San_Agustin_Huila_Department.html
+redirect_to:
+  - https://sanagustinhuila.com.co/hoteles-san-agustin/hotel-masaya-san-agustin-huila
 permalink: /hoteles/hotel-masaya-san-agustin-huila
 background-header: var(--principal)
 intro: El parque arqueológico de San Agustín es complejo muy grande y atractivo.

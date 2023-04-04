@@ -14,6 +14,8 @@ referencias:
   - TripAdvisor Akawanka San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d3464148-Reviews-Akawanka_Lodge-San_Agustin_Huila_Department.html
   - Fotos Hotel Akawanka: https://www.google.com/maps/place/Akawanka+Lodge/@1.8918538,-76.2811355,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOeEc1O5cDYQ2OBSU3-XLmckaUljq65hQXROV1z!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOeEc1O5cDYQ2OBSU3-XLmckaUljq65hQXROV1z%3Dw531-h298-k-no!7i1980!8i1111!4m10!3m9!1s0x8e257a61372e816b:0xd3b4077a5a54165c!5m2!4m1!1i2!8m2!3d1.8918538!4d-76.2811355!14m1!1BCgIgAQ?hl=es
   - Página web de Akawanka: https://akawankalodge.com
+redirect_to:
+  - https://sanagustinhuila.com.co/hoteles-san-agustin/akawanka-lodge-san-agustin-huila
 permalink: /hoteles/akawanka-lodge-san-agustin-huila
 background-header: var(--oficial)
 intro: El hotel Akawanka Lodge es un hotel que mantiene un equilibrio perfecto entre la naturaleza, el arte, el comfort y la seguridad que busca cualquier turista.

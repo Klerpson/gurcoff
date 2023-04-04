@@ -9,13 +9,14 @@ img: hoteles/tierra-activa-san-agustin-huila.webp
 jpg: hoteles/tierra-activa-san-agustin-huila.jpg
 alt: Fotografía del Hotel Finca Tierra Activa en San Agustín Huila
 date: 2021-07-25
-excerpt_separator: <!-- excerpt -->
 referencias:
   - Pagina web: www.tierraactiva.com.co
   - Booking Hotel Finca Tierra Activa San Agustín Huila: https://www.booking.com/hotel/co/tierra-activa-finca-organica.es.html
   - TripAdvisor Hotel Finca Tierra Activa San Agustín Huila: https://www.tripadvisor.co/UserReviewEdit-g445060-d23337945-Tierra_Activa-San_Agustin_Huila_Department.html
   - Fotos Hotel Hotel Finca Tierra Activa: https://www.google.com/maps/place/Hotel+Tierra+Activa+San+Agust%C3%ADn/@1.9058656,-76.3031588,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNRs79LC92WChUusonb0XgR3zfDvqxboiCDRRtL!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNRs79LC92WChUusonb0XgR3zfDvqxboiCDRRtL%3Dw224-h298-k-no!7i3096!8i4128!4m10!3m9!1s0x8e257b772c1aa045:0xb7f141e0fca73b08!5m2!4m1!1i2!8m2!3d1.9058656!4d-76.3031588!14m1!1BCgIgAQ
 background-header: var(--oficial)
+redirect_to:
+  - https://sanagustinhuila.com.co/hoteles-san-agustin/finca-tierra-activa-san-agustin-huila
 permalink: /hoteles/finca-tierra-activa-san-agustin-huila
 excerpt_separator: <!-- excerpt -->
 ---
