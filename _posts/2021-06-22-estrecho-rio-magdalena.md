@@ -10,6 +10,9 @@ alt: El Estrecho del Magdalena desde el aire
 date: 2021-06-22
 background-header: var(--principal)
 intro: ¿Te imaginas un río como el Magdalena pasar por un espacio de casi 2 metros? Ese es el Estrecho del Magdalena.
+redirect_to:
+  - https://sanagustinhuila.com.co/turismo-san-agustin/estrecho-rio-magdalena
+permalink: /estrecho-rio-magdalena
 ---
 El estrecho del río Magdalena es un paisaje hermoso, formado en el momento que **este majestuoso río se reduce a un canal de solo 2,20 metros de ancho**.
 
