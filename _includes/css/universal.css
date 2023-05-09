@@ -112,7 +112,7 @@ header img{
   transition: all 0.15s ease-out;
   font-weight: 700;
   text-decoration: none;
-  margin: 1rem auto;
+  margin: 1rem auto 2rem;
 }
 
 .boton-main:hover {
