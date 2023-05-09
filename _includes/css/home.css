@@ -107,6 +107,8 @@ background: linear-gradient(352deg, var(--principal) 0%, rgba(136,253,228,1) 23%
   background-color: var(--principal);
   background-image: url('{{site.baseurl}}/img/brick-wall.png');
   color: white;
+  display: flex;
+  flex-direction: column;
 }
 
 .instagram h2 {
@@ -116,12 +118,8 @@ background: linear-gradient(352deg, var(--principal) 0%, rgba(136,253,228,1) 23%
 
 .instagram p{
   max-width: 520px;
-  margin: 4rem auto;
+  margin: 1rem auto 2rem;
   text-align: center;
-}
-
-.instagram a{
-  color: var(--accion);
 }
 
 #instafeed {

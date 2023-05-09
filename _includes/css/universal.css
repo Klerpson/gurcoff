@@ -104,7 +104,7 @@ header img{
 }
 
 .boton-main {
-  background-color: var(--accion);
+  background-color: #fefefe;
   color: var(--principal);
   border: 1px solid var(--principal);
   padding: 0.4rem 2rem;
@@ -112,7 +112,9 @@ header img{
   transition: all 0.15s ease-out;
   font-weight: 700;
   text-decoration: none;
+  margin: 1rem auto;
 }
+
 .boton-main:hover {
   background-color: var(--oficial);
   color: #fff;
