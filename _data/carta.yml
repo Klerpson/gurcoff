@@ -24,6 +24,19 @@ Copas deluxe:
       - Moras
       - Arándanos
       - Salsa natural frutos rojos
+  - nombre: Frutal GurCoff
+    img: frutal.webp
+    alt: Copa frutal de helado suave GurCoff
+    title: Copa frutal GurCoff
+    link: 'https://wa.me/p/5611414128886092/573026370737'
+    precio: 12500
+    toppins:
+      - Mango
+      - Fresas
+      - Kiwi
+      - Uva
+      - Granola
+      - Salsa natural frutos verdes
 
 Malteadas GurCoff:
   - nombre: Malteada Especial GurCoff
