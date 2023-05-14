@@ -46,3 +46,20 @@ Malteadas GurCoff:
       - Malteada óreo
       - Helado de yogur GurCoff
   
+Preparaciones GurCoff:
+  - nombre: Ensalada de frutas GurCoff
+    img: ensalada.webp
+    alt: Ensalada de frutas GurCoff
+    title: Ensalada de frutas
+    link: 'https://wa.me/p/5429983033698513/573026370737'
+    precio: 12300
+    toppins:
+      - Kiwi
+      - Mango
+      - Fresas
+      - Banano
+      - Uva
+      - Salsa de leches GurCoff
+      - Coco
+      - Queso
+      - Lechera o salsa natural
