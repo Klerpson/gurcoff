@@ -76,3 +76,14 @@ Preparaciones GurCoff:
       - Coco
       - Queso
       - Lechera o salsa natural
+
+  - nombre: Café affogato
+    img: affogatto.webp
+    alt: Affogato GurCoff
+    title: Café affogato
+    link: 'https://wa.me/p/5429983033698513/573026370737'
+    precio: 8000
+    toppins:
+      - Café cultivado en Pitalito
+      - Helado de receta de vainilla GurCoff
+      - Más suave que un capuchino
