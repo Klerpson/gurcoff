@@ -44,24 +44,24 @@ h3 {
   font-family: var(--fuenteTitulos);
 }
 h1 {
-  font-size: 1.8rem;
+  font-size: 1.96rem;
   line-height: 1.2;
   color: var(--accion);
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   line-height: 1.2;
   text-align: center;
 }
 h3,
 q {
-  font-size: 1.2rem;
+  font-size: 1.36rem;
   line-height: 1.2;
   text-align: center;
 }
 h4 {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.2;
   text-align: left;
   margin: 1.5rem 0;
@@ -69,7 +69,7 @@ h4 {
 p {
   letter-spacing: -0.4px;
   line-height: 1.2;
-  font-size: 1.0889rem;
+  font-size: 1.12rem;
 }
 b,
 strong {
@@ -129,14 +129,16 @@ header img{
 footer {
   padding: 4rem clamp(1rem, 5vw, 2rem);
 }
+
 .articulo,
 .contacto,
 .legal,
 .magazine,
 .nosotros {
   margin: 7rem auto;
-  width: min(90vw, 800px);
+  width: min(90vw, 960px);
 }
+
 .articulo h2,
 .contacto h2,
 .nosotros h2 {

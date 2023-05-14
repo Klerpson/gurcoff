@@ -1,22 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/blog</loc>
-</url>
-<url>
-<loc>http://localhost:4000/conoce-gurcoff</loc>
-</url>
-<url>
-<loc>http://localhost:4000/contacto</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/legal</loc>
-</url>
-<url>
-<loc>http://localhost:4000/google0917d12619c20719.html</loc>
-<lastmod>2023-02-21T07:37:19-05:00</lastmod>
-</url>
+  
+  
+      <url>
+        <loc>http://localhost:4000/hoteles/akawanka-lodge-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/hoteles/hostal-bambu-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/hoteles/hotel-internacional-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/hoteles/hotel-masaya-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/hoteles/hotel-estorake-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/hoteles/finca-tierra-activa-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/blog</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/carta-gurcoff</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/conoce-gurcoff</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/contacto</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/google0917d12619c20719</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/hoteles/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/legal</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/blog/restaurantes</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/css/style.css</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/blog/turismo</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/la-mano-del-gigante</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/cafe-pitalito-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/cascada-salto-mortino-isnos</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/museo-obando-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/laguna-del-magdalena</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/estrecho-rio-magdalena</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/parque-arqueologico-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/visita-san-agustin-huila</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/mejores-restaurantes-san-agustin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/cascada-los-tres-chorros-de-san-agustin</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
 </urlset>

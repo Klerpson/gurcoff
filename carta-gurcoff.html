@@ -1,0 +1,59 @@
+---
+layout: default
+title: Carta de la heladería <span class="fuenteGurcoff">GurCoff</span>
+h1: Conoce los helados <span class="fuenteGurcoff">GurCoff</span> favoritos de Pitalito y San Agustín
+description: ¿Conocenes la carta de GurCoff? Antójate de los helados, waffles, ensalada de frutas, copas deluxe y otros. Serán tus nuevos favoritos!
+jpg: copa-achocolatada.jpg
+hero: copa-achocolatada.webp
+webpb: copa-achocolatada-800.webp
+webpm: copa-achocolatada-600.webp
+webps: copa-achocolatada-376.webp
+alt: Helados de la heladería GurCoff de Pitalito y San Agustín Huila
+intro: '¿Conocenes la carta de GurCoff? Antójate de los <strong>helados, waffles, ensalada de frutas, copas deluxe</strong> y otros. Serán tus nuevos favoritos!'
+---
+<section class="testimonials">
+  <h2>¿Qué antjito <span class="fuenteGurcoff">GurCoff</span> tienes hoy?</h2>
+  <p>Pide tus helados favoritos directamente a nuestro WhatsApp. <b>Solo sigue estos pasos:</b></p>
+  <ol>
+    <li>Revisa los productos de esta carta</li>
+    <li>Toca el nombre del que más te gusta</li>
+    <li>Haz clic en el botón "Pedir domicilio"</li>
+    <li>Abre el producto en el catálog de WhatsApp</li>
+    <li>Agrega los productos al carrito de WhatsApp</li>
+    <li>Envía tu pedido y disfruta</li>
+  </ol>
+</section>
+<main class="carta">
+
+  <div>
+    {% for item in site.data.carta %} {% assign cat = item[0] %}
+  <h3>{{ cat }}</h3>
+  <div class="carta-productos">
+    {% for producto in site.data.carta[cat] %}
+    <article>
+    <details>
+      <summary>
+        <img src="{{site.baseurl}}/img/menu/{{producto.img}}" alt="{{producto.alt}}" title="{{producto.title}}" loading="lazy" width="80" height="100" />
+        <div>
+          <p>
+            {{producto.nombre}} 
+          </p>
+          <p>{{producto.precio}}</p>
+        </div>
+        </summary>
+
+      <div>
+          <p>
+            {% for toppin in producto.toppins %}
+            <b>✓</b> {{toppin}}
+            {% endfor %}
+          </p>
+          <a href="{{producto.link}}" rel="nofollow">Pedir domicilio</a>
+      </div>
+    </details>
+  </article>
+  {% endfor %}
+</div>
+  {% endfor %}
+  </div>
+</main>

@@ -1,0 +1,49 @@
+Copas deluxe:
+  - nombre: Achocolatada
+    img: achocolatada.webp
+    alt: Copa achocolatada de helado suave GurCoff
+    title: Copa Achocolatada GurCoff
+    link: 'https://wa.me/p/4867349966690571/573026370737'
+    toppins:
+      - Chocmelos
+      - Perlas de chocolate
+      - Chococrispi
+      - Milo
+      - Ripio de brownie de chocolate
+      - Salsa Hershey's
+    precio: 12800
+  - nombre: Frutos Rojos
+    img: frutos-rojos.webp
+    alt: Copa frutos rojos de helado suave GurCoff
+    title: Copa Frutos Rojos GurCoff
+    link: 'https://wa.me/p/4867349966690571/573026370737'
+    toppins:
+      - Chocmelos
+      - Perlas de chocolate
+      - Chococrispi
+      - Milo
+      - Ripio de brownie de chocolate
+      - Salsa Hershey's
+    precio: xxxx
+
+Malteadas GurCoff:
+  - nombre: Malteada Especial GurCoff
+    img: especial.webp
+    alt: Malteada Especial GurCoff
+    title: Súper Malteada GurCoff
+    link: 'https://wa.me/p/5112603552149362/573026370737'
+    toppins:
+      - Chocmelos
+      - Waffle GurCoff
+      - Chococrispi
+      - Chocolate tipo nutella
+      - Ripio de brownie de chocolate
+      - Salsa Hershey's
+      - Fresas
+      - Maní
+      - Tobbys M&M's
+      - Barquilla con chocolate y grageas
+      - Malteada óreo
+      - Helado de yogur GurCoff
+    precio: xxxx
+  

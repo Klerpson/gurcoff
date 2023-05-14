@@ -40,7 +40,7 @@ footer .logo h2{
 .footer-data ul li{
   list-style: none;
   display: flex;
-  gap: .5rem;
+  gap: 1rem;
   align-items: center;
   margin-bottom: .5rem;
 }

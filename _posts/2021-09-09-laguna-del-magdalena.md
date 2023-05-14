@@ -9,8 +9,9 @@ alt: Fotografía de la Laguna del Magdalena, nacimiento del gran río Magdalena
 background-header: 'var(--oficial)'
 date: 2021-09-09
 intro: La Laguna del Magdalena es el nacimiento del gran Río Magdalena, la mayor fuente del agua dulce para la producción colombiana.
-redirect_to:
-  - https://sanagustinhuila.com.co/tursimo-san-agustin/laguna-del-magdalena
+layout: redirected
+sitemap: false
+redirect_to: https://sanagustinhuila.com.co/tursimo-san-agustin/laguna-del-magdalena
 permalink: /laguna-del-magdalena
 ---
 **La laguna del Magdalena es una reserva espectacular adornada por los frailejones que abundan en el Páramo de las papas**, y con una vista natural impresionante e inolvidable, acompañada de una sensación hermosa. Conoce más sobre la Laguna del Magdalena.

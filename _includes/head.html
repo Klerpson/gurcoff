@@ -7,17 +7,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
     <link rel="alternate" type="application/rss+xml" title="{{page.title}}" href="{{ '/feed.xml' | relative_url}}">
     <title>{{ page.title}}</title>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | replace:'.html','' | absolute_url}}">
     <meta name='description' content='{% if page.description %}{{page.description|strip_html| strip_newlines}}{% else %}{{site.description}}{% endif %}'>
-  {% if page.noindex %}
-  <meta name="robots" content="nofollow">
-  {% else %}
-  <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
-  {% endif %}
-  <!-- Codigo json para google en los articulos -->
-  <script type="application/ld+json">
+    {% if page.noindex %}
+    <meta name="robots" content="nofollow">
+    {% else %}
+    <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+    {% endif %}
+    <!-- Codigo json para google en los articulos -->
+    <script type="application/ld+json">
 
   {% if page.url == "/" %}
   {
@@ -195,16 +196,16 @@
   <link rel="preload" as="font" href="{{ 'css/fonts/dancing-script-v24-latin-regular.woff' | relative_url }}" type="font/woff" crossorigin>
   <link rel="preload" as="font" href="{{ 'css/fonts/dancing-script-v24-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
   <!-- Favicon -->
-  <link rel="shortcut icon" href="{{ 'img/favicon/favicon.ico' | relative_url }}" type="image/x-icon">
-  <link rel="apple-touch-icon" href="{{ 'img/favicon/apple-touch-icon.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="57x57" href="{{ 'img/favicon/apple-touch-icon-57x57.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="72x72" href="{{ 'img/favicon/apple-touch-icon-72x72.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="76x76" href="{{ 'img/favicon/apple-touch-icon-76x76.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="114x114" href="{{ 'img/favicon/apple-touch-icon-114x114.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="120x120" href="{{ 'img/favicon/apple-touch-icon-120x120.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="144x144" href="{{ 'img/favicon/apple-touch-icon-144x144.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="152x152" href="{{ 'img/favicon/apple-touch-icon-152x152.png' | relative_url }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'img/favicon/apple-touch-icon-180x180.png' | relative_url }}">
+  <link rel="shortcut icon" href="{{ 'img/favicon/favicon.ico'|relative_url}}" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="{{ 'img/favicon/apple-touch-icon.png'|relative_url}}" />
+  <link rel="apple-touch-icon" sizes="57x57" href="{{ 'img/favicon/apple-touch-icon-57x57.png'|relative_url}}" />
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ 'img/favicon/apple-touch-icon-72x72.png'|relative_url}}" />
+  <link rel="apple-touch-icon" sizes="76x76" href="{{ 'img/favicon/apple-touch-icon-76x76.png'|relative_url}}" />
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ 'img/favicon/apple-touch-icon-114x114.png'|relative_url}}" />
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ 'img/favicon/apple-touch-icon-120x120.png'|relative_url}}" />
+  <link rel="apple-touch-icon" sizes="144x144" href="{{ 'img/favicon/apple-touch-icon-144x144.png'|relative_url}}" />
+  <link rel="apple-touch-icon" sizes="152x152" href="{{ 'img/favicon/apple-touch-icon-152x152.png'|relative_url}}" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'img/favicon/apple-touch-icon-180x180.png'|relative_url}}" />
   <!-- DNS-PREFETCH -->
   <link rel="dns-prefetch" href="https://ajax.googleapis.com">
   <link rel='dns-prefetch' href='https://ajax.cloudflare.com'>

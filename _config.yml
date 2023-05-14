@@ -7,7 +7,6 @@ author: Julian Franco
 title: Heladería GurCoff
 facebook: https://www.facebook.com/gurcoffhuila
 instagram: https://instagram.com/gurcoff
-tripadvisor: https://www.tripadvisor.co/Restaurant_Review-g445060-d19216448-Reviews-Gurcoff-San_Agustin_Huila_Department.html?m=19905
 whatsapp: https://wa.me/573026370737
 minegocio: https://g.page/gurcoffheladeria/review?rc
 tel: tel://+573026370737
@@ -37,9 +36,3 @@ defaults:
     values:
       layout: "articulo"
       excerpt_separator: <!-- excerpt -->
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag 
-  - jekyll-redirect-from

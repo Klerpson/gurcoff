@@ -31,6 +31,19 @@
   max-width: 720px;
 }
 
+.benefits img{
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.benefits ol{
+  margin-left: 2rem;
+}
+
+.benefits ol li::marker{
+  font-size: 1.5rem;
+}
+
 .benefits-points{
   display: flex;
   flex-wrap: wrap;

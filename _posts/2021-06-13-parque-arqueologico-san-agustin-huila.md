@@ -10,8 +10,9 @@ alt: Parque arqueológico de San Agustín Huila sección mesita A
 date: 2021-06-13
 background-header: var(--oficial)
 intro: El parque arqueológico de San Agustín es complejo muy grande. Abarca 2 municipios, San Agustín e Isnos. Se divide en amplias secciones con características especiales. Conócelo.
-redirect_to:
-  - https://sanagustinhuila.com.co/turismo-san-agustin/parque-arqueologico-san-agustin
+layout: redirected
+sitemap: false
+redirect_to: https://sanagustinhuila.com.co/turismo-san-agustin/parque-arqueologico-san-agustin
 permalink: /parque-arqueologico-san-agustin-huila
 ---
 El Parque Arqueológico de San Agustín es un conjunto de esculturas y monumentos prehispánicos ubicados en la región del Huila, en Colombia. Es una de las zonas arqueológicas más importantes de toda Sudamérica, con **esculturas y monumentos de hace más de 1.800 años**.

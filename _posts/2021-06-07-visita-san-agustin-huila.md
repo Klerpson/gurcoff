@@ -10,8 +10,9 @@ alt: Entrada a San Agustín Huila
 date: 2021-06-07
 background-header: var(--oficial)
 intro: En San Agustín Huila tienes muchas opciones de turismo de naturaleza, experiencias campesinas y muchos lugares, muy cerca, para hacer todo un recorrido de variedad aventurera.
-redirect_to:
-  - https://sanagustinhuila.com.co/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema
+layout: redirected
+sitemap: false
+redirect_to: https://sanagustinhuila.com.co/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema
 permalink: /visita-san-agustin-huila
 ---
 **San Agustín Huila es un pueblito especial para viajar y descansar.** Sus hermosos paisajes del macizo colombiano. Sus estructuras coloniales. Su clima fresco. Su cultura. Todo es una invitación a quedarse y vivir una experiencia renovadora.
