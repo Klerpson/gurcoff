@@ -58,6 +58,28 @@ Malteadas GurCoff:
       - Barquilla con chocolate y grageas
       - Malteada óreo
       - Helado de yogur GurCoff
+  - nombre: Malteada de Brownie GurCoff
+    img: malteada-brownie.webp
+    alt: Malteada de Brownie GurCoff
+    title: Malteada de Brownie
+    link: 'https://wa.me/p/5309982319013907/573026370737'
+    precio: 19000
+    toppins:
+      - Malteada con receta de vainilla GurCoff
+      - Brownie preparado en casa
+      - Cereza
+      - Salsa Hershey's
+
+  - nombre: Malteada de Fresa GurCoff
+    img: malteada-fresa.webp
+    alt: Malteada de Fresa GurCoff
+    title: Malteada de Fresa
+    link: 'https://wa.me/p/5837625259591920/573026370737'
+    precio: 16300
+    toppins:
+      - Malteada con receta de vainilla GurCoff
+      - Fresa natural
+      - Salsa natural frutos rojos
   
 Preparaciones GurCoff:
   - nombre: Ensalada de frutas GurCoff
@@ -81,7 +103,7 @@ Preparaciones GurCoff:
     img: affogatto.webp
     alt: Affogato GurCoff
     title: Café affogato
-    link: 'https://wa.me/p/5429983033698513/573026370737'
+    link: 'https://wa.me/p/4796946837050081/573026370737'
     precio: 8000
     toppins:
       - Café cultivado en Pitalito
