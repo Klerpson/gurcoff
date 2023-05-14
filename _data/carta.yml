@@ -37,6 +37,19 @@ Copas deluxe:
       - Uva
       - Granola
       - Salsa natural frutos verdes
+  - nombre: Copa Queso GurCoff
+    img: queso.webp
+    alt: Copa Queso de helado suave GurCoff
+    title: Copa Queso GurCoff
+    link: 'https://wa.me/p/7125264127546552/573026370737'
+    precio: 12800
+    toppins:
+      - Zucaritas original
+      - Queso
+      - Ripio brownie preparado en casa
+      - Más queso
+      - Arequipe
+      - Y más queso!
 
 Malteadas GurCoff:
   - nombre: Malteada Especial GurCoff
@@ -69,7 +82,6 @@ Malteadas GurCoff:
       - Brownie preparado en casa
       - Cereza
       - Salsa Hershey's
-
   - nombre: Malteada de Fresa GurCoff
     img: malteada-fresa.webp
     alt: Malteada de Fresa GurCoff
@@ -98,7 +110,6 @@ Preparaciones GurCoff:
       - Coco
       - Queso
       - Lechera o salsa natural
-
   - nombre: Café affogato
     img: affogatto.webp
     alt: Affogato GurCoff
@@ -109,3 +120,17 @@ Preparaciones GurCoff:
       - Café cultivado en Pitalito
       - Helado de receta de vainilla GurCoff
       - Más suave que un capuchino
+  - nombre: Waffle con frutas GurCoff
+    img: waffle.webp
+    alt: Waffle con frutas GurCoff
+    title: Waffle con frutas
+    link: 'https://wa.me/p/4903682509718323/573026370737'
+    precio: 13500
+    toppins:
+      - Kiwi
+      - Mango
+      - Fresas
+      - Banano
+      - Lechera
+      - Waffle con receta GurCoff
+      - Salsa Hershey's
