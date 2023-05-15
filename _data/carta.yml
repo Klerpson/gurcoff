@@ -6,6 +6,7 @@ Copas deluxe:
     link: 'https://wa.me/p/4867349966690571/573026370737'
     precio: 13500
     toppins:
+      - Doble porción de helado con receta GurCoff
       - Chocmelos
       - Perlas de chocolate
       - Chococrispi
@@ -19,6 +20,7 @@ Copas deluxe:
     link: 'https://wa.me/p/4867349966690571/573026370737'
     precio: 13500
     toppins:
+      - Doble porción de helado con receta GurCoff
       - Cerezas
       - Fresas
       - Moras
@@ -31,12 +33,28 @@ Copas deluxe:
     link: 'https://wa.me/p/5611414128886092/573026370737'
     precio: 12500
     toppins:
+      - Doble porción de helado con receta GurCoff
       - Mango
       - Fresas
       - Kiwi
       - Uva
       - Granola
       - Salsa natural frutos verdes
+  - nombre: Copa Óreo
+    img: oreo.webp
+    alt: Copa Óreo de helado suave GurCoff
+    title: Copa Óreo
+    link: 'https://wa.me/p/4904615149653551/573026370737'
+    precio: 12800
+    toppins:
+      - Doble porción de helado con receta GurCoff
+      - Ripio de galleta óreo
+      - Fresas
+      - Más ripio de galleta óreo
+      - Tobbys M&M's
+      - Chips de chocolate negros
+      - Galleta óreo
+      - Salsa Hershey's
   - nombre: Copa Queso GurCoff
     img: queso.webp
     alt: Copa Queso de helado suave GurCoff
@@ -44,6 +62,7 @@ Copas deluxe:
     link: 'https://wa.me/p/7125264127546552/573026370737'
     precio: 12800
     toppins:
+      - Doble porción de helado con receta GurCoff
       - Zucaritas original
       - Queso
       - Ripio brownie preparado en casa
@@ -57,6 +76,7 @@ Copas deluxe:
     link: 'https://wa.me/p/7125264127546552/573026370737'
     precio: 12000
     toppins:
+      - Doble porción de helado con receta GurCoff
       - Granola
       - Maní
       - Ripio brownie preparado en casa
