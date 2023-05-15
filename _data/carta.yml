@@ -26,6 +26,19 @@ Copas deluxe:
       - Moras
       - Arándanos
       - Salsa natural frutos rojos
+  - nombre: Copa Maracuyá
+    img: maracuya.webp
+    alt: Copa Maracuyá de helado suave GurCoff
+    title: Copa Maracuyá GurCoff
+    link: 'https://wa.me/p/7329472350428058/573026370737'
+    precio: 12500
+    toppins:
+      - Doble porción de helado con receta GurCoff
+      - Mango
+      - Galleta minichips triturada
+      - Maracuyá
+      - Barquillos
+      - Salsa natural frutos amarillos o lechera
   - nombre: Frutal GurCoff
     img: frutal.webp
     alt: Copa frutal de helado suave GurCoff
