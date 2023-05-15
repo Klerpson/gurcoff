@@ -94,6 +94,16 @@ Malteadas GurCoff:
       - Salsa natural frutos rojos
   
 Preparaciones GurCoff:
+  - nombre: Café affogato
+    img: affogatto.webp
+    alt: Affogato GurCoff
+    title: Café affogato
+    link: 'https://wa.me/p/4796946837050081/573026370737'
+    precio: 8000
+    toppins:
+      - Café cultivado en Pitalito
+      - Helado de receta de vainilla GurCoff
+      - Más suave que un capuchino
   - nombre: Ensalada de frutas GurCoff
     img: ensalada.webp
     alt: Ensalada de frutas GurCoff
@@ -110,16 +120,6 @@ Preparaciones GurCoff:
       - Coco
       - Queso
       - Lechera o salsa natural
-  - nombre: Café affogato
-    img: affogatto.webp
-    alt: Affogato GurCoff
-    title: Café affogato
-    link: 'https://wa.me/p/4796946837050081/573026370737'
-    precio: 8000
-    toppins:
-      - Café cultivado en Pitalito
-      - Helado de receta de vainilla GurCoff
-      - Más suave que un capuchino
   - nombre: Waffle con frutas GurCoff
     img: waffle.webp
     alt: Waffle con frutas GurCoff
@@ -134,3 +134,15 @@ Preparaciones GurCoff:
       - Lechera
       - Waffle con receta GurCoff
       - Salsa Hershey's
+  - nombre: Brownie GurCoff
+    img: brownie.webp
+    alt: Brownie GurCoff
+    title: Brownie GurCoff
+    link: 'https://wa.me/p/5050251775031266/573026370737'
+    precio: 12000
+    toppins:
+      - Brownie preparado en casa
+      - Cereza
+      - Helado de receta GurCoff
+      - Salsa Hershey's
+      - Maní saladito
