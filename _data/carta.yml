@@ -50,6 +50,19 @@ Copas deluxe:
       - Más queso
       - Arequipe
       - Y más queso!
+  - nombre: Copa Frutos Secos
+    img: frutos-secos.webp
+    alt: Copa de frutos secos de helado suave GurCoff
+    title: Copa Frutos Secos
+    link: 'https://wa.me/p/7125264127546552/573026370737'
+    precio: 12000
+    toppins:
+      - Granola
+      - Maní
+      - Ripio brownie preparado en casa
+      - Banano
+      - Coco
+      - Arequipe
 
 Malteadas GurCoff:
   - nombre: Malteada Especial GurCoff
