@@ -4,10 +4,10 @@
   --secundario: #f393cf;
   --accion: rgb(136, 253, 228);
   --rojo: #a31621;
-  --grisClaro: #dddddd;
+  --grisClaro: hsl(0, 0%, 87%);
   --grisFuentes: #161519;
   --shadow: 0 4px 8px rgba(24, 24, 24, 0.302);
-  --blanco: #fefefe;
+  --blanco: #fff;
   --fuenteTitulos: "Domine", serif;
   --fuenteTextos: "Josefin Sans", sans-serif;
   --fuenteGurcoff: "Dancing Script", cursive;
