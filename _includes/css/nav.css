@@ -1,48 +1,39 @@
 nav {
   position: fixed;
-  z-index: 100;
   left: 0;
   right: 0;
   top: 0;
   font-family: var(--fuenteTextos);
-  padding: 0 5%;
-  height: 2.6rem;
-  background-color: var(--oficial);
+  padding: 8px 5%;
+  border-bottom: 1.2px solid var(--principal);
+  box-shadow: var(--shadow);
+  background-color: white;
+  display: flex;
 }
 
 nav .logo{
-  float: left;
-  width: 40%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  font-size: 1.1rem;
-  font-weight: 700;
-  color: white;
+  font-size: 1.4rem;
   font-family: var(--fuenteGurcoff);
+  color: var(--secundario);
+  transition: all .1s ease-in;
+  margin-right: auto;
+}
+
+nav .logo:hover{
+  text-shadow: 0px 2px 4px rgba(168, 117, 239, 0.55);
+  transform: scale(1.05);
 }
 
 nav ul {
-  float: right;
-  padding: 0;
-  margin: 0;
-  width: 60%;
-  height: 100%;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
-}
-
-nav ul li {
-  list-style: none;
+  gap: 1.2em;
 }
 
 nav ul li a {
-  color: white;
   text-decoration: none;
   display: block;
-  padding: 0.5rem;
-  font-size: 0.9rem;
   font-weight: 700;
 }
 
@@ -69,38 +60,31 @@ nav .icono-nav {
 nav .icono-nav .line {
   width: 32px;
   height: 4px;
-  background-color: white;
+  background-color: var(--principal);
   margin: 4px;
   border-radius: 3px;
   transition: all 0.3s ease-in-out;
 }
 
 @media screen and (max-width: 768px) {
-  nav .logo {
-    float: none;
-    width: auto;
-    justify-content: center;
-    font-size: 1.2rem;
-  }
-
   nav ul {
-    float: none;
     position: fixed;
     flex-direction: column;
-    z-index: 99;
     left: 0;
     right: 0;
+    top: 58px;
     bottom: 100%;
-    top: 2.6rem;
     width: auto;
     height: auto;
-    background-color: rgba(168, 117, 239, 0.9);
+    background-color: rgba(168, 117, 239, 0.95);
     overflow: hidden;
     transition: all 0.4s ease-out;
+    justify-content: space-around;
   }
 
   nav ul li a {
     font-size: 1.2rem;
+    color: white;
   }
 
   nav :checked ~ ul {
