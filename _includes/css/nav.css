@@ -17,6 +17,7 @@ nav .logo{
   color: var(--secundario);
   transition: all .1s ease-in;
   margin-right: auto;
+  text-decoration: none;
 }
 
 nav .logo:hover{
