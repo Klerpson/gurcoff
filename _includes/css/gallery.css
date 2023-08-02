@@ -1,9 +1,12 @@
 .gallery{
+  margin: 4em 0;
   overflow: auto;
   display: flex;
-  gap: .5rem;
+  gap: 1em;
   scroll-snap-type: x mandatory;
   background-color: var(--oficial); background-image: url('{{ site.baseurl }}/img/brick-wall.png');
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
 
  @media screen and (min-width: 2048px){
@@ -22,10 +25,11 @@
   background-repeat: no-repeat;
   border: 1px solid var(--gris1);
   border-radius: var(--radius);
+  display: grid;
 }
 
 .gallery a{
-  color: var(--principal);
+  color: var(--accion);
 }
 
 .gallery a h3{

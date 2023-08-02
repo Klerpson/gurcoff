@@ -3,17 +3,10 @@ layout: compress
 ---
 {% include head.html %}
 <body>
-  <header>
-    {% include nav.html %}
-    <h1>{{page.h1}}</h1>
-    {% if page.url == "/" %}
-      <a href="{{ site.baseurl }}/contacto" class="boton-main" target="_blank" rel="nofollow">Visítanos</a>
-      {% endif %}
-      {% if page.intro %}
-      <p>{{page.intro}}</p>
-      {% endif %}
-    {% include img-responsive.html hero=page.hero webpb=page.webpb webpm=page.webpm webps=page.webps alt=page.alt %}
-  </header>
+  {% include nav.html %}
+
+  {% include header.html %}
+  
   {% if page.url contains "legal" %}
   <main class="legal">
     {{ content }}

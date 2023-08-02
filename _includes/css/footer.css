@@ -1,17 +1,16 @@
 footer {
   display: flex;
   flex-wrap: wrap;
-  gap: 3rem 2rem;
-  justify-content: center;
-  background: linear-gradient(rgba(136, 253, 228, .7), rgba(250, 250, 250, .4));
+  gap: 1em;
+  justify-content: space-evenly;
 }
 
 footer div{
-  max-width: 300px;
+  max-width: 320px;
 }
 
 footer img{
-  width: min(100%, 300px);
+  width: min(100%, 320px);
 }
 
 footer .logo h2{
@@ -22,27 +21,30 @@ footer .logo h2{
 .footer-links,
 .footer-data{
   display: flex;
-  gap: .5rem;
   flex-direction: column;
   text-align: left;
+  gap: 1em;
 }
 
 .footer-links h4{
   margin: 0;
 }
 
-.footer-links a{
-  color: var(--oficial);
+.footer-links a:not(.boton-main){
+  color: var(--accion);
   text-decoration: none;
   transition: all .5s ease;
 }
 
+.footer-data ul{
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
 .footer-data ul li{
   list-style: none;
-  display: flex;
-  gap: 1rem;
-  align-items: center;
-  margin-bottom: .5rem;
 }
 
 .register{
@@ -55,16 +57,6 @@ footer h2,
 footer h4,
 footer a,
 footer p{
-  font-size: .8rem;
+  font-size: .8em;
   margin: 0;
-}
-
-footer .svg-icon path,
-footer .svg-icon polygon,
-footer .svg-icon rect {
-  fill: var(--secundario);
-}
-
-footer .svg-icon circle {
-  stroke: var(--secundario);
 }

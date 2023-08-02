@@ -1,112 +1,72 @@
 .benefits {
-  display: flex;
-  gap: 1.5rem;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  padding: 5rem 1rem 3rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr));
   margin-inline: auto;
-  background-color: var(--oficial); background-image: url('{{ site.baseurl }}/img/brick-wall.png');
+  background-color: var(--principal);
+  box-shadow: 0 0 0 100vmax var(--principal);
+  clip-path: inset(0 -100vmax); 
+}
+
+.benefits div h2,
+.benefits div h3{
+  text-align: left;
+}
+
+.benefits div img{
+  max-width: 100%;
 }
 
 .benefits div:first-child{
-  width: min(100%, 1200px);
-  display: grid;
-  place-items: center;
-  gap: 1.5rem;
-}
-
-.benefits div > p{
-  text-align: center;
-}
-
-.benefits div a{
-  color: var(--accion);
-  text-decoration-color: var(--accion);
-}
-
-.benefits h2,
-.benefits p{
-  max-width: 720px;
-}
-
-.benefits img{
-  max-width: 100%;
-  border-radius: 8px;
-}
-
-.benefits ol{
-  margin-left: 2rem;
-}
-
-.benefits ol li::marker{
-  font-size: 1.5rem;
-}
-
-.benefits-points{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1rem;
+  width: min(100%, 420px);
 }
 
 .benefits-points article{
-  width: min(100%, 520px);
   display: flex;
-  gap: .7rem;
+  gap: 1em;
   align-items: center;
-  background-color: white;
-  padding: 1rem;
-  border-radius: 12px;
+  margin: 0;
 }
 
 .testimonials {
   display: grid;
-  gap: 2rem;
-  justify-items: center;
+  place-items: center;
   text-align: center;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-}
-
-.testimonials h2 {
-  color: var(--principal);
-  line-height: 1;
+  padding: 0;
 }
 
 .testimonials h2,
 .testimonials p {
-  width: min(100%, 600px);
+  width: min(100%, 720px);
 }
 
 .testimonials div{
-  width: min(100%, 1200px);
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: center;
+  gap: 1em;
 }
 
 .testimonials div a{
   color: var(--grisfuentes);
   text-decoration: none;
+  max-width: 100%;
+  flex: 1 0 380px;
 }
 
-.testimonials div article{
-  max-width: 320px;
-  background: var(--principal);
-background: linear-gradient(352deg, var(--principal) 0%, rgba(136,253,228,1) 23%);
+.testimonials div a article{
+  border: 2px solid var(--principal);
   border-radius: 12px;
   box-shadow: var(--shadow);
-  padding: .8rem;
+  padding: 1em;
+}
+
+.testimonials div a article h4{
+  margin: 0;
+  text-align: center;
 }
 
 .testimonials article ul {
   display: flex;
   justify-content: center;
-  margin: 1rem 0;
 }
 
 .testimonials article ul li {
@@ -116,29 +76,21 @@ background: linear-gradient(352deg, var(--principal) 0%, rgba(136,253,228,1) 23%
 
 .instagram {
   position: relative;
-  padding: 5rem 16px 3rem;
-  background-color: var(--principal);
-  background-image: url('{{site.baseurl}}/img/brick-wall.png');
-  color: white;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
+.instagram p,
 .instagram h2 {
-  margin: 0 auto 3rem;
   width: min(100%, 720px);
-}
-
-.instagram p{
-  max-width: 520px;
-  margin: 1rem auto 2rem;
   text-align: center;
 }
 
 #instafeed {
   overflow: auto;
-  margin: 0 auto;
-  width: min(100%, 1200px);
+  margin-inline: auto;
+  width: 100%;
 }
 
 #instafeed li {
@@ -148,6 +100,8 @@ background: linear-gradient(352deg, var(--principal) 0%, rgba(136,253,228,1) 23%
   width: 19%;
   padding-bottom: 19%;
   position: relative;
+  box-shadow: var(--shadow);
+  border-radius: 12px;
 }
 
 #instafeed li img {
@@ -171,14 +125,21 @@ background: linear-gradient(352deg, var(--principal) 0%, rgba(136,253,228,1) 23%
   padding: 0 clamp(1.5rem, 4vw, 4rem) 0;
 }
 
-.mapa iframe {
-  display: block;
-  border: 0;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
-  border-radius: 8px;
-  width: min(100%, 580px);
+.cta{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  align-items: center;
+  margin-top: 5rem;
+  background-color: var(--principal);
+  box-shadow: 0 0 0 100vmax var(--principal);
+  clip-path: inset(0 -100vmax); 
 }
 
-.mapa em {
-  width: min(100%, 580px);
+.cta div{
+  flex: 1 0 480px;
+  max-width: 100%;
+  display: grid;
+  place-items: center;
+
 }

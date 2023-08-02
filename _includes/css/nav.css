@@ -5,10 +5,11 @@ nav {
   top: 0;
   font-family: var(--fuenteTextos);
   padding: 8px 5%;
-  border-bottom: 1.2px solid var(--principal);
+  border-bottom: 1.2px solid var(--oficial);
   box-shadow: var(--shadow);
   background-color: white;
   display: flex;
+  z-index: 10;
 }
 
 nav .logo{
@@ -42,7 +43,7 @@ nav ul li a:hover,
 nav ul li a.active {
   text-decoration: underline;
   text-decoration-thickness: 3.2px;
-  text-decoration-color: var(--accion);
+  text-decoration-color: var(--principal);
 }
 
 #nav-toggle {
