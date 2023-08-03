@@ -4,51 +4,31 @@ title: ¿Buscas qué hacer en San Agustín y Pitalito Huila?
 h1: El mejor magazine sobre San Agustín y Pitalito
 description: Conoce los lugares turísticos, los hoteles y las experiencias que ofrece San Agustín y Pitalito Huila. Todo desde las vivencias de tu heladería favorita GurCoff
 intro: El blog de GurCoff es una invitación para que prepares tu viaje, para que salgas un ratico, para que te relajes. Y por supuesto, también para vengas a disfrutar la tarde en tu <strong>heladería favorita GurCoff.</strong>
-img: blog-gurcoff.svg
+jpg: blog-gurcoff.svg
+hero: blog-gurcoff.svg
+webpb: blog-gurcoff.svg
+webpm: blog-gurcoff.svg
+webps: blog-gurcoff.svg
+alt: Blog de la heladería GurCoff
 background-header: var(--principal)
 ---
-<section class="blog">
+<section class="blog wrapper">
   <h2>Un #raticogurcoff, tu nuevo blog favorito</h2>
   <div>
-    <article>
-      {% include add1.html %}
-    </article>
-    {% for post in site.posts %}
+  {% include add1.html %}
+  {% for post in site.posts %}
   <article>
-    <h4>{{ post.h1 }}</h4>
     <a href="{{ post.url }}" title="{{ post.title }}">
       <img src="{{ site.baseurl }}/img/{{ post.img }}" width="320" height="240" alt="{{ post.alt }}" loading="lazy">
-      <p>{{post.intro | truncate: 66}}</p>
-    </a>
+    <h4>{{ post.h1 }}</h4>
+  </a>
   </article>
   {% endfor %}
-  <article>
     {% include add1.html %}
-  </article>
-  <article>
-    <h4>Hoteles de San Agustín Huila y Pitalito</h4>
-    <a href="{{ site.baseurl }}/hoteles" title="Página de hoteles">
-      <img src="{{ site.baseurl }}/img/hoteles/hotel-casa-bonita-san-agustin-huila.webp" width="320" height="240" alt="Foto de hotel en San Agustín Huila" loading="lazy">
-      <p>Preparamos una sección de hoteles para que escojas el que más te gusta.</p>
-    </a>
-  </article>
 </div>
 </section>
-
-<section class="benefits">
-  <div>
-    <h2>Tienes mucho por hacer en San Agustín y Pitalito</h2>
-    <p>Anímate a venir de viaje a San Agustín. O también te esperamos en Pitalito. Tienes garantizado al menos 2 grandes ventajas:</p>
-    <ol>
-      <li><strong>Es un viaje lleno de toda la naturaleza que rodea el macizo colombiano</strong></li>
-      <li><strong>Es un verdadero viaje de descanso. ¡Recárgate de energía y bienestar!</strong></li>
-    </ol>
-    <p>San Agustín, al igual que Pitalito, son destinos muy llenos de maravillas por disfrutar. Como has notado en nuestro contenido, tienes muchas opciones. Destacan la arqueología, las experiencias y la naturaleza como atractivos principales.</p>
-    <p>Por otra parte, <strong>el sur del Huila sigue fortaleciéndose como atractivo turístico.</strong> Desde hace algunos años su gente sigue mejorando en los servicios y atractivos ofrecidos al público.</p>
-    <img src="{{ 'img/magazine/Mirador_Del_Cañón_del_Magdalena_desde_el_Kasama_Hotel_San_Agustín_Huila.webp' | relative_url }}" alt="Mirador en el Cañón del Magdalena en San Agustín Huila" loading="lazy">
-    <p>Entre las principales atracciones están <strong>las aventuras extremas en el cañón del Magdalena y en sus aguas. También, las excursiones temáticas, basadas en su fauna y en el producto principal de la zona: el café.</strong></p>
-    <p>Por ejemplo, muchas fincas y haciendas cafeteras se han capacitado para brindar experiencias enriquecedoras sobre todo el proceso que implica producir un café de alta calidad. Y por supuesto, al final del día terminas probando el que por hoy es considerado el mejor café de Colombia.</p>
-  <h2>Si vienes al sur del Huila, el peligro es que te quedes</h2>
+<div class="wrapper flow">
+  <h2>Si vienes al sur del Huila, tienes que probar GurCoff</h2>
     <p>Y es totalmente cierto. Enamorarse de San Agustín y Pitalito es muy fácil. Por todo esto, de parte del equipo de la <a href="{{site.baseurl}}/contacto">Heladería GurCoff</a>, te dejamos con este llamado: <strong>¡Te esperamos en San Agustín y Pitalito Huila!</strong></p>
       </div>
   </section>
