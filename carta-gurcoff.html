@@ -27,22 +27,22 @@ boton2_link: "#pasos"
     <article>
     <details>
       <summary>
-        <img src="{{site.baseurl}}/img/menu/{{producto.img}}" alt="{{producto.alt}}" title="{{producto.title}}" loading="lazy" width="80" height="100" />
         <div>
           <p>
             {{producto.nombre}} 
           </p>
           <p>{{producto.precio}}</p>
         </div>
-        </summary>
-
+      </summary>
+      
       <div>
-          <p>
+        <img src="{{site.baseurl}}/img/menu/{{producto.img}}" alt="{{producto.alt}}" title="{{producto.title}}" loading="lazy" width="80" height="100" />
+          <ul>
             {% for toppin in producto.toppins %}
-            <b>✓</b> {{toppin}}
+            <li><b>✓</b> {{toppin}}</li>
             {% endfor %}
-          </p>
-          <a href="{{producto.link}}" rel="nofollow">Pedir domicilio</a>
+          </ul>
+          <a href="{{producto.link}}" rel="nofollow" class="boton-main">Pedir domicilio</a>
       </div>
     </details>
   </article>

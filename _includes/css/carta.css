@@ -12,74 +12,48 @@
   text-align: left;
 }
 
-.carta div article {
-  position: relative;
-  padding: 1rem;
-  border-radius: 8px;
-  border: 1px solid var(--accion);
-}
-
-details summary {
-  transition: margin 150ms ease-out;
-}
-
-details[open] summary {
-  margin-bottom: 10px;
-}
-
-.carta details > div{
-  display: grid;
-  gap: .5rem;
-  align-items: center;
-}
-
-.carta div summary{
-  color: var(--oficial);
-  font-weight: 700;
-  font-size: 1.2rem;
-  cursor: pointer;
-  text-decoration: underline;
-  text-decoration-thickness: 3.2px;
-  display: flex;
-  gap: .8rem;
-  font-family: var(--fuenteTitulos);
-}
-
-.carta div summary::marker {
-  content: " ";
-}
-
-.carta div summary img{
-  aspect-ratio: 3 / 4;
-  align-self: center;
-  border-radius: 4px;
-}
-
-.carta div summary div{
-  display: grid;
-  gap: .8rem;
-  place-content: center;
-}
-
 .carta-productos{
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   align-items: flex-start;
 }
 
-.carta-productos details > div p{
-  font-size: 16px;
-  margin-top: .8rem;
-}
-
-.carta-productos details > div a{
-  font-size: 16px;
-  justify-self: right;
-  text-decoration: none;
-  background-color: var(--principal);
-  color: white;
-  padding: .4rem .8rem;
+.carta-productos img{
+  float: right;
+  aspect-ratio: 3 / 4;
   border-radius: 4px;
+  margin-left: .5em;
 }
 
+.carta-productos article {
+  position: relative;
+  padding: 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--oficial);
+  box-shadow: var(--shadow);
+}
+
+.carta-productos summary{
+  color: var(--accion);
+  font-weight: 700;
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-thickness: 3.2px;
+  font-family: var(--fuenteTextos);
+
+}
+.carta-productos summary div{
+  display: flex;
+  gap: .5em;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.carta-productos summary::marker {
+  content: " ";
+}
+
+.carta-productos div ul{
+  margin: 1em 0;
+}
