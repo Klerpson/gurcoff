@@ -1,9 +1,9 @@
 <header class="wrapper">
   <div class="flow">
     <h1>{{page.h1}}</h1>
-    {% if page.url == "/" %}
-    <a href="https://goo.gl/maps/xRA8YXkkYfximyUu9" class="boton-main" target="_blank" rel="nofollow">Pitalito</a>
-    <a href="https://goo.gl/maps/Kc6g8sZTeBaM71aP8" class="boton-main" target="_blank" rel="nofollow">San Agustín</a>
+    {% if page.boton %}
+    <a href="{{page.boton_link}}" class="boton-main">{{page.boton}}</a>
+    <a href="{{page.boton2_link}}" class="boton-main">{{page.boton2}}</a>
     {% endif %}
     {% if page.intro %}
     <p>{{page.intro}}</p>

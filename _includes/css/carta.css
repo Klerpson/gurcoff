@@ -1,40 +1,18 @@
-.testimonials ol li{
-  text-align: left;
-  margin-left: 3rem;
-}
-
-.testimonials ol li::marker{
-  font-size: 1.5rem;
-  color: var(--oficial);
-}
-
 .carta {
-  padding: 4rem 0;
   display: grid;
-  gap: 2rem;
-  background-color: var(--oficial); background-image: url('{{ site.baseurl }}/img/brick-wall.png');
+  gap: 2em;
 }
 
 .carta h2{
-  color: white;
   margin-inline: auto;
   width: min(70vw, 640px );
 }
 
-.carta > div{
-  width: min(90vw, 960px);
-  padding: 0 15px;
-  margin-inline: auto;
-}
-
 .carta div h3{
   text-align: left;
-  margin: 1.8rem 0 1rem;
-  color: white;
 }
 
 .carta div article {
-  background-color: white;
   position: relative;
   padding: 1rem;
   border-radius: 8px;

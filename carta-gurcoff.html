@@ -2,32 +2,24 @@
 layout: default
 title: Carta de la heladería GurCoff
 h1: Conoce los helados <span class="fuenteGurcoff">GurCoff</span> favoritos de Pitalito y San Agustín
-description: ¿Conocenes la carta de GurCoff? Antójate de los helados, waffles, ensalada de frutas, copas deluxe y otros. Serán tus nuevos favoritos!
+description: ¿Conoces la carta de GurCoff? Antójate de los helados, waffles, ensalada de frutas, copas deluxe y otros. Serán tus nuevos favoritos!
 jpg: copa-achocolatada.jpg
-hero: copa-achocolatada.webp
-webpb: copa-achocolatada-800.webp
+hero: copa-achocolatada-600.webp
+webpb: copa-achocolatada-600.webp
 webpm: copa-achocolatada-600.webp
 webps: copa-achocolatada-376.webp
 alt: Helados de la heladería GurCoff de Pitalito y San Agustín Huila
-intro: '¿Conocenes la carta de GurCoff? Antójate de los <strong>helados, waffles, ensalada de frutas, copas deluxe</strong> y otros. Serán tus nuevos favoritos!'
+intro: '¿Conoces la carta de GurCoff? Antójate de los <strong>helados, waffles, ensalada de frutas, copas deluxe</strong> y otros. Serán tus nuevos favoritos!'
+boton: "Ver productos"
+boton_link: "#productos"
+boton2: "Cómo pedir"
+boton2_link: "#pasos"
 ---
-<section class="testimonials">
-  <h2>¿Qué antjito <span class="fuenteGurcoff">GurCoff</span> tienes hoy?</h2>
-  <p>Pide tus helados favoritos directamente a nuestro WhatsApp. <b>Solo sigue estos pasos:</b></p>
-  <ol>
-    <li>Revisa los productos de esta carta</li>
-    <li>Toca el nombre del que más te gusta</li>
-    <li>Haz clic en el botón "Pedir domicilio"</li>
-    <li>Abre el producto en el catálog de WhatsApp</li>
-    <li>Agrega los productos al carrito de WhatsApp</li>
-    <li>Envía tu pedido y disfruta</li>
-    <li>Puedes ver más fotos al hacer clic en <b>Pedir domicilio</b></li>
-  </ol>
-</section>
-<main class="carta">
+<hr>
+<main  id="productos" class="carta wrapper">
   <h2>Antójate de tu favorito con la carta GurCoff</h2>
 
-  <div>
+  <div class="flow">
     {% for item in site.data.carta %} {% assign cat = item[0] %}
   <h3>{{ cat }}</h3>
   <div class="carta-productos">
@@ -59,3 +51,13 @@ intro: '¿Conocenes la carta de GurCoff? Antójate de los <strong>helados, waffl
   {% endfor %}
   </div>
 </main>
+<section class="cta wrapper" id="pasos">
+  <h2>Pasos para pedir tu antojito <span class="fuenteGurcoff">GurCoff</span></h2>
+  <ol>
+    <li>Toca el nombre del helado que más te gusta y despliega la descripción</li>
+    <li>Haz clic en el botón "Pedir domicilio" para abrir el producto en el catálogo de WhatsApp</li>
+    <li>Agrega los productos al <a href="https://wa.me/c/573026370737" rel="nofollow noopener noreferrer" target="_blank">carrito de WhatsApp</a>.</li>
+    <li>Envía tu pedido y disfruta</li>
+  </ol>
+  <p>También puedes ver más fotografía haciendo clic en el catálogo de WhatsApp.</p>
+</section>
