@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Somos GurCoff heladería, tu favorita!
+title: "Saborea lo mejor: Helados GurCoff en Pitalito y San Agustín"
 h1: Somos GurCoff Heladería, la mejor de Pitalito y San Agustín
-description: ¿Conoces nuestra historia y cómo seguimos creciendo? Lee porqué nos convertimos en los favoritos de Pitalito y San Agustín Huila.
+description: ¿Conoces nuestra historia y cómo seguimos creciendo? Conoce cómo GurCoff se convirtió en la heladería favorita de Pitalito y San Agustín.
 jpg: logotipo.jpg
 hero: logotipo.webp
 webpb: logotipo-800.webp
 webpm: logotipo-600.webp
 webps: logotipo-376.webp
 alt: Helados de la heladería GurCoff de Pitalito y San Agustín Huila
-intro: '¿Conoces nuestra historia y cómo seguimos creciendo? Lee porqué nos convertimos en los favoritos de Pitalito y San Agustín Huila.'
+intro: '¿Conoces nuestra historia y cómo seguimos creciendo? Ven y **descubre por qué GurCoff es la heladería número uno en Pitalito y San Agustín**.'
 boton: "Pitalito"
 boton_link: "https://goo.gl/maps/xRA8YXkkYfximyUu9"
 boton2: "San Agustín"
