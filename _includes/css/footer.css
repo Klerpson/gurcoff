@@ -40,7 +40,7 @@ footer .logo h2{
   display: flex;
   gap: 1em;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: left;
 }
 
 .footer-data ul li{
@@ -49,7 +49,7 @@ footer .logo h2{
 
 .register{
   display: flex;
-  justify-content: center;
+  justify-content: left;
   padding: 1rem 1rem 2rem;
 }
 
