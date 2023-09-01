@@ -22,4 +22,19 @@ layout: compress
   <a href="{{site.whatsapp}}" class="boton-whatsapp">
     <img src="{{'img/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
   </a>
+  {% if page.url == "/" %}
+  <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      pagination: {
+        el: ".swiper-pagination",
+        dynamicBullets: true,
+      },
+    });
+  </script>
+  {% endif %}
 </body>
+</html>

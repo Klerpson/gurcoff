@@ -7,12 +7,6 @@ header {
   place-items: center;
 }
 
-header div{
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-}
-
 header img{
   width: min(100%, 580px);
   border-radius: var(--radius);
@@ -20,4 +14,41 @@ header img{
 
 header a:first-of-type{
   margin-right: 16px;
+}
+
+.swiper {
+  width: 100%;
+  height: 400px;
+}
+
+.swiper-slide {
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-slide h3{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #a875ef80;
+  padding: 4px 8px;
+  color: white;
+  border-radius: 0 0 12px 12px;
+}
+
+.swiper-pagination{
+  color: var(--principal);
 }

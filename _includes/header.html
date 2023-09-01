@@ -4,10 +4,10 @@
     {% if page.boton %}
     <a href="{{page.boton_link}}" class="boton-main">{{page.boton}}</a>
     <a href="{{page.boton2_link}}" class="boton-main">{{page.boton2}}</a>
-    {% endif %}
-    {% if page.intro %}
+    {% endif %} {% if page.intro %}
     <p>{{page.intro}}</p>
     {% endif %}
   </div>
-  {% include img-responsive.html hero=page.hero webpb=page.webpb webpm=page.webpm webps=page.webps alt=page.alt %}
+  <!-- Swiper -->
+  {% include swiper.html %}
 </header>
