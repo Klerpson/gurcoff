@@ -24,19 +24,16 @@ boton2_link: "#pasos"
   <h3>{{ cat }}</h3>
   <div class="carta-productos">
     {% for producto in site.data.carta[cat] %}
-    <article>
+    <article style="background-image: url('{{site.baseurl}}/img/menu/{{producto.img}}'); background-repeat: no-repeat; background-position: center;">
     <details>
       <summary>
         <div>
-          <p>
-            {{producto.nombre}} 
-          </p>
+          <p>≻ {{producto.nombre}}</p>
           <p>{{producto.precio}}</p>
         </div>
       </summary>
       
       <div>
-        <img src="{{site.baseurl}}/img/menu/{{producto.img}}" alt="{{producto.alt}}" title="{{producto.title}}" loading="lazy" width="80" height="100" />
           <ul>
             {% for toppin in producto.toppins %}
             <li><b>✓</b> {{toppin}}</li>

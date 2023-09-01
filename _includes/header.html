@@ -8,6 +8,11 @@
     <p>{{page.intro}}</p>
     {% endif %}
   </div>
+
   <!-- Swiper -->
+  {% if page.url == "/" %}
   {% include swiper.html %}
+  {% else %}
+  {% include img-responsive.html webps=page.webps webpm=page.webpm webpb=page.webpb hero=page.hero alt=page.alt %}
+  {% endif %}
 </header>
