@@ -93,18 +93,3 @@ blockquote,
   aspect-ratio: 16 / 9;
   margin: 2rem 0 1.5rem;
 }
-
-.legal {
-  display: grid;
-  gap: 2rem;
-}
-
-.legal h2 {
-  color: var(--oficial);
-  font-family: var(--fuenteTextos);
-}
-
-.legal h3 {
-  text-align: left;
-  color: var(--secundario);
-}

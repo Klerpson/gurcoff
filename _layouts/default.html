@@ -11,8 +11,8 @@ layout: compress
 
   {% include header.html %}
   
-  {% if page.url contains "legal" %}
-  <main class="legal">
+  {% if page.url contains "legal" or page.url contains "/conoce-gurcoff" %}
+  <main class="wrapper flow articulo">
     {{ content }}
   </main>
   {% else %}
