@@ -1,3 +1,7 @@
+.articulo{
+  padding-top: 0;
+}
+
 .articulo h2,
 .articulo h3,
 .articulo h4 {
@@ -43,28 +47,11 @@
   margin: 1rem 0 0 1.5rem;
 }
 
-.articulo table{
-  width: 100%;
-}
-
-.articulo table tr {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 1rem;
-  border-bottom: 1px solid var(--secundario);
-  padding: 0.3rem 0;
-}
-
 .articulo table th {
-  background: var(--secundario);
+  background: var(--principal);
   padding: 0.3rem 0.5rem;
   justify-content: left;
   width: 100%;
-}
-
-.articulo table td {
-  padding: 0 .3rem;
 }
 
 blockquote,
