@@ -26,7 +26,7 @@ GurCoff es más que una heladería; es tu punto de encuentro favorito en **Pital
 
 #### Dirección en Pitalito
 
-Estamos en la carrera 5 este 2a-31, barrio Venecia, cerca de la Escuela San Juan de Laboyos.
+Estamos en la entrada a Agua Dulce, justo frente a la estación de gasolina, a 40 metros de la vía a Neiva.
 
 #### Dirección en San Agustín
 
