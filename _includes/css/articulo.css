@@ -27,13 +27,13 @@
 }
 
 .articulo img {
+  max-width: min(100%, 1200px);
+  height: max-content;
   display: block;
   float: right;
-  border-radius: 8px;
+  border-radius: var(--radius);
   box-shadow: var(--shadow);
   margin: 1.5rem;
-  max-width: 100%;
-  aspect-ratio: 16 / 9;
 }
 
 .articulo em {
