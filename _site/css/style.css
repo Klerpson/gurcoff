@@ -258,6 +258,17 @@ input{
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  gap: 2em;
+}
+
+.flex > *{
+  flex: 1 0 400px;
+}
+
+lord-icon{
+  border: 2.4px solid var(--complemento2);
+  max-width: 260px;
+  border-radius: var(--radius);
 }
 nav {
   position: sticky;

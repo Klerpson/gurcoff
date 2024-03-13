@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 User-Agent: AdsBot-Google-Mobile
 User-Agent: AdsBot-Google
-Sitemap: https://terminaldetransporte.com/sitemap.xml
+Sitemap: https://gurcoff.com/sitemap.xml
