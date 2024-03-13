@@ -1,20 +1,13 @@
 baseurl: ''
 url: 'https://gurcoff.com'
-repository : “Klerpson/gurcoff"
-name: Heladería GurCoff
-author: Julian Franco
-# email: info@enpitalito.com
-title: Heladería GurCoff
+name: 'gurcoff.com'
+author: Juli - GurCoff
+instagram: https://www.instagram.com/gurcoff
 facebook: https://www.facebook.com/gurcoff
-instagram: https://instagram.com/gurcoff
-whatsapp: https://wa.me/573026370737
-minegocio: https://g.page/gurcoffheladeria/review?rc
-tel: tel://+573026370737
-sanagustin: https://goo.gl/maps/KbHfVC77cpEXGDSo6
-pitalito: https://goo.gl/maps/RQ6tyv3DTMHLY6P69
-permalink: /:slug
 
 markdown: kramdown
+
+permalink: :slug
 
 keep_files: [/img]
 
@@ -27,12 +20,3 @@ compress_html:
     blanklines: false
     profile: false
     startings: []
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "articulo"
-      excerpt_separator: <!-- excerpt -->

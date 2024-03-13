@@ -1,0 +1,36 @@
+---
+layout: pagina
+title: "#historiasgurcoff son los relatos de GurCoff para ti"
+description: ¿Te gusta leer historias en un blog? La heladería GurCoff no solo te cuenta historias. Te muestra cómo aprender de ellas y hacerlas parte de tu vida
+h1: Lee las <span class="resaltar">#historiasGurCoff que te inspiran</span> para avanzar y mejorar
+hero: img/historiasgurcoff.webp
+jpg: img/historiasgurcoff.jpg
+alt: Fotografía de un vaso GurCoff
+---
+<main class="wrapper entradas">
+  <h2>📖 Aprenderás y te divertirás con las <span class="resaltar">#historiasgurcoff</span> que tenemos para ti</h2>
+  <p>¿Te gusta leer historias? Estamos compilando y escribiendo las historias que te enamoren, <b>¡así como lo hacen nuestros helados!</b>. Además, intentamos que aprendas mucho de esas historias:</p>
+  <ul>
+    <li><strong>Inspírate</strong></li>
+    <li><strong>Emociónate</strong></li>
+    <li><strong>Crece</strong></li>
+    <li><strong>Conoce</strong></li>
+    <li>¡Lee las historias de GurCoff!</li>
+  </ul>
+  <h3>Haz clic en los siguientes artículos ⏬</h3>
+  <div class="home_gallery">
+    {% for post in site.posts %}
+    {% if post.category == "#historiasgurcoff" %}
+    <article>
+      <img src="{{post.hero|relative_url}}" alt="{{post.alt}}">
+      <div>
+        <a href="{{post.url|relative_url}}"><h4>{{post.h1}}</h4></a>
+      </div>
+    </article>
+    {% endif %}
+    {% endfor %}
+    <div class="add">
+      {% include add1.html %}
+    </div>
+  </div>
+</main>

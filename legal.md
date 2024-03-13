@@ -1,11 +1,10 @@
 ---
-layout: default
-title: Términos y Condiciones de GurCoff San Agustin
+layout: pagina
+title: Heladería GurCoff | Términos y Condiciones de la página web
 h1: Avisos legales del uso de GurCoff.com
 description: Condiciones de uso, privacidad y términos y condiciones de la página de la heladería GurCoff
-background-header: var(--secundario)
+noindex: true
 ---
-{% include breadcrumbs.html %}
 ## Aviso legal para sitio web de Colombia
 
 En esta página se detallan las instrucciones legales que se aplican a todos los usuarios de Internet que visiten este Sitio (www.gurcoff.com) propiedad de Heladería GurCoff, con domicilio San Agustín Huila, Calle 5 17 - 02. Al acceder y navegar por este sitio, usted se compromete a respetar estas instrucciones sin ningún tipo de excepción. Es por ello que le aconsejamos que consulte estas instrucciones cada cierto tiempo, ya que podrían modificarse de forma periódica y sin previo aviso por parte de la Heladería GurCoff. Si usted no desea aceptar o cumplir las condiciones aquí descritas, deberá abandonar este sitio web inmediatamente.
@@ -60,7 +59,7 @@ La Heladería GurCoff informa a los usuarios, que los datos personales recabados
 
 El usuario es el único responsable de la precisión y veracidad de los datos. La Heladería GurCoff queda eximida de toda responsabilidad a este respecto. Serán los usuarios quienes garantizarán que los datos proporcionados sean auténticos, precisos, no hayan cambiado y continúen siendo los mismos. Adquirirán también el compromiso de mantenerlos actualizados.
 
-El usuario proporcionará información completa y correcta cuando se le sociliten para el registro. La Heladería GurCoff no se hará responsable de la veracidad de información de terceros ni de informaciones que citen otras fuentes. Tampoco se hará responsable de los hipotéticos daños que la utilización de dicha información pudiere causar.
+El usuario proporcionará información completa y correcta cuando se le soliciten para el registro. La Heladería GurCoff no se hará responsable de la veracidad de información de terceros ni de informaciones que citen otras fuentes. Tampoco se hará responsable de los hipotéticos daños que la utilización de dicha información pudiere causar.
 
 La Heladería GurCoff se reserva el derecho de actualizar, modificar o borrar la información su Sitio Web, así como el derecho de restringir o prohibir el acceso a ellas. Si la información viene de fuentes ajenas a la empresa, la Heladería GurCoff no será responsable de ningún daño que el usuario pueda sufrir como resultado de errores, fallos u omisiones en dicha información.
 

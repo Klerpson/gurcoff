@@ -1,18 +1,38 @@
-<header class="wrapper">
-  <div class="flow">
-    <h1>{{page.h1}}</h1>
-    {% if page.boton %}
-    <a href="{{page.boton_link}}" class="boton-main">{{page.boton}}</a>
-    <a href="{{page.boton2_link}}" class="boton-main">{{page.boton2}}</a>
-    {% endif %} {% if page.intro %}
-    <p>{{page.intro|markdownify}}</p>
-    {% endif %}
-  </div>
+{% assign layout = page.layout %}
+{% case layout %}
+{% when "default" %}
 
-  <!-- Swiper -->
-  {% if page.url == "/" %}
-  {% include swiper.html %}
-  {% else %}
-  {% include img-responsive.html webps=page.webps webpm=page.webpm webpb=page.webpb hero=page.hero alt=page.alt %}
-  {% endif %}
+  <header class="home_header wrapper">
+  <h1>{{page.h1}}</h1>
+  <h2>Los artículos que más les gusta al <span class="resaltar">#clubgurcoff</span> y que más se comparten</h2>
+  <div class="home_gallery">
+    {% for post in site.posts %}
+    <article>
+      <img src="{{ post.hero | relative_url }}" alt="{{post.alt}}">
+      <div>
+        <a href="{{ post.url  | relative_url }}"><h3>{{post.title}}</h3></a>
+        <p>{{post.p}}</p>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  
+{% when "post" %}
+
+  <header class="post_header wrapper">
+    <div class="flow">
+      <h1>{{page.h1}}</h1>
+      <p>{{page.description}}</p>
+      <small>Autor: {{page.autor}}</small>
+      <small>Temática: <a href="{{page.category | remove: '#' | relative_url }}">{{page.category}}</a></small>
+    </div>
+    <img src="{{page.hero|reltive_url}}" alt="{{page.alt}}" loading="lazy">
+    
+    {% else %}
+    
+    <header class="page_header wrapper">
+      <h1>{{page.h1}}</h1>
+      <img src="{{page.hero}}" alt="{{page.alt}}">
+
+{% endcase %}
 </header>

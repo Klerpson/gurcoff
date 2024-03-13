@@ -1,40 +1,44 @@
-.share-box {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: left;
+/* SHARE */
+.share{
+  background-color: var(--secundario);
+  padding: 1em;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
 
-.share-box a {
+#share-buttons {
   display: inline-block;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px var(--gris1);
-  padding: 5px 12px;
-  text-decoration: none;
-  font-weight: 700;
-  opacity: 1;
-  margin-right: 2rem;
+  vertical-align: middle;
+  margin: 0;
 }
 
-.share-box a:hover {
-  text-decoration: none;
-  transition: background-color 200ms linear;
+#share-buttons:after {
+  content: "";
+  display: block;
+  clear: both;
 }
 
-.f {
-  color: #1644a5;
+#share-buttons>div {
+  position: relative;
+  text-align: left;
+  height: 40px;
+  width: 40px;
+  float: left;
+  text-align: center;
 }
 
-.i {
-  color: #5bd336;
+#share-buttons>div>svg {
+  height: 20px;
+  fill: white;
+  margin-top: 10px;
+  transition: all .3s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
-.f:hover {
-  color: #fff;
-  background-color: #1644a5;
+#share-buttons>div>svg:hover {
+  fill: var(--accion);
+  transform: scale(1.5);
 }
 
-.i:hover {
-  color: #fff;
-  background-color: #43d336;
+#share-buttons>div:hover {
+  cursor: pointer;
 }
-

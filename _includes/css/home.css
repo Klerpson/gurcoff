@@ -1,145 +1,43 @@
-.benefits {
+.entradas{
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr));
-  margin-inline: auto;
-  background-color: var(--principal);
-  box-shadow: 0 0 0 100vmax var(--principal);
-  clip-path: inset(0 -100vmax); 
+  gap: 32px;
 }
 
-.benefits div h2,
-.benefits div h3{
+.entradas p{
+  max-width: 600px;
+}
+
+.entradas div article h3{
   text-align: left;
 }
 
-.benefits div img{
-  max-width: 100%;
-}
-
-.benefits div:first-child{
-  width: min(100%, 420px);
-}
-
-.benefits-points article{
-  display: flex;
-  gap: 1em;
-  align-items: center;
-  margin: 0;
-}
-
-.testimonials {
-  display: grid;
-  place-items: center;
-  text-align: center;
-  padding: 0;
-}
-
-.testimonials h2,
-.testimonials p {
-  width: min(100%, 720px);
-}
-
-.testimonials div{
+.nosotros {
+  position: relative;
+  background: rgb(193,175,228);
+background: linear-gradient(309deg, rgba(193,175,228,1) 0%, rgba(154,242,226,1) 0%, rgba(196,177,228,1) 1%, rgba(149,232,227,1) 23%, rgba(177,225,225,1) 36%, rgba(247,206,220,1) 51%, rgba(241,202,221,1) 65%, rgba(193,175,228,1) 85%, rgba(136,249,227,1) 100%);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat, no-repeat;
   display: flex;
   flex-wrap: wrap;
-  gap: 1em;
 }
 
-.testimonials div a{
-  color: var(--grisfuentes);
-  text-decoration: none;
-  max-width: 100%;
-  flex: 1 0 380px;
-}
-
-.testimonials div a article{
-  border: 2px solid var(--principal);
-  border-radius: 12px;
-  box-shadow: var(--shadow);
-  padding: 1em;
-}
-
-.testimonials div a article h4{
-  margin: 0;
-  text-align: center;
-}
-
-.testimonials article ul {
-  display: flex;
-  justify-content: center;
-}
-
-.testimonials article ul li {
-  list-style: none;
-  color: var(--secundario);
-}
-
-.instagram {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.instagram p,
-.instagram h2 {
-  width: min(100%, 720px);
-  text-align: center;
-}
-
-#instafeed {
-  overflow: auto;
-  margin-inline: auto;
-  width: 100%;
-}
-
-#instafeed li {
-  float: left;
-  display: block;
-  margin: 0 0 1% 1%;
-  width: 19%;
-  padding-bottom: 19%;
-  position: relative;
-  box-shadow: var(--shadow);
-  border-radius: 12px;
-}
-
-#instafeed li img {
-  width: 100%;
-  height: 100%;
-  -o-object-fit: cover;
-  object-fit: cover;
-  position: absolute;
-  border-radius: 12px;
-  -webkit-border-radius: 12px;
-  -moz-border-radius: 12px;
-  -ms-border-radius: 12px;
-  -o-border-radius: 12px;
-}
-
-.mapa {
-  display: grid;
-  gap: 1.5rem;
-  justify-items: center;
-  text-align: center;
-  padding: 0 clamp(1.5rem, 4vw, 4rem) 0;
-}
-
-.cta{
+.nosotros_home{
   display: flex;
   flex-wrap: wrap;
-  gap: 1em;
-  align-items: center;
-  margin-top: 5rem;
-  background-color: var(--principal);
-  box-shadow: 0 0 0 100vmax var(--principal);
-  clip-path: inset(0 -100vmax); 
 }
 
-.cta div{
+.nosotros_home > div{
   flex: 1 0 480px;
   max-width: 100%;
   display: grid;
+  gap: 2em;
+  align-content: center;
   place-items: center;
+}
 
+.nosotros_home div:last-child img{
+  width: min(100%, 480px);
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
 }

@@ -1,181 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Heladería GurCoff</title>
+    <title></title>
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Nov 2023 10:29:57 -0500</pubDate>
-    <lastBuildDate>Mon, 06 Nov 2023 10:29:57 -0500</lastBuildDate>
-    <generator>Jekyll v4.3.2</generator>
+    <pubDate>Wed, 13 Mar 2024 07:44:36 -0500</pubDate>
+    <lastBuildDate>Wed, 13 Mar 2024 07:44:36 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.4</generator>
     
       <item>
-        <title>El Mirador &quot;La mano del Gigante&quot;: fotos y emoción</title>
-        <description>¡Prepárate para una aventura inolvidable en Gigante Huila! Y en este artículo, vamos a conocer un sitio que te va a encantar: el mirador &quot;La mano del Gigante&quot;.</description>
-        <pubDate>Mon, 27 Feb 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/la-mano-del-gigante</link>
-        <guid isPermaLink="true">http://localhost:4000/la-mano-del-gigante</guid>
+        <title>Nosotros hicimos GurCoff. ¿Y a ti qué te gustaría emprender?</title>
+        <description>Tú también puedes emprender. Claro, siempre en cuando sigas los pasos correctos. De esos paso te vamos a hablar aquí.</description>
+        <pubDate>Sun, 10 Mar 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/tu-puedes-emprender</link>
+        <guid isPermaLink="true">http://localhost:4000/tu-puedes-emprender</guid>
         
         
-        <category>turismo</category>
         
         
-        
-        <category>turismo</category>
-        
-      </item>
-    
-      <item>
-        <title>Café de Pitalito para los amantes del mejor café</title>
-        <description>El café de Pitalito Huila ya está a la altura de los mejores cafés del mundo. En la actualidad, es la nueva zona cafetera del país. ¿Ya lo probaste?</description>
-        <pubDate>Mon, 26 Dec 2022 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/cafe-pitalito-huila</link>
-        <guid isPermaLink="true">http://localhost:4000/cafe-pitalito-huila</guid>
-        
-        
-        <category>turismo</category>
-        
-        
-        
-        <category>turismo</category>
-        
-      </item>
-    
-      <item>
-        <title>El salto del Mortiño y el vuelo del halcón</title>
-        <description>En la cascada del Mortiño encuetras una experiencia extrema con las atracciones de El Vuelo del Halcón y El Ojo del Halcón. ¿Vamos?</description>
-        <pubDate>Fri, 25 Nov 2022 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/cascada-salto-mortino-isnos</link>
-        <guid isPermaLink="true">http://localhost:4000/cascada-salto-mortino-isnos</guid>
-        
-        
-        <category>isnos</category>
-        
-        <category>turismo</category>
-        
-        
-        
-        <category>turismo</category>
-        
-      </item>
-    
-      <item>
-        <title>Museo de Obando en San Agustín Huila</title>
-        <description>El museo de Obando es una parada obligada para cuando visitas San Agustín Huila. 🚙 Es parte del tour conocido como El Anillo Turístico. Conócelo 🗿.</description>
-        <pubDate>Fri, 04 Mar 2022 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/museo-obando-san-agustin-huila</link>
-        <guid isPermaLink="true">http://localhost:4000/museo-obando-san-agustin-huila</guid>
-        
-        
-        <category>obando</category>
-        
-        <category>turismo</category>
-        
-        
-        
-        <category>turismo</category>
-        
-      </item>
-    
-      <item>
-        <title>Laguna del Magdalena, nacimiento del río Magdalena</title>
-        <description>La Laguna del Magdalena es el lugar donde nace el gran río Magdalena, el principal río de Colombia 🏞️. Te enseñamos cómo llegar hasta este hermoso lugar 🥾.</description>
-        <pubDate>Thu, 09 Sep 2021 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/laguna-del-magdalena</link>
-        <guid isPermaLink="true">http://localhost:4000/laguna-del-magdalena</guid>
-        
-        
-        
-        
-        <category>turismo</category>
-        
-      </item>
-    
-      <item>
-        <title>Estrecho del Río Magdalena</title>
-        <description>El Estrecho del Magdalena es el punto más estrecho del majestuoso río Colombiano 🏞. Te decimos cómo llegar, sus misterios y recomendaciones para ti.</description>
-        <pubDate>Tue, 22 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/estrecho-rio-magdalena</link>
-        <guid isPermaLink="true">http://localhost:4000/estrecho-rio-magdalena</guid>
-        
-        
-        <category>parque</category>
-        
-        <category>turismo</category>
-        
-        
-        
-        <category>turismo</category>
-        
-      </item>
-    
-      <item>
-        <title>Parque Arqueológico de San Agustín Huila</title>
-        <description>El Parque Arqueológico de San Agustín es un parque de estatuas y ruinas muy bien conservadas. Patrimonio de la humanidad con figuras de más de 1.800 años.</description>
-        <pubDate>Sun, 13 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/parque-arqueologico-san-agustin-huila</link>
-        <guid isPermaLink="true">http://localhost:4000/parque-arqueologico-san-agustin-huila</guid>
-        
-        
-        <category>parque</category>
-        
-        
-        
-        <category>turismo</category>
-        
-      </item>
-    
-      <item>
-        <title>Descubre la magia de San Agustín Huila y enamórate del lugar</title>
-        <description>Descubre los secretos arqueológicos de San Agustín Huila y enamórate de Colombia. ¡Visita el Parque Arqueológico de San Agustín y vive una experiencia única! 🌄</description>
-        <pubDate>Mon, 07 Jun 2021 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/visita-san-agustin-huila</link>
-        <guid isPermaLink="true">http://localhost:4000/visita-san-agustin-huila</guid>
-        
-        
-        <category>turismo</category>
-        
-        <category>parque</category>
-        
-        
-        
-        <category>turismo</category>
-        
-      </item>
-    
-      <item>
-        <title>Los restaurantes mejor calificados de San Agustín Huila</title>
-        <description>Los restaurantes en San Agustín Huila tienen mucha variedad de ofertas gastronómicas. Te contaremos de 5 de ellos con muy buenas calificaciones.</description>
-        <pubDate>Sat, 27 Mar 2021 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/mejores-restaurantes-san-agustin</link>
-        <guid isPermaLink="true">http://localhost:4000/mejores-restaurantes-san-agustin</guid>
-        
-        
-        <category>restaurantes</category>
-        
-        <category>parque</category>
-        
-        
-        
-        <category>restaurantes</category>
-        
-      </item>
-    
-      <item>
-        <title>Los Tres Chorros - ¡Cascada Natural de San Agustín Huila!</title>
-        <description>La cascada de los Tres Chorros es una espectacular caída de agua de San Agustín Huila. Una cascada muy bien conservada por la misma naturaleza debido a su ubicación.</description>
-        <pubDate>Sun, 31 Jan 2021 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/cascada-los-tres-chorros-de-san-agustin</link>
-        <guid isPermaLink="true">http://localhost:4000/cascada-los-tres-chorros-de-san-agustin</guid>
-        
-        
-        <category>cascadas</category>
-        
-        <category>turismo</category>
-        
-        
-        
-        <category>turismo</category>
+        <category>#raticogurcoff</category>
         
       </item>
     

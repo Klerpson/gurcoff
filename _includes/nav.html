@@ -1,15 +1,36 @@
 <nav>
-  <input id="nav-toggle" type="checkbox">
-  <a href="{{site.baseurl}}/" class="logo">GurCoff.com</a>
-  <ul>
-    <li><a href="{{site.baseurl}}/carta-gurcoff" {% if page.url contains "/carta-gurcoff" %}class="active"{% endif %}">Menú</a></li>
-    <li><a href="{{site.baseurl}}/conoce-gurcoff" {% if page.url contains "/conoce-gurcoff" %}class="active"{% endif %}">Conócenos</a></li>
-    <li><a href="{{site.baseurl}}/contacto" {% if page.url contains "/contacto" %}class="active"{% endif %}">Contáctanos</a></li>
-    <li><a href="{{site.baseurl}}/blog" {% if page.url contains "/blog" %}class="active"{% endif %}">Blog GurCoff</a></li>
-  </ul>
-  <label for="nav-toggle" class="icono-nav">
-    <div class="line"></div>
-    <div class="line"></div>
-    <div class="line"></div>
-  </label>
+  <a href="{{site.baseurl}}/" title="Inicio" >
+    <img src="{{'img/logotipo.webp'|relative_url}}" alt="Web GurCoff">
+  </a>
+  <div class="navegacion">
+    <a href="https://wa.me/c/573026370737" title="Carta GurCoff" rel="nofollow noopener noreferrer" target="_blank">
+      <img src="{{'img/menu.webp'|relative_url}}" alt="Carta GurCoff">
+      <span>Menú</span>
+    </a>
+    <div class="dropdown">
+      <img src="{{'img/blog.webp'|relative_url}}" alt="Sección Nosotros GurCoff">
+      <span>Tema ▽</span>
+      <div class="dropdown-content">
+        <a href="{{'raticogurcoff'|relative_url}}" title="#raticogurcoff">#raticogurcoff</a>
+        <a href="{{'clubgurcoff'|relative_url}}" title="#raticogurcoff">#clubgurcoff</a>
+        <a href="{{'historiasgurcoff'|relative_url}}" title="#raticogurcoff">#historiasgurcoff</a>
+      </div>
+    </div>
+    <a href="/quienes-somos" title="Inicio">
+      <img src="{{'img/about.webp'|relative_url}}" alt="Carta GurCoff">
+      <span>Nosotros</span>
+    </a>
+    <a href="#buscador" title="Buscar">
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="none" viewBox="0 0 24 24"><path stroke="var(--accion)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.796 15.811 21 21m-3-10.5a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/></svg>
+      <span>Buscar</span>
+    </a>
+  </div>
 </nav>
+<section class="buscador" id="buscador">
+  <a href="#" class="cerrar">✕</a>
+  <div id="search-container" class="wrapper flow">
+    <h4>Aquí puedes buscar el tema que más te ha gustado</h4>
+    <input type="text" id="search-input" placeholder="↪ Ej. Emprender en..">
+    <ul id="results-container"></ul>
+  </div>
+</section>
