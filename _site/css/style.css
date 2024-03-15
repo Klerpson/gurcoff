@@ -651,6 +651,7 @@ details p{
 }
 
 .post_header div{
+  flex: 1 0 520px;
   display: grid;
 }
 
@@ -665,6 +666,7 @@ details p{
 .post_header img{
   border-radius: var(--radius);
   box-shadow: var(--shadow);
+  width: min(100%, 400px);
 }
 
 
