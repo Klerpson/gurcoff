@@ -262,6 +262,7 @@ input{
 
 .flex > *{
   flex: 1 0 400px;
+  max-width: 100%;
 }
 
 lord-icon{
