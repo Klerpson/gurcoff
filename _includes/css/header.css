@@ -120,3 +120,9 @@ nav {
 .home_gallery img{
   z-index: 3;
 }
+
+.page_header img{
+  border-radius: var(--radius);
+  margin: 0 auto;
+  display: block;
+}

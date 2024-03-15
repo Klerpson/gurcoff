@@ -262,6 +262,7 @@ input{
 
 .flex > *{
   flex: 1 0 400px;
+  max-width: 100%;
 }
 
 lord-icon{
@@ -390,6 +391,12 @@ nav {
 
 .home_gallery img{
   z-index: 3;
+}
+
+.page_header img{
+  border-radius: var(--radius);
+  margin: 0 auto;
+  display: block;
 }
 .entradas{
   display: grid;
@@ -566,12 +573,6 @@ background: linear-gradient(309deg, rgba(193,175,228,1) 0%, rgba(154,242,226,1) 
   width: min(100%, 440px);
 }
 
-.page_header img{
-  border-radius: var(--radius);
-  margin: 0 auto;
-  display: block;
-}
-
 @media screen and (min-width: 800px) {
   .pagina{
     flex-direction: row-reverse;
@@ -643,6 +644,7 @@ details p{
 }
 .post_header{
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 2em;
   justify-content: space-between;

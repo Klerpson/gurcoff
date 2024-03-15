@@ -14,12 +14,6 @@
   width: min(100%, 440px);
 }
 
-.page_header img{
-  border-radius: var(--radius);
-  margin: 0 auto;
-  display: block;
-}
-
 @media screen and (min-width: 800px) {
   .pagina{
     flex-direction: row-reverse;
