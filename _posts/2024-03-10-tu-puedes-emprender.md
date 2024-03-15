@@ -1,44 +1,61 @@
 ---
 layout: post
 title: "Nosotros hicimos GurCoff. ¿Y a ti qué te gustaría emprender?"
-description: Tú también puedes emprender. Claro, siempre en cuando sigas los pasos correctos. De esos paso te vamos a hablar aquí.
+description: Tú también puedes emprender. Claro, siempre en cuando sigas los pasos correctos. De esos paso te vamos a hablar aquí. Y te haremos una propuesta de 30 días.
 autor: Andrés GurCoff
-category: "#raticogurcoff"
-h1: Tú también puedes emprender 💪. Solamente cambia a la mentalidad de emprendedor
+category: "#clubgurcoff"
+h1: Tú también puedes emprender 💪. Aprende en 30 días cómo lograrlo
 jpg: img/brownie-gurcoff.jpg
 hero: img/brownie-gurcoff.webp
 alt: Foto de un brownie GurCoff
 excerpt: ¿Sientes que no eres capaz de emprender? Te estás engañando. Aquí te explicamos por qué
 ---
-O lo usas o lo votas
+## Delante de reyes te sentarás
 
-Siempre aprendimos a memorizar y repetir. Luego obedecer. Aportar valor... como trabajadores, como empleados. Seguir un sistema. Solo ibas a operar una máquina. Mover un botón, una palanca. Salió después de la industria.
+Siempre aprendimos a memorizar y repetir. Luego obedecer. Aportar valor... como trabajadores, como empleados. Seguir un sistema. Solo ibas a operar una máquina. Mover un botón, una palanca. Surgió después de la revolución industrial y el sistema educativo se amoldó a eso. Pero así se quedó. No fue al ritmo de los cambios tecnológicos.
 
 Ahora tenemos muchas herramientas con el internet. Se necesita más gente creativa y que solucione problemas. Antes a nadie le interesaba. Solo querían un puesto, una jubilación, nada más. 
 
-Todos buscamos una recompensa y evitar un dolor. El sistema educativo está por desaparecer. Ahora no se contrata con títulos. 
+Todos buscamos una recompensa y evitar un dolor. El sistema educativo lo explota con notas para calificar (recompensa), pero eso está por desaparecer porque ahora no hay trabajos sistemáticos que no sean reemplazados con la tecnología. Ahora no se contrata con títulos. 
 
-Esta es la mejor época para emprender. Aquí no te calificamos ni te haremos exámenes. Tampoco ofrecemos empleos. Queremos ayudarte a entender que eres capaz. 
+Esta es la mejor época para emprender. Aquí no te calificamos ni te haremos exámenes. Tampoco ofrecemos empleos sistemáticos donde falte la capacidad de pensar o analizar. Queremos ayudarte a entender que eres capaz.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, ratione modi voluptatem quo assumenda perspiciatis, porro tenetur atque vel rem eveniet! Aperiam voluptatum consequatur recusandae earum nihil natus sequi animi, illum veniam aspernatur quam. Quidem earum provident ut fugiat hic, culpa quam, quod deserunt fugit impedit sapiente voluptate voluptatem sed harum, alias atque. Voluptatibus dolor itaque laudantium, eum, off
+Si no te pierdes ningún contenido de los siguientes que preparemos, serás potenciado para que seas capaz de coger tendencias, oportunidades, que hoy aparecen mucho. Antes habían grandes corporaciones, donde solo subías de puestos. Hoy en día no son los más grandes los que lo hacen por su cuenta y con creatividad hacen cosas importantes.
 
-icia veniam dolorum in eius commodi dolorem, id placeat animi velit. Velit ipsa dolorem libero architecto accusantium, labore quia tempora nam ab sed deserunt modi consequatur. Sed id architecto voluptas incidunt, hic ut, vitae similique debitis temporibus voluptatum ab modi impedit dignissimos officia reprehend
+Tendrás la mentalidad adecuada, y verás que será algo tranquilo, a buen ritmo, pero consistente. Tendrás que probarte que sí quieres conseguir algo en la vida. Tener ciertos hábitos, la motivación correcta.
 
-erit libero. Earum, ea nobis. Fugit odio quis odit dolor laboriosam ratione nulla expedita ex! Optio dolores molestiae accusamus, id sint nisi magnam eveniet exercitationem quod illo odio aspernatur sed obcaecati cupiditate! Eligendi quos illo beatae ut nam dolores libero sed, reiciendis impedit perferendis soluta, at repudiandae labore et veritatis voluptate perspiciatis eius vel necessitatibus officia dolore inventore. Minima officiis quisquam, autem voluptatem minus, ullam cum suscipit molestias dignissimos iusto perferendis rem quo in eum. Tempora ad autem labore ipsum esse ea voluptates aperiam perferendis ab alias rem voluptatibus harum reiciendis, at modi provident tempore ipsam neque excepturi repudiandae ut sit ducimus. Sunt dolorum repudiandae incidunt sapiente deserunt porro quo quis reiciendis exercitationem quae dignissimos repellendus mollitia, necessitatibus at, molestias cupiditate illum nemo maxime facilis dolores dolore beatae! Provident, beatae? Vitae cum consequatur qui aut repellat verita
+Proponer que pongo el artículo y desaparece. No quieres hacerlo, tranquilo no es para todo el mundo. Por eso no todo el mundo logra cosas como GurCoff.
 
-tis expedita eius amet ipsam, debitis commodi libero molestiae quasi quod id quia, ratione quaerat hic doloremque molestias voluptas. Ipsum laborum quidem officiis, nisi id voluptatum. Est, facere illo exercitationem id, laborum temporibus explicabo fuga dolor velit tempore harum deleniti. Nihil praesentium aperiam ducimus error iste excepturi ullam in, repellendus magnam. Saepe, magnam ut libero cum repudiandae nobis amet accusantium iste maxime accusamus distinctio tempore dignissimos vitae animi explicabo quisquam quaerat adipisci autem natus sit dolor commodi quia porro. Iure ipsa provident error illo aspernatur nobis corrupti quos officia quis, voluptatem animi placeat delectus in et ab earum accusamus molestias laudantium. Ab quaerat nobis distinctio sint quae temporibus autem, eveniet nemo assumenda modi aspernatur delectus laborum error qui veniam perspiciatis adipisci odio asperiores saepe hic eius sed esse? Libero quod atque
- placeat unde sapiente ipsa animi est tenetur soluta ipsum, odio quis, ad a
- 
- ssumenda nihil. Porro non sequi ab natus alias esse exercitationem eaque eligendi totam, modi laborum rem quaerat fugiat veritatis quo est, sed vero, iusto libero iste corporis earum! Molestias
- 
- , sint porro, tenetur labore laboriosam non perspiciatis voluptas aliquam, facilis eligendi eveniet. Nisi fugit commodi dolorum quasi est quisquam repellat ratione asperiores, minima ullam sint molestias nostrum iusto omnis earum aliquid optio voluptas illum impedit, esse fugiat praesentium eos eius. Inventore aliquam ea, ducimus at tenetur magnam repellendus veritatis dignissimos ullam aliquid rem porro reprehenderit excepturi reiciendis quod accusamus. Sapiente quidem earum m
- 
- axime? Quas tempore esse, voluptatibus reprehenderit iure soluta possimus at aliquid sunt dolorem aspernatur eius ducimus saepe corporis sit mollitia corrupti doloremque eaque, debitis doloribus libero 
- 
- ex dolor? Nulla harum quia ut, veritatis accusantium, quam nobis vel mollitia quae culpa facilis commodi? Quae consequuntur laborum quasi doloribus reprehenderit, laboriosam, excepturi deleniti asperiores porro delectus assumenda iste? Ut deleniti accusantium sapiente ducimus perferendis iste modi esse tenetur sunt? At in reprehenderit nam? Saepe dolores rerum possimus laborum dolore voluptas aut ipsum hic eaqu
- 
- e odit impedit nobis maxime exercitationem nostrum ab, vitae praesentium alias expedita cupiditate dicta voluptatibus! Quisquam suscipit vitae repellat reprehenderit ea nulla fuga iste voluptas fugit expedita, sint quod in voluptates cumque provident neque veritatis aut! Optio harum nisi, pariatur temporibus cupiditate dignissimos iure quae voluptates maiores cum, incidunt deleniti deserunt quidem commodi iusto placeat ratione sint, sed enim. Paria
- 
- tur impedit voluptates at dolorem accusamus saepe quam esse architecto nihil non voluptatibus enim accusantium quaerat aliquid maiores officiis repellendus ratione exercitationem repellat quae doloribus, iusto distinctio corporis. Reprehenderit autem ipsam modi corporis libero aut nihil iusto error quia consectetur animi no
- 
- strum nobis similique dolorem numquam perspiciatis aliquid, laudantium, delectus nulla? Accusantium repellat quas mollitia soluta dignissimos magni earum perspiciatis quo ullam quasi nesciunt, expedita quaerat, nemo corrupti a cumque. Quis quo velit soluta excepturi amet harum beatae, aut cumque minus asperiores tenetur quaerat, officia iure autem voluptatum ad!
+Primero llega el aprendizaje. Luego se debe reflexionar lo aprendido. Y finalmente, se debe meditar en lo aprendido al punto de interiorizarlo. Y esto será más provechoso pues cada uno en su meditación, según su crianza y cultura, verá diferentes maneras de aprovechar estas bases y lograr cosas que cada individuo puede lograr.
+
+La clave será que al final de este proceso tengas otra mentalidad.
+
+"Casi todo el mundo cuando tiene un problema, como solo conoce una manera de afrontarlo, lo ven todo como un clavo que se ataca con un martillo. Pero cuando encuentras distintas maneras de abordarlos, tendrás más soluciones"
+
+Durante los últimos 4 años y medio hemos aprendido las diferentes maneras de abordad distintos retos y dificultades. Te compartiremos toda nuestra experiencia. Después de muchos cursos online, libros, tutores y principios de sabiduría, ahora podemos compartir lo que nos ayuda a llegar cada vez más lejos.
+
+Y algo que hemos entendido es que entre más aprendemos, más cambia la mentalidad que tenemos. Y hoy queremos que nuestra heladería cambie tu mentalidad, y quizá cambie tu vida.
+
+Desde ahora en adelante tu forma de pensar cambiará para siempre.
+
+Y recuerda algo, cuando no practicas lo que aprendes, lo olvidas. Lo pierdes. Y si siempre haces lo mismo, así te quedas. No progresas. Nada cambia.
+
+Cuando quieres seguir avanzando, no puedes seguir haciendo lo que estás haciendo. NO PUEDES CONSEGUIR RESULTADOS DISTINTOS HACIENDO LO MISMO. Tienes que empezar a hacer cosas distintas. Haciendo lo mismo, siempre tendrás los mismos resultados.
+
+Así que todo lo que te vamos a enseñar, tienes que integrarlo en todo lo que hagas. No solo los olvides mañana. Serán principios que te servirán para todo. 
+
+Hoy eres lo que eres por las decisiones y acciones que has desarrollado a lo largo de tu vida. Y con cada acción y decisión, te has convertido en lo que eres hoy. La idea es que de aquí en adelante integres en tu subconciente esos principios para que casi en automático sepas tomar mejores decisiones de aquí en adelante. MENCIONAR UN EJEMPLO AQUÍ
+
+Una manera de lograrlo es capacitándote primero para que en tu mente el gatillo esté listo para disparar cuando se necesite en tu vida. Y luego lo vas a interiorizar aplicando lo aprendido. Se volverá como cuando aprendiste a tomar moto o carro. Cuando comenzaste, todo lo hacías concientemente, como girar, prender, frenar. Pero poco a poco esa habilidad se transfiere al subconciente. Por ejemplo, hoy puedes conducir sin estar tan pendiente de todo.
+
+Con los principios para la vida y el emprendimiento pasa lo mismo. Haces muchas cosas inconcientemente. Por ejemplo, cuando andas con paisas, ¿terminas hablando como ellos?
+
+Pues eso es lo que intentaremos en este programa. Interiorizar en tu subconciente toda esta mentalidad. CONTAR LA EXPERIENCIA CUANDO TRASNOCHÉ PENSANDO EN EMPIRES PORQUE EL JUEGO YA ESTABA EN MI SUBCONCIENTE.
+
+Todo lo que veas y escuches tendrá un impacto en cómo dirigimos la vida y nuestros negocios. Así hacemos ahora en GurCoff. Nos educamos. Leemos. Estudiamos. El  año pasado tuvimos una capacitación de 2200 euros. Pero entendemos la importancia de dar el mejor mensaje a nuestro subconciente.
+
+El sesgo de recompensa y alejarnos del dolor es un acto subconciente. Un ejemplo es en ver cómo las chicas en internet cada vez están más dispuestas a mostrar su cuerpo. La razón es que sienten como una recompensa recibir me gustas o reacciones y seguidores en sus perfiles. Y lo hacen cada vez más. 
+
+Tú también puedes hacer lo mismo. Entiende tu recompensa. La vida que sueñas será una recompensa. Y las pequeñas recompensas del camino te premiarán. Y cada que aprendas algo nuevo, recuerda que lo estás logrando. Y de ahora en adelante, tu tendrás capacidades de lograr cada vez más cosas más grandes.
+
+Mañana comenzaremos, así que no te lo pierdas. Mañana avanzaremos un poquito más. Un poco más en ser mejor de lo que eres ahora.
