@@ -3,59 +3,161 @@ layout: post
 title: "Nosotros hicimos GurCoff. ¿Y a ti qué te gustaría emprender?"
 description: Tú también puedes emprender. Claro, siempre en cuando sigas los pasos correctos. De esos paso te vamos a hablar aquí. Y te haremos una propuesta de 30 días.
 autor: Andrés GurCoff
-category: "#clubgurcoff"
+category: "#raticogurcoff"
 h1: Tú también puedes emprender 💪. Aprende en 30 días cómo lograrlo
 jpg: img/brownie-gurcoff.jpg
 hero: img/brownie-gurcoff.webp
 alt: Foto de un brownie GurCoff
 excerpt: ¿Sientes que no eres capaz de emprender? Te estás engañando. Aquí te explicamos por qué
 ---
-## Delante de reyes te sentarás
+## Deje quieto que usted NO SABE
 
-Siempre aprendimos a memorizar y repetir. Luego obedecer. Aportar valor... como trabajadores, como empleados. Seguir un sistema. Solo ibas a operar una máquina. Mover un botón, una palanca. Surgió después de la revolución industrial y el sistema educativo se amoldó a eso. Pero así se quedó. No fue al ritmo de los cambios tecnológicos.
+Esa frase sí que hace daño en nuestra vida: *Deje quieto que usted no sabe". A mí me la decían cuando quería pintar la pared que mi papá pintaba. O cuando quería lavar lo que mamá lavaba. Para uno era como jugar con ellos. Para ellos tú no sabías y lo harías mal.
 
-Ahora tenemos muchas herramientas con el internet. Se necesita más gente creativa y que solucione problemas. Antes a nadie le interesaba. Solo querían un puesto, una jubilación, nada más. 
+Y sí, es verdad. No querían hacerte daño. No querían lastimarte. No estaban en la meta conspiratoria de traumatizar niños 😈. No era eso. **Solamente tenían claro que cuando uno no sabe, las cosas se hacen mal hechas**.
 
-Todos buscamos una recompensa y evitar un dolor. El sistema educativo lo explota con notas para calificar (recompensa), pero eso está por desaparecer porque ahora no hay trabajos sistemáticos que no sean reemplazados con la tecnología. Ahora no se contrata con títulos. 
+## Lo que no sirve estorba
 
-Esta es la mejor época para emprender. Aquí no te calificamos ni te haremos exámenes. Tampoco ofrecemos empleos sistemáticos donde falte la capacidad de pensar o analizar. Queremos ayudarte a entender que eres capaz.
+Y aquí llega otra frase que escuché de niño: *Lo que no sirve estorba*. Esta me encanta. Es dolorosa. Pero, escúchala y reflexiona en ella. Te va a cambiar la vida.
 
-Si no te pierdes ningún contenido de los siguientes que preparemos, serás potenciado para que seas capaz de coger tendencias, oportunidades, que hoy aparecen mucho. Antes habían grandes corporaciones, donde solo subías de puestos. Hoy en día no son los más grandes los que lo hacen por su cuenta y con creatividad hacen cosas importantes.
+A veces me pedían favores en casa. Y como chico rebelde, me portaba mal y hacía las cosas de mala gana. Quién no lo hizo. Yo lo hice.
 
-Tendrás la mentalidad adecuada, y verás que será algo tranquilo, a buen ritmo, pero consistente. Tendrás que probarte que sí quieres conseguir algo en la vida. Tener ciertos hábitos, la motivación correcta.
+Mira. Esta es la lección: **cuando hacía las cosas mal, eran más los errores y las dificultades adicionales que causaba**. Era mejor que no hiciera nada. **En vez de ayudar, estorbaba**.
 
-Proponer que pongo el artículo y desaparece. No quieres hacerlo, tranquilo no es para todo el mundo. Por eso no todo el mundo logra cosas como GurCoff.
+## ¿Sabes lo que estás haciendo? ¿O estás estorbando?
 
-Primero llega el aprendizaje. Luego se debe reflexionar lo aprendido. Y finalmente, se debe meditar en lo aprendido al punto de interiorizarlo. Y esto será más provechoso pues cada uno en su meditación, según su crianza y cultura, verá diferentes maneras de aprovechar estas bases y lograr cosas que cada individuo puede lograr.
+Hay una realidad muy dura de aceptar. No nos educaron bien (desde que entendí esto siempre he pensado que mis hijos no serán educados en una escuela tradicional). El colegio, la escuela, la universidad. Todas estas instituciones se hicieron obsoletas, y no hacen muchos por cambiar eso.
 
-La clave será que al final de este proceso tengas otra mentalidad.
+Cuando se crearon estos sistemas de educación, estábamos en la época de la revolución industrial. Por eso se enseña a memorizar, a obedecer, a recibir un premio por hacer bien lo que te mandan (excelente notas, o un salario a fin de mes). **Solo te enseñan a seguir un patrón, un sistema, solo necesitan que muevas la misma palanca, el mismo botón, etc**.
 
-"Casi todo el mundo cuando tiene un problema, como solo conoce una manera de afrontarlo, lo ven todo como un clavo que se ataca con un martillo. Pero cuando encuentras distintas maneras de abordarlos, tendrás más soluciones"
+🫤 Pero no te enseñan las habilidades y técnicas profesionales que son necesarias para tomar iniciativa, hacer lo que no es común, tomar riesgos calculados, tomar decisiones informadas y planeadas, etc.
 
-Durante los últimos 4 años y medio hemos aprendido las diferentes maneras de abordad distintos retos y dificultades. Te compartiremos toda nuestra experiencia. Después de muchos cursos online, libros, tutores y principios de sabiduría, ahora podemos compartir lo que nos ayuda a llegar cada vez más lejos.
+### Deja de estorbar y conviértete en alguien indispensable
 
-Y algo que hemos entendido es que entre más aprendemos, más cambia la mentalidad que tenemos. Y hoy queremos que nuestra heladería cambie tu mentalidad, y quizá cambie tu vida.
+¿Por qué las grandes empresas, o los negocios que duraban años, ahora se cierran? Pueden ser muchos factores. Pero hay uno muy común. **Dejaron de aprender**.
+
+#### 💎 El que no sabe mejor deja quieto, porque hace mal las cosas y eso no sirve... eso estorba
+
+Estorba en tu negocio, tu emprendimiento, el de tu familia, el de tus amigos, el de tu empresa.
+
+Como aprendimos solo a memorizar, y no a **leer con un pensamiento crítico y analista**, por eso no hemos desarrollado la habilidad de investigar y desarrollar habilidades necesarias para tener éxito en el mundo comercial.
+
+Entonces, ¿ya te diste cuenta qué va a cambiar tu vida?
+
+## Uno de los grandes secretos de la heladería GurCoff 📚
+
+**En GurCoff tenemos líderes que leen mucho**. Sí, te acabamos de revelar el más grande secreto de nuestra heladería. Bueno, no es un secreto. Pero es lo que nos lleva cada vez más lejos.
+
+Solo analiza:
+
+* ¿Cuántos libros te has leído en lo que va de este año?
+* ¿Qué lees en internet: memes de redes sociales o blogs sobre alguna profesión o habilidad en especial?
+* ¿Ves videos de 1 o 2 minutos para divertirte, o de 1 hora para aprender algo nuevo?
+
+Tú y yo vivimos en la mejor época para aprender y emprender. Y con este blog queremos ayudarte a entender que **tú eres capaz. Que tú sí puedes. Que tú no estorbas. Que vas a lograr grandes cosas. 😊**
+
+Y lo haremos de la misma manera como nos ayudaron a nosotros.
+
+## Un #raticoGurCoff que vas a disfrutar un montón
+
+Si no te pierdes ningún contenido de los siguientes vamos a compartir en nuestro blog, vas a cambiar totalmente tu forma de pensar 🤯. 
+
+Tendrás la mentalidad adecuada, y **verás cómo los retos que hoy tienes en tu negocio o en tu trabajo, ahora se convierten en oportunidades**. Y no es cliché ni farsas. Nosotros lo vivimos.
+
+Por ejemplo:
+
+* ¿Sabías que cuando GurCoff comenzó fue en septiembre de 2019? ¿Y recuerdas que sucedió 3 meses después? ¡Comenzó la pandemia! Bueno, ¿qué hubieras hecho tú?
+
+Pues te enseñaremos qué hicimos nosotros.
+
+También, hemos aprendido a lidiar:
+
+* Con la subida de precios tan horrible que ha habido en el mercado después de la pandemia
+* Aprendimos a superar la competencia descarada
+* A mejorar los errores
+* A salir adelante con las instituciones públicas en contra, etc, etc, etc.
+
+**Y tú también puedes hacerlo,** solo necesitarás aprender a hacerlo.
+
+### 💪 Vas a lograrlo..... si lees
+
+Durante los últimos 4 años y medio hemos aprendido las diferentes maneras de abordad distintos retos y dificultades. Te compartiremos toda nuestra experiencia.
+
+>Después de muchos cursos online, libros, tutores y *principios de verdaderas fuentes de sabiduría y ciencia*, ahora podemos compartir lo que nos ayuda a llegar cada vez más lejos.
+
+Y algo que hemos entendido es que **entre más aprendemos, entre más leemos, más cambia la mentalidad que tenemos**. Y hoy queremos que nuestra heladería cambie tu mentalidad, y quizá cambie tu vida.
+
+## Para conseguir resultados diferentes en tu vida, debes hacer las cosas de forma diferente
+
+**Tendrás que probarte que sí quieres conseguir algo en la vida**. Hoy tienes ciertos hábitos, costumbres. ¿Y a dónde te han llevado?
+
+Pues aquí aprenderás a tener la mentalidad y la motivación correcta.
 
 Desde ahora en adelante tu forma de pensar cambiará para siempre.
 
+Pero debes leer, y mucho. 🚫 NO vamos a hacer videos bailando. No vamos a hacer corticos motivacionales. Haremos contenido lleno de valor, de estrategias, de consejos que sí sirven.
+
+Tu deber será:
+
+1. Leer la información que llegará en cada artículo.
+2. Escuchar el audio semanal del grupo de WhatsApp ([Ya te hablaré de eso aquí](#audios))
+3. Reflexionar en cómo puedes aplicar lo que aprendiste
+4. Compartir en nuestras transmisiones en vivo cómo te fue y qué dudas tienes
+5. Profundizar lo que aprendiste investigando más fuentes (Siempre te vamos a sugerir algunas)
+6. Pasar a la siguiente semana y seguir avanzando.
+
+Ahora, si no quieres hacerlo, tranquilo, esto no es para todo el mundo.
+
+## 😏 Para ser tonto no hace falta estudiar mucho
+
+Esta es la última frase que te quería compartir hoy: **Para ser tonto no hace falta estudiar mucho**.
+
+Me encanta. Me fascina. Me impactó mucho.
+
+[Los tontos que lo son por elección](https://dle.rae.es/tonto){:rel="nofollow noopener noreferrer" target="_blank"} no estudian, no leen. Su cerebro no desarrolla capacidades como la reflexión, el análisis y el entendimiento.
+
+Y no te ofendas por favor. No estoy insultando. Literalmente nuestra mente se hace tonta cuando no estudiamos.
+
+Cuánta gente conoces que lea y estudie con constancia. <b>Seguramente, esas personas están avanzando de alguna manera en su vida</b>. Y aunque sea poco lo que lean o estudien, no importa. Avanzan. Poco. Pero avanzan. Y no están estancadas, quietas, como la mayoría. *No decidieron hacerse los tontos*.
+
+Esto será más provechoso para ti, pues cada uno en su meditación, según su crianza y cultura, verá diferentes maneras de aprovechar estas bases y lograr cosas que cada individuo puede lograr. **Pero debes comenzar leyendo, aprendiendo**.
+
+## Es hora de comenzar 🤩
+
 Y recuerda algo, cuando no practicas lo que aprendes, lo olvidas. Lo pierdes. Y si siempre haces lo mismo, así te quedas. No progresas. Nada cambia.
 
-Cuando quieres seguir avanzando, no puedes seguir haciendo lo que estás haciendo. NO PUEDES CONSEGUIR RESULTADOS DISTINTOS HACIENDO LO MISMO. Tienes que empezar a hacer cosas distintas. Haciendo lo mismo, siempre tendrás los mismos resultados.
+Cuando quieres seguir avanzando, no puedes seguir haciendo lo que estás haciendo. **NO PUEDES CONSEGUIR RESULTADOS DISTINTOS HACIENDO LO MISMO**.
 
-Así que todo lo que te vamos a enseñar, tienes que integrarlo en todo lo que hagas. No solo los olvides mañana. Serán principios que te servirán para todo. 
+>Tienes que empezar a hacer cosas distintas. Haciendo lo mismo, siempre tendrás los mismos resultados.
 
-Hoy eres lo que eres por las decisiones y acciones que has desarrollado a lo largo de tu vida. Y con cada acción y decisión, te has convertido en lo que eres hoy. La idea es que de aquí en adelante integres en tu subconciente esos principios para que casi en automático sepas tomar mejores decisiones de aquí en adelante. MENCIONAR UN EJEMPLO AQUÍ
+Así que todo lo que te vamos a enseñar, tienes que integrarlo en todo lo que hagas. No solo lo olvides al día siguiente. Lo que te queremos compartir como empresa alguien más lo hizo antes con nosotros. Y hoy estamos sumamente agradecidos con esas personas.
 
-Una manera de lograrlo es capacitándote primero para que en tu mente el gatillo esté listo para disparar cuando se necesite en tu vida. Y luego lo vas a interiorizar aplicando lo aprendido. Se volverá como cuando aprendiste a tomar moto o carro. Cuando comenzaste, todo lo hacías concientemente, como girar, prender, frenar. Pero poco a poco esa habilidad se transfiere al subconciente. Por ejemplo, hoy puedes conducir sin estar tan pendiente de todo.
+Hoy eres lo que eres por las decisiones y acciones que has desarrollado a lo largo de tu vida. Y con cada acción y decisión, te has convertido en lo que eres hoy. *"No te arrepientas. Pero no te estanques".*
 
-Con los principios para la vida y el emprendimiento pasa lo mismo. Haces muchas cosas inconcientemente. Por ejemplo, cuando andas con paisas, ¿terminas hablando como ellos?
+>Todo lo que aprendas se volverá como cuando aprendiste a manejar moto o carro. Cuando comenzaste, todo lo hacías conscientemente, como girar, prender, frenar. Pero poco a poco esa habilidad se transfiere al subconsciente, y hoy puedes conducir sin estar tan pendiente de todo.
 
-Pues eso es lo que intentaremos en este programa. Interiorizar en tu subconciente toda esta mentalidad. CONTAR LA EXPERIENCIA CUANDO TRASNOCHÉ PENSANDO EN EMPIRES PORQUE EL JUEGO YA ESTABA EN MI SUBCONCIENTE.
+Con los principios para la vida y el emprendimiento pasa lo mismo. Haces muchas cosas inconscientemente.
 
-Todo lo que veas y escuches tendrá un impacto en cómo dirigimos la vida y nuestros negocios. Así hacemos ahora en GurCoff. Nos educamos. Leemos. Estudiamos. El  año pasado tuvimos una capacitación de 2200 euros. Pero entendemos la importancia de dar el mejor mensaje a nuestro subconciente.
+Pues eso es lo que intentaremos en este programa. Interiorizar en tu subconsciente toda esta mentalidad.
 
-El sesgo de recompensa y alejarnos del dolor es un acto subconciente. Un ejemplo es en ver cómo las chicas en internet cada vez están más dispuestas a mostrar su cuerpo. La razón es que sienten como una recompensa recibir me gustas o reacciones y seguidores en sus perfiles. Y lo hacen cada vez más. 
+Todo lo que veas y escuches tendrá un impacto en cómo dirigimos la vida y nuestros negocios, así como hacemos ahora en GurCoff.
+{:id="audios"}
 
-Tú también puedes hacer lo mismo. Entiende tu recompensa. La vida que sueñas será una recompensa. Y las pequeñas recompensas del camino te premiarán. Y cada que aprendas algo nuevo, recuerda que lo estás logrando. Y de ahora en adelante, tu tendrás capacidades de lograr cada vez más cosas más grandes.
+### Dos sorpresas más que teníamos para ti 🎁
 
-Mañana comenzaremos, así que no te lo pierdas. Mañana avanzaremos un poquito más. Un poco más en ser mejor de lo que eres ahora.
+Y queremos ayudar de verdad. Por esa razón, tenemos más para ti.
+
+Hemos creado un canal en WhatsApp para aumentar lo que podemos hacer por tí. **En ese canal compartiremos tips** relacionados con los artículos de cada semana.
+
+Y, adicionalmente, haremos 1 o 2 transmisiones en vivo cada semana. Allí podremos analizar cada tema, escuchar experiencias, resolver dudas. Y mucho más.
+
+Todo esto por un motivo: **desde GurCoff queremos agradecer a todos por ayudarnos también con todo lo que han hecho por nosotros**.
+
+La próxima semana comenzaremos, así que no te lo pierdas. Cada día avanzaremos un poquito más. Un poco más para que seamos mejor de lo que somos ahora.
+
+### Finalmente las frases
+
+* Tú si sabes, entonces sirves
+* Si aprendes sirves, y nunca estorbarás
+* Para ser hábil hay que aprender mucho
+* Lograrás cosas distintas haciendo lo que no hacías antes
