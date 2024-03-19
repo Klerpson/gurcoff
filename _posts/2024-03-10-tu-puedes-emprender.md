@@ -26,7 +26,7 @@ Mira. Esta es la lección: **cuando hacía las cosas mal, eran más los errores 
 
 ## ¿Sabes lo que estás haciendo? ¿O estás estorbando?
 
-Hay una realidad muy dura de aceptar. No nos educaron bien (desde que entendí esto siempre he pensado que mis hijos no serán educados en una escuela tradicional). El colegio, la escuela, la universidad. Todas estas instituciones se hicieron obsoletas, y no hacen muchos por cambiar eso.
+Hay una realidad muy dura de aceptar. No nos educaron bien (desde que entendí esto siempre he pensado que mis hijos no serán educados en una escuela tradicional). El colegio, la escuela, la universidad. Todas estas instituciones se hicieron obsoletas, y no hacen mucho por cambiar eso.
 
 Cuando se crearon estos sistemas de educación, estábamos en la época de la revolución industrial. Por eso se enseña a memorizar, a obedecer, a recibir un premio por hacer bien lo que te mandan (excelente notas, o un salario a fin de mes). **Solo te enseñan a seguir un patrón, un sistema, solo necesitan que muevas la misma palanca, el mismo botón, etc**.
 
